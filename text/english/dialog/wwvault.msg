@@ -1,0 +1,1 @@
+{100}{}{In front of you lies the entrance to the abandoned vault. You could swear you're being watched from the dark.}

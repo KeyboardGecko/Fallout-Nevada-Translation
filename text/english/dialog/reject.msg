@@ -1,0 +1,1 @@
+{100}{}{You enter the semi-abandoned mining town. Don't be surprised if at midnight you will encounter some wandering ghosts.}

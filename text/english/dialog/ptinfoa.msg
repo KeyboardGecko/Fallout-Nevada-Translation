@@ -1,0 +1,1 @@
+{100}{}{This shop was looted a long time ago.}

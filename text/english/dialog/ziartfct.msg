@@ -1,0 +1,1 @@
+{100}{}{When you hold this artifact, you get a strange sensation, as if it would absorb your body heat.}

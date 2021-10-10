@@ -1,0 +1,1 @@
+{100}{}{Geiger counter in your Pip-Boy warns you of dangerous radiation level: }

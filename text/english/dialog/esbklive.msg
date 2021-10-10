@@ -1,0 +1,1 @@
+{100}{}{Looks like these two wanted to hide from the Great War in the canyon. Alas, that did not save them.}

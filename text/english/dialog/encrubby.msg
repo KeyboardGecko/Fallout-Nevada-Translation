@@ -1,0 +1,1 @@
+{100}{}{You came to a rundown shack.}

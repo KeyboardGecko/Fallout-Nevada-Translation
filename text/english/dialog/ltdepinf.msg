@@ -1,0 +1,1 @@
+{100}{}{A landslide prevents you from walking further. Surely it must be another entrance to the underground room.}

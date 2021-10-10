@@ -1,0 +1,1 @@
+{100}{}{You load the map into your Pip-Boy. This will make traveling this area much easier.}

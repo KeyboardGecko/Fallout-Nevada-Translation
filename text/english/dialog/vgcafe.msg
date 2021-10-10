@@ -1,0 +1,1 @@
+{100}{}{This lively area has a spirit of freedom and rock-n-roll.}

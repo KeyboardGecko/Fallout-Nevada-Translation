@@ -1,0 +1,1 @@
+{100}{}{This huge pile of old tires is blocking your path. It will take around five pounds of explosives to clear this.}

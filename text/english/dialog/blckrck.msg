@@ -1,0 +1,1 @@
+{100}{}{It seems that this small, quiet town has nothing to worry about, but the locals start whispering to each other when a stranger appears.}

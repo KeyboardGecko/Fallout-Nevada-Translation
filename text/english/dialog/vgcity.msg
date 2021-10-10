@@ -1,0 +1,1 @@
+{100}{}{The shining lights of the Clean City beckon with their grandeur and arrogance.}

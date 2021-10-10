@@ -1,0 +1,1 @@
+{100}{}{This district appears desolate. Better to watch your back around here.}

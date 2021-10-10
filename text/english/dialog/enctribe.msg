@@ -1,0 +1,1 @@
+{100}{}{You have entered a small settlement. Several people have gathered in the center, shouting and jeering at the man tied to a pole.}
