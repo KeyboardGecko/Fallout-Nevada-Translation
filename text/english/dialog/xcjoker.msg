@@ -15,7 +15,7 @@
 {111}{}{You are of no interest to me. Where's the Wanderer?}
 {112}{}{I'll talk! I'll talk! He went towards that vault on the other side of the bridge! Just let me go!}
 {113}{}{Lock him up!}
-{114}{}{But I've helped you!}
+{114}{}{But I told you everything!}
 {115}{}{Move!}
 
 {116}{}{This is the only way out. Cover all the access points.}
@@ -26,7 +26,7 @@
 #Dialogue between Reaper and MC
 {120}{}{Citizen, you have trespassed on governmental property. Walk out with your hands up or we'll open fire.}
 {121}{}{And who are you!?}
-{122}{}{I repeat. Resistance is futile. All exits have been cut off. We will let you live if you lay down your arms and come out with your hands up..}
+{122}{}{I repeat. Resistance is futile. All exits have been cut off. We will let you live if you lay down your arms and come out with your hands up.}
 {123}{}{(Talk about bad luck...)}
 
 {124}{}{Hey, hold up big guy! Let's talk this out?}
@@ -42,15 +42,15 @@
 {132}{}{First, I want answers... Reaper. That's your codename, isn't it?}
 {133}{}{Is that a threat? Well, looks like you'll kill me either way. Fine, I'll think about it...}
 
-{134}{}{[Snorts at your pathetic bad-assery] Ask.}
+{134}{}{[He snorts at your pathetic bad-assery] Ask.}
 {135}{}{Who are you?}
 {136}{}{What are you doing to my fellow citizens?}
 {137}{}{Why did you need the Overseer?}
 {138}{}{What is this vault?}
 
-{139}{}{My callsign is Reaper of Souls. My real name is Jason Bayham. As you can see, the answer gave you nothing.}
+{139}{}{My callsign is Reaper of Souls. My real name is Jason Bayham. As you can see, the answers gave you nothing.}
 {140}{}{I take the most valuable - what saves lives of others. The rest goes towards guard rations.}
-{141}{}{He became a burden in my plans. Just like you. But he did his job - after all, you're here. He was only a bait.}
+{141}{}{He became a burden in my plans. Just like you. But he did his job - after all, you're here.}
 {142}{}{The true owners of America lived here. So as I. But... That is in the past now.}
 {143}{}{Don't like bad memories, eh? Looks like you didn't completely lose your humanity.}
 {144}{}{I've lived far longer than anyone. Your reasoning means nothing to me. Now stop wasting time.}
@@ -64,10 +64,10 @@
 {170}{}{That sounds rational... Mind telling me something else?}
 {171}{}{Do you really have some kind of a mission? Interesting... Maybe you could tell me a little more?}
 {172}{}{So, you're not the only one? Damn, I need to know more!}
-{173}{}{What was that about souls?..}
+{173}{}{What was that about souls?...}
 
 {174}{}{You can't understand. You purpose... Your true mission was in this.}
-{175}{}{In what? Becoming soup for your goons?}
+{175}{}{In what? Becoming a soup for your goons?}
 {176}{}{No. Pathetic, worthless life clings to your body. It means nothing. It could save the life of a worthy man, but now it's too late. The Overseer, biker and you - you all broke the rules. A grave mistake. But your soul... I'm going to keep it until a worthy purpose is found.}
 {177}{}{What? What does that mean!?}
 {178}{}{It's time.}
