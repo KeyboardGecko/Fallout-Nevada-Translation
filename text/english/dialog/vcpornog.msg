@@ -18,11 +18,11 @@
 
 {121}{}{Not yet, citizen. Don't worry.}
 {122}{}{Uh... Yes, as you can see.}
-{123}{}{Excluding some past events, the city is completely crime free. Don't worry, citizen.}
-{124}{}{I can't share that information with common citizens. Crimes and accidents are handled by a special commission.}
+{123}{}{Excluding some past events, the city is completely crime-free. Don't worry, citizen.}
+{124}{}{I can't share this information with common citizens. Crimes and accidents are handled by a special commission.}
 {125}{}{Can I be a part of that commission?}
 {126}{}{Hmm... No, they wouldn't take you in. But you could still help with an ongoing investigation.}
-{127}{}{Okay. A couple of citizens are acting suspicious. Their jobs require them to leave the city perimeter. When they return, they act... Strangely. Suspiciously strangely. If you really want to help, follow them and tell me, what they're doing.}
+{127}{}{Okay. A couple of citizens are acting suspicious. Their jobs require them to leave the city perimeter. When they return, they act... Strangely. Suspiciously strangely. If you really want to help, follow them and tell me what they're doing.}
 {128}{}{[Nods] I'm glad you take our city's security seriously.}
 {129}{}{}
 {130}{}{}
@@ -70,7 +70,7 @@
 {216}{}{Fine, whatever you say...}
 {217}{}{Look who's talking...}
 
-{218}{}{You did your due duty, and yet you ask for a reward? [he leans in close] I think... I can do something for you.}
+{218}{}{You did your duty, and yet you ask for a reward? [he leans in close] I think... I can do something for you.}
 {219}{}{I need 9mm ammo.}
 {220}{}{I need 10mm ammo.}
 {221}{}{I need money from the wasteland.}
@@ -85,7 +85,7 @@
 #Female character
 {1110}{}{Yes, citizen? What do you want?}
 {1121}{}{Not yet, citizen. Don't worry.}
-{1123}{}{Excluding some past events, the city is completely crime free. Don't worry, citizen.}
+{1123}{}{Excluding some past events, the city is completely crime-free. Don't worry, citizen.}
 {1134}{}{Wait, I changed my mind. What about those citizens? How are they suspicious?}
 {1209}{}{They didn't even check if they were being watched. They have nothing to hide.}
 {1211}{}{[Nods] Good work, citizen }
