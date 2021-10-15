@@ -1,7 +1,7 @@
 #Starting and typical dialogue options
-{109}{}{You must have both your hands free to use the workbench.}
+{109}{}{You need both your hands free to use the workbench.}
 {110}{}{You cannot use the workbench in battle.}
-{111}{}{You can use this workbench to repair or improve items, if you have the skills and materials.}
+{111}{}{You can use this workbench to repair or improve items if you have the skills and materials.}
 {112}{}{}
 {113}{}{Leave.}
 {114}{}{Get to work.}
@@ -37,7 +37,7 @@
 #Additional information to the console
 {160}{}{You study the information about the amplifier, but eventually conclude it won't be of any use to you. You already have this ability.}
 {161}{}{You've earned the "Empathy" perk.}
-{162}{}{You treacherously crack the case and pocket $500, a pack of mentats and a Pip-Boy module. The owner probably won't appreciate that.}
+{162}{}{You treacherously crack the case and pocket $500, a pack of mentats and a Pip-Boy module. The owner probably wouldn't appreciate it.}
 {163}{}{You break the ammunition down into }
 {164}{}{ lead and powder components.}
 {165}{}{You replace the broken radiometer in your Pip-Boy. Now you will always be able to tell the exact level of your radiation exposure by examining yourself in detail.}
@@ -144,7 +144,7 @@
 {260}{}{Open the Hard Rock patron's business case.}
 {261}{}{business case (1), tools (1)}
 
-{262}{}{Craft armor from the Legendary Scorpion's shell.}
+{262}{}{Craft armor from the Legendary Scorpion shell.}
 {263}{}{Legendary Scorpion shell (1), golden gecko pelt (4)}
 
 {264}{}{Decrypt the old holodisk.}

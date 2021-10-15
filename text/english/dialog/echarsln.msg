@@ -1,21 +1,21 @@
 {100}{}{You see Harrelson.}
 {101}{}{You see the paranoid - Damon Harrelson. Hard to say what he's thinking.}
 
-{102}{}{[Looking around from the cover, you cross eyes with the ghoul, dressed in worn robe bearing the "Nuka-Cola" company logo. When he sees you he immediately grabs his weapon, but you manage to step into shadow just in time.]}
+{102}{}{[When you look around the corner, you suddenly stumble upon the ghoul, dressed in a shabby robe with the Nuka-Cola company logo on it. When he sees you he immediately grabs his weapon, but you manage to step back into shadow just in time.]}
 {103}{}{[Next]}
 
-{104}{}{Hey, you scrounger! Come on out! Maybe then your death will be quick and quiet. Although, I can't promise that!}
+{104}{}{Hey, you scrounger! Come out! Maybe then your death is going to be quick and quiet. Although, I can't promise that!}
 {105}{}{Don't rush things, handsome... Harrelson, right?}
 {106}{}{You are the scrounger here!}
-{107}{}{[Go out and get involved in the fight]}
+{107}{}{[Go out and get into the fight]}
 {108}{}{[Attempt to escape]}
 
-{109}{}{What did you say!? Sons of bitches, that's *my* shack! And it's *you* that are coming here for my honestly acquired goods! Yes, for those words you will suffer extra!}
+{109}{}{What did you say!? Sons of bitches, this is MY shack! And it's YOU who came here for my hard-earned goods! Yeah, you'll suffer extra for saying that!}
 {110}{}{[Fight]}
-{111}{}{Huh? What are you mumbling about, little thief!? I know your tricks! Do not try to play me, otherwise your death will be *particularly* painful!}
-{112}{}{Never expected to hear a sensible speech from the old ghoul. How did you end up like this?}
+{111}{}{Huh? What are you mumbling about, you petty thief!? I know all your tricks! Do not even try to play me, otherwise your death will be VERY painful!}
+{112}{}{Never expected to hear a sensible speech from an old ghoul. How did you end up like this?}
 
-{113}{}{I'll tell you... When I catch and put you in a cage! I have caught a few dozens like you. Every one of them wanted a piece of me, wanted to get my things. But my traps are not just for show! And you? Isn't it the same thing you came here for?}
+{113}{}{I'll tell you... When I catch you and put you in a cage! I've already caught a few dozen like you. Every one of them wanted a piece of me, wanted my things. But my traps aren't just for show! What about you? Isn't that what you came here for?}
 {114}{}{I'm here to stop your madness.}
 {115}{}{True - I'm just here to steal all your belongings and sell them to the Quok brothers.}
 

@@ -1,7 +1,7 @@
 #Стартовые и типовые опции диалога
 {110}{}{You cannot do that in combat.}
-{111}{}{You can use this campfire to cook food or prepare chems, if you have ingredients and enough skill. Start by choosing a recipe.}
-{112}{}{You can use this laboratory workstation to craft useful supplies, if you have ingredients and enough skill. Start by choosing a recipe.}
+{111}{}{You can use this campfire to cook food or prepare chems if you have the ingredients and enough skill. Start by choosing a recipe.}
+{112}{}{You can use this laboratory workstation to craft useful supplies if you have the ingredients and enough skill. Start by choosing a recipe.}
 {113}{}{Leave.}
 {114}{}{Get to work.}
 {115}{}{Back to the list.}
@@ -29,7 +29,7 @@
 
 #Опции центрифуги
 {140}{}{You need a Science skill of 25 to use this.}
-{141}{}{The medical centrifuge is ready to be used. What will you make?}
+{141}{}{The medical centrifuge is ready to use. What would you like to make?}
 {142}{}{You must equip this device in order to use it.}
 
 {148}{}{This bench belongs to its owner. You'll need permission to use it.}
@@ -41,16 +41,16 @@
 #
 ##############################################################################
 
-{150}{}{The raiders still have a pot of stew bubbling away here. You can "fool around with spices" here.}
+{150}{}{The pot of stew for raiders is still simmering on this fire. You have the opportunity to "fiddle with the spices".}
 {151}{}{Use "Horsekiller" poison.}
 {152}{}{Use radscorpion venom.}
 {153}{}{Done. Now you only have to wait a little...}
 {154}{}{End.}
-{155}{}{The raiders should have eaten their poisoned food by now.}
+{155}{}{The raiders should have already eaten the poisoned food by now.}
 {156}{}{Poison the raiders' food.}
 {157}{}{You need something poisonous.}
-{158}{}{Radscorpion venom is usually injected, not ingested. You think you'll need three tails' worth of venom to do the job.}
-{159}{}{Use three tails' worth of radscorpion venom.}
+{158}{}{Radscorpion venom is usually injected, not ingested. You'll need about three tails to get the job done.}
+{159}{}{Use three tails with radscorpion venom.}
 
 ##############################################################################
 #
@@ -80,7 +80,7 @@
 {172}{}{Blood-purifier.}
 {173}{}{Xander root powder.}
 {174}{}{Xander root powder and disinfectant.}
-{175}{}{Xander root powder, disinfectant, and clean water.}
+{175}{}{Xander root powder, disinfectant and clean water.}
 {176}{}{Nightshade berries and booze.}
 {177}{}{Nightshade berries and a "Bloody Mary".}
 {178}{}{Nightshade berries and an "Atomic Cocktail".}
@@ -158,7 +158,7 @@
 {228}{}{Iguana meal.}
 {229}{}{iguana-on-a-stick (2)}
 
-{230}{}{Caravan merchant's meal.}
+{230}{}{Caravaneer's meal.}
 {231}{}{mutafruit (1), jerky (1), brahmin milk (1)}
 
 {232}{}{TV meal (+25 hit points).}
