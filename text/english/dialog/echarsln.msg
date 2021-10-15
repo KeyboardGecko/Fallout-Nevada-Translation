@@ -1,5 +1,5 @@
 {100}{}{You see Harrelson.}
-{101}{}{You see the paranoid - Damon Harrelson. Hard to say what he's thinking.}
+{101}{}{You see the paranoid ghoul named Damon Harrelson. It's hard to tell what's in his head.}
 
 {102}{}{[When you look around the corner, you suddenly stumble upon the ghoul, dressed in a shabby robe with the Nuka-Cola company logo on it. When he sees you he immediately grabs his weapon, but you manage to step back into shadow just in time.]}
 {103}{}{[Next]}
@@ -19,43 +19,43 @@
 {114}{}{I'm here to stop your madness.}
 {115}{}{True - I'm just here to steal all your belongings and sell them to the Quok brothers.}
 
-{116}{}{Then, stop talking!}
-{117}{}{Who's crazy?! You climb under the barrel, knowing it will all end, and I... I defend my place!}
-{118}{}{You may have protected your belongings, but still at the cost of life of ordinary prospectors. What about conscience, doesn't it torment you?}
-{119}{}{Tell me where did you get all these things? Took it off corpses?}
-{120}{}{Is it not too many words for a creature, who has lost his human form?}
-{121}{}{So, for you, your possessions are more important, than to care about the others?}
-{122}{}{I'm tired of it. I want to end you once and for all.}
+{116}{}{Then stop talking!}
+{117}{}{Who's crazy?! You jump in front of a gun, knowing in advance how it's going to end, and I... I'm defending my home!}
+{118}{}{You may have protected your belongings, but at the cost of the lives of ordinary prospectors. What about your conscience, doesn't it torment you?}
+{119}{}{Tell me, where did you get all these things? Took it off corpses?}
+{120}{}{Aren't those too many words for a creature who has lost his human form?}
+{121}{}{So you only care about your things and don't give a damn about others?}
+{122}{}{I'm getting tired of it. I want to end you once and for all.}
 
-{123}{}{Conscience? I haven't heard these word in seventy years... It couldn't save any of those, who were bent on nuclear explosions. Since then, I have forgotten what "conscience" means.}
-{124}{}{Nuclear explosions? So, you witnessed the Great War?}
-{125}{}{People got what they deserved. When I carried bottles, I was not recognized as a human being. Only when I traveled outside of the big city in my car I was able to find peace. When I saw the flash... I felt joy. I thought I was alone in the world... Until the bastards like you appeared! They came to me, wanted to take my supplies and kill me... No, conscience may not torment me for killing animals. And the people are animals!}
-{126}{}{I think you just had bad luck with people, which got you angry at the whole world.}
-{127}{}{[Pause] Shut up and get where I can see you. My past will soon cease to be the reason of your worries. As I said - people are animals. They are not worthy to be called human beings.}
+{123}{}{Conscience? I haven't heard that word in seventy years... It couldn't save any of those who died from nuclear explosions. I have since forgotten what "conscience" means.}
+{124}{}{Nuclear explosions? Does it mean you witnessed the Great War?}
+{125}{}{People got what they deserved. When I was delivering bottles, no one recognized me as a human being. Only when I went outside the big city did I manage to find peace in my car. When I saw the flashes... I was filled with joy. I thought I was the only person left in the world... Until bastards like you showed up! They came after me, wanted to take my supplies, wanted to kill me! No, I don't feel guilty about killing animals. And people are animals!}
+{126}{}{I think you just had bad luck with people, which made you angry at the whole world.}
+{127}{}{[Pause] Shut up and get where I can see you. My past will soon cease to worry you. As I said - people are animals. They are not worthy to be called human beings anymore.}
 
-{128}{}{A small recompense for the inconvenience caused to me. This is true.}
-{129}{}{So why do all these sacrifices? Its seclusion and bloody violence only attracts more attention to you. Everyone thinks that you have untold wealth.}
-{130}{}{Such glorious stories - about me? I was expecting something like this. You, animals, feel the smell of money, like flies smell the rotten meat. Am I not right? And if to kill a fly - will the world be any worse than it is?}
-{131}{}{Such an original comparison. But the prospectors were just looking for a way to survive in our time... In our world.}
-{132}{}{You still have the guts to talk about it, you monkey? It's just what these animals do. They take lives of their own relatives to feed themselves. But yeah... Such times... Such world. [remembering something from his past he dramatically increases voice] But before the War it was just the same! People didn't kill each other like now, but bullied each other at school, bullied the weak ones in the army... Inside of people themselves, nothing has changed.}
-{133}{}{Greed and ego. Are you talking about this? But do you act differently?}
-{134}{}{Shut up! Shut up! I'm tired of your nonsense. Come out from hiding and meet your fate, thieving brat!}
+{128}{}{A small compensation for the inconveniences caused to me. It is only fair.}
+{129}{}{So why all these sacrifices? Your seclusion and rumors of bloody violence just attracts more attention to you. Everyone thinks that you have untold riches here.}
+{130}{}{That's what they think about me? That is to be expected. You, animals, smell money like flies smell rotten meat. Am I not right? Would swatting a fly make the world worse?}
+{131}{}{Such an interesting comparison. But the prospectors were just looking for a way to survive... Such times.}
+{132}{}{You still have the guts to talk about it, you monkey? It's just what these animals do. They take lives of their own kind to feed themselves. But, yeah... Such times... Such world. [remembering something from his past he dramatically raises his voice] But before the War it was just the same! People didn't kill each other like now, but bullied each other at school, bullied the weak ones in the army... People hasn't changed a bit.}
+{133}{}{Greed and ego - that's what you talking about, I get it. However, do you treat people differently?}
+{134}{}{Shut up! Shut up! I'm tired of your nonsense. Come out and meet your fate, you thieving brat!}
 
-{135}{}{Oh, you're not the only thief with whom I had a chance to talk... But I'll like the conversation more, when [raises his voice] you're in the cage with guts ripped out!!!}
+{135}{}{Oh, you're not the only thief that I had a chance to talk to... But I'll enjoy our conversation more when [he raises his voice] you'll be in a cage with your guts ripped out!!!}
 {136}{}{That's harsh.}
-{137}{}{You know, you pretend to be pious son of a bitch, but If you are pressed to the wall with the sharp blade at your throat, you would sing another song. Yes, I remember this folly before the War. All your essence will come out, one has only to grab it by the throat. And believe me, it smells no better than a piece of human shit.}
-{138}{}{Hmm. How do you know there may be more content in my essence?}
-{139}{}{Come out of hiding and we will see. You're neither the first, nor last. However, I like you. With you I'm gonna have a "conversation" longer than usual.}
+{137}{}{You know, you pretend to be a kind son of a bitch, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. Whe you are grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
+{138}{}{I think there's more to my essence than this.}
+{139}{}{Come out and we will see. You're neither the first, nor last. However, I like you. With you I'm gonna have a "conversation" longer than usual.}
 
 {200}{}{You get a large dose of radioactive contamination from the ghoul.}
 {201}{}{Oh, I feel your cells dying!}
 {202}{}{Oh, I feel the radiation piercing you!}
-{203}{}{Your body will like the radiation!}
-{204}{}{Ghoulification is not what you should worry about, you will die before that!}
+{203}{}{Your body is going to like the radiation!}
+{204}{}{Ghoulification is not what you should worry about, you're gonna be dead before that!}
 
 #Female character
-{1109}{}{What did you say!? Bitch, that's *my* shack! And it's *you* that are coming here for my honestly acquired goods! Yes, for those words you will suffer extra!}
+{1109}{}{What did you say!? You bitch, this is MY shack! And it's YOU who came here for my hard-earned goods! Yeah, you'll suffer extra for saying that!}
 {1112}{}{Never expected to hear a sensible speech from the old ghoul. How did you end up like this?}
-{1113}{}{I'll tell you... When I catch and put you in a cage! I have caught a few dozens like you. Every one of them wanted a piece of me, wanted to get my things. But my traps are not just for show! And you? Isn't it the same thing you came here for?}
-{1137}{}{You know, you pretend to be pious son of a bitch, but If you are pressed to the wall with the sharp blade at your throat, you woud sing another song. Yes, I remember this folly before the War. All your essence will come out, one has only to grab it by the throat. And believe me, it smells no better than a piece of human shit.}
-{1139}{}{So come out of hiding and we will see. You're neither the first, nor last. However, I like you. With you, I'm gonna have a "conversation" longer than usual.}
+{1113}{}{I'll tell you... When I catch you and put you in a cage! I've already caught a few dozen like you. Every one of them wanted a piece of me, wanted my things. But my traps aren't just for show! What about you? Isn't that what you came here for?}
+{1137}{}{You know, you pretend to be a kind bitch and all that, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. Whe you are grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
+{1139}{}{Come out and we will see. You're neither the first, nor last. However, I like you. With you I'm gonna have a "conversation" longer than usual.}

@@ -1,27 +1,27 @@
 {100}{}{You see a casino patron.}
-{101}{}{I don't usually drink, nor getting high with strangers }
+{101}{}{I don't usually drink or get high with strangers.}
 
 #Сообщения в консоль при выполнении квеста Лучиано
-{102}{}{This client drops unconscious after a sip of "strange" drink.}
+{102}{}{This client drops unconscious after a sip of a "strange" drink.}
 {103}{}{Your diversion at the bar was successful.}
 {104}{}{Ugh... What was that??}
 
 # examines
 {150}{}{You see one of the casino patrons. He looks tired.}
-{151}{}{You see one of the casino patrons. He has a golden gleam in his eye.}
+{151}{}{You see one of the casino patrons. He has a golden gleam in his eyes.}
 {152}{}{You see one of the casino patrons. He is cupping his face in his hands.}
 {153}{}{You see one of the casino patrons. He looks a little tipsy.}
 {154}{}{You see one of the casino patrons. He gives you a broad wink, then staggers off.}
 {155}{}{You see one of the casino patrons. He is trying to get the waitress's attention.}
 {156}{}{You see one of the casino patrons. She looks tired.}
-{157}{}{You see one of the casino patrons. She has a golden gleam in her eye.}
+{157}{}{You see one of the casino patrons. She has a golden gleam in her eyes.}
 {158}{}{You see one of the casino patrons. She is cupping her face in her hands.}
 {159}{}{You see one of the casino patrons. She looks a little tipsy.}
 {160}{}{You see one of the casino patrons. She gives you a broad wink, then staggers off.}
 {161}{}{You see one of the casino patrons. She is trying to get the waiter's attention.}
 
 #Для суперброни:
-{207}{}{Just looking at him... Her... It... *whatever* it is, gives me the shivers.}
+{207}{}{Just look at him... Her... It. Whatever it is, it gives me the shivers.}
 {208}{}{Think that thing's looking to cap anyone?}
 {209}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
 {210}{}{Stay outta that thing's path.}
@@ -29,7 +29,7 @@
 {212}{}{*Gulp*}
 {213}{}{I think that Mr. Roboto dude was scanning me.}
 {214}{}{I think that walking tank just gave me the stare of death. I'm outta here.}
-{215}{}{I heard that thing fragged three hitmen just yesterday.}
+{215}{}{I heard that thing fragged three hitmen yesterday.}
 
 #Для берсерка:
 {216}{}{Just looking at him gives me the shivers.}
@@ -100,18 +100,18 @@
 
 #Игорные реплики:
 {280}{}{Lady Luck, don't fail me now.}
-{281}{}{Roll the bones.}
+{281}{}{Roll the dice.}
 {282}{}{Baby needs a new pair of shoes...}
-{283}{}{Damn lowrolling tourists... }
+{283}{}{Damn tourists... }
 {284}{}{Dammit! I was up *53* chips, then... }
 {285}{}{Of all the rotten luck... }
 {286}{}{So close!}
-{287}{}{I'm making bank.}
-{288}{}{Me? I'm making bank. Watch me go.}
-{289}{}{House was against me.}
-{290}{}{Fortune's against me.}
+{287}{}{I'm breaking the bank.}
+{288}{}{Me? I'm breaking bank. Watch me.}
+{289}{}{The house is against me.}
+{290}{}{The fortune's against me.}
 {291}{}{Is anyone going to be at my funeral?}
-{292}{}{The House ha'mercy on me.}
+{292}{}{The house has mercy on me today.}
 {293}{}{Between tips and these drunken spending sprees... }
 {294}{}{Keep betting like that, and you're going to be calling Golgotha home... }
 {295}{}{Waitress, another drink!}
@@ -127,40 +127,40 @@
 {305}{}{Great, another low roller.}
 {306}{}{I am SO money.}
 {307}{}{I'll sleep when I'm dead.}
-{308}{}{Man, I gotta piss. My teeth are swimming.}
+{308}{}{Man, I gotta piss.}
 {309}{}{Man, I gotta drain the snake.}
 {310}{}{Damn, they'll let anyone in here.}
 {311}{}{C'mon 7!}
 {312}{}{You've got moxy, baby.}
 {313}{}{Who's the big winner tonight? Mikey!}
 {314}{}{Don't crap out... C'mon... }
-{315}{}{I've gotta 'jet'... If you know what I mean.}
-{316}{}{This is SUCH bullshit.}
+{315}{}{I've gotta "jet"... If you know what I mean.}
+{316}{}{This is bullshit.}
 {317}{}{I lost only 60 chips. In the first five minutes, that is.}
 {318}{}{Red 23! Red 23! C'mon... Red 23... }
 {319}{}{50 chips on Black 15... }
 {320}{}{Round and round it goes... Where it stops, nobody knows... }
 
 #Выиграл
-{321}{}{I'm a *powerful* player!}
-{322}{}{No shit! Where is the cashier!}
-{323}{}{Shit, did I really win? WON, yeah!?}
+{321}{}{I'm THE BEST player!}
+{322}{}{No shit? Where is the cashier?}
+{323}{}{Shit, I really won? Yeah!!}
 {324}{}{Now this is MINE! Ha-ha-ha!}
 {325}{}{Dickheads, I won!}
-{326}{}{And they would say, this is all a hoax!}
+{326}{}{And they said this is all a hoax!}
 {327}{}{::dances in joy::}
 {328}{}{::clamps his hands::}
 {329}{}{My turn!!!}
 
 #Проиграл
 {330}{}{Motherfucker!}
-{331}{}{Fucking luck}
+{331}{}{Fucking luck.}
 {332}{}{I lost *again*!}
-{333}{}{That's okay, I have some change left}
-{334}{}{Ahh shit, when this is going to end!}
+{333}{}{That's okay, I still have some change left.}
+{334}{}{Ahh shit, when it's going to end!}
 {335}{}{I'm gonna tear her to pieces now!}
 {336}{}{Not my day... Fuck...}
-{337}{}{Am I such a loser?}
+{337}{}{Why am I such a loser?}
 {338}{}{It's time to quit this shit...}
 {339}{}{Fucking hell, what a bad luck.}
 {340}{}{Soon I'll be left with nothing.}
