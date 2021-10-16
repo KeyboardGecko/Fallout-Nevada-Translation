@@ -1,1 +1,1 @@
-{100}{}{That was the last lost gecko in the canyon.}
+{100}{}{That was the last gecko in the canyon.}

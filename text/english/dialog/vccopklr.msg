@@ -19,10 +19,10 @@
 {119}{}{Wait, don't be stupid, why would you do it? What for?!}
 
 {120}{}{Nothing personal, pal, I'm just doing my job.}
-{121}{}{Wait, don't be stupid, why would you do it? What for?!}
-{122}{}{Then it will be your last job, fool! Bring it!}
+{121}{}{Wait, don't be stupid, why would you kill me? What for?!}
+{122}{}{Then it will be your last job, fool! Bring it on!}
 
-{123}{}{This is my home. And I want an outworld scum like you to go back to your caves. You only bring drugs, weapons, theft and moral corruption of this city. However, behind me lies a large corrupted system and dubious orders from the authorities. I know that Davis would like to remove me - because I often interrupt a lot of shady business practices, which shouldn't be interrupted. Maybe that's why he is trying to throw me at you. What do you think about it?}
+{123}{}{This is my home. And I want an outworld scum like you to go back to your caves. You only bring drugs, weapons and theft to this city. However, behind me lies a large corrupted system and dubious orders from the authorities. I know that Davis would like to remove me - because I often interrupt a lot of shady business practices, which shouldn't be interrupted. Maybe that's why he is trying to throw me at you. What do you think about it?}
 {124}{}{I think that you're a pathetic coward. Let's finish this.}
 {125}{}{I know your boss is involved in some dirty business. I'll deal with him soon, and you will no longer be in danger.}
 {126}{}{I know your boss is involved in some dirty business. Soon I will bring order to this place, and you will no longer be in danger.}

@@ -47,18 +47,18 @@
 
 #Blueprints
 {170}{}{The computer gave a list of various blueprints, specifications and other technical documentation. Most of them useless to you, but something interesting can be selected.}
-{171}{}{Look for the blueprints of the power armor.}
+{171}{}{[Look for the power armor blueprints]}
 {172}{}{Database contains only blueprints of the frame structure. There were no blueprints of the internal modules of the armor.}
-{173}{}{Go back.}
+{173}{}{[Go back]}
 
 {174}{}{Alas, access to blueprints is limited by a very complicated password.}
 {175}{}{Try to hack.}
 {176}{}{Access granted.}
 {177}{}{Yes! That's how it's done!}
 {178}{}{You gained 350 XP for hacking the complex password.}
-{179}{}{Apparently, it is beyond your current capabilities.}
+{179}{}{Apparently, it is beyond your current abilities.}
 {180}{}{[Back to the main menu]}
 {181}{}{Copy all the available information to the disk.}
-{182}{}{It's done.}
+{182}{}{Done.}
 
 {190}{}{Copy the data on regular radio frequencies.}

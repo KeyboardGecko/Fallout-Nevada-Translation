@@ -1,2 +1,2 @@
 {100}{}{You stumble upon a beautiful blooming oasis.}
-{101}{}{Finally it's all over...}
+{101}{}{It's finally over...}

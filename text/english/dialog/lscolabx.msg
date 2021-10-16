@@ -1,9 +1,9 @@
 {103}{}{Not during combat!}
 
 {110}{}{Here you can conduct trading operations on the purchase and distribution of Nuka-Cola.}
-{111}{}{Buy a new batch of Cola.}
-{112}{}{Unload Nuka-Cola from your backpack to the warehouse.}
-{113}{}{Take Nuka-Cola from the warehouse.}
+{111}{}{[Buy a new batch of Cola]}
+{112}{}{[Unload Nuka-Cola from your backpack to the warehouse]}
+{113}{}{[Take Nuka-Cola from the warehouse]}
 {114}{}{[Check how many bottles are left in stock]}
 {115}{}{[Leave]}
 

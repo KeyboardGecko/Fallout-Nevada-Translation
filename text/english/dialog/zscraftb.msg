@@ -1,5 +1,5 @@
 #Starting and typical dialogue options
-{109}{}{You need both your hands free to use the workbench.}
+{109}{}{You need your both hands free to use the workbench.}
 {110}{}{You cannot use the workbench in battle.}
 {111}{}{You can use this workbench to repair or improve items if you have the skills and materials.}
 {112}{}{}
