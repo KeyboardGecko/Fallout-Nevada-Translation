@@ -1,14 +1,14 @@
 {100}{}{You see a policeman.}
 {101}{}{You see a suspiciously-looking policeman... What is he doing here?}
-{102}{}{Hey, you! It seems like someone flew too high. Isn't it the time to get down to earth a little?}
-{103}{}{It's finished... But why this policeman attacked you?!}
+{102}{}{Hey, you! It seems like someone flew too high. It's time to get down to earth!}
+{103}{}{It's finished... But why did this policeman attack you?!}
 {104}{}{Eat it, damned cop!}
 
 {110}{}{Hold it right there, damn it!}
 {111}{}{Wow! A cop that is looking for trouble?}
 {112}{}{Don't shoot, I didn't do anything wrong!}
 
-{113}{}{That's what everyone says... And everyone lies. I learned that well, working as a police inspector. I have no problem putting a gun in your mouth and pulling the trigger. That's why Davis makes me do it. So - can you at least tell me what the hell is going on?}
+{113}{}{That's what everyone says... And everyone lies. I learned that well, while working as a police inspector. I have no problem putting a gun in your mouth and pulling the trigger. That's why Davis makes me do it. So - can you at least tell me what the hell is going on?}
 {114}{}{He wants to kill me?! I don't know anything about that!}
 {115}{}{Well, he's not the first who wanted to kill me, so I don't really care.}
 

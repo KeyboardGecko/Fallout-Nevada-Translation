@@ -42,7 +42,7 @@
 
 {134}{}{One was... The president... The other one... Reaper of Souls...}
 {135}{}{Yeah, that Reaper - he's quite a character.}
-{136}{}{He was... The doctor. He... Enhanced himself. He can... Regenerate... Read minds... He knew that... Your'd come...}
+{136}{}{He was... The doctor. He... Enhanced himself. He can... Regenerate... He knows that... You are here...}
 {137}{}{Well shit! So he's waiting for me?}
 {138}{}{He's here... He's... Here... [looks like the Overseer lost consciousness again]}
 {139}{}{Hey! You're crazy, old man! There's no one here! We have to go!}

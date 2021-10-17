@@ -1,1 +1,1 @@
-{100}{}{Reading the document grants you one experience point.}
+{100}{}{Reading the holodisk grants you one experience point.}
