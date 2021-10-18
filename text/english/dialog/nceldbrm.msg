@@ -13,7 +13,7 @@
 {206}{}{Special order for Tim Cain... }
 {207}{}{Let me guess: put it on your tab?}
 {208}{}{One "dive bomb" with ice, coming right up.}
-{209}{}{Hey, you can't just shoot that shit here!}
+{209}{}{Hey, you can't just shoot that shit in here!}
 {210}{}{You know why we need to hang these actors? 'Cause the theater begins with the hanger... Ha-ha-ha!}
 
 #Dialogue start
@@ -26,8 +26,8 @@
 {234}{}{I'll have another one.}
 {235}{}{No thanks. I need to ask you something.}
 
-{236}{}{Of course, of course. I think you'd like to know we have special prices for those who are *with us*}
-{237}{}{Glad to hear.}
+{236}{}{Of course, of course. I think you'd like to know we have special prices for *our people*.}
+{237}{}{Glad to hear it.}
 {238}{}{You received a big discount at the bar.}
 
 #If PC has a weapon
@@ -41,10 +41,10 @@
 {245}{}{Alright... }
 
 #About Ted Bundy:
-{251}{}{Mom mentioned some guy named Ted Bundy. Heard of him?}
+{251}{}{Mom mentioned some guy named Ted Bundy. Ever heard of him?}
 {252}{}{Ugh. Yeah, I have. Not much though. Would've been better off if I didn't. He's a maniac. Ambushed some of our girls and carved them up with some mechanical knife. Fucking animal. Nobody knows where he lives or how to deal with him. But, as long as you're careful, you should be fine.}
 {253}{}{Do you know anything about the girl in this picture?}
-{254}{}{Well, she's probably one of the previous dancers. But if that is so, she worked here before me. So, I probably can't help you there... Hold on... "Virginia 75"? I'm not sure, but I think that's somewhere around here.}
+{254}{}{Well, she's probably one of the previous dancers. But if that is so, she worked here before me. So, I probably can't help you there... Hold on... "Virginia 75"? I'm not sure, but I think that's somewhere around here. Maybe near the train station.}
 {255}{}{I'm new here. Mind telling me what working here is like?}
 {256}{}{Well, you know, the collective's nice. But the clients cause problems from time to time. Something you should get used to. Might throw a bottle, or try to get across the railing to the dance floor. And there are complete retards like that pussy from the slums. Harding I think. Locked himself in the toilets and started crying like a little bitch. Had to carry him out in the streets, heh-heh... Point is, best to always keep an eye out.}
 
@@ -73,7 +73,7 @@
 {280}{}{I'm looking for a place to earn a few bucks. Mind pointing me in the right direction?}
 {281}{}{Hmm... You're new in town, right? No friends, no connections... I doubt you have much chance. Unless... }
 {282}{}{Unless?}
-{283}{}{Well, I'd suggest finding a common interest with a few... Influential people. [he looks around the room] Take that gentleman by the pool table, for example. Regular client. Respectable man! Always has money and always orders expensive drinks. I don't know who he works for, but those are the types of people you should look into meeting.}
+{283}{}{Well, I'd suggest finding a common interest with a few... Influential people. [he looks around the room] Take that gentleman by the pool table, for example. Regular client. Respectable man! Always has money and always orders expensive drinks. I don't know who he works for, but those are the types of people you should look for meeting.}
 {284}{}{Thanks for the tip.}
 {285}{}{Of course, any time... I hope you won't forget about me? [he smiles and winks]}
 {286}{}{Oh yeah, here's a fiver. Thanks.}
