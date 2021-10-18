@@ -1,1 +1,1 @@
-{100}{}{Information from holodisk won't help you without a working radio.} 
+{100}{}{Information from the holodisk won't help you without a working radio.} 

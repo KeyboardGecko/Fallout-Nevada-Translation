@@ -1,1 +1,1 @@
-{100}{}{You receive a dose of radiation.}
+{100}{}{You receive a large dose of radiation.}

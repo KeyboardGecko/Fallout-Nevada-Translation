@@ -1,4 +1,4 @@
-{100}{}{You see: a robot.}
+{100}{}{You see a robot.}
 {101}{}{You see a security robot. He’s programmed to help you.}
 
 {110}{}{**enter command**}
