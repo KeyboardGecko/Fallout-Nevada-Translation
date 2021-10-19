@@ -1,4 +1,4 @@
-{100}{}{Door Entry Computer.}
+{100}{}{Door control terminal.}
 {101}{}{This computer controls the large vault door.}
 
 {104}{}{Nobody answers your call.}

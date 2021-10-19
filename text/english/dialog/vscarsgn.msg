@@ -12,7 +12,7 @@
 #Random remark after the change of the parking location
 {108}{}{Finished.}
 {109}{}{Done.}
-{110}{}{OK.}
+{110}{}{Okay.}
 {111}{}{All right.}
 {112}{}{No problems.}
 {113}{}{Whatever you say.}
@@ -24,9 +24,9 @@
 {119}{}{So be it.}
 
 #After the change of the parking spot
-{120}{}{Once again.}
+{120}{}{Once more time.}
 {121}{}{That's better.}
-{122}{}{I don't need that now}
+{122}{}{I don't need that now.}
 
 #Information about the location of the car
 {130}{}{Remember where I left the car.}

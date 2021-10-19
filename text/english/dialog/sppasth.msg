@@ -1,16 +1,16 @@
 {100}{}{You see Flayer.}
-{101}{}{You see a hick looking after his herd. His appearance resembles that of an executioner with his filthy apron and massive bare arms.}
+{101}{}{You see a hillbilly looking after his flock. With his dirty apron and his massive bare hands, he resembles an executioner.}
 {102}{}{Hey, that shepherd is running away from you!}
 
 #Первый разговор
-{110}{}{So, ya got me huh. I ain't done nothin' wrong, just tendin' mah brahmins, is all!}
+{110}{}{So, ya got me, huh. I ain't done nothin' wrong, just tendin' mah brahmins, is all!}
 {111}{}{Then why the hell were you running away?}
-{112}{}{Oh, so yer not one of them Salt Lake fools? Well then ya better not be pokin' about here.}
+{112}{}{Oh, so yer not one of them Salt Lake fools? Well then ya better not be pokin' bout here.}
 {113}{}{Why not?}
 {114}{}{Cause town folks don't much appreciate these parts, and yer better off not knowin' why.}
 {115}{}{Whatever.}
 {116}{}{All righty then. I'll get back to mah herd.}
-{117}{}{Wait a sec. Who lives in that grand hotel? The doors are locked, but it's clearly inhabited.}
+{117}{}{Wait a sec. Who lives in that big hotel? The doors are locked, but it's clearly inhabited.}
 {118}{}{[Leave]}
 
 #О'ве', к'о в о'еле живе'

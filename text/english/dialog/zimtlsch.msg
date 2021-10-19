@@ -2,7 +2,7 @@
 {101}{}{Your repair skill is too low to understand this complex technology.}
 {102}{}{The metal detector doesn't detect anything.}
 
-{103}{}{The metal detector beeps, but you cannot determine the source of the metal.}
+{103}{}{The metal detector beeps, but you cannot determine the source.}
 {104}{}{The metal detector beeps like crazy! But you can't find anything near you.}
 {105}{}{For finding the stash you get }
 {106}{}{ experience points.}
@@ -24,7 +24,7 @@
 {121}{}{Contact!}
 {122}{}{I need more... MORE!}
 {123}{}{What is it now?}
-{124}{}{Let's see what's the catch...}
+{124}{}{Let's see what this is about...}
 {125}{}{}
 {126}{}{}
 {127}{}{}
@@ -32,7 +32,7 @@
 {129}{}{"You keep a lot of secrets, dirt... Digging you up won't hurt!"}
 
 {130}{}{You have found a trap with the metal detector.}
-{131}{}{The metal detector beeps, but you could not find a trap.}
+{131}{}{The metal detector beeps, but you can't find any traps.}
 {132}{}{Yes!}
 {133}{}{The metal detector beeps like crazy, but you can't find anything.}
 
@@ -44,6 +44,6 @@
 {204}{}{If not for this metal detector, I'd never have found this hatch!}
 
 #Сообщения при поиске спуска в канализацию Рино
-{210}{}{Brushing aside the sand, gravel, and debris, you find an entrance into the sewers.}
+{210}{}{Brushing aside the sand, gravel and debris, you find an entrance into the sewers.}
 {211}{}{Ugh! That stench could only be... A sewer!}
 {212}{}{The metal detector beeps like crazy, but you don't see anything special.}

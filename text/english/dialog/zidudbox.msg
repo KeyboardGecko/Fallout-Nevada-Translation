@@ -5,7 +5,7 @@
 {103}{}{You see your personal safe.}
 
 #Usage:
-{104}{}{The safe has a mechanical code lock. It's locked, and you won't be able to open it while you can't hear anything.}
+{104}{}{The safe has a mechanical code lock. It's locked. You won't be able to open it while you can't hear anything.}
 {105}{}{Not in combat!}
 {106}{}{You didn't even leave a scratch.}
 
