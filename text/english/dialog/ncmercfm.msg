@@ -57,7 +57,7 @@
 {153}{}{Oh, of course... }
 {154}{}{I'll be glad to help you.}
 {155}{}{No, I don't have time to do it. [Leave]}
-{156}{}{Oh, thank you! Robert left these coordinates behind. I don't know what they mean, but I'm sure you'll understand. Please, be careful..}
+{156}{}{Oh, thank you! Robert left these coordinates behind. I don't know what they mean, but I'm sure you'll understand. Please, be careful.}
 {157}{}{Okay. Let's see what's what.}
 
 {158}{}{[Her eyes momentarily light up with hope, but it immediately disappears] Yes?}

@@ -5,16 +5,16 @@
 #Using controller, regulator or repair skill on car
 {200}{}{You successfully repair the car with the fuel controller.}
 {210}{}{You failed to repair the car using the fuel controller.}
-{211}{}{Your skills are not enough to to install the regulator into this complicated machinery.}
+{211}{}{Your skills are not good enough to to install the regulator into this complicated machinery.}
 {212}{}{Fuel controller installed! Now your ride will eat up less power.}
 {213}{}{Now your vehicle lights its way with brand new headlights.}
-{214}{}{With your skill you don't even know where to start dismounting the broken headlights.}
+{214}{}{With your skill you don't know even where to start dismounting the broken headlights.}
 {215}{}{There's absolutely no need in replacing perfectly working headlights.}
 
 {300}{}{Skill alone will not suffice.}
 
 #When using a car
-{301}{}{This vehicle won't start, as there's one critical part missing - a fuel controller. Also, you see no keys around.}
+{301}{}{This vehicle won't start. There's one critical part missing - a fuel controller. Also, you see no keys around.}
 {302}{}{Try to install the part.}
 {303}{}{Not now.}
 {304}{}{It's a miracle! You easily attach the part to wires and hoses!}
@@ -37,6 +37,6 @@
 
 #Tech's pop-ups when stealing a car
 {321}{}{You son of a gun! I'll fucking kill you!!!}
-{322}{}{I'll find you and I'll kill you!!! Do you hear me?!}
+{322}{}{I'll find you and kill you!!! Do you hear me?!}
 
 {323}{}{Try to remount the ignition system.}

@@ -11,7 +11,7 @@
 {111}{}{So you're the one who organizes these fights?}
 {112}{}{Nothing. See you later.}
 
-{113}{}{Indeed I am. If you're looking to see men bash each other's faces into a pulp, you've come to the right place. My name is Jordan Bishop. I'm the manager of the ring and nothing happens here without my permission. So what business do you have with me?}
+{113}{}{Indeed I am. If you're willing to see some men bashing each other's faces into a pulp, you've come to the right place. My name is Jordan Bishop. I'm the manager of this ring and nothing happens here without my permission. So, what business do you have with me?}
 {114}{}{Tell me about the rules of the ring. I'm thinking I might want to participate.}
 {115}{}{I want to bet on a fighter.}
 {116}{}{Where did you get those fighters that are in the ring right now?}

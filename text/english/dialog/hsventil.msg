@@ -15,11 +15,11 @@
 
 {120}{}{[Back]}
 {121}{}{}
-{122}{}{Due to the case of mass desertions, a commission was organized. The commission provided a report, which was handed over to the garrison commander.}
-{123}{}{The order to test a line of signal jammer of the next generation came through today. Tests are scheduled for October 17, 2077. The beginning of test scheduled at 18:28, the end at 21:02. Location: Hawthorne test site. All units must be fully operational. To the engineering department: prepare the device for testing, conduct an off-schedule inspection of the computer security systems from failures. Transfer the device from the warehouse to the hangar V9 under the receipt of the responsible quartermaster.}
-{124}{}{A cargo of 5 containers with a radioactive isotope arrived at the V9 hangar for temporary storage in army warehouses.}
-{125}{}{As it turned out, the military in Hawthorne kept the Vault 8 under constant monitoring. They mostly collected the computer and automated system's data and were engaged in wiretapping communications. Hawthorne was given the responsibility for the security of the Vault in case of the invasion of the enemy's army or natural disasters. The observation object is assigned with a high priority level.}
-{126}{}{The military radio station at Lovelock provided communications and engaged in surveillance on Vault 8.}
-{127}{}{Write down the Lovelock's coordinates.}
-{128}{}{Hmm. It is where Cheyennes live now. Maybe some of the locals know where this station is located.}
+{122}{}{Due to the case of mass desertions, a commission was organized. The commission submitted a report to the head of the garrison.}
+{123}{}{"Today the order for testing a line of next-generation signal jammers came in. Tests are scheduled for October 17, 2077. Tests will start at 6:28 p.m. and end at 9:02 p.m. Location: Hawthorne Test Site. All units must be fully operational. To the Engineering Department: prepare device for testing, conduct unscheduled computer security checks to prevent malfunctions. Transfer the device from the warehouse to the V9 hangar upon receipt of the responsible quartermaster."}
+{124}{}{A shipment of 5 containers with a radioactive isotope was delivered at the V9 hangar for temporary storage.}
+{125}{}{As it turned out, the military at Hawthorne kept Vault 8 under constant surveillance. They mainly collected data from computer and automated systems and tapped communications. Hawthorne was charged with the responsibility of keeping the Vault safe in case of enemy invasion or natural disasters. The object of surveillance was assigned a highest priority level.}
+{126}{}{The military radio station at Lovelock served as a point of contact for communications and surveillance of Vault 8.}
+{127}{}{Write down Lovelock's coordinates.}
+{128}{}{Hmm. It is where Cheyennes live. Maybe some of the locals know where this station is located.}
 {129}{}{I have been there already.}

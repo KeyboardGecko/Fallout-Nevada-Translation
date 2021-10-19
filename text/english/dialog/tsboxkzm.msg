@@ -6,7 +6,7 @@
 {105}{}{This bag is useless.}
 {106}{}{This bag could be useful for your skills, but they are already too high.}
 {107}{}{Training? I don't need this anymore...}
-{108}{}{You spend about an hour training and increase your unarmed skill by 5%.}
+{108}{}{You spend about an hour training and increase your unarmed skill by 1%.}
 {109}{}{Nice.}
 
 {110}{}{You should not practice while there are enemies nearby..}

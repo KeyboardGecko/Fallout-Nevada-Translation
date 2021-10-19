@@ -1,14 +1,14 @@
 {100}{}{You see a guard.}
-{101}{}{You see a hefty bodyguard.}
+{101}{}{You see a massive bodyguard.}
 
 #Тема освещения
-{102}{}{I'll go see what happened.}
-{103}{}{Hey, you! If you see someone sneak in here, tear off his hands, clear?}
+{102}{}{I'll go check on that.}
+{103}{}{Hey, you! If you see someone sneaking in here, rip his fucking hands off! Is that clear?}
 {104}{}{Something's not right. We should warn the others.}
 {105}{}{Uh... Okay.}
 {106}{}{I'm gonna find who did that and show him a *real* blackout.}
 {107}{}{Well, if it isn't our saboteur!}
-{108}{}{Again?! I lost patience with this the first time...}
+{108}{}{Again?! I lost my patience last time...}
 
 {110}{}{Put your weapon away.}
 {111}{}{I SAID, put your weapon away!}
@@ -16,8 +16,8 @@
 {113}{}{A thief!}
 
 {120}{}{Get out of here, you damn junkie!}
-{121}{}{Don't even touch the boss. I've got my eye on you.}
-{122}{}{Be happy. The boss is all the right things about you to all the right people.}
+{121}{}{Don't you dare touching the boss. I've got my eye on you.}
+{122}{}{The boss thinks well of you. He knows a thing or two about people.}
 {123}{}{Office hours are over. Come back in the morning.}
 
 #Разговор ночью с напарником
@@ -32,11 +32,11 @@
 {157}{}{What did he just call us?}
 {158}{}{Read a book, boy. There's no need to be physically AND mentally inferior.}
 {159}{}{Hey, Duke. Why'd you leave the ring, again?}
-{160}{}{...never mind that. Politics, that's all. The downfall of all kings.}
+{160}{}{...Nevermind that. Politics, that's all. The downfall of all kings.}
 {161}{}{They used you, Duke. Like all the others.}
 {162}{}{What did you just say?! You want me to crush your skull?}
 {163}{}{Woah, what did I say?}
-{164}{}{Watch your tongue, boy, or someone may someday make you eat it.}
+{164}{}{Watch your tongue, boy, or someone might make you eat it one day.}
 {165}{}{Woah, I'm sorry, man. Respect. Look... Let's just calm down and start over, okay?}
 {166}{}{ }
 {167}{}{ }
