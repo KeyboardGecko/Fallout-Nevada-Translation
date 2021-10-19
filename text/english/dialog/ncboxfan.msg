@@ -1,7 +1,7 @@
 {100}{}{You see a rabid fan.}
 
 #Случайное подробное описание
-{101}{}{You see a wild-looking man. He is yelling his head off.}
+{101}{}{You see a wild-looking man. He is yelling his lungs out.}
 {102}{}{You see a rabid martial arts fan. He is screaming for blood.}
 {103}{}{You see a wild-looking woman. She is screaming her head off.}
 {104}{}{You see a rabid cage fighting fan. She is screaming for blood.}
@@ -41,7 +41,7 @@
 {155}{}{, you must win!}
 {156}{}{, you're gonna win!}
 {157}{}{, you're awesome!}
-{158}{}{, I will make a fortune out of you!}
+{158}{}{, I will make a fortune on you!}
 
 #Когда фан сделал с'авку во время боя НЕ на ГГ, а на его про'ивника
 {160}{}{, I won't bet a penny on you!}
@@ -65,7 +65,7 @@
 {1155}{}{, you have to win!}
 {1156}{}{, you're gonna win!}
 {1157}{}{, you're awesome!}
-{1158}{}{, I will make a fortune out of you!}
+{1158}{}{, I will make a fortune on you!}
 
 #Когда фан сделал с'авку во время боя НЕ на ГГ, а на его про'ивника
 {1160}{}{, I won't bet a penny on you!}

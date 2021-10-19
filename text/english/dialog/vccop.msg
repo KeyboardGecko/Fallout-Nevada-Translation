@@ -12,14 +12,14 @@
 #
 ####################################################################
 
-{110}{}{We are watching you better than a Big Brother}
-{111}{}{Law and Order is provided by Cruelty and Fear}
-{112}{}{The Law is harsh, but it's the law}
+{110}{}{We are watching you better than a Big Brother.}
+{111}{}{Law and Order is provided by Cruelty and Fear.}
+{112}{}{The Law is harsh, but it's the law.}
 {113}{}{Sure, you can break any law in Vegas... But first take care of your funeral.}
-{114}{}{::stroking the holster, warily looks at you::}
+{114}{}{::strokes the holster, warily looking at you::}
 {115}{}{We will not allow the crowd to beat you... We just don't tolerate the competition!}
-{116}{}{There is no such thing as innocence, only a degrees of guilt}
-{117}{}{Behave - and you will see the same response}
+{116}{}{There is no such thing as innocence, only a degrees of guilt.}
+{117}{}{Behave - and you will see the same response.}
 
 ####################################################################
 #
@@ -31,10 +31,10 @@
 {121}{}{What!? Freak in the city!? Oops, my mistake, sorry.}
 {122}{}{Don't do anything stupid, ghoul.}
 {123}{}{We throw ghouls outside, so don't give us the reason to.}
-{124}{}{Uh, you're not a ghoul? I would have shot you.}
-{125}{}{With your, uh, face it is easy to catch the bullet. Keep in mind.}
+{124}{}{Uh, you're not a ghoul... I almost shot you.}
+{125}{}{With your, uh, face it is easy to catch the bullet. Keep that in mind.}
 {126}{}{Many people here don't like ghouls. Not saying anything, but keep it in mind.}
-{127}{}{Come on, ghoul, keep moving. I don't want to catch this infection from you.}
+{127}{}{Come on, ghoul, keep moving. I don't want to catch an infection.}
 {128}{}{People don't tolerate uglies in here, so watch it.}
 
 ####################################################################
@@ -47,16 +47,16 @@
 {200}{}{Put your weapon away!}
 {201}{}{This is not a shooting range!}
 {202}{}{Keep your weapon holstered!}
-{203}{}{Do not provoke me, hide the weapons!}
+{203}{}{Do not provoke me, hide the weapon!}
 {204}{}{Weapons are prohibited within city limits!}
-{205}{}{You should remove the weapon}
+{205}{}{You should remove the weapon.}
 
 #В'орое предупреждение:
 {206}{}{Do you hear me?}
 {207}{}{Do not push me!}
 {208}{}{Don't even think of using that!}
 {209}{}{We have orders to shoot to kill!}
-{210}{}{Put your weapon away *immediately*!}
+{210}{}{Put your weapon away immediately!}
 
 #Последнее предупреждение
 {211}{}{Last warning!}

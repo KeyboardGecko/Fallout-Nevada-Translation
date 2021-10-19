@@ -16,16 +16,16 @@
 {125}{}{Sort by date of radio broadcasts.}
 {126}{}{[Back]}
 
-{127}{}{Done. [You notice that the status of military-government stations is assigned only to a few units on the territory of Nevada. Moreover, they are located in remote places - in the heart of deserts, in the mountains, etc. - where the greatest coverage area is provided, and is hard to detect the station itself.]}
-{128}{}{Apparently, these strong points of radio communication were very important for the military.}
-{129}{}{In the state there is a quite a lot of points of communication, but one of the supporting military government stations is located to the South-East from your own vault, near the pre-war town of Lovelock (now there's probably only ruins).}
+{127}{}{Done. [You have noticed that the status of military-government stations is assigned to only a few units in Nevada. And they are located in remote places - in the heart of the deserts, in the mountains, etc. - where the greatest coverage is provided, and the station itself is quite difficult to locate.]}
+{128}{}{Apparently, these points of radio communication were very important for the military.}
+{129}{}{There are quite a few communication points in the state, but one of the military-government stations is located southeast of your vault, near the prewar town of Lovelock (probably only ruins there now).}
 {130}{}{The last sessions were carried out... A couple of years ago! More precisely, someone outside of the state tried to send a signal to Area 51, but, apparently, no one responded. However, it could be some automated message. The source of the signal is encrypted.}
 
 {131}{}{Report loaded.}
 {132}{}{Study the content.}
-{133}{}{(Until the last days before the great War, reports had been pretty sparse. Shortly before the War, the number of broadcasts has increased dramatically. Mostly they were between military headquarters and field laboratories, strongly encrypted. It seems pretty suspicious to you. Did the elites know of the impending war, and even its timing? Curiously, some broadcasting happened *after* the war. However, it could be some automated message.)}
-{134}{}{See the last broadcast.}
-{135}{}{In addition to the standard automation procedures, someone, using this terminal, had been tracking a variable location point of the radio signal. After a little digging in the parameter values, you suddenly find out that this point is... You. Looks like someone watched your movements, thanks to a bug planted into your Pip-Boy.}
+{133}{}{(Until the last days before the great War, reports had been pretty sparse. Shortly before the War, the number of broadcasts has increased dramatically. They were mostly between military headquarters and field labs, with strong encryption. It seems pretty suspicious to you. Did the elites know of the impending war, and even its timing? Curiously, some broadcasting happened *after* the war. However, it could be some automated message.)}
+{134}{}{Check the last broadcast.}
+{135}{}{In addition to the standard automation procedures, someone, using this terminal, had been tracking a variable source of the radio signal. After a little digging in the parameter values, you suddenly find out that this point is... You. Looks like someone watched your movements, thanks to a bug planted into your Pip-Boy.}
 {136}{}{What a surprise...}
 
-{137}{}{In the state there is quite a lot of points of radio communication, but one of the supporting military government stations is located to the South-East from your own vault. It seems it's in the same place where the village of Cheyenne is located. Worth to ask the locals about it.}
+{137}{}{There are quite a few communication points in the state, but one of the military-government stations is located southeast of your vault, near the prewar town of Lovelock. It seems it's in the same place where the village of Cheyenne is located. Maybe it's worth asking the locals about it.}
