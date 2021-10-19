@@ -1,5 +1,5 @@
 {100}{}{You see a caravan master.}
-{101}{}{Thank the gods you made it here. It seems to be getting harder and harder to get from one place to another without being attacked by someone or something.}
+{101}{}{Thank gods we made it here. It seems to be getting harder and harder to get from one place to another without being attacked by someone or something.}
 {102}{}{What can I do for you now?}
 {103}{}{Where are you headed?}
 {104}{}{What's your cargo?}
