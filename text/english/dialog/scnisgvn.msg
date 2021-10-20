@@ -114,7 +114,7 @@
 {350}{}{I will never forget what you did for Makkon. No reward would be enough, but I'd be honored to teach you everything I know.}
 {351}{}{You've done so much for our tribe. I'd be honored to teach you everything I know. May it be of help in your journey.}
 {352}{}{Can you teach me how to make herbal medicine?}
-{353}{Of course. You will no longer need the services of healers, you will be able to use the gifts of nature yourself.}
+{353}{}{Of course. You will no longer need the services of healers, you will be able to use the gifts of nature yourself.}
 {354}{}{Great! Teach me, oh great healer!}
 {355}{}{I don't have time right now. Can we do it later?}
 {356}{}{When you're ready, return here and I will teach you.}
@@ -132,7 +132,7 @@
 {362}{}{Another question then.}
 {363}{}{Fine. I’ll come back.}
 
-{364}{You're in the land of our ancestors, in my house... And you dare to threaten me! May the wrath of the Ruler of Life be upon you!}
+{364}{}{You're in the land of our ancestors, in my house... And you dare to threaten me! May the wrath of the Ruler of Life be upon you!}
 {365}{}{Have it your way. I'll go through your villagers one by one until somebody shows me where it is. You'll have plenty of people giving your "place of healing" its proper respect then.}
 {366}{}{Woah, woah, sorry. I got a little overexcited. Still - you really don't know if there's a radio station around here?}
 {367}{}{This is pointless. I'm leaving.}

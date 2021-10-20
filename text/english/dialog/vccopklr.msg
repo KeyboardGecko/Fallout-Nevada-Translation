@@ -42,6 +42,6 @@
 {137}{}{Don't be a pussy, everything will be okay!}
 
 #Жен реплики
-{116}{}{Tough bitch, huh? But in Vegas, no one would put out a hit on a woman for no reason. I have orders, you know... From the chief of police himself...}
+{1116}{}{Tough bitch, huh? But in Vegas, no one would put out a hit on a woman for no reason. I have orders, you know... From the chief of police himself...}
 {1120}{}{Nothing personal, gal, I'm just doing my job.}
 {1127}{}{Then farewell, stranger...}

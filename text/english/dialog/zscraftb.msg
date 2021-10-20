@@ -88,7 +88,6 @@
 
 {224}{}{Gunpowder fuse.}
 {225}{}{"Gunpowder fuse" schematic (1), ammunition remains (30), Rot Gut (1), flare (1)}
-{225}{}{"Gunpowder fuse" schematic (1), ammunition remains (30), Rot Gut (1), flare (1)}
 
 {226}{}{}
 {227}{}{}

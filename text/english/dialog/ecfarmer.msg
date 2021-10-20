@@ -6,7 +6,7 @@
 {201}{}{You see a farmer.}
 {102}{}{You notice that he has a farmer's tan.}
 {202}{}{You notice that she has a farmer's tan.}
-{103}{}{You showed up just in time. If you hadn't come... Well, we'd appreciate your coming. We don't have much, but I'd like you to take this as a reward for your help. [he hands something to you]
+{103}{}{You showed up just in time. If you hadn't come... Well, we'd appreciate your coming. We don't have much, but I'd like you to take this as a reward for your help. [He's handing you something]}
 {104}{}{Thank you.}
 {105}{}{Ugh.}
 {106}{}{Thanks again for helping us.}

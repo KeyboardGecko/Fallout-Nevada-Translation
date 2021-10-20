@@ -17,11 +17,11 @@
 {115}{}{Alright, forget it.}
 
 #Первый разговор
-{120}{}{[Entering dim-lit room, you see its dirty-face goggles-wearing inhabitant. He looks pretty busy and tired at the same time. He stops working when notices you] Hnh? You a customer or just lost? You never know who's wandering all the way out here... But hey, maybe I'm lucky this time. What can I do for ya?}
-{121}{}{Hi. May I wonder to whom I managed to came across in this slums?}
+{120}{}{[Entering dim-lit room, you see its dirty-faced goggles-wearing inhabitant. He looks busy and tired at the same time. He stops working when notices you] Huh? Are you a customer, or just lost? You'll never know who's going to wander in here... But hey, maybe I'm lucky this time. What can I do for ya?}
+{121}{}{Hi. May I ask who I stumbled upon in these slums?}
 {122}{}{Frank Cochran, at your service. I'm mechanic and electrician, and also a little bit of a gunsmith. I often have to deal with just about anything that has something to do with repairing. As for slums - no offense taken, I like it that way. If I had more trust in people, I would've already moved somewhere closer to the central streets.}
 {123}{}{I see. So if I need something repaired, I can talk to you?}
-{124}{}{Yup, I'm always ready to do my favorite job, as long as you pay. What do you want, anyway?}
+{124}{}{Yup, I'm always ready to do my favorite job, as long as you pay. What do you need?}
 {125}{}{How about some trade?}
 {126}{}{This ain't a store, if that's what you mean. But I guess it can't hurt to offload some of this crap.}
 {127}{}{Let's take a look at your junk.}
@@ -37,21 +37,21 @@
 
 #Про Теда Банди
 {131}{}{Isn't it dangerous, living alone out here?}
-{132}{}{Of course not. Central streets are more dangerous. In Reno, the less time you spend with others, the safer you'll be. Also, sometimes other people, who don't appreciate crowds, come to live out here too. There was another guy, Ted, just a little while ago. Kept to himself, didn't talk much - my kind of guy. Hasn't been around in a while, though. Don't know why.}
+{132}{}{Of course not. Central streets are more dangerous. In Reno, the less time you spend with others, the safer you'll be. Also, sometimes other people, who don't appreciate crowds, come to live out here too. There was one guy, Ted, just a little while ago. Kept to himself, didn't talk much - my kind of guy. Hasn't been around in a while, though. Don't know why.}
 {133}{}{Ted, huh? I'll have to remember that.}
 
 #Про охрану в подвале
-{134}{}{You have some weird neighbors in the basement, you know that?}
-{135}{}{Yeah, they showed up recently. Know nothing about them, and don't really want to. They are sitting there quietly, not bothering me, and I'm pretty much ok with that. I have a feeling that they are guarding something in there.}
+{134}{}{You have some weird neighbors in the basement, do you know that?}
+{135}{}{Yeah, they showed up recently. Know nothing about them, and don't really want to. They are sitting there quietly, not bothering me, and I'm pretty much okay with that. I have a feeling that they are guarding something in there.}
 {136}{}{I see.}
 
 #Термит
 {140}{}{I have to open an, uh, abandoned safe. Can you help me?}
-{141}{}{Don't know nothing about safecracking. Plenty of thieves in Reno if you want to ask about that. But - I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
-{142}{}{Tell me about this termite.}
+{141}{}{Don't know nothing about safecracking. Plenty of thieves in Reno, if you want to ask about that. But I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
+{142}{}{Tell me about this thermite.}
 {143}{}{Let's trade, then.}
 {144}{}{I don't think I need that.}
-{145}{}{Got it from some prospectors coming back from an army base. They thought it was an explosive. So, I ran some tests. Turned out, this stuff consists of some mixture of different oxydes, peroxydes, and some chemicals I couldn't understand. Looks like usual thermite, but there's a catch: it produces no flames, but a fuckton of heat. It'll burn through pretty much anything, including metal, and it does it silently. Perfect for getting into an "abandoned" safe.}
+{145}{}{Got it from some prospectors coming back from an army base. They thought it was an explosive. So, I ran some tests. Turned out, this stuff consists of some mixture of different oxydes, peroxydes, and some chemicals I couldn't understand. Looks like a common thermite, but there's a catch: it produces no flames, but a fuckton of heat. It'll burn through pretty much anything, including metal, and it does it silently. Perfect for getting into an "abandoned" safe.}
 {146}{}{Do you only have the one package?}
 {147}{}{[He squints at you for a second, then shrugs] Actually, I've got another. I was keeping it for a rainy day, but eh, what the hell. I know you mean business, so I'll sell it to you.}
 {148}{}{Yup, that's it. I didn't make it myself, you know. Once it's gone, it's gone.}
@@ -68,17 +68,17 @@
 #Пресс патронов
 {150}{}{Can you make ammunition?}
 {151}{}{Nah, I don't do that. It's not hard though, but you'd need an ammo press.}
-{152}{}{Then, can you make me an ammo press? I'll pay.}
-{153}{}{Never mind, then.}
+{152}{}{Can you make me an ammo press then? I'll pay.}
+{153}{}{Nevermind.}
 {154}{}{Hmm... Yeah, I can do that. I'll need 10,000 bucks and several days to work on it.}
 {155}{}{That's a fair price. I'll give you 5000 dollars up front, and the rest when the tool is done.}
 {156}{}{See you later.}
 
-{157}{}{Wow, that's expensive! Can't we negotiate?}
+{157}{}{Wow, that's expensive! Can we negotiate?}
 {158}{}{I wouldn't have to charge so much if I had decent tools. Mine are all worn out, it's a pain in the ass to work with these. Get me something like "Snap-Off" super tool kit, and I'll get it done in less time and only charge you 2000 bucks. Deal?}
 {159}{}{I just happen to have one right here! So, deal?}
 
-{160}{}{You trying to fucking cheat me? I'm not blind, you know?}
+{160}{}{Are you trying to fucking cheat? I'm not blind, you know.}
 {161}{}{Not enough? Let me come back later.}
 
 {162}{}{You're the boss. Come back in a few days for the press.}
@@ -104,14 +104,14 @@
 
 #Починка бортового компьютера
 {190}{}{Can you fix this on-board computer?}
-{191}{}{[He takes the computer, looking as he had never seen anything like this before, spins it in his hands for a little, meditatively draws his finger over dusty circuit board, sniffs the smell of condensers, and then scratches back of his head] Yeah, I can do that. Why not? It looks like some parts are missing. Not a big problem though. I could look into it, for a buck. 2000 will do just fine.}
+{191}{}{[He picks up the computer, looking at it as if he had never seen anything like it before. He twirls it in his hands for a while, runs his finger thoughtfully over the dusty circuit board, inhales the smell of capacitors, and then scratches the back of his head] Yeah, I can do that. Why not? Looks like some parts are missing. Not a big problem though. I could look into it for a buck. 2000 will do just fine.}
 {192}{}{Here's the money, but be careful. It can't be replaced and I *really* need it to work. No second chances.}
 {193}{}{I'll think about it.}
 {194}{}{You found a way to repair the train in Salt Lake City.}
 
 #Починка кия Бертолини
 {195}{}{I, uh, broke my favorite pool cue. Can it be repaired?}
-{196}{}{Yeah, no problem. To just assemble it is pretty easy. You have to make a metallic joint and cut the cue into shape. The tricky part is in the balance. You need to take into account the right weight, length and curve. Lucky for you, I used to be pretty good at pool, even played with Mr. Chase once or twice, and he's a real master of the game. I hope my skills still ain't that rusty. I'll fix it for 200 bucks.}
+{196}{}{Yeah, no problem. It's easy enough to assemble. You have to make the metal joint and cut the cue to shape. The hardest part is the balance. You have to consider the right weight, length, and bend. Lucky for you, I used to be a pretty good pool player, even played with Mr. Chase once or twice, and he's a real master of the game. I hope my skills aren't that rusty yet. I'll fix it for 200 bucks.}
 {197}{}{It's a deal. Here's the money and the cue.}
 {198}{}{Well, if it's more important to be a good player than a mechanic, then I'll try to fix it myself. Goodbye.}
 {199}{}{It's done! You won't even know the difference.}
@@ -135,7 +135,7 @@
 {208}{}{Sure. I'll do it for }
 {209}{}{Here's the money.}
 {210}{}{No thanks.}
-{211}{}{[An hour later, exhausted mechanic drags in a sack full of plates] Uh... We have a little problem. I busted my last drill working on these, so don't know how to continue. All I managed to make is here.}
+{211}{}{[An hour later, exhausted mechanic drags in a sack full of plates] Uh... We have a little problem. I busted my drill working on these, so can't produce more. All I managed to make is here.}
 {212}{}{Well, at least it's something.}
 {213}{}{ bucks.}
 
@@ -160,7 +160,7 @@
 
 #Предохранитель для насоса в Джерлаке
 {240}{}{I need a fuse for a water pump.}
-{241}{}{Easy. Got one tucked away in my stash. [he squints] It's yours for 300 bucks.}
+{241}{}{Easy. Got one tucked away in my stash. [He squints] It's yours for 300 bucks.}
 {242}{}{Are you out of your mind?! So much money for such a little thing?}
 {243}{}{Here's the money. Give me the fuse.}
 {244}{}{I'll keep looking.}
@@ -168,13 +168,13 @@
 {245}{}{[He shrugs] Nothing is free nowadays. But I've got an alternative option, if you are interested.}
 {246}{}{I'm listening.}
 {247}{}{No, I'll pay. Here's the money.}
-{248}{}{Got a lot of dogs around here lately. Think it's breeding season, they're horny and ornery. Looks like mutts from all of Reno gather here to a party, so I'm afraid even to go out to take a piss at night. You kill the bitches, and the fuse is yours.}
+{248}{}{There have been a lot of dogs around here lately. I think it's breeding season, they're horny and vicious. The mutts from all over Reno seem to be gathering here for a party, so I'm afraid to even go out at night to take a piss. You kill the bitches, and the fuse is yours.}
 {249}{}{It's a deal.}
 {250}{}{Good.}
 {251}{}{Thanks for the fuse.}
 
 {252}{}{About that fuse...}
-{253}{}{Three hundred bucks. And don't bother trying to rob me, it's hidden away where you'll never find it.}
+{253}{}{Three hundred bucks. And don't bother trying to rob me, it's hidden where you'll never find it.}
 {254}{}{That's pretty expensive. Is there anything I can do to lower the price?}
 {255}{}{I killed the female dogs. Where's my reward?}
 {256}{}{I'll pay. Here's the money.}
@@ -188,7 +188,7 @@
 
 #Апгрейд пикапа:
 {270}{}{Have you ever worked on a functional car?}
-{271}{}{Like every mechanic, I worked on cars. And by that I mean disassembled a lot of them understanding nothing about how they work. Also, It's almost impossible to find parts that are in working condition.}
+{271}{}{Like every mechanic, I worked on cars. And by that I mean disassembled a lot of them understanding nothing about how they work. Also, It's almost impossible to find parts in a working condition.}
 {272}{}{Do you have any of that parts?}
 {273}{}{That's all I wanted to know.}
 
@@ -199,7 +199,7 @@
 {277}{}{It's right outside. So, about that part...}
 {278}{}{It's not here. Maybe I'll drive it by later.}
 
-{279}{}{Sure! What else am I gonna use this thing for? I'll install it for, let's say...1000 bucks.}
+{279}{}{Sure! What else am I gonna use this thing for? I'll install it for, let's say... 1000 bucks.}
 {280}{}{Here's the money. Get to work.}
 {281}{}{Not right now.}
 {282}{}{I think I'll kill you and install the part myself!}
@@ -215,7 +215,7 @@
 
 #Часть от машины
 {290}{}{What can you tell me about this part?}
-{291}{}{Hmm...that's a fuel controller. Used in car engines. Irreplaceable, car just won't start without it. Y'know, a caravan merchant from Wind of War was asking about this part a while ago. You might be able to do something with it there.}
+{291}{}{Hmm... That's a fuel controller. Used in car engines. It's irreplaceable, car won't start without it. Y'know, a caravan merchant from Wind of War was asking about this part a while ago. You might be able to do something with it there.}
 {292}{}{Wind of War? I should remember that.}
 
 ###############################################################################
@@ -250,11 +250,11 @@
 {320}{}{I can whip up a speed loader for you. It'll run you }
 {321}{}{Damn, that's a slick looking gun! I think I can extend its magazine for you. That'll be }
 {322}{}{Yeah, I've worked on these. I can put a scope on it, if you are interested. Just for }
-{323}{}{I bet you want it cut down, huh? That's what I usually asked to do. It'll reduce the weight and make it possible to shoot with one hand. You'll get more power out of it, but don't expect to hit anything further than arm's reach. If you're interested, it'll be }
+{323}{}{I bet you want it sawed-off, huh? That's what I usually asked to do. It'll reduce the weight and make it possible to shoot with one hand. You'll get more power out of it, but don't expect to hit anything further than arm's reach. If you're interested, it'll be }
 {324}{}{Yeah, I remember fixing these for farmers, when they still were around near Reno. I can rewire it to give a stronger shock for }
 {325}{}{This thing has seen better days... It'll take some work, but I can restore it. It'll cost you }
 {326}{}{Need a sharpened blade? No problem. I'll do it for }
-{327}{}{Well, shit. Can't do nothing here... Come to think of it, I can put a bandolier on it. It is pretty easy, will cost you only }
+{327}{}{Well, shit. Can't do nothing here... Come to think of it, I can make a bandolier. It is pretty easy, will cost you only }
 {328}{}{It's a fucking sledgehammer, what do you want? Hmm... I guess I can put spikes on it. Interested? It'll cost you }
 {329}{}{}
 
@@ -267,7 +267,7 @@
 
 #Динамит
 {350}{}{Do you work with explosives?}
-{351}{}{I can do some basic work. You got something in mind?}
+{351}{}{I can do some basic work. What do you have in mind?}
 {352}{}{Can you dismantle a bundle of dynamite into separate sticks?}
 {353}{}{Can you combine sticks of dynamite into one bundle and add a timer?}
 {354}{}{No, just asking.}
@@ -280,9 +280,9 @@
 #Апгрейд брони
 {400}{}{Sure. I whip up a lot of armor for caravan merchants. I've only worked with leather, but I wouldn't mind trying something else. Just bring it to me and let's see what I can do.}
 {401}{}{I'll think about it.}
-{402}{}{Thanks. I have another set of armor, if you're interested.}
-{403}{}{I'll be here.}
+#{402}{}{Thanks. I have another set of armor, if you're interested.}
 {402}{}{I'd like to show you another set of armor.}
+{403}{}{I'll be here.}
 {404}{}{You'll have to take it off before I can do anything with it.}
 {405}{}{Oh, right, of course...}
 {406}{}{[After some time, the mechanic brings back your newly upgraded armor, nodding to himself] Damn, I'm good.}
@@ -299,6 +299,6 @@
 {423}{}{Doesn't seem too complicated. I'll do it for }
 
 #Female character
-{1141}{}{Don't know nothing about safecracking. Plenty of thieves in Reno if you want to ask about that. But - I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
+{1141}{}{Don't know nothing about safecracking. Plenty of thieves in Reno, if you want to ask about that. But I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
 {1230}{}{Actually, I changed my mind. You can go back to doing nothing.}
 {1262}{}{Ha! I don't fucking think so. You'll never find my stash without me.}

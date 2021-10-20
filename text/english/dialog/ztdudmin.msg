@@ -101,10 +101,10 @@
 {181}{}{Is this for me or what?!!!}
 {182}{}{You're dead, wise guy!}
 {183}{}{That's it! You're done for!}
-{183}{}{Not your day, chummer!}
 {184}{}{Who did that?! Who the fuck did that?!!!}
 {185}{}{Well, well! What have we here? Another dead man walking?}
 {186}{}{Hey, wise guy? Come out, and we'll talk this out like men!}
+{187}{}{Not your day, chummer!}
 
 #Soldiers
 {190}{}{Goddammit!!!}

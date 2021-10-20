@@ -105,7 +105,7 @@
 {198}{}{So you think you are tough? Or you just like to take someone else's life for hard cash? Anyway, it's not my business. I am willing to pay a bounty for every head of the rest of the Provo gang. Do not even think to deceive me - we keep a dossier on each of them, with photos and detailed descriptions.}
 {199}{}{Okay. I'll think about your offer. See you later.}
 
-About the dog #
+#About the dog
 {200}{}{As if I don't have enough other problems here... I'm listening.}
 {201}{}{A boy who lives across the street here lost his dog and asked me to find her. But... the dog died.}
 {202}{}{Let me guess - by your hand, right?}

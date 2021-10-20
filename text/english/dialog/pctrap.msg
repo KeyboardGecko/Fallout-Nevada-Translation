@@ -41,6 +41,6 @@
 {149}{}{No. The power source is not here, Bridgeport gets its power from somewhere else through the power lines.}
 {150}{}{I'll see what I can do.}
 {151}{}{How much longer will the generator last, if we fix it?}
-{152}{}{We have small needs - light, heating, kitchen utilities. We would have enough stored energy to provide for our families for at least ten years.
+{152}{}{We have small needs - light, heating, kitchen utilities. We would have enough stored energy to provide for our families for at least ten years.}
 {153}{}{I see that you were able to fix the electricity! Thank you. You've been a great help. I don't know how to repay you. Here, take this whiskey. I found it in the old house and was saving it for the holiday. But it's better to share it with a good man.}
 {154}{}{You're welcome.}

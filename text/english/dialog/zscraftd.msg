@@ -6,7 +6,7 @@
 #Menu options
 {110}{}{The ammo press is ready for use. Choose your caliber.}
 {111}{}{[Leave it]}
-{112}{}{[[Finish]}
+{112}{}{[Finish]}
 
 {113}{}{[Make ammo]}
 

@@ -27,8 +27,8 @@
 
 #Женские реплики
 {1110}{}{AAAAHHHA-HA-HA-HA!!! Welcome to our apartments, mister! Sorry that we are not in uniform, there's nothing to put it on! Maybe mister could tickle us with a feather, hmm?}
-{112}{}{Miss is IDIOT!!! I'm not just a talking head! Before you is Mr. President himself! Where did this miss crawled from, if she can't distinguish the president from everyone else?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{1112}{}{Miss is IDIOT!!! I'm not just a talking head! Before you is Mr. President himself! Where did this miss crawled from, if she can't distinguish the president from everyone else?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
 {1113}{}{Well, that's not what I meant...}
 {1114}{}{What are you saying, my precious?! Yes, we agree. Such misses should be quartered. All who come out of ass must be exterminated!!!}
 {1116}{}{What? What does she say? She wants to scare us? Alright. Let this citizen come out and lean on my ringer... I mean... I mean, my finger. What, my precious? I don't have a finger? Well... Then lean on my something. Let miss come out. We won't hurt her.}
-{118}{}{YES, YES, YES!!! We'll be good! Just let miss come closer! We haven't seen anyone in so long! We want to see miss!}
+{1118}{}{YES, YES, YES!!! We'll be good! Just let miss come closer! We haven't seen anyone in so long! We want to see miss!}
