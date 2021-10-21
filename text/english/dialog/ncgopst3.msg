@@ -1,9 +1,9 @@
 {100}{}{You see a ruffian.}
 {101}{}{You see a ruffian by the name of Basketball Buddy.}
 
-{110}{}{Oh, no, no. If someone as handsome as me just let people stop and stare, then no one would get any work done. So unless you have business, keep walking.}
-{111}{}{Oh, it's you... Um, salutations.}
-{112}{}{Oh, it's you... Um, salutations! Please, tell your boss I wish him the most pleasant of days.}
+{110}{}{Oh, no, no. If someone as handsome as me just let people stop and stare, no one would get any work done. So unless you have business, keep walking.}
+{111}{}{Oh, it's you... Uh, salutations.}
+{112}{}{Oh, it's you... Uh, salutations! Please, tell your boss I wish him the most pleasant of days.}
 {113}{}{}
 {114}{}{[Keep walking.]}
 

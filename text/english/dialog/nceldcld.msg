@@ -1,5 +1,5 @@
 {100}{}{You see a janitor.}
-{101}{}{You see a child cleaning the halls.}
+{101}{}{You see a child cleaning the hallways.}
 
 {110}{}{Can I help you, sir?}
 {111}{}{Tell me what you do here.}
@@ -8,7 +8,7 @@
 {113}{}{I'm just a janitor, sir. I make sure the hallways and rooms are clean.}
 {114}{}{But... You're just a kid.}
 {115}{}{}
-{116}{}{[He furrows his brow] Everybody says that! Then they go outside and get shot, or die from overdose laying in trash. I get my money without lying or hurting anyone. That's better than most of the grown-ups I've met.}
+{116}{}{[He furrows his brow] Everybody says that! Then they go out on the street and get shot, or die of an overdose lying in the garbage. I get my money's worth without lying or hurting anyone. That's better than most adults I've met.}
 {117}{}{Tell me honestly, are you *forced* to work?}
 {118}{}{Hmm, does your boss treat you well?}
 {119}{}{Hey, do you know who cleans Bertolini's office?}
@@ -18,9 +18,9 @@
 
 {123}{}{[He looks worried] That would be me, sir... Is Mr. Bertolini unhappy? He's... He's not angry, is he?}
 {124}{}{Something tells me this is a tough job. How about we make a deal?}
-{125}{}{No, err, just wanted to say you did a great job.}
+{125}{}{No, err, just wanted to say you are doing a great job.}
 {126}{}{A deal? Is that when you pay me for something special and then Mr. Bertolini takes half?}
-{127}{}{Not this time. In fact, you shouldn't tell him about it. I'll pay you to install these bugs in his study.}
+{127}{}{Not this time. In fact, you shouldn't tell him about it. I'll pay you to plant these bugs in his room.}
 {128}{}{Bu-gs? What are these?}
 {129}{}{Don't worry. Just remember - nobody should ever find them, understood?!}
 {130}{}{I... I think so. But if Mr. Bertolini finds out, he'll kill me!}

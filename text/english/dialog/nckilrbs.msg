@@ -3,13 +3,13 @@
 {102}{}{You see a suspicious guy with a familiar tattoo on his neck.}
 {103}{}{You see a killer that really wants to shoot you.}
 {104}{}{I'll see you in hell, bitch!!!}
-{105}{}{Big Louie sends his regards! Eat the lead, bitch!!!}
+{105}{}{Big Louie sends his regards! Eat lead, bitch!!!}
 
-{110}{}{You played with the wrong motherfuckers, bitch! Now, it's game over!}
+{110}{}{You messed with the wrong motherfuckers, bitch! Now, it's game over!}
 {111}{}{Hey, what's this about?!}
-{112}{}{Don't play innocent with me, bitch! I saw you kill my boys in Lovelock! Without the gang, I'm nobody! No one will take me with this tattoo on my neck! My life's over - but I'm taking you with me! [he points his gun, crooked teeth bared in an animal snarl]}
+{112}{}{Don't play innocent with me, bitch! I saw you kill my boys in Lovelock! Without the gang, I'm nobody! No one will take me with this tattoo on my neck! My life's over - but I'm taking you with me! [he points his gun, his crooked teeth are bared in an animal snarl]}
 {113}{}{Wait, we can talk about this!}
-{114}{}{I guess I missed one. Let's finish this, then.}
+{114}{}{I guess I missed one. Let's finish this then.}
 
 {115}{}{You got something to say, bitch?!}
 {116}{}{Actually, never mind. It'll be easier just to kill you.}

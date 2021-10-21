@@ -3,12 +3,12 @@
 
 #Плавающие фразы при отказе разговаривать:
 {105}{}{Please, I'm tired. Let me rest.}
-{106}{}{I can still stand on my own feet!}
+{106}{}{I can still stand on my feet!}
 {107}{}{Not now. I just want to sleep.}
 
 #Разговор о дороге между Уэндовером и Рино:
 {110}{}{Sorry, but I'm too tired to talk. It was a long trip.}
-{111}{}{Tough times on the road? I can relate.}
+{111}{}{Tough time on the road? I can relate.}
 {112}{}{We'll talk later, then.}
 
 {113}{}{Hmm? ...Oh, no, not like that. The travel was fine, but I had to hurry to get here before nightfall.}
@@ -26,7 +26,7 @@
 
 {123}{}{I'm not so concerned with the wasteland as I am with the people in it, to be honest. It's usually easier to "negotiate" with a gecko, if you know what I mean.}
 {124}{}{Are you serious?}
-{125}{}{Oh, yes. People don't stay around for long where I come from, so they don't respect anyone - not neighbors, nor visitors.}
+{125}{}{Oh, yes. People don't stay around for long where I come from, so they don't respect anyone - neither neighbors, nor visitors.}
 {126}{}{Where do you come from?}
 {127}{}{Interesting. Well, see you around.}
 
@@ -45,7 +45,7 @@
 {138}{}{If you say so. See you around.}
 {139}{}{It's mostly hunters and their families. Men hunt for geckos while women and children tend to their huts. It has everything you need - a tavern, a shop, a hunting guild - but other than that there's not much to it. Also... A lot of people only live there for the hunting season, so they think they can do whatever they want without being punished for it.}
 {140}{}{No punishment? Sounds like my kind of town! Where is it?}
-{141}{}{What are you planing to do in Reno?}
+{141}{}{What are you planning to do in Reno?}
 {142}{}{I don't know. It's easy to catch a bullet here, if you don't watch yourself. Or the people around you, come to think of it. I'll have to strive hard to survive here.}
 
 #Female character

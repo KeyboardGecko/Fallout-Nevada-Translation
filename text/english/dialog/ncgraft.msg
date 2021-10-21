@@ -1,5 +1,5 @@
 {100}{}{You see a teenager.}
-{101}{}{You see a long haired teenager. There are many like him wandering the streets of Reno.}
+{101}{}{You see a long-haired teenager. There are many like him wandering the streets of Reno.}
 {102}{}{Behold! Before you is a talented graffiti artist, engrossed in his craft.}
 
 {105}{}{I don't talk to strangers.}
@@ -13,8 +13,8 @@
 {151}{}{What are you doing out here so late?!}
 {152}{}{With pleasure!}
 
-{153}{}{I?... I... I'm coming home from a party!}
-{154}{}{Really? Well, go on then! And don't let me catch you around here again.}
+{153}{}{I... I... I'm coming home from a party!}
+{154}{}{Really? Well, move on then! And don't let me catch you around here again.}
 
 {155}{}{I'M JUST GOING HOME!!!}
 {156}{}{Fine, fine, don't freak out...}
@@ -22,17 +22,17 @@
 #When caught
 {200}{}{[Quietly, you sneak up on the vandal and grab his wrist] AAAAAH!!! SHIIIT!!!}
 {201}{}{I knew it! You're the one vandalizing the hotel walls! I've got you, you little brat!}
-{202}{}{SO WHAT?! THEY'RE JUST WALLS! LET ME GO, MAN!!!}
+{202}{}{SO WHAT?! IT'S JUST WALLS! LET ME GO, MAN!!!}
 {203}{}{This is your one warning. If I see you again, I'm selling you to the slavers. Understood?}
 {204}{}{Too late, kid! Should've thought of this sooner. Now march your butt into the hotel and we'll see how they feel about your work on their "just walls". Move it!}
-{205}{}{Thank you! Thank you! I won't tag these walls anymore! Promise!}
+{205}{}{Thank you! Thank you! I won't tag these walls anymore! I Promise!}
 {206}{}{You'd better not! I'll be watching. Now, scram!}
 
-{207}{}{You solved the problem peacefully, but there is no guarantee that the kid will stop.}
+{207}{}{You solved the problem peacefully, but there is no guarantee that the kid will stop doing it.}
 {208}{}{Congratulations! You caught the elusive miscreant.}
 {209}{}{}
 
-{210}{}{I think I shit my pants. Can I go home?}
+{210}{}{I think I shat my pants. Can I go home?}
 {211}{}{So this is the little bastard vandalizing our hotel! You've been a real pain in my ass, kid, you know that?}
 {212}{}{I won't do it again!}
 {213}{}{Yeah, right. Why'd you go and mess up our walls in the first place?}
@@ -52,11 +52,11 @@
 {256}{}{[Leave.]}
 {257}{}{Hmm... I hope you're right. Thanks for your help. Oh yeah, and 100 bucks for a job well done. All the best!}
 {258}{}{I like the way you think! We'll teach him a lesson and get some work done at the same time! Thank you for your help. Oh yeah, and 100 bucks for a job well done. All the best!}
-{259}{}{Hey, I think you're on to something there! The kid's not half-bad with a spray-can, you know... I'll have to talk to my boss, but I think the kid's got a job. Thanks for your help! Oh yeah, and 100 bucks for a job well done. All the best!}
-{260}{}{You found a wise means of dealing with the graffiti artist.}
+{259}{}{Hey, I think you're on to something there! The kid's not half-bad with a spray can, you know... I'll have to talk to my boss, but I think the kid's got a job. Thanks for your help! Oh yeah, and 100 bucks for a job well done. All the best!}
+{260}{}{You've found a wise way to deal with a graffiti artist.}
 
 #Женские реплики:
 {1201}{}{I knew it! You're the one vandalizing the hotel walls! I've got you, you little brat!}
-{1202}{}{SO WHAT?! THEY'RE JUST WALLS! LET ME GO, LADY!!!}
+{1202}{}{SO WHAT?! IT'S JUST WALLS! LET ME GO, LADY!!!}
 {1205}{}{Thank you, lady! I won't tag these walls anymore! Promise!}
 {1206}{}{You'd better not! I'll be watching. Now, scram!}

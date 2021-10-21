@@ -12,7 +12,7 @@
 {114}{}{Sorry I asked.}
 {115}{}{I don't give a shit about your apologies. It's God who should apologize, if he exists.}
 {116}{}{Are you on your period right now, or you are always this pissed off?}
-{117}{}{Listen, I just want to be left alone. Shit, what I *really* want is for Reno to be nice and quiet, like when I was a kid. But it's a fucking hellhole now, and my father's loving it. And he's trying to show me the "right" way to be just like him. It makes me sick. The world doesn't have to be this shit, you know. But no one wants to fix it.}
+{117}{}{Listen, I just want to be left alone. Shit, what I *really* want is for Reno to be nice and quiet, like when I was a kid. But it's a fucking hellhole and my father loves it that way. And he's trying to show me the "right" way to do things. To be like him. It makes me sick. The world doesn't have to be this shitty, you know. But no one wants to do anything about it.}
 {118}{}{You don't approve of your father's ways?}
 {119}{}{I don't approve of many things in this world. Now leave me alone before I get worked up enough to hang myself.}
 {120}{}{We'll talk later.}
@@ -35,7 +35,7 @@
 
 {143}{}{Talk.}
 {144}{}{Well, I want one of those funny-looking guns the security here uses.}
-{145}{}{They're called Tommy guns. Father raided museums for them as part of the casino's pre-war image. Stupid, if you ask me, but I it doesn't matter. What matters is they're all locked up on the second floor. The only key's on that big guy in the blue suit, and they see you try to crack the lock, they'll cut you down.}
+{145}{}{They're called Tommy guns. Father raided museums for them. They are part of the casino's pre-war image, and they look pretty stupid, if you ask me - but it doesn't matter. What matters is that they are all locked up on the second floor. The only key is on that big guy in the blue suit, and if they see you try to crack the lock, they'll cut you down.}
 {146}{}{Well, I need some cash.}
 {147}{}{You're not getting it from me. Father doesn't give me money without a good reason. But he's got 20 grand in his safe! All of it made off the backs of better people. It'd serve him right if someone took it, but you'll never get in there alive.}
 {148}{}{Do you know the safe combination?}
