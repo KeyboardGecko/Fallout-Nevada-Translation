@@ -57,7 +57,7 @@
 {158}{}{I believe in Dr. Willmouth's honesty! Your stupid smirk just shows that you're lying and not telling me something. Didn't you have a hand in my amnesia?}
 {159}{}{It doesn't matter anymore. Past is past. What I'm interested in now is what you did with the stolen device.}
 
-{160}{}{It was my employer who deprived you of your memory. I only used your body as an excuse to enter the vault.}
+{160}{}{It was my employer who deprived you of your memory. I only used your body as an excuse to enter the vault. And my old clothes and stuff to make it look a little more natural.}
 {161}{}{So, what happened in the vault?}
 {162}{}{Should have known you're just a pathetic mercenary. And what was your job in there?}
 

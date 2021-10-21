@@ -1,6 +1,6 @@
 {100}{}{Caravan merchant Billy.}
 {101}{}{You see a bored caravan merchant. He fiddles something in his hands.}
-{102}{}{Hi}
+{102}{}{Hi.}
 
 #Разговор
 {110}{}{[Caravaneer curiously examines the round sanded rock with an emblem on it]}

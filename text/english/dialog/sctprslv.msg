@@ -17,7 +17,7 @@
 {117}{}{Nothing. Just enjoy your freedom.}
 
 {118}{}{Me be preparing for walking in shadows. Cheyenne be hungry, and me be hunter.}
-{119}{}{You're going to go on a hunt? What are you hunting?}
+{119}{}{You're going to a hunt? What are you hunting?}
 {120}{}{You're going to do some killing? Anyone I know?}
 {121}{}{Good luck! Let me know how it all turns out.}
 

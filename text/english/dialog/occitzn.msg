@@ -19,7 +19,7 @@
 {114}{}{Great, I'll talk to him.}
 
 {115}{}{We look out for each other here. If you're not with us, you'd best be moving on.}
-{116}{}{He founded this place. He lives in that house to the south-west.}
+{116}{}{He founded this place. He lives in that house to the southwest.}
 {117}{}{I'm not in the mood to talk about that. If you must know, then no, I don't like seeing them, but we don't have a choice. The wasteland's a cruel place.}
 {118}{}{He's dead. I don't know if we'll make it without him.}
 
@@ -27,7 +27,7 @@
 {120}{}{I'm just passing by.}
 
 #Джерлак мер'в
-{121}{}{Gerlach's gone. We'll probably be following him soon enough.}
+{121}{}{Gerlach's gone. We'll probably join him soon enough.}
 {122}{}{That was so stupid!! How are we going to live without our leader? Get the hell out of here!}
 {123}{}{Fine, I'm going.}
 
@@ -36,7 +36,7 @@
 {125}{}{Safer than this? In a heartbeat. Why?}
 {126}{}{Then congratulations on being the first to move to our vault!}
 {127}{}{Oh, no reason. Just thinking out loud.}
-{128}{}{Vault? As in, Vault-Tec? Where?}
+{128}{}{Vault? As in Vault-Tec? Where?}
 {129}{}{Just a few days north.}
 {130}{}{[You notice other villagers gathering around you] And we can just live there? What's the catch?}
 {131}{}{The catch is, if you accept, you can never come back.}
@@ -51,10 +51,10 @@
 {138}{}{Take a look at by Pip-Boy. These were only given to vault dwellers.}
 {139}{}{Then I've got no reason to help you. Your loss.}
 
-{140}{}{He did earn a little respect, didn't he? [the crowd shouts in agreement] Okay, we'll do it. We've got nothing to lose, anyway. This place can't hold out forever.}
+{140}{}{He did earn a little respect, didn't he? [The crowd shouts in agreement] Okay, we'll do it. We have nothing to lose anyway. This place can't hold out forever.}
 {141}{}{Great!}
-{142}{}{How do we know you didn't take it off a body? Better yet, why shouldn't we take it off yours?}
-{143}{}{Come on, would I lie to you? Fine, maybe you'll change your mind later.}
+{142}{}{How do we know you didn't take it off a dead body? Better yet, why shouldn't we take it off yours?}
+{143}{}{Come on, why would I lie to you? Fine, maybe you'll change your mind later.}
 {144}{}{I've heard of these, but I've never seen one. If these are given to everyone in the vault, then I agree! [the rest of the crowd mumbles in approval]}
 {145}{}{Of course!}
 
@@ -64,7 +64,7 @@
 {149}{}{Oh, food and water, I've never heard *that* one before. Yeah, right! I don't buy it.}
 {150}{}{Don't believe me? That's too bad. Take care.}
 
-{151}{}{He's right! [everyone nods] Yes, we could try. You've shown you can be trusted.}
+{151}{}{He's right! [Everyone nods] Yes, we could try. You've shown you can be trusted.}
 {152}{}{Great!}
 {153}{}{You may have fixed the pump, but that doesn't prove you can be trusted. What if this is all a big trick?}
 {154}{}{Well, think about it. Maybe you'll change your mind later.}
@@ -73,7 +73,7 @@
 {156}{}{You don't trust me? Ouch. Maybe I can do something to fix that.}
 
 {157}{}{Yeah, and you killed him! How do we know you won't do the same to us?}
-{158}{}{It's true. Without Gerlach, this place won't survive. [villagers whisper to each other in agreement] I believe you, outsider. What other choice is there?}
+{158}{}{It's true. Without Gerlach, this place won't survive. [Villagers whisper to each other in agreement] I believe you, outsider. What other choice is there?}
 {159}{}{We're all adults here, we can survive without Gerlach. But you, outsider - you haven't given us much reason to trust you yet.}
 
 {160}{}{When we are heading out?}
@@ -85,13 +85,13 @@
 
 #Female character
 {1120}{}{I'm just passing by.}
-{1128}{}{Vault? As in, Vault-Tec? Where?}
+{1128}{}{Vault? As in Vault-Tec? Where?}
 {1133}{}{I fixed your water pump. The vault has far more advanced technology.}
 {1135}{}{If I helped Steve, why wouldn't I help you?}
 {1140}{}{She did earn a little respect, didn't she? [the crowd shouts in agreement] Okay, we'll do it. We've got nothing to lose, anyway. This place can't hold out forever.}
 {1147}{}{I've heard enough! You've got yourself a new neighbor, missy!}
 {1150}{}{Don't believe me? That's too bad. Take care.}
-{1151}{}{She's right! [everyone nods] Yes, we could try. You've shown you can be trusted.}
+{1151}{}{She's right! [Everyone nods] Yes, we could try. You've shown you can be trusted.}
 {1153}{}{You may have fixed the pump, but that doesn't prove you can be trusted. What if this is all a big trick?}
-{1158}{}{It's true. Without Gerlach, this place won't survive. [this villagers whisper to each other in agreement] I believe you, outsider. What other choice is there?}
+{1158}{}{It's true. Without Gerlach, this place won't survive. [Villagers whisper to each other in agreement] I believe you, outsider. What other choice is there?}
 {1159}{}{We're all adults here, we can survive without Gerlach. But you, outsider - you haven't given us much reason to trust you yet.}

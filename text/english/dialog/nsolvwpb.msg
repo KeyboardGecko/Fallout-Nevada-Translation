@@ -9,7 +9,7 @@
 {113}{}{I know why you're here. I present a better offer: sell the weapons to me and walk away alive.}
 {114}{}{Oh, I'm just out for a walk. Bye.}
 
-{120}{}{Passing by? All the way out here? At night? ...you just keep on passing, then. Nothing to see here.}
+{120}{}{Passing by? All the way to here? At night?... Then just keep on passing. Nothing to see here.}
 {121}{}{Oh yeah? [he eyes you suspiciously] I was told to wait for someone to call on the radio, but I haven't heard anything. What's going on?}
 {122}{}{}
 {123}{}{Uh...}
@@ -19,7 +19,7 @@
 {127}{}{Err... "sons of bitches"?}
 {128}{}{Password? No one told me about a password.}
 
-{129}{}{[The caravaneers ready their rifles and look around warily] Alright, what the hell's going on?! If you're not from Bertolini, who are you?}
+{129}{}{[The caravaneers get their rifles ready, warily looking around] Alright, what the hell's going on?! If you're not from Bertolini, who are you?}
 {130}{}{Bertolini's dead. You came all this way for nothing. But I know about your deal and I'm ready to make a counter-offer.}
 {131}{}{I represent Bertolini's competitors. We're a lot more powerful than he is. It's in your best interest to work with us.}
 
@@ -33,14 +33,14 @@
 
 {139}{}{[The guards count the money and allow you to check the weapons in the boxes] Alright, we're done. Tell your boss this isn't going to happen again. We'd wanted to set up a long-term thing, but this is way too sketchy. We're leaving now.}
 {140}{}{[Next]}
-{141}{}{Sounds good... For now. But if there's trouble next time, it'll be the last. Clear?}
+{141}{}{Sounds good... For now. But if there's trouble next time, it'll be our last. Clear?}
 {142}{}{You managed to knock $500 off the price per order. The savings made its way back into your pockets.}
 {143}{}{Are you kidding me? Sit down, kiddo, I've been trading since before you were alive and that's just about the worst deal I've ever heard. That's the price, take it or leave it.}
-{144}{}{Oh, is that right? [he puts his hands on his hips and narrows his eyes] Is this your first shakedown, kid? Because it sure as hell ain't mine. I don't care what kind of backup you've got, we don't scare easy. So, tell your friends to go home, so we could talk like adults.}
+{144}{}{Oh, is that right? [He puts his hands on his hips and narrows his eyes] Is this your first shakedown, kid? Because it sure as hell ain't mine. I don't care what kind of backup you've got, we don't scare easy. So, tell your friends to go home, so we could talk like adults.}
 
 #Этот разговор не используется:
 {150}{}{Where do you get the weapons?}
-{151}{}{From a workshop in the Boneyard. They're putting together guns using pre-war blueprints. Tough cookies, the lot of 'em. They've been in business about ten years, but outside of some commission work, they mostly make guns for themselves.}
+{151}{}{From a workshop in the Boneyard. They're putting together guns using pre-war blueprints. Tough cookies, their lot. They've been in business for about ten years, but outside of some commission work, they mostly make guns for themselves.}
 {152}{}{Are you one of them?}
 {153}{}{Nah, those guys barely ever leave the workshop. We're the Far Go Traders, from the Hub. We don't usually come all the way out here.}
 {154}{}{So what are they? Weapons fanatics?}

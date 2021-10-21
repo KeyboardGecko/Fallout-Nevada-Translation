@@ -42,8 +42,8 @@
 {156}{}{Me no speak outsider.}
 {157}{}{You can talk with me, Gekek. Your chief said it's okay. You've been to the raiders' base, right? Can you bring me there?}
 {158}{}{[Gekek's eyes go wide] Me... You... Hmm! Why you need raider?}
-{159}{}{Because I can solve your problem with them, Gekek. Will you show me their base?}
-{160}{}{Hmm... Yes. Me show, when you ready. But no is late - Gekek have many duty!}
+{159}{}{Because I can solve your problem with them, Gekek. Will you take me to their base?}
+{160}{}{Hmm... Yes. Me show, when you ready. But no late - Gekek have many duty!}
 {161}{}{I'm ready. Take me there, oh feathered warrior!}
 {162}{}{Lay down your wings, Hawk, I'm not ready yet.}
 

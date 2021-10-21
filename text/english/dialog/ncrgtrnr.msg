@@ -1,4 +1,4 @@
-{100}{}{You see coach.}
+{100}{}{You see a coach.}
 {101}{}{You see a veteran of many fights. Looks like he loves giving orders.}
 
 {105}{}{I've taught you everything I know. I have nothing else for you.}
@@ -9,7 +9,7 @@
 #Beginning dialogue
 {110}{}{Drop and give me twenty!}
 {111}{}{Who are you?}
-{112}{}{Are you a coach? Could you train me?}
+{112}{}{Are you a coach? Can you train me?}
 {113}{}{Not now, goodbye.}
 
 {114}{}{Who the hell gave you permission to talk, maggot?! You will only refer to me as SIR, am I clear?! I'm the coach! I turn whelps like you into real men! If I say jump, you jump! If I say run, you run! If I say kill, then you will most certainly kill!}
@@ -27,13 +27,13 @@
 
 {124}{}{Right now! Hit the showers! MOVE!!!}
 {125}{}{Yes, sir!}
-{126}{}{Your right hook is on point! The rest is up to you. Come again when you've got a serious fight - we'll warm up!}
+{126}{}{Your right hook is on point! The rest is up to you. Come again when you get a serious fight - we'll warm up!}
 {127}{}{Great. Warmed up, let's get to work!}
 {128}{}{After an intensive session with the coach, your unarmed skill has increased by 5%.}
 {129}{}{A lot of this coaching is old hat to you, but you've still increased your skills by 3%.}
 
 {130}{}{If I'm going to be all I can be, I'll need to use everything I can use, right? How about a little chemical help?}
-{131}{}{Is that some joke?! That's off limits around here! We ran all the dealers off! Don't even think of asking again!}
+{131}{}{Is that a joke?! That's off-limits around here! We chased away every dealer! Don't even think of asking that again!}
 {132}{}{But I have a note!}
 {133}{}{Fine.}
 {134}{}{Right, that's it! Either you shut up and get the fuck out of here, or I beat your face to a pulp!}
@@ -49,7 +49,7 @@
 {1110}{}{Drop and give me twenty!}
 {1114}{}{Who the hell gave you permission to talk, maggot?! You will only refer to me as SIR, am I clear?! I'm the coach! I turn pretenders like you into real fighters! If I say jump, you jump! If I say run, you run! If I say kill, then you will most certainly kill!}
 {1115}{}{I'm the coach! I turn pretenders like you into real fighters! If I say jump, you jump! If I say run, you run! If I say kill, then you will most certainly kill!}
-{1118}{}{Chummer, your skills are brighter than the El Dorado lights! I don't have much to teach you. But, we could work a little, if you make it worth my while.}
+{1118}{}{Baby chum, your skills are brighter than the El Dorado lights! I don't have much to teach you. But, we could work a little, if you make it worth my while.}
 {1124}{}{Right now! Hit the showers! MOVE!!!}
-{1126}{}{Your right hook is on point! The rest is up to you. Come again when you've got a serious fight - we'll warm up!}
-{1131}{}{Is that some joke?! That's off limits around here! We ran all the dealers off! Don't even think of asking again!}
+{1126}{}{Your right hook is on point! The rest is up to you. Come again when you get a serious fight - we'll warm up!}
+{1131}{}{Is that a joke?! That's off-limits around here! We chased away every dealer! Don't even think of asking that again!}

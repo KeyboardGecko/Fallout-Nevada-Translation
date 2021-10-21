@@ -1,6 +1,6 @@
 {100}{}{You see a madam.}
 {101}{}{You see a relaxed older woman named Lilly st. Cyr.}
-{102}{}{You'll never meet another like the busty wonder Nanny! Her third breast, swollen with milk, just drives you wild!}
+{102}{}{You'll never meet another like our busty wonder nanny Stephanie! Her third breast, swollen with milk, just drives you wild!}
 {103}{}{You gently and passionately fuck for an entire hour. It is a very... Educational experience.}
 {104}{}{Under the dim lamplight, you see that a vicious skin disease has affected the prostitute's genitals. You can only hope you weren't infected.}
 {105}{}{Under the dim lamplight, you see that a vicious skin disease has affected the prostitute's genitals. Hopefully, the condom provided adequate protection.}
@@ -12,7 +12,7 @@
 {113}{}{Nothing for today.}
 
 {114}{}{Are there any others like you in the city?}
-{115}{}{Oh, you stay away from those girls next to the Cotton Club. It breaks my heart, I feel so sorry for them - that old woman works them terribly, makes them take any awful, dirty man that comes by and doesn't even give them time to wash after. It's like she's hell bent on putting them in an grave early... And her customers too. You want nothing to do with them, trust me.}
+{115}{}{Oh, you stay away from those girls next to the Cotton Club. It breaks my heart, I feel so sorry for them - that old woman works them terribly, makes them take any awful, dirty man that comes by and doesn't even give them time to wash after. It feels like she's hell-bent on driving them to an early grave... And her clients, too. You don't want anything to do with them, believe me.}
 {116}{}{I see. Can I ask you something else?}
 {117}{}{Thanks for the heads up, but I have to go.}
 
@@ -22,7 +22,7 @@
 {122}{}{What sorts of pleasure are there?}
 {123}{}{Thank you, but I don't need anything right now.}
 
-{124}{}{[She looks at you quizzically] You... Really don't know? Well... My girls will be happy to teach you. And don't worry... Learning's the best part.}
+{124}{}{[She looks at you quizzically] You... Really don't know? Well... My girls will be happy to teach you. And don't worry, learning's the best part.}
 {125}{}{Is it... Safe?}
 {126}{}{Of course, honey! All my girls are clean! Not like those girls down by the Cotton Club... [shudders]}
 {127}{}{What's wrong with the girls by the Cotton Club?}
@@ -44,7 +44,7 @@
 {141}{}{I knew it the second I laid eyes on you. Good choice, honey.}
 {142}{}{[You go to a small apartment.]}
 {143}{}{Now, you understand she's a *special* treat for *special* tastes. That'll be an extra 75 dollars. Or do you want to choose one of the others?}
-{144}{}{She'll be worth it. I'm sure of it.}
+{144}{}{She'll be worth it. I'm sure.}
 {145}{}{A gangbang? Sure, honey, but you understand it won't be cheap. You'll have to pay for all four, so that's an extra }
 {146}{}{ dollars. Are you alright with that?}
 {147}{}{I'm sure it's worth it. Here's the money.}

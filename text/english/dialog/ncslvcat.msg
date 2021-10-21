@@ -2,7 +2,7 @@
 {101}{}{You see a visitor with a slightly inadequate look.}
 {102}{}{Where did it go?! It was just here a minute ago!}
 {103}{}{This isn't funny. Shit! Goddamn motherfucking shit!}
-{104}{}{Uhh - ! This isn't a good time! Get out of my room!}
+{104}{}{Uhh- This isn't a good time! Get out of my room!}
 
 #Применение алкоголя
 {105}{}{Hey, I won't complain! That hits the spot!}

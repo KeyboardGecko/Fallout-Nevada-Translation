@@ -246,7 +246,7 @@
 {456}{}{Answer me, damn you! Answer before it's too late!}
 {457}{}{Get out of my way! I will not say anything!}
 {458}{}{Before it's too late? What are you talking about?!}
-{459}{}{Hell, you don't understand what you're getting yourself into! You can't stop him even if you raise your lousy vault against him.}
+{459}{}{Hell, you don't understand what you're getting yourself into! You can't stop him even if you raise all your lousy town against him.}
 
 {460}{}{Have it your way. You will never tell anything to anybody. [Sheriff pulls out his gun]}
 {461}{}{(Oops, time to mosey along...)}
@@ -256,7 +256,7 @@
 {464}{}{The Reaper of Souls?}
 {465}{}{You heard me right, don't pretend like you didn't. The man in robes.}
 {466}{}{Who the hell is he? What does he have to do with me?}
-{467}{}{Listen here, stubborn boy. He asked me to stop you, but I don't want to deal with other people's problems. This is my last warning - go back to your city and forget all this. The Reaper won't come for you.}
+{467}{}{Listen here, stubborn boy. You think you're going to stop him, you think you're going to save your people. You won't. He will only get what he wants from you. This is my last warning - go back to your town, forget about this and prey he won't come for you.}
 {468}{}{Heh, I knew it, Sheriff. You're just his bitch!}
 {469}{}{Why are you so sure he won't come for me?}
 {470}{}{The Reaper is only interested in pure souls. I don't know why. He's been collecting them for a long time.}
@@ -274,12 +274,12 @@
 
 {482}{}{I do not know what he does with the abducted, but they do not come back.}
 {483}{}{Why not to finish off this viper once and for all?}
-{484}{}{We have to reckon with his power. He is not just a human, he's a miracle of genetic mutations combined with bionics. He may even be capable of reading your mind.}
+{484}{}{We have to reckon with his power. He is not just a human, he's a miracle of genetic mutations. He may even be capable of reading your mind.}
 {485}{}{Are you seriously saying there is no way to stop him?}
 {486}{}{Not in your case. So I warn you for the last time: turn around and go away. The survival of this city is more important to me than your stupid mission.}
 {487}{}{Like hell! I will go to the station, whether you want it or not.}
 {488}{}{Okay, I'm going back to the city... For now.}
-{489}{}{You're wrong. The Reaper of Souls will continue to rampage throughout the wastes. You don't even know his true intentions. How many "pure soul" does he need to reap? What if he won't ever stop?}
+{489}{}{You're wrong. The Reaper of Souls will come back for me and my people. And you don't even know his true intentions. What if he runs out of "pure souls" to get? What happens to your Salt Lake then?}
 {490}{}{I'm sorry, but I *have* to stop you. [The Sheriff pulls out his gun]}
 {491}{}{(Oops, time to mosey along...)}
 {492}{}{I don't know, and don't want to know. Now turn around and don't come back.}
