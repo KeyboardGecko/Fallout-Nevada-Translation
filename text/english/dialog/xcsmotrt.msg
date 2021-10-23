@@ -75,12 +75,12 @@
 {165}{}{Come on, Overseer! Please! Wake up!}
 
 {166}{}{Computer... Lower level...}
-{167}{}{Right, computer. What's next?}
+{167}{}{Right, computer. What about it?}
 
-{168}{}{Wipe... The drives... They... Won't... Use us... Only the Reaper...}
-{169}{}{Yeah, the Reaper will be a problem.}
+{168}{}{You... Will understand... Who they are. Who is... the Reaper...}
+{169}{}{I have a feeling that he will be a problem. What's next?}
 
-{170}{}{There is also... The president... On the lower... Knows too much... Kept alive...  Because... Of it...}
+{170}{}{There is... The president... On the lower... Kept alive... As a... Database...}
 {171}{}{Alright, consider it done. What about you?}
 
 {172}{}{I'm... A threat... Know too much...}

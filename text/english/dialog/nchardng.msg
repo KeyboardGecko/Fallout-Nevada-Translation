@@ -2,7 +2,7 @@
 {101}{}{You see Harding.}
 {102}{}{You see a resident of the slums. You'd want to say he's seen better days, but actually he looks like he's never seen a good day in his life.}
 
-{103}{}{Thank you, I really do feel a lot better. Although these pills make me feel kinda limp.}
+{103}{}{Thank you, I do feel a lot better. Although these pills make me feel kinda limpy.}
 {104}{}{Thank you for the support, friend. You're an example to live by.}
 
 #First dialogue
@@ -18,17 +18,17 @@
 {118}{}{Then sit tight. And not a peep. Got it?}
 {119}{}{Shucks, I'm going then. You can relax.}
 
-{120}{}{Sorry, it's just depression, nothing serious. I'm Harding, your local handyman. How can I help ya?}
+{120}{}{Sorry, it's just a depression, nothing serious. I'm Harding, your local handyman. How can I help you?}
 {121}{}{Boo-hoo, would you look at those tears! Are you a man or a rag, Harding?!}
 {122}{}{It sure looks serious, Harding. Can I do anything to help?}
 {123}{}{So long, Harding.}
 
-{124}{}{Hello there. I've pretty much recovered now. How can I help ya?}
+{124}{}{Hello there. I've pretty much recovered now. How can I help you?}
 {125}{}{You're right - I'm nothing but a rag. My neighbors laugh at me and I'm forced to do everyone's dirty work because I'm a pushover. No, I won't make any excuses. That's how the world works. They're wolves and I'm a sheep. That's just how it is.}
 {126}{}{Help? How? With the depression? I seriously doubt it. I often get the feeling of utter insignificance. I'm nothing but a rag. My neighbors laugh at me and I'm forced to do everyone's dirty work because I'm a pushover. No, I won't make any excuses. That's how the world works. They're wolves and I'm a sheep. That's just how it is.}
-{127}{}{Maybe your neighbors ought to be taught a lesson.}
+{127}{}{Maybe your neighbors should be taught a lesson.}
 {128}{}{Well, I don't think I can help here. I'll be off.}
-{129}{}{God no! Not at all! They can't be helped, nor it's needed. Everything is as it should be. Society is putting me in my place, I suppose.}
+{129}{}{Oh God, no! Not at all! They can't be helped, nor it's needed. Everything is as it should be. Society is putting me in my place, I suppose.}
 {130}{}{Why are you giving up so easily?}
 {131}{}{Well, I had to try. Bye, Harding, I'll see you later. Maybe.}
 {132}{}{One good man is teaching me how to live among people. He says that I can survive if I submit. It's not always easy.}
@@ -47,7 +47,7 @@
 {148}{}{}
 {149}{}{That's enough for now. I'll see you later.}
 
-{150}{}{Nobody cares about it except for us. It's a small gathering of people who want to find the strength to live on. We get together and talk about our problems and such. You wouldn't be interested... }
+{150}{}{Nobody cares about it except for us. It's a small group of people who want to try to find the strength to live on. We get together and talk about our problems and such. You wouldn't be interested... }
 {151}{}{Patrick put it all together. He's a good man, preaches the word of God and always listens to those in need. But he just knows what needs to be done. Other than that, we have no leader.}
 {152}{}{I won't say anything about that. We can't talk behind each other's backs.}
 
@@ -59,15 +59,15 @@
 {164}{}{Well fuck you too, you pathetic imbecile!}
 {165}{}{Fine, I'm going.}
 {166}{}{Is that so? Can I really be helped? Is there someone who can mend the crack in my pot?}
-{167}{}{Perhaps nobody can, but you can't keep suffering. I have anti-smoker tablets that dampen emotions. You'll feel better, trust me.}
+{167}{}{Perhaps nobody can, but you shouldn't suffer all the time. I have anti-smoker pills that dampen emotions. You'll feel better, trust me.}
 {168}{}{Of course! Your problems stem from your feelings of inferiority. If we resolve that, you'll be able to fix your other problems.}
 {169}{}{Hmm, I'll need to think about it. I'll be back soon.}
 {170}{}{I don't know how to fix your inferiority complex. Especially since it's so richly deserved.}
 {171}{}{Here's a ticket to Mom's nightclub. You should go there and relax.}
-{172}{}{You can't keep suffering. I have anti-smoker tablets that dampen emotions. You'll feel better, trust me.}
+{172}{}{You shouldn't suffer all the time. I have anti-smoker pills that dampen emotions. You'll feel better, trust me.}
 {173}{}{Maybe you're right. I'll try. If they can make me relax, then they'd do nicely with my next bout of depression.}
 {174}{}{Here, go out and enjoy your life, Harding.}
-{175}{}{I was afraid to go there my entire life, let alone see a naked body! And now I'm holding my ticket to happiness... It's a strange feeling. You know, once, I thought the flagellation that society subjects itself to is the only thing leading to madness. But, you're making me rethink that theory. I'll try and change myself. No, I *will* change myself. Yes! I'll do it! Thank you.}
+{175}{}{I was afraid to go there my entire life, let alone see a naked body! And now I'm holding my ticket to happiness... It's a strange feeling. You know, there was a time when I thought the flagellation that society subjects itself to is the only thing leading to madness. But, you're making me rethink that theory. I'll try and change myself. No, I *will* change myself. Yes! I'll do it! Thank you.}
 
 {176}{}{You found a solution for Harding's depression.}
 

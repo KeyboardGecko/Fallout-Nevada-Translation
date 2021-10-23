@@ -8,12 +8,12 @@
 
 {110}{}{AAAAHHHA-HA-HA-HA!!! Welcome to our apartments, mister! Sorry that we are not in uniform, there's nothing to put it on! Maybe mister could tickle us with a feather, hmm?}
 {111}{}{What the... A talking head?! Are you... Alive?}
-{112}{}{Mister is IDIOT!!! I'm not just a talking head! Before you is Mr. President himself! Where did this mister crawled from, if he can't distinguish the president from everyone else?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{112}{}{Mister is IDIOT!!! I'm not just a talking head! Before you is Mr. President himself! Where did this mister crawled from, if he can't distinguish the president from everyone else?!... What, my precious? Out of ass?!!! My precious, you should learn some manners!}
 {113}{}{Well, that's new.}
 {114}{}{What are you saying, my precious?! Yes, we agree. Such misters should be quartered. All who come out of ass must be exterminated!!!}
 {115}{}{Are you sure about that?}
 {116}{}{What? What does he say? He wants to scare us? Alright then. Let this citizen come out and lean on my ringer... I mean... I mean, my finger. What, my precious? I don't have a finger? Well... Then lean on my something. Let mister come out. We won't hurt him.}
-{117}{}{You promise? Can I trust you?}
+{117}{}{Do you promise? Can I trust you?}
 {118}{}{YES, YES, YES!!! We'll be good! Just let mister come closer! We haven't seen anyone in so long! We want to see mister!}
 {119}{}{Hm...}
 

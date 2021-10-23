@@ -1,6 +1,6 @@
 {100}{}{You see a stranger.}
 {101}{}{You see Solomon.}
-{102}{}{You see a strange-looking man with a short beard and black sunglasses.}
+{102}{}{You see a strange-looking man with a short beard wearing black sunglasses.}
 {103}{}{You see an experienced chem dealer. His eyes are hidden behind black sunglasses.}
 {104}{}{It's done. All that remains is to return the ring to Big Louie.}
 
@@ -9,7 +9,7 @@
 {106}{}{Stryker}
 {107}{}{A man with a brain tumor from the slums}
 {108}{}{That dealer by the hotel}
-{109}{}{Stay cool. You were recommended by a mutual friend. [Name him.]}
+{109}{}{Stay cool. You were recommended by a mutual friend. [Name him]}
 
 #Начало разговора и знакомство
 {110}{}{[The man watches you intently. His eyes are hidden by black sunglasses, but you still sense coldness behind them.] The hell do you need, stranger?}
@@ -23,12 +23,12 @@
 {117}{}{I'm looking to buy. What do you got?}
 {118}{}{Just looking around.}
 
-{119}{}{There's nothing like that around here. And even if - IF - there was, you're just some asshole off the street. What makes you worth the time?}
+{119}{}{There's nothing like that around here. And even if - IF - there was, you're just some asshole from the street. What makes you worth the time?}
 {120}{}{More than you'd think... Solomon.}
 {121}{}{I'm not like some street trash looking for a fix. You have a real opportunity here. Are you going to take it, or am I wasting my time?}
 {122}{}{Enough of this, I'm going.}
 
-{123}{}{[He stiffens and nervously adjusts his sunglasses] Solomon? Never heard of him. Who the hell is he, anyway?}
+{123}{}{[He stiffens and nervously adjusts his sunglasses] Solomon? Never heard of him. Who the hell is he?}
 {124}{}{ Stay calm. }
 {125}{}{ gave me your name.}
 {126}{}{Shut the hell up. Your only chance of surviving this is if I like you.}
@@ -45,8 +45,8 @@
 {136}{}{That's what I'm here for. Let's see what you've got for me.}
 {137}{}{What for? [he eyes you nervously] I don't need this sketchy shit. Get out of here.}
 {138}{}{Fine, I'm going.}
-{139}{}{[He backs up fast] Big Louie? Hold on, just wait a minute, let's talk about this! I didn't mean for what happened! I can make it up to him!}
-{140}{}{I'm listening, but this had better be VERY convincing.}
+{139}{}{[He backs up fast] Big Louie? Hold on, just wait a minute, let's talk about this! I didn't mean for that to happen! I can make it up to him!}
+{140}{}{I'm listening. You'd better be VERY convincing.}
 {141}{}{Talk to who? Big Louie's not here. All you have is me. And I'm not listening.}
 
 #Удаление пальца
@@ -56,7 +56,7 @@
 {145}{}{ Look, Louie wants you dead. Even if I don't kill you, you'll be looking over your shoulder for the rest of your life. But if I give him that ring on your finger, he won't ever think about you again. Do you understand what I'm saying?}
 {146}{}{Fuck off!}
 
-{147}{}{[He glances out the door, but no one is coming to save him] I can't tell you who my boss is. But I can say this - he says he won't be working for Big Louie anymore. It'll be like he's going on strike, you know? A man who will be STRIKING against Big Louie? [he glares at you over the tops of his sunglasses] You could say he STRIKES out against a lot of people. Like the ones that kill his best chem pushers, understand?}
+{147}{}{[He glances out the door, but no one is coming to save him] I can't tell you who my boss is. But I can say this - he says he won't be working for Big Louie anymore. It'll be like he's on a strike, you know? A man who will be STRIKING against Big Louie? [he glares at you over the tops of his sunglasses] You could say he comes as a STRIKING type to a lot of people. Like the ones that kill his best chem pushers, understand?}
 {148}{}{I've heard enough. }
 {149}{}{Fuck this. Get out of here!}
 {150}{}{You earn experience for getting Solomon's admission.}
@@ -64,7 +64,7 @@
 {152}{}{I'm planning to kill you and take your ring. Do I have to draw you a diagram?}
 {153}{}{We could cut off the finger. Better than your head, isn't it?}
 
-{154}{}{ Oh, simple as that, huh? [he starts sweating profusely] It's a part of me! You think I can just... Chop-chop, here you go?!}
+{154}{}{Oh, simple as that, huh? [he starts sweating profusely] It's a part of me! You think I can just... Chop-chop, here you go?!}
 {155}{}{You won't have to do a thing. I'll just cut it off myself.}
 {156}{}{Either you lose the finger or you lose your life. This is your last chance, Solomon.}
 {157}{}{Don't worry, Solomon, I'm a doctor. I can amputate it quickly and cleanly... Well, as cleanly as amputations get, anyway.}

@@ -53,7 +53,7 @@
 {141}{}{He knew how to use the device. Now I do. He did his job, and you're here. There's only one thing I need now, and you're going to give it to me.}
 {142}{}{I need the data to make bodies. This world is drowning in filth. The humanity needs to evolve.}
 {143}{}{So, you need a supply of pure bodies. For what? To keep experimenting? To "shape" humans as you see fit? You think it's for you to decide?}
-{144}{}{Look at me. I've lived far longer than anyone. I enhanced myself beyond what you are able to comprehend. I am the future. The owners of this vault didn't understand... But their reasoning meant nothing to me. So as yours. Now stop wasting my time.}
+{144}{}{Look at me. I've lived far longer than anyone. I am beyond what you are able to comprehend. The future. The owners of this vault didn't understand... But their reasoning meant nothing to me. So as yours. Now stop wasting my time.}
 
 {165}{}{You're pathetic. Time to end this.}
 {166}{}{Hey, we've only just began!...}
@@ -62,7 +62,7 @@
 
 {169}{}{I don't get it. Maybe I should ask another question.}
 {170}{}{That sounds rational... Mind telling me something else?}
-{171}{}{Do you really think you know better? Look at what you've become!}
+{171}{}{Maybe I will, maybe I won't. Let me ask another thing.}
 {172}{}{Damn, that actually sounds almost convincing. I need to know more.}
 {173}{}{What was that about souls?...}
 

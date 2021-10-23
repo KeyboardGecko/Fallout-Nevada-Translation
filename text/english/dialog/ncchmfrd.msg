@@ -1,5 +1,5 @@
 {100}{}{You see Nick Hauer.}
-{101}{}{You see a man in dark shades and an old duster, which obviously seen many miles of wasteland. He holds a walking cane in both hands.}
+{101}{}{You see a man in dark shades and an old duster, which obviously seen many miles of wasteland. He holds a cane in his hands.}
 {102}{}{I'll wait here.}
 {103}{}{Greetings!}
 
@@ -40,7 +40,7 @@
 
 #Оружие
 {140}{}{Are you planning to go all the way to San Francisco with just a cane to defend yourself?}
-{141}{}{[He shrugs with a sly smile] You think I'd need more than a cane to handle a few geckos? I'm tougher than I look, you know. I wouldn't suggest you test that.}
+{141}{}{[He shrugs with a sly smile] You think I'd need more than a cane to fend off some geckos? I'm tougher than I look, you know. I wouldn't suggest you test that.}
 {142}{}{I don't think that stick of yours can kill a gecko, and I've swung a few in my time. There's something special about it, right?}
 {143}{}{Hmm... You're pretty sharp, kid. [in one fluid motion, he pulls a blade from the cane; it looks a little dull, but perfectly balanced] It was made by my special inquiry, in San Francisco. I don't like to use it if I can avoid it, but sometimes, I don't have a choice. You tend to look like a target when you've got "just a cane". I still try to stay off the roads and away from settlements, if I can.}
 {144}{}{I'll be sure not to make that mistake. See you around.}

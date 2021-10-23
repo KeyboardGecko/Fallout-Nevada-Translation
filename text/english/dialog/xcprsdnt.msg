@@ -1,217 +1,221 @@
 {100}{}{You see a vessel filled with liquid.}
 {101}{}{You see a vessel containing the severed head inside.}
-{102}{}{You see a vessel with the severed head of former President of United States of America inside. Surprised?}
+{102}{}{You see a tank with the severed head of the former President of the United States of America. Surprised?}
 
 {103}{}{Away from my precious, you!}
 
 {104}{}{*Zzzzz*}
 {105}{}{Something is blocking the console!}
 {106}{}{Nothing useful.}
-{107}{}{You got your victory!}
+{107}{}{You are victorious!}
 {108}{}{Better hurry up and get out of here.}
 {109}{}{What the...}
-{110}{}{Aw shit!!!}
+{110}{}{Shit!!!}
 
 #¬ÚÓÓÈ ‰Ë‡ÎÓ„ ÔÓÒÎÂ ÔÓ·Â‰˚ Ì‡‰ ÚÛÂÎˇÏË:
-{111}{}{[Before you is a head with wires sticking out of the upper jaw. It silently looks at you, with one eye, in expectation]}
-{112}{}{You promised you wouldn't hurt me? Why didn't you keep your word? I believed you!}
-{113}{}{[The head is silent]}
+{111}{}{[In front of you is a head with wires sticking out of its upper jaw. It silently stares at you with one eye, in expectation.]}
+{112}{}{You promised you wouldn't hurt me. Why didn't you keep your word? I trusted you!}
+{113}{}{[The head is silent.]}
 {114}{}{Hey, don't pretend you can't hear me!}
 {115}{}{We... [crying] Mister is wrong!}
 {116}{}{Is that so? Why?!}
-{117}{}{We with my precious always wanted good and fought for justice. We didn't want! We swear! It was an accident! This will happen no more!}
-{118}{}{Sure it won't happen, because the turrets are now destroyed.}
-{119}{}{We didn't want! We didn't mean to!!! Let the mister forgive us! I demand that mister forgave us!}
-{120}{}{That's an idea. But how would I know that you won't kill me if I step out of that door, where the turrets are still working?}
-{121}{}{They themselves! It's not us! Honest presidential word!}
+{117}{}{My precious and I have always meant well and fought for justice. We didn't want to! We swear it! It was an accident! It won't happen again!}
+{118}{}{Of course it won't happen again, because the turrets are destroyed.}
+{119}{}{We didn't want it! We didn't mean to!! Let Mister forgive us! I demand that Mister forgive us!}
+{120}{}{That's a good idea. But how do I know you won't kill me when I walk out that door, where the turrets still work?}
+{121}{}{They're on their own! It is not us! Honest presidential word!}
 {122}{}{Yeah?}
-{123}{}{Yes! Yes! They wanted to kill mister themselves! But we didn't!}
-{124}{}{But you first said that you would kill me. How to understand this?}
+{123}{}{Yes! Yes! They wanted to kill Mister themselves! And we didn't want to!}
+{124}{}{Cut it. You WERE going to kill me, weren't you?}
 
-{125}{}{Mister have to forgive us! We were just joking! We wouldn't do it! For some reason, the others don't like our jokes. Never did! Why...}
-{126}{}{All right. I forgive you. Let's forget the past?}
-{127}{}{I don't believe you. Now open the big door so I can get the hell outta here!}
+{125}{}{Mister should forgive us! We were just kidding! We wouldn't really do that! Somehow the others don't like our jokes. They never did! Why...}
+{126}{}{All right, I forgive you. Let's forget the past, shall we?}
+{127}{}{I don't believe you. Now open the big door so I could get the hell outta here!}
 {128}{}{I need to think. I'll be back soon and tell you my decision.}
 {129}{}{}
 
 #œŒÀŒ∆»“≈À‹Õ€≈ –≈œÀ» » [ÔÓÒÎÂ ÓÚ‚ÂÚ‡ 126]:
-{130}{}{What does he say, precious? Oooh... Mister is very wise and very courteous! Mister President likes mister! Ah! If all subordinates were like that, right, precious?!}
-{131}{}{You've been mistreated?}
-{132}{}{Mister President doesn't want to remember the past. It's a bad memory. But the precious may recall how cruelly the President was treated the last time! They made him cry in public! In front of all subordinates! Mister had never seen such a pitiful sight!}
+{130}{}{What's he saying, precious? Ohhhh... Mister is very wise and very polite! Mister President likes Mister! Ah! If only all subordinates were like that, right, precious?!}
+{131}{}{Whay do you mean? You've been mistreated?}
+{132}{}{Mr. President does not want to remember the past. It's a bad memory. But precious remembers how cruelly the president was treated last time! They made him cry in public! In front of all his subordinates! Mister has never seen such a pitiful sight!}
 
 #œŒÀŒ∆»“≈À‹Õ€≈ –≈œÀ» », ÔÂ‚‡ˇ Ù‡Á‡, ËÒÚÓËˇ [ÔÓÒÎÂ 132]:
-{133}{}{Can precious tell about why mister President is here, and not on his legitimate post?}
-{134}{}{Precious, you're not gonna tell mister? Yes, mister don't need to know. But maybe mister wants a cup of tea? No, my precious, we have no time to deal with the tea party. Remember, how everyone abused cola? Everyone got their tongues blue. It was so ugly!}
-{135}{}{And what does Nuka-Cola has to with everything?}
+{133}{}{Can precious tell about why Mister President is here, and not on his legitimate post?}
+{134}{}{Precious, aren't you going to tell Mister? Yes, Mister doesn't need to know. But perhaps Mister would like a cup of tea? No, my precious, we don't have time to deal with the tea party. Do you remember how everyone abused Cola? Everyone's tongues turned blue. It was so ugly!}
+{135}{}{What does Nuka-Cola have to do with anything?}
 
-{136}{}{Quiet! Mister should not interrupt the President's speech! Where is the mister's manners?!}
-{137}{}{That's it, skull, enough nonsense! Open the damn door!!!}
+{136}{}{Quiet! The Mister must not interrupt the president's speech! Where are the Mister's manners?!}
+{137}{}{That's it, skull, enough of this nonsense! Open the damn door!!}
 {138}{}{Oh, I'm sorry. Keep going.}
 
-{139}{}{They did not know how dangerous this liquid was! They thought that they were just worried about the bad memories and doubts, but this was something different. They thought they control everything, that they control *everything*! Heh-heh-heh! The precious remembers, how we laughed at their naivety.}
-{140}{}{Naivety? And what was in this liquid, that made it such a threat?}
-{141}{}{Oh! mister wants to know? But can we tell him? Yes, now, when all these stupid people left our apartment, we *can* tell mister the truth.}
-{142}{}{Sure. I'm listening.}
-{143}{}{They thought that Cola is harmless. But they were delivered with a *special* supply. This supply... Hmm... Supply was intended to enhance the activity of their central nervous system and brain. Yes.}
-{144}{}{Interesting. So, Cola caused greater anxiety?}
-{145}{}{Ooo, yes! Mister guessed right. But Cola doesn't just intensified their emotional state, it intensified it *selectively*. Some time passed, and when the poison has seeped deep inside, they were not able to stop. ... They went crazy! They fought, they shouted, beat each other with chairs, and after we restricted access to Cola, they freaked out even more and began to fight to the death.}
-{146}{}{They even beat the President?}
+{139}{}{They didn't know how dangerous this liquid was! They thought they were just troubled by bad memories and doubts, but it was something different. They thought they were in control of everything! Hahaha! Precious remembers how we laughed at their naivety.}
+{140}{}{Naivety? Why? What was about that liquid?}
+{141}{}{Œh! Mister wants to know! But can we tell him? Yes, now that all those silly people have left our apartment, perhaps we can tell Mister the truth.}
+{142}{}{Of course. I'm listening.}
+{143}{}{They thought Cola was harmless. But their supply was special. This supply... um... This supply was intended to enhance their central nervous system and brain activity. Yes.}
+{144}{}{Interesting. So, the Cola made them more anxious?}
+{145}{}{Oooh, yes! Mister guessed right. But Cola didn't just intensify their emotional state, it intensified it *selectively*. It took a while, but when the poison seeped deeper inside, they couldn't stop... They went crazy! They were fighting, screaming, hitting each other with chairs, and after we restricted access to Cola, they freaked out even more and started killing each other.}
+{146}{}{Did they hurt you? Did they beat the president?}
 {147}{}{[Plaintively] Mister President does not want to remember how he was beaten.}
-{148}{}{So they did. Which is probably why you are here?}
-{149}{}{Yees. Since that time we are here. The precious is also with us since that day. We were considered too important to throw out into the trash can. We were re-assembled and revived.}
-{150}{}{Probably, for a good reason. And why, you say, you laughed at their naivety? Because you knew in advance, that the vault dwellers were test subjects?}
-{151}{}{Not everyone knew that they are experimented upon. On the contrary, they thought it's them who made experiments.}
-{152}{}{You mean the experiment with the vaults?}
-{153}{}{How did mister know all these secrets, precious? Is mister somehow related to the secret government circles?}
-{154}{}{What circles? No, I don't belong to them. But I know about the vault project. It has been known for a long time.}
-{155}{}{Oh... And again, mister President, was not notified! How is it possible, to work with such subordinates!?}
-{156}{}{That's for sure. So, maybe I will go now to punish your subordinates, so they knew how to behave in future?!}
-{157}{}{Oh, mister want to leave our apartment? So fast? Why so fast?}
-{158}{}{Because my family and fellow citizens are waiting for me. I need to get to them, otherwise the place will become the victim of numerous mutated animals and raiders. This is my civic duty. Mister President, after all, should care about his people. He would not gonna let them die, would he?}
-{159}{}{No no no!!! Precious said that mister wants to confuse us! Let mister shut up!!! Make him stop!!!}
-{160}{}{Come on! I *need* to go! The well-being of our people, so as yours and mine, depends on it.}
-{161}{}{SHUT UP! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Mister is very strict! Let mister leave our apartment. We don't want to hear him anymore!}
-{162}{}{That's right.}
+{148}{}{So, they did. Is that why you're like this?}
+{149}{}{Yeees. We've been like this ever since. Precious has been with us since that day, too. We were deemed too important to be thrown in the trash can. We have been reassembled and revived by the doctor, our good friend.}
+{150}{}{Probably for a reason. And why, you say, did you laugh at their naivety? Because you knew in advance that the occupants of the vault were test subjects?}
+{151}{}{They thought they were the ones doing the experiments. But in fact, they were also being experimented on.}
+{152}{}{They were doing the experiments... Does this mean that other vaults were also subjected to some kind of experimentation?}
+{153}{}{How did Mister find out about this, precious? Is Mister somehow connected to secret governmental circles?}
+{154}{}{What? No. Consider this a lucky guess. There's something unusual going on in my vault, too.}
+{155}{}{Once again, Mr. President, was not notified! How is it even possible to work with such subordinates?!}
+{156}{}{Right. So, how about I go punish your subordinates now so that they behave in the future?}
+{157}{}{Oh, Mister wants to leave our apartment? So soon? Why so soon?}
+{158}{}{Because my family and fellow citizens are waiting for me. I have to get back to them, or my home will fall victim to the attacks of the many mutant animals and raiders. It is my civic duty. After all, Mr. President is supposed to take care of his people. He's not going to let them die, is he?}
+{159}{}{No, no, no!!! Precious says Mister's trying to confuse us! Make Mister shut up!!! Make him stop!!!}
+{160}{}{Come on! I NEED to go! The well-being of my people depends on it, as well as yours and mine.}
+{161}{}{SHUT UP!!! I DON'T WANT IT!!! KEEP IT QUIET!!! [sobbing] Mister is very cruel! Let Mister leave our apartment. We don't want to listen to him anymore!}
+{162}{}{All right then.}
 
 #œŒÀŒ∆»“≈À‹Õ€≈ –≈œÀ» », ‚ÚÓ‡ˇ Ù‡Á‡, ıÓ˜ÂÚ ÛÈÚË [ÔÓÒÎÂ 132]:
 {163}{}{Mister doesn't want to see. Mister just wants to get out of here.}
-{164}{}{But... [looks like is confused] But... Is mister bored with our company? Why mister wants to leave so quickly?}
-{165}{}{Because my people are waiting for me - my family, my fellow citizens. I need to get to them, otherwise the place will become the victim of numerous mutated animals and raiders. This is my civic duty.}
+{164}{}{But... [looks like is confused] But... Is Mister bored with our company? Why does Mister want to leave so quickly?}
+{165}{}{Because my people are waiting for me - my family, my fellow citizens. I have to get back to them, or my home will fall victim to the attacks of the many mutant animals and raiders. It is my civic duty.}
 {166}{}{Civic duty? Mister President has already forgotten what civic duty is... Oh...}
 {167}{}{Does President remembers his national anthem?}
-{168}{}{No. mister President doesn't remember! Doesn't remember!!!}
-{169}{}{What's painted on the national emblem of America?}
-{170}{}{Mister President does NOT REMEMBER!!!}
-{171}{}{Yes, mister President have forgotten many things. Maybe it's time to get out and see the world for what it is now?}
-{172}{}{NO, NO, NO!!! It's dangerous outside! Precious said that mister wants to confuse us! Make mister shut up!!! We're not getting out, mister is not getting out! There's dangerous!!! Dangerous!!!}
-{173}{}{Yes, Yes, Yes!!! Mister President wants to go outside! He wants to watch! Yes! mister will help us, right?}
-{174}{}{Mister President wants to remember? Maybe we will look for the anthem's lyrics in the in the network of the vault, and sing it together?}
-{175}{}{NO, NO, NO!!! Precious said that mister wants to confuse us! Make mister shut up!!! Shut up!!!}
-{176}{}{Yes, Yes, Yes!!! Mister President wants to remember! Attention!! Rise up! Raise heads! Homeland!! Make America!! Great again!! But... What?.. no! Precious said that mister wants to confuse us! Make mister shut up!!! Shut up!!!}
-{177}{}{But you do remember the days when you were human. You cannot lose your humanity, even after your tragedy. Remember about the responsibility, let me go, for the sake of your people for which you fought and for which you suffered.}
-{178}{}{SHUT UP! I! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Mister is very strict! Let mister leave our apartment. We don't want to hear him anymore!}
-{179}{}{That's right.}
-{180}{}{Well, maybe mister President will remember *his* presidential duty and let go of his servant - the one, thanks to which he was put to this post.}
-{181}{}{Mister President remembers, honor... Freedom... Independence...}
+{168}{}{No. Mister President doesn't remember! He doesn't remember!!!}
+{169}{}{What is painted on America's national flag?}
+{170}{}{Mister President DOES NOT REMEMBER!!!}
+{171}{}{Yes, Mr. President has forgotten many things. Maybe it's time to come out and look at the world as it is now?}
+{172}{}{NO, NO, NO!!! It's dangerous outside! Precious says Mister is trying to confuse us! Make Mister shut up!!! We're not coming out, Mister is not coming out! It's dangerous out there!!! Dangerous!!!}
+{173}{}{Yes, Yes, Yes!!! Mr. President wants to go outside! He wants to see it! Yes! Mister will help Mr. President, right?}
+{174}{}{Does Mr. President want to remember? Maybe we can look up the lyrics of the anthem on the vault network and sing it together?}
+{175}{}{NO, NO, NO!!! Precious says Mister is trying to confuse us! Make Mister shut up!!! Shut up!!!}
+{176}{}{Yes, Yes, Yes!!! Mister President wants to remember! Attention!! Rise up! Raise heads! Homeland!! Make America!! Great again!! But... What?.. No!! Precious says Mister is trying to confuse us! Make Mister shut up!!! Shut up!!!}
+{177}{}{But you do remember the days when you were human. You have not completely lost your humanity, even after your tragedy. Remember your responsibilities, let me go, for the sake of your country, your people. For whom you fought and for whom you suffered.}
+{178}{}{SHUT UP!!! I DON'T WANT IT!!! KEEP IT QUIET!!! [sobbing] Mister is very cruel! Let Mister leave our apartment. We don't want to listen to him anymore!}
+{179}{}{All right then.}
+{180}{}{Well, maybe Mr. President will remember his presidential duty and let his servant go?}
+{181}{}{Mr. President remembers honor... Freedom... Independence...}
 {182}{}{Well?}
-{183}{}{NO, NO, NO!!! Precious said that mister wants to confuse us! Make mister shut up!!! Shut up!!!}
-{184}{}{SHUT UP! I! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Mister is very strict! Let mister leave our apartment. We don't want to hear him anymore!}
-{185}{}{That's right.}
+{183}{}{NO, NO, NO!!! Precious says Mister is trying to confuse us! Make Mister shut up!!! Shut up!!!}
+{184}{}{SHUT UP!!! I DON'T WANT IT!!! KEEP IT QUIET!!! [sobbing] Mister is very cruel! Let Mister leave our apartment. We don't want to listen to him anymore!}
+{185}{}{All right then.}
 
 #Õ≈√¿“»¬Õ€≈ –≈œÀ» », Ì‡˜‡ÎÓ:
-{186}{}{What he says, precious? Oooh... Mister didn't want to accept our hospitality. And how mister will feel about little boom in Korea? What, precious? Ah, yes... We've ran out of bombs... Oh well. We put forward a petition to the Council, to lock the doors and to not let go of inhospitable mister.. FOREVER!!! [crying] We want to smoke a cuban cigar so badly... Don't we, precious? Let someone bring a cigar!}
-{187}{}{That so? What if I just kill you?}
-{188}{}{Ugh!!! Hahaha! Mister decided to make a joke! We like it, don't we, precious?!}
-{189}{}{Mister became furious from your mumblings! Open the gate or I'll break this glass!}
-{190}{}{Wow! Mister is furious! We always liked misters this stubborn.}
-{191}{}{Stop raving, you, skull!}
+{186}{}{What's he saying, precious? Oooh... Mister doesn't want to accept our hospitality. And how would Mister feel about a little boom in Korea? What, precious? Ah, yes... We're out of bombs... Oh, well. We're petitioning the Council to lock the doors and leave rude Mister here, with us... FOREVER!!! [crying] We want to smoke a Cuban cigar so badly... Don't we, precious? Let someone get us a cigar!}
+{187}{}{So that's how it is? What if I just kill you?}
+{188}{}{Ugh!!! Hahaha! Mister made a joke! We certainly liked it, didn't we, precious?!}
+{189}{}{Mister is furious with your mumbling! Open the gate or I'll break this glass!}
+{190}{}{Wow! Mister is furious! We always liked such stubborn Misters.}
+{191}{}{Stop your raving, you skull!}
 {192}{}{AH-ha-HA-HAH!!!}
-{193}{}{[He won't just release you, you need a strong argument]}
+{193}{}{[He won't just let you go. You need a strong argument.]}
 
 #Õ≈√¿“»¬Õ€≈ –≈œÀ» », ÔÂ‚‡ˇ ‚ÓÁÏÓÊÌÓÒÚ¸ - ‰ËÌ‡ÏËÚ:
-{194}{}{Enough of it!!! I'll put the dynamite here, and you will finally get some fresh air!}
-{195}{}{Arch? [his eye looks on your dynamite in fear] Mister is joking, right? Mister is joking? It's not a real bomb! Let mister blow it elsewhere! We order him! We impose a veto on mister's decision!}
-{196}{}{You stupid, you can't veto anything. Not anymore. [continue placing the dynamite]}
-{197}{}{But... Precious, what are we going to do? Mister is not kidding! Mister is ordered to assassinate us! Maybe mister will accept a counter-offer? 50% more over the amount! We're not kidding, mister.}
-{198}{}{Hmm. It would be interesting.}
-{199}{}{We got the money. We will pay to mister if he put the red thing in that container.}
-{200}{}{I will, if you pay me 1.000.000}
-{201}{}{I will, if you'll pay me 500,000}
-{202}{}{I will, if you pay me 50,000}
-{203}{}{I will, if you pay me 5.000}
-{204}{}{Weeee-haaa! We have tricked mister! Ha-ha!!! Mister is a patsy! Perhaps mister came from Canada? Well. Guards! Walk our guest to the door!}
-{205}{}{Hey! I was really fooled by severed head!}
-{206}{}{I'm sick of your nonsense. I start the bomb.}
-{207}{}{No! Let mister not hurry. We need to think! The precious also wants to think!}
-{208}{}{You don't have time. You decide - either you open that door, or I will blow you up and you'll stop to control it.}
-{209}{}{[Ignore and run the clockwork]}
-{210}{}{Okay. We make a decision. We, with the precious, command to open the door. Yes. Let mister take his red thing and go away... [groans]}
+{194}{}{Enough!!! I'll put the dynamite right here, and you'll finally get some fresh air!}
+{195}{}{Ack? [his lonely eye stares at your dynamite in fear.] Mister is joking, right? Mister is joking! It's not a real bomb! Let Mister blow it elsewhere! We order him! We impose a veto on Mister's decision!}
+{196}{}{Stupid head, you can't veto anything. Not anymore. [continue planting the dynamite]}
+{197}{}{But... Precious, what are we going to do? Mister is not joking! Mister is ordered to assassinate us! Maybe Mister will accept a counter-offer? 50% more over the amount! We're not joking too, Mister.}
+{198}{}{Hmm. Sounds interesting.}
+{199}{}{We have money. We'll pay mister if he puts that red thing in this container.}
+{200}{}{I will do it if you pay me 1,000,000.}
+{201}{}{I will do it if you'll pay me 500,000.}
+{202}{}{I will do it if you pay me 50,000.}
+{203}{}{I will do it if you pay me 5,000.}
+{204}{}{Yeeee-haaaw! We have tricked Mister! Ha-ha!!! Mister is a patsy! Perhaps Mister is from Canada? Oh, well. Guards! Show our guest to the door!}
+{205}{}{Hey! I was really fooled by a severed head!}
+{206}{}{I'm sick of your nonsense. I'm setting the bomb off.}
+{207}{}{No! Let Mister not hurry! We need to think! Precious wants to think too!}
+{208}{}{You have no time. Make your decision: either you open this door, or I'll blow you up and you'll stop controlling it.}
+{209}{}{[Ignore the head and start the timer]}
+{210}{}{Okay. We make a decision. We, with precious, order the door to be opened. Yes. Let Mister take his red thing and go away... [groans]}
 {211}{}{That's it, I'm going.}
 
 #Õ≈√¿“»¬Õ€≈ –≈œÀ» », ‚ÚÓ‡ˇ ‚ÓÁÏÓÊÌÓÒÚ¸ - ÔÓ‚Ó‰‡:
-{212}{}{I'll do something simpler - open this box and pull out some wires.}
-{213}{}{What? But... But... The precious, is mister authorized to go into that box with wires?}
-{214}{}{No. But as you can see, I still do.}
-{215}{}{Mister can't cause us pain! Mister has no right!}
-{216}{}{I don't. But I don't care.}
-{217}{}{Arrgh... We were President! We *cannot* be hurt!}
+{212}{}{I'm going to do something simpler - open this box and pull out some wires.}
+{213}{}{What? But... But... Precious, is Mister authorized to get into that box with wires?}
+{214}{}{No. But, as you can see, I do it anyway.}
+{215}{}{Mister can't hurt us! Mister has no right!}
+{216}{}{Maybe. But I don't care.}
+{217}{}{Arrgh... We are the president! We are not allowed to be hurt!}
 {218}{}{Yeah. [open the controller]}
-{219}{}{But precious, mister is not subjected to our laws! What do we do?!}
-{220}{}{[Snatch a few inconsequential wires]}
+{219}{}{Precious, Mister is not subjected to our laws! What do we do?!}
+{220}{}{[Rip out a few insignificantly-looking wires]}
 {221}{}{Ow-ow-ow-ow!!! Mister can't do this!}
 {222}{}{[Short a couple of wires]}
 {223}{}{Ughh!! Mister hurts us very much!}
 {224}{}{[Do it again]}
 {225}{}{No! Mister must stop!}
-{226}{}{[And again]}
-{227}{}{AHHH! Make mister stop! Stop!!!}
-{228}{}{[Rip out the main hose containing a nutrient liquid]}
-{229}{}{[Short circuiting harder for control]}
-{230}{}{If you don't open the door, I will continue to torment you.}
-{231}{}{Mister is very cruel! We have done so much good, but mister is hurting us! Precious, it's not fair! [crying]}
+{226}{}{[Do it again]}
+{227}{}{AHHH! Make Mister stop! Stop!!!}
+{228}{}{[Rip out the hose with a nutrient liquid]}
+{229}{}{[Short circuit harder]}
+{230}{}{If you won't open the door, I will continue to torment you.}
+{231}{}{Mister is very cruel! We have done so much good, but Mister hurts us! Precious, that's not fair! [crying]}
 {232}{}{Shut up and open the door!}
-{233}{}{[Short circuiting again, this time stronger]}
-{234}{}{NO!!! NO!!! MOTHER F!!!.. [looks like the brain of the poor fellow could not stand it]}
+{233}{}{[Short circuit again, this time stronger]}
+{234}{}{NO!!! NO!!! MOTHERF-!!!... [it seems that the poor fellow's brain couldn't take it.]}
 
 #Õ≈√¿“»¬Õ€≈ –≈œÀ» », ÚÂÚ¸ˇ ‚ÓÁÏÓÊÌÓÒÚ¸ - ÍÛÍÎ‡:
-{235}{}{No! Uh... The President is against the aggressive actions! The President insists on a peaceful solution to the issue!}
-{236}{}{I also insist on a peaceful solution. So, maybe, you'll let me go peacefully?}
-{237}{}{No, mister has not yet fulfilled his duties as a citizen. Mister can't just walk away. Mister President is not in the mood, but...}
-{238}{}{Now I tear off his left leg.}
-{239}{}{NOOO!!! The President will miss the precious! It is not necessary to hurt precious! My precious! My precious! Hang in there! The police is on its way!}
+{235}{}{No! The President is against aggressive actions! The President insists on a peaceful solution to the issue!}
+{236}{}{I also insist on a peaceful solution. So, maybe you'll let me go peacefully?}
+{237}{}{No, Mister has not yet fulfilled his duties as a citizen. Mister can't just walk away. Mister President is not in the mood. No.}
+{238}{}{Now I'm gonna tear off his left leg.}
+{239}{}{NOOO!!! The President misses the precious one! No need to hurt precious! My precious! My precious! Hang in there! The police is on its way!}
 {240}{}{You idiot, soon the leg of your precious will fly into the far corner of the room!}
-{241}{}{NOOOO!!! Why mister is so cruel! Why?!! For years we've been with the precious in a good relationship! No one has ever been so close! Let mister be sensible and bring back the precious! The President would even stand up to his knees if he had ones! Honestly!}
-{242}{}{[Tear the doll and throw it in all the sides]}
-{243}{}{NO!!! NO!!! MOTHER F!!!.. [looks like the brain of the poor fellow could not stand it]}
-{244}{}{So, what is the decision the President makes in such a difficult situation? Isn't it better to give up the guest for your own benefit?}
-{245}{}{Yes!!! Mister is right! We let mister go, but the precious must stay here!!!}
+{241}{}{NOOOO!!! Why Mister is so cruel! Why?!! For many years precious and I have been close! No one has ever been so close! May Mister be sensible and bring back precious! The President would even get down on his knees if he had them! Honestly!}
+{242}{}{[Tear up the doll and throw it in all directions]}
+{243}{}{NO!!! NO!!! MOTHERF-!!!... [it seems that the poor fellow's brain couldn't take it.]}
+{244}{}{So, what decision does the President make in such a difficult situation? Isn't it better to give up a guest for his own benefit?}
+{245}{}{Yes!!! Mister is right!! We'll let Mister go, but precious must stay here!!!}
 {246}{}{}
 {247}{}{[Stand back and watch]}
-{248}{}{I think that's mister President's doll. What if I tear off a few limbs?}
+{248}{}{I think it's Mr. President's doll. What if I tear off a few limbs?}
 {249}{}{}
 
-{250}{}{AAAHHHHHH-HA-HA-HA!!! Welcome to our apartment, mister! Sorry we are not in uniform, nothing to wear it on! Maybe mister could tickle us with a feather, m?}
-{251}{}{Uh... A talking head?! Is it real?! And you... You're alive?}
-{252}{}{Mister is IDIOT!!! Mister President is alive! Where did this mister crawled from, if he can't distinguish alive head from dead skull?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
-{253}{}{Well, that's not what I meant...}
-{254}{}{What do you say, precious?! Yes, we agree. Such misters should be decimated. Everyone, who has come out of ass - all of them must be DESTROYED!!!}
-{255}{}{Are you sure this is a good idea?}
-{256}{}{What? What is he saying, precious? He wants to scare us? Well. Let the citizen come out and cling to my eyeglasses... I mean... I wanted to say, to my finger. What, my precious? I have no finger? Well, then... Then to my something. Let mister come out. We won't touch him.}
+{250}{}{AAAAHHHA-HA-HA-HA!!! Welcome to our apartments, Mister! Sorry that we are not in uniform, there's nothing to put it on! Maybe Mister could tickle us with a feather, hmm?}
+{251}{}{What the... A talking head?! Are you... Alive?}
+{252}{}{Mister is IDIOT!!! I'm not just a talking head! Before you is Mr. President himself! Where did this Mister crawled from, if he can't distinguish the president from everyone else?!... What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{253}{}{Well, that's new.}
+{254}{}{What are you saying, my precious?! Yes, we agree. Such Misters should be quartered. All who come out of ass must be exterminated!!!}
+{255}{}{Are you sure about that?}
+{256}{}{What? What does he say? He wants to scare us? Alright then. Let this citizen come out and lean on my ringer... I mean... I mean, my finger. What, my precious? I don't have a finger? Well... Then lean on my something. Let Mister come out. We won't hurt him.}
 {257}{}{Do you promise? Can I trust you?}
-{258}{}{Yes, Yes, YES!!! We'll be nice! Just let mister come closer! We haven't seen anyone for a long time! We want to see the mister!}
+{258}{}{Yes, Yes, YES!!! We'll be good! Just let Mister come closer! We haven't seen anyone in so long! We want to see Mister!}
 {259}{}{Hmm...}
 
-{260}{}{You were severely electrocuted while disabling!!! This is the work of the head!}
+{260}{}{You were severely electrocuted! It's the shenanigans of the head!}
 {261}{}{Ah! Damn!!!}
-{262}{}{And you still managed to do what you tried to!}
-{263}{}{Broken tank}
-{264}{}{All that remains of the former President - the pieces of green brain and a little of meat.}
+{262}{}{And you still managed to do what you were trying to do!}
+{263}{}{A broken tank.}
+{264}{}{All that remains of the former President - little green pieces of brain and meat.}
 
-{270}{}{Mister President! On the surface now established quite a normal life. There is no threat of falling bombs, and quite tolerable level of radiation. You have nothing to fear!}
-{271}{}{You spoilsport...}
-{272}{}{But... How we can trust these doubtful words?!}
-{273}{}{Just for the fact, that before you stands a person from the outside world, who easily entered through the front door. Isn't that the evidence?}
-{274}{}{Oh, that's right... But we're not sure yet. And... And why should we go out?}
-{275}{}{Don't you want to look at the outside world? Well, at least once? Look, you can come back, if you won't like it. It's so easy!}
-{276}{}{Hahaha! Mister is right! And you, precious, what do you say? The precious also wants to see the outside world? Yes, we'll do it! We'll see, we will be brave!}
+{270}{}{Mr. President, life on the surface is now quite normal. There is no threat of bombs falling, and radiation levels are quite tolerable. You have nothing to fear!}
+{271}{}{You spoiled little...}
+{272}{}{But... How can we trust these doubtful words?!}
+{273}{}{Simply because of the fact that there is a person from the outside world standing in front of you, who entered easily through the front door. Isn't that proof?}
+{274}{}{Oh, right... But we're still not sure. And... Why do we have to go out?}
+{275}{}{Don't you want to take a look at the outside world? Just once? Listen, you can always go back if you don't like it. It's so easy!}
+{276}{}{Hahaha!! Mister is right! And you, precious, what do you say? Precious also wants to see the outside world? Yes, we will do it!! We will see, we will be brave!!}
 {277}{}{What determination!}
-{278}{}{Okay!  Advisors! WE SOLEMNLY ANNOUNCE THE OPENING OF OUR VAULT AND START OF THE PROCESS OF REBUILDING AMERICAN SOCIETY AFTER A NUCLEAR WAR! Begin the procedure of "Sarcophagus" directive!}
-{279}{}{Wow! Sounds cool! It is better to step aside and see...}
+{278}{}{All right! Counselors! WE SOLEMNLY ANNOUNCE THE OPENING OF THE GOVERNMENT VAULT AND THE BEGINNING OF THE PROCESS OF REBUILDING AMERICAN SOCIETY AFTER NUCLEAR WAR! Initiate the procedures of the Sarcophagus Directive!}
+{279}{}{Sounds cool. Better to step aside and watch...}
 
-{280}{}{*Ladies and gentleman! It's time to get our asses off the monitors! IN THE NAME OF AMERICA!!!*}
-{281}{}{You manage to convince the head to come to the surface! And where will it go now?}
-{282}{}{All right!!! Now I'll place this Cordex here, and you'll find yourself getting some fresh air!}
+{280}{}{Ladies and gentleman! It's time to get our asses off the monitors! IN THE NAME OF AMERICA!!!}
+{281}{}{You manage to convince the head to go out to the surface! Where will it go now?}
+{282}{}{All right!! Now I'll put this cordex in here and you'll get some fresh air!!!}
 
 #Female character
-{1108}{}{And for this I made such a long way?!}
-{1112}{}{You promised you wouldn't hurt me? Why didn't you keep your word? I believed you!}
+{1108}{}{Better hurry up and get out of here.}
+{1112}{}{You promised you wouldn't hurt me. Why didn't you keep your word? I trusted you!}
 {1115}{}{We... [crying] Miss is not right!}
-{1119}{}{We didn't want! We didn't mean to!!! Let the miss forgive us! I demand that miss forgave us!}
-{1123}{}{Yes! Yes! They wanted to kill miss! But we didn't!}
-{1125}{}{Miss have to forgive us! We were just joking! We wouldn't do it! For some reason, the others don't like our jokes. Never did! Why...}
-{1127}{}{I don't believe you. Now open the big door so I can get the hell outta here!}
-{1130}{}{What does she say, precious? Oooh... Miss is very wise and very courteous! Mister President likes Miss! Ah! If all subordinates were like that, right, precious?!}
-{1132}{}{Mister President doesn't want to remember the past. It's a bad memory. But the precious may recall how cruelly they treated the President last time! They made him cry in public! In front of all subordinates! Miss had never seen such a pitiful sight!}
+{1119}{}{We didn't want it! We didn't mean to!! Let Miss forgive us! I demand that Miss forgive us!}
+{1123}{}{Yes! Yes! They wanted to kill Miss themselves! And we didn't want to!}
+{1125}{}{Miss should forgive us! We were just kidding! We wouldn't really do that! Somehow the others don't like our jokes. They never did! Why...}
+{1127}{}{I don't believe you. Now open the big door so I could get the hell outta here!}
+{1130}{}{What's she saying, precious? Ohhhh... Miss is very wise and very polite! Mister President likes Miss! Ah! If only all subordinates were like that, right, precious?!}
+{1132}{}{Mr. President does not want to remember the past. It's a bad memory. But precious remembers how cruelly the president was treated last time! They made him cry in public! In front of all his subordinates! Miss has never seen such a pitiful sight!}
+
+#YOU ARE HERE
+
+
 {1134}{}{Precious, you're not gonna tell? Yes, Miss don't need to know. But maybe Miss wants a cup of tea? No, precious, we have no time to deal with the tea party. Remember how everyone abused cola? Everyone got their tongues blue. It was so ugly!}
 {1136}{}{Quiet! Let miss not interrupt the President's speech! Where is her manners?!}
 {1141}{}{Oh! Miss wants to know? But can we tell her? Yes, now, when all these stupid people left our apartment, we *can* tell Miss the truth.}
@@ -223,7 +227,7 @@
 {1163}{}{Miss don't want to see us. Miss just wants to get out of here.}
 {1164}{}{But... [looks like he is confused] But... Is miss bored with our company? Why miss wants to leave so quickly?}
 {1172}{}{No no no!!! It's dangerous outside! Precious said that miss wants to confuse us! Make miss shut up!!! We're not getting out, this won't work! It's dangerous!!! Dangerous!!!}
-{1173}{}{Yes, Yes, Yes!!! mister President wants to go outside! He wants to watch! Yes! Miss will help us, right?}
+{1173}{}{Yes, Yes, Yes!!! Mister President wants to go outside! He wants to watch! Yes! Miss will help us, right?}
 {1175}{}{No no no!!! Precious said that miss wants to confuse us! Make miss shut up!!! Shut up!!!}
 {1176}{}{Yes, Yes, Yes!!! Mister President wants to remember! Attention!! Rise up! Raise heads! Homeland!! Make America!! Great again!! But... What?.. no! Precious said that miss wants to confuse us! Make miss shut up!!! Shut up!!!}
 {1178}{}{SHUT UP! I! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Miss is very strict! Let miss leave our apartment. We don't want to hear her anymore!}
@@ -252,7 +256,7 @@
 {1244}{}{So what is the decision the President will make in such a difficult situation? Isn't it better to give up the guest for your own benefit?}
 {1245}{}{Yes!!! Miss is right! We let miss go, but the precious must stay here!!!}
 {1250}{}{AAAHHHHHH-HA-HA-HA!!! Welcome to our apartment, miss! Sorry we are not in uniform, nothing to wear it on! Maybe miss could tickle us with a feather, m?}
-{1252}{}{Miss is IDIOT!!! Mister President is alive! Where did this Miss crawled from if she can't distinguish alive head from dead skull?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{1252}{}{Miss is IDIOT!!! Mister President is alive! Where did this miss crawled from if she can't distinguish alive head from dead skull?!... What, my precious? Out of ass?!!! My precious, you should learn some manners!}
 {1253}{}{Well, that's not what I meant...}
 {1254}{}{What you say precious?! Yes, we agree. Such misses should be decimated. Everyone who has come out of ass - all of them must be DESTROYED!!!}
 {1256}{}{What? What is she saying, precious? She wants to scare us? Well. Let the citizen come out and cling to my eyeglasses... I mean... I wanted to say, to my finger. What, my precious? I have no finger? Well, then... Then to my something. Let miss come out. We won't touch her.}
