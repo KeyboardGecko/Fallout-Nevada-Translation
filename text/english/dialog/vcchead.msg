@@ -9,7 +9,7 @@
 {114}{}{[Contemptuously] You monkey... How such a pitiful thing like you could make so much trouble? You weren't created for this. Ha, even at the base everyone believes their "health insurance" has no ability to comprehend their existence, let alone speak and think for themselves.} 
 {115}{}{"Health insurance"? Is this how you call us?}
 
-{116}{}{Yes, we do, and that's what you are. Still have trouble accepting it? That's a shame. I was beginning to hope that you would say something meaningful, but it seems that your brain is too small for that.}
+{116}{}{Yes, we do, and that's what you are. Still have trouble accepting it? That's a shame. I was beginning to hope that you would say something meaningful, but it seems that your brain is too small for that. }
 {117}{}{What do you want?}
 {118}{}{Right, let's get down to business. We know that Bayham tried to get his hands on the ACS component, but was unable to do it, thanks to you. At one hand, I'm grateful. We couldn't handle the son of a bitch, despite him having a damn high opinion of himself. If he had seized the control of the cloning facility, Nevada would have become his playground.}
 {119}{}{And?}
@@ -17,7 +17,7 @@
 {121}{}{There's always a choice. I can destroy the device and the whole base with it and stop the cloning process forever.}
 {122}{}{I would anyway, but what are you going to do?}
 {123}{}{Destroy? Ha! Your brain is not suited to handle such a complicated task. The device that you're hiding is basically a hard drive structurally based on refractory crystals. Do you even UNDERSTAND what REFRACTORY means? In order to destroy it, you need a temperature level you can get only in a lab with proper equipment. Just hand it over - and everything will be fine.}
-{124}{}{All other subjects like you have been isolated, as they should have been from the start. We will leave some of our personnel here to control the situation in the vault. Discipline and order - that is the thing most needed in your little underdeveloped zoo.}
+{124}{}{All other subjects like you have been isolated, as they should have been from the start. We will leave some of our personnel here to control the situation. Your Overseer is dead, which means that the deal we had with him is off... It was just a bad joke, anyway. Discipline and order - that is the thing most needed in your little underdeveloped zoo. And that's the way it's going to be from now on.}
 {125}{}{I don't have the component.}
 {126}{}{Fine, I'll bring the component.}
 {127}{}{You don't have it? Then find it and bring it to me, you stupid creature!}
