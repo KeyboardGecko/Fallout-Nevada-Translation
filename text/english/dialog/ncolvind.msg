@@ -31,15 +31,15 @@
 {133}{}{That's a pretty dumb idea, but it's your choice. If you get to your tribe in one piece, maybe we'll meet again. Goodbye.}
 {134}{}{Before leaving, Gishiyash points out his tribe's location on your Pip-boy map.}
 
-{140}{}{The guards are dead. Get out of here, faster.}
+{140}{}{The guards are dead. Get out of here, fast.}
 {141}{}{Me no be leaving. This collar be killing me if me be going too far.}
 {142}{}{I turned off the collars. Take it off and climb over the fence.}
-{143}{}{I'll help you get it off.}
+{143}{}{I'll help you to get it off.}
 {144}{}{This be changing things.}
 {145}{}{[You easily disarm the collar.] }
 {146}{}{[The slave defiantly tears off the collar.] }
 {147}{}{Me be thanking you, but me must be asking you for another favor.}
-{148}{}{[You carefully inspect the device. You come to the realization that it is well beyond your abilities.]}
+{148}{}{[You carefully inspect the device. You conclude that disarming it is way beyond your abilities.]}
 {149}{}{Sorry, I need to check something out first. I'll be back.}
 
 #Clothes for the escape

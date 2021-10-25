@@ -4,7 +4,7 @@
 #Диалог
 {110}{}{Well, well. Here comes the one responsible for all that happened. Just in time. It's good that we didn't have to chase you all over the state.}
 {111}{}{Me? You must be mistaken. Who are you people?}
-{112}{}{I'm asking the questions here! I am Colonel Knight of the United States Government Armed Forces. Now I'm in charge. Your actions in the wasteland, and especially in the government vault, have caused quite a stir. We're going to have to do a lot of work to make it right.}
+{112}{}{I'm asking the questions here! I am Colonel Knight of the United States Government Armed Forces. Now I'm in charge. Your actions in the wasteland, and especially in the government vault, have caused quite a stir. We'll have to do a lot of work to fix the situation.}
 {113}{}{A colonel... What an uncommon thing these days.}
 {114}{}{[Contemptuously] You monkey... How such a pitiful thing like you could make so much trouble? You weren't created for this. Ha, even at the base everyone believes their "health insurance" has no ability to comprehend their existence, let alone speak and think for themselves.} 
 {115}{}{"Health insurance"? Is this how you call us?}

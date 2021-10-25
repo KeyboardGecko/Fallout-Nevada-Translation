@@ -20,34 +20,34 @@
 
 {123}{}{[The boy looks around carefully] Why... Why do you wanna know?}
 {124}{}{Well, I'm worried about them. We used to know each other...}
-{125}{}{Look what I've got, Billy - a sweet candy. *More* than sweet. You know what I mean, don't you?}
+{125}{}{Look what I've got, Billy - a sweet candy. It's not only sweet. You know what I mean, don't you?}
 {126}{}{Just tell me what you know and I'll give you something nice.}
 {127}{}{Forget it, I'll figure everything out on my own.}
 
 {128}{}{[He narrows his eyes] Are you lying to me? I'd remember if they knew you and I don't think I ever saw you with them.}
 {129}{}{Don't worry about it.}
-{130}{}{You... You look friendly. Not like those gangsters around town. They make me shiver when they look at me...}
+{130}{}{You... You look friendly. Not like those gangsters around town. They give me the chills...}
 {131}{}{So, can you tell me what happened to the family?}
-{132}{}{[Billy quickly glances around the room, then looks up at you with a very unchild-like expression] Yes... Yes, sir. Thank you, sir. This is exactly what I need.}
+{132}{}{[Billy quickly glances around the room, then looks up at you with a very unchild-like expression on his face] Yes... Yes, sir. Thank you, sir. This is exactly what I need.}
 {133}{}{Err, no thank you, sir. I've seen people like you before. I don't need your "something nice", unless it's... Something important to me.}
 {134}{}{They're okay, sir. They sometimes get colds because it's damp down there, but they always get better.}
 {135}{}{"Damp down there"? Are they living in a cave or something?}
 {136}{}{Oh no, sir! It's just the basement at the train station. It's very nice, sir!}
 {137}{}{Alright, that's enough. You can go.}
-{138}{}{You found out that the Mordino family is being held in a basement at the train station.}
+{138}{}{You found out that the Mordino family is in the basement at the train station.}
 
 #Walking the tables
-{150}{}{Ugh, it's smeared everywhere...this is so hard to clean...}
+{150}{}{Ugh, it's smeared everywhere... This is so hard to clean...}
 {151}{}{Oh boy, someone dropped a candy! Lemme get it...}
 {152}{}{Mister businessman is hungry? I'll be quick!}
 {153}{}{Mister businessman isn't here again. That's a shame...}
-{154}{}{Sirs wanted to eat? Right away! I'll be quick!!!}
+{154}{}{You want to eat? I'll be right back!!!}
 
-{155}{}{* Ahh, sweet loo! My sweetest loo... *}
+{155}{}{*Ahh, sweet loo! My sweetest loo...*}
 {156}{}{Maybe someone left something nice here...}
 {157}{}{Oh! Someone dropped half a stick of gum! Lemme get it!}
 {158}{}{Wow! Someone left a sandwich!}
-{159}{}{Someone didn't finish their beer! Mine now.}
+{159}{}{Someone didn't finish their beer! It's mine now.}
 {160}{}{::picks through the urinal::}
 {161}{}{::quietly pulls a piece of bread from the urinal and quickly sticks it into his mouth::}
 {162}{}{A piece of paper! I can wipe with this!}
@@ -67,7 +67,7 @@
 #Female version
 {1120}{}{I'm at your service, ma'am!}
 {1128}{}{[He narrows his eyes] Are you lying to me? I'd remember if they knew you and I don't think I ever saw you with them.}
-{1132}{}{[Billy quickly glances around the room, then looks up at you with a very unchild-like expression] Yes...yes, ma'am. Thank you, ma'am. This is exactly what I need.}
-{1133}{}{Err, no thank you, ma'am. I've seen people like you before. I don't need your "something nice", unless it's...something important to me.}
+{1132}{}{[Billy quickly glances around the room, then looks up at you with a very unchild-like expression on his face] Yes... Yes, ma'am. Thank you, ma'am. This is exactly what I need.}
+{1133}{}{Err, no thank you, ma'am. I've seen people like you before. I don't need your "something nice", unless it's... Something important to me.}
 {1134}{}{They're okay, ma'am. They sometimes get colds because it's damp down there, but they always get better.}
 {1136}{}{Oh no, ma'am! It's just the basement at the train station. It's very nice, ma'am!}

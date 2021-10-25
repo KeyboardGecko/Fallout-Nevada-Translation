@@ -4,11 +4,11 @@
 {103}{}{Nothing to talk about, to be honest.}
 {104}{}{See you around, friend.}
 
-{110}{}{[You see an aged black man with spots and blemishes on his hands. As you walk up, he looks up and carefully looks you over.] Looking for something?}
+{110}{}{[You see an elderly black man with spots and stains on his hands. As you approach, he looks up and carefully examines you.] Looking for something?}
 {111}{}{I'm looking for Ornette, the trumpet player. Is that you?}
 {112}{}{Alas, Ornette is no longer a trumpet player. This city didn't need my trumpet or my music. Everyone's too busy trying to survive and get rich. Why are you asking, anyway?}
 {113}{}{Well, me and the owner of the "Cotton Club" want to organize a few performances. A trumpet would do perfectly... }
-{114}{}{[Perks up] Old stuff. I've also wanted to resurrect my band, after it fell apart. But what could I do? I sold my trumpet to Wright for three bucks. No way to get it back, since Wright will probably charge out the ass for it. And I'm no trumpeter without a trumpet.}
+{114}{}{[Perks up] Old news. I've also wanted to resurrect my band, after it fell apart. But what could I do? I sold my trumpet to Wright for three bucks. No way to get it back, since Wright will probably charge the hell out of me for it. And I'm no trumpeter without a trumpet.}
 {115}{}{And if I get it back?}
 {116}{}{Then goodbye, trumpetless trumpeteer.}
 {117}{}{[He thinks silently for a long while before answering] I'm too old for big performances, but I think I can handle a few gigs.}
@@ -59,4 +59,4 @@
 {164}{}{Well, take care, fellas! Good luck with your new band.}
 {165}{}{[Ornette shakes his head as everyone looks down] Looks like whites never change. You wouldn't understand, don't worry about it.}
 {166}{}{Well, goodbye. Not like I needed your shitty band. I'll take care of things on my own!}
-{167}{}{Yes. That's what you agreed with Martin. Besides, sorry to be blunt, but he's much better at vocals than you. He was born for it. In part, he's right - jazz is for blacks. No discrimination, just how events turn out. Better we all go our ways. Thank you for everything. Especially for gathering us back together. We won't forget it.}
+{167}{}{Yes. That's what you agreed with Martin. Besides, sorry to be blunt, but he's much better at vocals than you. He was born for it. In one thing he might be right - jazz is for blacks. Not trying to discriminate or anything, that's just how things turn out. We'd better go our own ways. Thank you for everything. Especially for gathering us back together. We won't forget it.}

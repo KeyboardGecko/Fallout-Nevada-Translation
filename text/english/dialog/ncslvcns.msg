@@ -1,5 +1,5 @@
 {100}{}{You see a receptionist.}
-{101}{}{You see elegantly dressed receptionist. He gives you a welcoming smile.}
+{101}{}{You see an elegantly dressed receptionist. He gives you a welcoming smile.}
 {102}{}{Sorry, but you'll have to holster that.}
 
 #Начало диалога:
@@ -8,7 +8,7 @@
 {111}{}{What can I do for you?}
 
 {112}{}{I need to talk to the owner. Where is he?}
-{113}{}{Did you see that two thugs? One has dreadlocks and the other one carries a crowbar. Where did they go? Please, be honest!}
+{113}{}{Did you see that two thugs? One has dreadlocks and the other one carries a crowbar. Where did they go?}
 {114}{}{Why do you let people paint all over your walls outside?}
 {115}{}{Okay, but first, tell me about the hotel.}
 {116}{}{I need a room.}
@@ -20,7 +20,7 @@
 {125}{}{[The receptionist's smile slips off his face, and he glances nervously out the door] Uh... They, uh... The El Dorado, just down Virginia Street... }
 
 #Про граффити-хулигана:
-{126}{}{"Let"? Ha! We've tried to stop those doing it, believe me. But we can never catch them in the act. Whoever it is, they're careful.}
+{126}{}{"Let people"? Ha! We have tried to stop those who do this, believe me. But we can never catch them in the act. Whoever they are, they're careful.}
 {127}{}{Maybe I can catch this artist for you.}
 {128}{}{Maybe. Probably not, but it's worth a try. I'll pay you 100 bucks if you can nab them on their crime.}
 {129}{}{I'll remember that.}
