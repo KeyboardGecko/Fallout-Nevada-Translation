@@ -5,13 +5,13 @@
 #Когда по напарнику попадае' 'урель (для героя-мужчины):
 {104}{}{Goddammit!}
 {105}{}{Where the hell are you leading us?!}
-{106}{}{You little - ! I warned you!}
+{106}{}{You little... I warned you!}
 {107}{}{Fuck this! I'm not your fucking bodyguard!}
 {108}{}{When I'm done with him, you're next on my list, motherfucker!}
 {109}{}{You asshole! I'll remember this!}
 
 #Диалог:
-{110}{}{So what? Are you just gonna keep talking?}
+{110}{}{So? Are you just gonna keep talking?}
 {111}{}{Stay here while I check things out.}
 {112}{}{I found a safe passage. Come with me.}
 {113}{}{Wait here, I have some scouting to do.}
@@ -30,7 +30,7 @@
 {135}{}{Right.}
 
 {136}{}{Don't you want to come with me? Before, you wouldn't take your eyes off me.}
-{137}{}{Nah. I'm gonna wait here until you get the job done. It'll be safer alone, and anyway, if you try running off - it's your funeral.}
+{137}{}{Nah. I'm gonna wait here until you get the job done. It'll be safer alone. Anyway, if you try running off - it's your funeral.}
 {138}{}{Right.}
 
 #Первый разговор
@@ -47,19 +47,19 @@
 {152}{}{What's our mission?}
 {153}{}{Where are the warehouses?}
 {154}{}{Another question.}
-{155}{}{Enough chit-chat. Let's go.}
+{155}{}{Enough chitchat. Let's go.}
 {156}{}{Hawthorne, a dead city. Everyone that lived here died in the Great War. Now it's full of nothing but rats, turrets, lowlifes, and every other type of shit you can imagine.}
 {157}{}{Are you deaf? We have to get the guns and ammo in the base, and to do that, we need to take out those turrets. As long as they're around, we can't get in.}
 {158}{}{Somewhere north. Inside the base.}
 {159}{}{Here. Right behind the fence.}
 {160}{}{Does anyone live here?}
-{161}{}{There's no one here but prospectors, and only the desperate ones. They fight each other for copper wire here. The radiation wiped out everyone that actually lived in this place - all that's left of them is bones in the streets.}
+{161}{}{There's no one here but prospectors, and only the desperate ones. They fight for any piece of a copper wire. The radiation wiped out everyone that actually lived in this place - all that's left of them are bones in the streets.}
 
 
 #Female character (Иван):
 {1104}{}{Goddammit!}
 {1105}{}{Where the hell are you leading us?!}
-{1106}{}{You little - ! I warned you!}
+{1106}{}{You little... I warned you!}
 {1107}{}{Shit! I'm not your fucking bodyguard!}
 {1108}{}{When I'm done with him, you're next on my list, you bitch!}
 {1109}{}{You bitch! I'll remember this!}
