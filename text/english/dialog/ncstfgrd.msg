@@ -10,9 +10,9 @@
 {111}{}{You look like a bunch of dogs off their leash. What are you up to?}
 {112}{}{Fine, I'm leaving.}
 
-{113}{}{[His hand gradually moves to his holster, and his eyes flit erratically between you and the others] We're not playing games. Get out, or you'll have to deal with all of us. And that'll just be the beginning for you.}
+{113}{}{[His hand slowly moves to his holster, his eyes flit erratically between you and the others] We're not playing games. Get out, or you'll have to deal with all of us. And that's only the beginning.}
 {114}{}{Who do you work for?}
-{115}{}{Let's cut to the chase. I'm here for the Mordinos, and I'm taking them one way or the other.}
+{115}{}{Let's cut to the chase. I'm here for the Mordinos. And I'm taking them, one way or the other.}
 {116}{}{We work for ourselves. Where the money is good. Now fuck off!}
 {117}{}{I don't know you. Whoever sent you, tell them to send someone I know or Mordino himself. No one else gets near them.}
 {118}{}{No, you don't get it. I'm going to kill you, then take them by force. [Attack]}
@@ -23,7 +23,7 @@
 ################################################################
 
 {130}{}{This door is locked with a key.}
-{131}{}{It's some strange type of lock you haven't seen before. You'll need the key to open it... Or just smash the door down.}
+{131}{}{This is some strange type of lock you haven't seen before. You'll need a key to open it... Or just smash the door open.}
 {132}{}{Locked.}
 {133}{}{Unlocked.}
 {134}{}{That made a lot of noise.}
@@ -37,7 +37,7 @@
 {200}{}{ }
 {201}{}{Hey, how are you today?}
 {202}{}{I'm good.}
-{203}{}{Great! You know what that means?}
+{203}{}{Great! Do you know what that means?}
 {204}{}{What?}
 {205}{}{You're good enough to go fuck yourself! Ha-ha-ha!}
 {206}{}{That's the worst joke I've ever heard.}
@@ -49,7 +49,7 @@
 {212}{}{I know, right? What a psychopath.}
 {213}{}{I mean, I'd cut out the tongue and ears. But eyes? What a nut!}
 {214}{}{ }
-{215}{}{So I've been buying from that ugly son of a bitch with a ring, recently.}
+{215}{}{So, lately I've been buying from that ugly son of a bitch with the ring.}
 {216}{}{Risky. How's it been going?}
 {217}{}{It's been good so far. I think he's legit.}
 {218}{}{Yeah, well, I've heard things. I'd be careful.}
@@ -71,17 +71,17 @@
 {234}{}{Go on, then.}
 {235}{}{Now, I'm not talking about things that just annoy me...}
 {236}{}{Get to the point already, for fuck's sake!}
-{237}{}{...but stuff that just makes me want to kill!}
+{237}{}{...But stuff that just makes me want to kill!}
 {238}{}{ }
 {239}{}{First, it's the security in the casino. I'm tired of this shit!}
 {240}{}{You're not the only one.}
-{241}{}{These guys just go through all my stuff, for no fucking reason!}
+{241}{}{These guys just go through all my stuff! For no fucking reason!}
 {242}{}{Yeah?}
 {243}{}{They say it's to protect the casino, but you know what?}
 {244}{}{What?}
-{245}{}{You order food at the bar, and they'll give you the knife themselves!}
-{246}{}{This is really what pisses you off?}
-{247}{}{Where's the logic, right? They give the fucking knife!}
+{245}{}{You order food at the bar, and they give you the knife themselves!}
+{246}{}{Is this the thing that pisses you off?}
+{247}{}{Where's the logic? They give you the fucking knife!}
 {248}{}{What can I say? You're right.}
 {249}{}{Just a bottle of whiskey's enough to kill someone!}
 {250}{}{You're not wrong!}
@@ -97,7 +97,7 @@
 {260}{}{ }
 {261}{}{These rich motherfuckers always have to smoke...}
 {262}{}{ }
-{263}{}{...smoking a big brown dick!}
+{263}{}{...Smoking a big brown dick!}
 {264}{}{Ha!}
 {265}{}{Yeah, that's right! A big brown dick in their mouth!}
 {266}{}{Ha! You tell 'em!}
@@ -108,11 +108,11 @@
 {271}{}{Yeah. Those need their fucking asses kicked!}
 {272}{}{ }
 {273}{}{Man, I'd love to knocking their fucking teeth out...}
-{274}{}{That's all?}
+{274}{}{Is that all?}
 {275}{}{You know what would happen if you smacked them over the head with a baton a few times?}
 {276}{}{What?}
 {277}{}{They'd go down like a fucking rock!}
 {278}{}{ }
 
 #Female character
-{1115}{}{Let's cut to the chase. I'm here for the Mordinos, and I'm taking them one way or the other.}
+{1115}{}{Let's cut to the chase. I'm here for the Mordinos. And I'm taking them, one way or the other.}

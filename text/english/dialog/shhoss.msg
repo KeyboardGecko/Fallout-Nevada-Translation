@@ -7,13 +7,13 @@
 {109}{}{You again? Nice. What is it this time?}
 {110}{}{Stop right there and keep your hands in sight. Why the heck have you stormed in here?}
 {111}{}{Got any job for a stranger?}
-{112}{}{Ya heard the news? Factory ain't recovering from the troubles any time soon.}
+{112}{}{Heard the news? Factory ain't recovering from the troubles any time soon.}
 {113}{}{I'm executing Salt Lake Sheriff's will and hereby demand that you give up the criminal Gary Gilmore to justice right now!}
 {114}{}{Heard the news? Salt Lake Sheriff's dead!}
 {115}{}{Thought it'd be some kind of a motel. Apparently it's not.}
 
 #nuka plant sabotage
-{116}{}{The messenger already told us about the sabotage. You've proven to be a useful asset, so we won't kill ya. [smiles] Here's your pay (gives you $20,000). And kiddo, if I were you - I'd lie low for a coupla' weeks in another city.}
+{116}{}{Our little birdie has already told us about the sabotage. You have proven your usefulness, so we won't kill ya. Here's your pay [gives you $20,000]. And kiddo, if I were you, I'd lie low for a coupla' weeks in another city.}
 {117}{}{Huh, wish all my jobs paid that well.}
 {118}{}{Maybe... If you and I... Umm... Have an agreement. Ya see me?}
 {119}{}{Smells like shady deals. I like it.}
@@ -28,7 +28,7 @@
 {127}{}{We're going to settle the scores with Salt Lake. Some old affairs, which are none of your business, lemme tell you. Just get the job done and the cash is yours.}
 {128}{}{Fine. I'm ready to get down to work.}
 {129}{}{Ain't gonna do no more dirty business. No!}
-{130}{}{Excellent! Take the flask then. You only have to break into the workshop and pour it into tanks, and I don't care how you're gonna do it. There's a rumor going round about a tunnel underneath, leading to the site... The means are up to you, we pay for the result.}
+{130}{}{Excellent! Take the poison then. You only have to break into the workshop and pour it into tanks, and I don't care how you're gonna do it. There's a rumor going round about a tunnel underneath... The means are up to you, we pay for the result.}
 {131}{}{I'll do that.}
 
 #refusing the sabotage quest
@@ -61,7 +61,7 @@
 
 {1110}{}{Stop right there and keep your hands in sight. Why the heck have you stormed in here, girl?}
 {1111}{}{Got any job for a stranger?}
-{1130}{}{Excellent! Take the flask then. You only have to break into the workshop and pour it into tanks, and I don't care how you're gonna do it. There's a rumor going round about a tunnel underneath, leading to the site... The means are up to you, we pay for the result.}
+{1130}{}{Excellent! Take the poison then. You only have to break into the workshop and pour it into tanks, and I don't care how you're gonna do it. There's a rumor going round about a tunnel underneath, leading to the site... The means are up to you, we pay for the result.}
 {1132}{}{What's the matter, sweetie? Don't have the guts for the job?}
 
 #Переводчик: Pyotr

@@ -7,7 +7,7 @@
 {111}{}{Calm down, I'm definitely real. I think.}
 {112}{}{Hands off, zombie! Don't you dare touch me!}
 
-{113}{}{You... [he puts his hands gently on your chest] ...You're real! [he suddenly jumps back, as if his hands were scalded with boiling water] Ahh! Oh my god! When was... How long has it been since I saw a real person?!}
+{113}{}{You... [he puts his hands gently on your chest] ...You're real! [he suddenly jumps back as if his hands were scalded with boiling water] Ahh! Oh my god! When was... How long has it been since I saw a real person?!}
 {114}{}{Calm down, I won't hurt you.}
 {115}{}{That's right, mutant! Fear me!}
 
@@ -15,14 +15,14 @@
 {117}{}{Calm down, I won't hurt you.}
 {118}{}{That's right, mutant! Fear me!}
 
-{119}{}{But... [he looks around wildly, almost suspiciously] ...But how are you here?! I've never found a way out, and I've been here ten years... Or was it twenty? Without the sun, I can't tell one day from the next...}
+{119}{}{But... [he looks around wildly, almost suspiciously] ...But how? Why are you here?! I've never found a way out, and I've been here for ten years... Or is it twenty? Without the sun, I can't tell one day from another....}
 {120}{}{Yeah, yeah, you've been here a long time. I get it. Can we move on?}
 {121}{}{Oh, right... Yes... Please, tell me, how do I get out?}
-{122}{}{Same way I got in. I left a rope leading back up to the street.}
-{123}{}{Just think, moron. There's not a lot of space to move around down here. I'm sure you'll figure it out.}
-{124}{}{Oh, right, right. Finally... Ten years, twenty years? And now... [he hugs himself, looking scared at the thought of leaving]}
+{122}{}{Same way I got in. There's a rope leading back up to the street.}
+{123}{}{Just think, moron. There's not a lot of room to move around. I'm sure you'll figure it out.}
+{124}{}{Oh, right, right. Finally... Ten years, twenty years? And now... [he hugs himself, looking scared.]}
 
-{125}{}{How did you end up down here, anyway?}
+{125}{}{How did you end up down here anyway?}
 {126}{}{It was so long ago. It's hard to remember...}
 {127}{}{You again! I'm so glad to see you!}
 
@@ -32,21 +32,21 @@
 {132}{}{What happened to your skin?}
 {133}{}{Where did you live before you end up here?}
 {134}{}{Have you tried to get back to the surface?}
-{135}{}{So are you going to leave?}
+{135}{}{So, are you going to leave?}
 {136}{}{}
 {137}{}{}
 {138}{}{}
 {139}{}{Stay here, I need go somewhere.}
 
 {140}{}{It's... Cruz, I think. No, Crusoe. Or something like that...}
-{141}{}{Colin. It was Colin. We'd been drinking and were walking home late at night. Then, he stopped, grabbed me by the shoulders, and... And he tossed me into the sewer hole, saying Shelley would be his! That bastard, I thought we were friends! Friends... Oh, when I had friends...}
+{141}{}{Colin. It was Colin. We had drinks and were walking home late at night. Then he stopped and grabbed me by the shoulders and... And threw me down a sewer manhole, saying Shelly was his! That bastard, I thought we were friends! Friends... Oh, when I had friends...}
 {142}{}{My skin? [he looks down at himself] Oh... Right... It wasn't always like this, was it? It was soft, like yours... When did this happen? It was itchy when I first got down here. Then it was hard to breathe, and I got so sick... But that was a long, long time ago.}
 {143}{}{Above. Right above... Almost, I think. I hear wheels above sometimes... I think a lot of caravans come through here. And my house was close to the restaurant. Ah, my home... What does it look like now? Is Shelley still there? Is... Is Colin...}
-{144}{}{Did I try? Oh, did I try! But the hole I used to get in - it had no ladder, no rope. I tried so hard to climb the wall, but even if I could, how could I open the lid? And so long I tried to squeeze between the bars, but I couldn't. The rats could... So I ate them. That's how I've lived, for years... Sometimes I tried to scream for help, but no one heard me.}
-{145}{}{I... I don't know... I'm afraid. It's been so long, I've missed so much... My face, I'm afraid when I see myself in the water. What if they beat me, like those half-wits from the uranium mines? And Shelley! No, Shelley can't know what I'm like now. She must think I died. If she saw me... No, I can't leave now. I'll... I'll come up with something. Somehow.}
+{144}{}{Did I try? Oh, did I try! But in the hole through which I got here, there's no ladder, no rope, nothing. I tried so hard to climb the wall, but even if I could, how could I open the lid? And for a long time I tried to squeeze between the bars in the tunnel... but I couldn't. The rats could... So I ate them. That's how I've lived, for years... Sometimes I tried to scream for help, but no one heard me.}
+{145}{}{I... I don't know... I'm afraid. It's been so long, I've missed so much... My face, I'm scared when I see my reflection in the water. What if they beat me up like those half-wits from the uranium mines? And Shelly! No, Shelly can't know what I'm like now. She probably thinks I'm dead. If she sees me like this... No, I can't leave now. I'll... I'll come up with something. Somehow.}
 
 {146}{}{Do you want me to talk to Shelley for you?}
-{147}{}{Would... Would you do that? For me? [he puts a hand to his mouth, eyes bugging out in intense thought] Be careful, okay? Don't talk to Colin, if he's still there.}
+{147}{}{Would... Would you do that? For me? [he covers his mouth] Be careful, okay? Don't talk to Colin, if he's still there.}
 {148}{}{Okay, wait here. I'll bring back news.}
 {149}{}{}
 
@@ -62,5 +62,5 @@
 
 #Female character
 {1111}{}{Calm down, I'm definitely real. I think.}
-{1113}{}{You... [he puts his hands gently on your chest] ...You're real! [he suddenly jumps back, as if his hands were scalded with boiling water] Ahh! Oh my god! When was... How long has it been since I saw a real person?!}
-{1119}{}{But... [he looks around wildly, almost suspiciously] ...But how are you here?! I've never found a way out, and I've been here ten years... Or was it twenty? Without the sun, I can't tell one day from the next...}
+{1113}{}{You... [he puts his hands gently on your chest] ...You're real! [he suddenly jumps back as if his hands were scalded with boiling water] Ahh! Oh my god! When was... How long has it been since I saw a real person?!}
+{1119}{}{But... [he looks around wildly, almost suspiciously] ...But how? Why are you here?! I've never found a way out, and I've been here for ten years... Or is it twenty? Without the sun, I can't tell one day from another....}

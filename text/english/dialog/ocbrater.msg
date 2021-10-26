@@ -1,5 +1,5 @@
 {100}{}{You see Steve.}
-{101}{}{You see a scrawny guy. His clothes are dirty with rust flakes.}
+{101}{}{You see a scrawny guy. His clothes are dirty and covered with flakes of rust.}
 
 #ѕлавающие о'ве'ы
 {102}{}{Help! They're gonna kill me!}
@@ -27,7 +27,7 @@
 #########################################################
 
 {120}{}{You saved my life, man! But the people here will never forgive me. Damn it.}
-{121}{}{It's you! Good to see you, man. Not a lot of guys like you left in the wastes.}
+{121}{}{It's you! Good to see you, man. There aren't many guys like you left in the wastes.}
 
 {122}{}{Can you fix the water tank in Lovelock?}
 {123}{}{About that water pump.}
@@ -47,7 +47,7 @@
 {130}{}{[He grabs his head] I didn't mean for this to happen! Now the community is doomed for sure! [suddenly looks up] Where's Susie? Is she okay?!}
 {131}{}{Uh, yeah, sure. I'll just see you outside.}
 
-{137}{}{No way, I can't leave my sister. And where would I go? Black-Rock would never take me, and Reno... No, I'll never go back to Reno.}
+{137}{}{No way, I can't leave my sister. And where would I go? Black Rock would never take me, and Reno... No, I'll never go back to Reno.}
 
 {139}{}{I fixed the water pump. It's running smoothly now.}
 {140}{}{I have this fuse. Will this help?}
@@ -67,15 +67,15 @@
 #
 #########################################################
 
-{149}{}{People here are from all over. Gerlach thinks we can survive if we all stick together and take responsibility for ourselves. I've never seen a place like this before, but I really believed in it, even though it almost got me killed. Now, I don't know what to think.}
-{150}{}{People here are from all over. Gerlach thinks we can survive if we all stick together and take responsibility for ourselves. I've never seen a place like this before, but I really believe in it, even if it almost got me killed.}
+{149}{}{People are here from all over the wasteland. Gerlach believes that we can survive if we stick together and take responsibility for ourselves. I've never seen a place like this before, but I really believed in it, even if it almost got me killed. Now I don't know what to think.}
+{150}{}{People are here from all over the wasteland. Gerlach believes that we can survive if we stick together and take responsibility for ourselves. I've never seen a place like this before, but I really believe in it, even if it almost got me killed.}
 {151}{}{I'm just a guy from New Reno. I do this and that, but my sister's the skilled one. Everyone loves her cooking.}
 {152}{}{I have nowhere to go. Me and my sister aren't going back to Reno, and there's nothing in the wastes but geckos and radscorpions. This is all we've got.}
 
 {153}{}{They had me watch the water pump. It's the only source of water out here.}
 {154}{}{Go on.}
 {155}{}{But it's old, and you've got to keep an eye on it. I fell asleep on the job and the fuse burned out... I think that's what it's called. Whatever it is, the pump won't work without it.}
-{156}{}{Long story short, we've got no water. So, everyone was going to have me for it. That's when you came along.}
+{156}{}{Long story short, we are out of water. So, everyone was going to have me for it. That's when you came along.}
 {157}{}{It's all my fault. I nearly got myself killed, I nearly left my sister all alone, I nearly destroyed the whole community... This is heavy. Makes you rethink everything. I feel like a different man... I've got to start taking responsibility.}
 
 {158}{}{It works great, all thanks to you. You didn't just save me, you saved the whole community.}
@@ -83,7 +83,7 @@
 
 {160}{}{Will this fuse do the job?}
 {161}{}{That's all.}
-{162}{}{Only one way to find out! Hurry, we need that water yesterday!}
+{162}{}{Only one way to find out! Hurry, we need that water!}
 {163}{}{Fine.}
 
 {164}{}{Reno? How far is it?}
@@ -141,7 +141,7 @@
 {202}{}{After that situation with the pump, it's only a matter of time before Gerlach finds some reason to get rid of me. If I get the chance to move, I'll take it.}
 
 {203}{}{You said something about a stash earlier.}
-{204}{}{Oh, yeah, well... I don't actually know where it is, but my sister told me about it once. Ask her and she'll tell you.}
+{204}{}{Oh, yeah, well... I don't actually know where it is, but my sister told me about it once. Ask her, she'll tell you.}
 {205}{}{It's the same one my sister told you about.}
 {206}{}{Oh, is that how it is?}
 {207}{}{[His smile fades] Didn't my sister already tell you about Gerlach's stash? What else do you want?}
@@ -155,4 +155,4 @@
 
 {1110}{}{You saved my life! For how long, I don't know, but before you showed up, I didn't have a chance!}
 {1120}{}{You saved my life! Thank you. But the people here will never forgive me. Damn it.}
-{1121}{}{It's you! Good to see you again. Not a lot of girls like you left in the wastes.}
+{1121}{}{It's you! Good to see you again. There aren't many girls like you left in the wastes.}

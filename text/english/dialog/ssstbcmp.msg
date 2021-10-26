@@ -1,5 +1,5 @@
 {100}{}{You see lab computer terminal.}
-{101}{}{You see an old lab computer terminal, stuffed with research data.}
+{101}{}{You see an old lab computer terminal, stuffed to the brim with research data.}
 
 #√лавное меню 
 {110}{}{This computer coordinates the work of all departments of the laboratory. There is a lot of interesting information. Select a topic.}
@@ -22,10 +22,10 @@
 {125}{}{Special order from the Clean City.}
 
 {130}{}{This lab unsuccessfully tried to develop drugs like buffout, but it was too difficult with local working conditions. Test samples were issued, each of which was later recognized as a defective. However, samples were spread among dealers (possibly at a cost of customers' lives).}
-{131}{}{This is one of the main products of the Pound. Here were created various kinds of psychedelics, including LSD, mescaline and psilocybin. The main focus was chemicals based on hallucinogenic mushrooms. Products were successful not only among locals, but also outside of Vegas. Looks like many people in this world want to escape reality...}
+{131}{}{This is one of the main products of the Pound. Various kinds of psychedelics were produced, including LSD, mescaline and psilocybin. The main focus was on hallucinogenic mushroom-based chemicals. Products were successful not only among locals, but also outside of Vegas. Looks like many people in this world want to escape reality...}
 {132}{}{Data purged.}
 {133}{}{Medication pool is small. It includes stimulants, some pain killers, therapeutic powders made out of plants and a number of low-value drugs. All batches were produced relatively recently, meaning that the laboratory had not previously worked with such products.}
-{134}{}{Some influential person from the Clean City has made an order through intermediaries to manufacture light drugs with a small addiction effect. Even though the names are not listed, it becomes clear that the Pound has its own people in Clean City.}
+{134}{}{Some influential person from the Clean City has made an order through intermediaries to manufacture light drugs with a small addiction effect. Even though the names are not listed, it becomes clear that the Pound has its people in Clean City.}
 
 #Ёксперименты
 {140}{}{The Pound held a series of experiments, both in recreating old drugs and medicines and creating completely new ones. It seems that smart people worked here.}
