@@ -80,7 +80,7 @@
 {168}{}{You... Will understand... Who they are. Who is... the Reaper...}
 {169}{}{I have a feeling that he will be a problem. What's next?}
 
-{170}{}{There is... The president... On the lower... Kept alive... As a... Database...}
+{170}{}{There is... The president... On the lower... Kept alive... Knows too much...}
 {171}{}{Alright, consider it done. What about you?}
 
 {172}{}{I'm... A threat... Know too much...}

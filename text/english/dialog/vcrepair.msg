@@ -159,7 +159,7 @@
 {300}{}{Hm. I know another fan of tech - Jay Kukish...}
 {301}{}{Well, I'm not surprised. There aren't many people in Vegas who bikers could talk to about tech. They're crazy about it. Jay was here not so long ago, he was asking about a strange device. But, I couldn't help him.}
 {302}{}{What device?}
-{303}{}{You know, something like a database that works based on crystals. It's got these defensive layers. I couldn't even go through the first one. But, the thing was fascinating.}
+{303}{}{You know, something like a database that is based on crystals. It's got these defensive layers. I couldn't even go through the first one. But, the thing was fascinating.}
 {304}{}{Why do you think Jay needs it?}
 {305}{}{I don't think he knows himself. Looks like he's trying to figure out what it's for. Pre-war tech is like his life purpose. He believes that technology must be kept away from common hands, and be used only by a small and capable group of people.}
 {306}{}{Understood. Thanks.}
