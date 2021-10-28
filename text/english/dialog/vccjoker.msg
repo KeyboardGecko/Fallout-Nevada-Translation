@@ -51,7 +51,7 @@
 {137}{}{How does the government fit into your plan? Something tells me they won't quite agree with you taking over the vault.}
 
 {138}{}{Are you confused by the price? You have seen for yourself how easily the life of a whole settlement can change. How defenseless people are in the face of external threats - criminals, famine, natural disasters. Even one person can change everything. But things can be different. It's only a matter of time and effort. Any way you look at it, your people shouldn't have existed at all. They were living on borrowed time. Now, at least they will have a chance to contribute to a better future for humanity. Their lives will have meaning.}
-{139}{}{Take a broader view of things. At this very moment, thousands of people are dying of starvation, disease or radiation, hundreds of slaves in pens are succumbing to the effects of deadly drugs, gangs of raiders are attacking defenseless settlements. Humanity is too fragile. It needs help. It needs a doctor.}
+{139}{}{Take a broader view of things. At this very moment, thousands of people are dying of starvation, disease or radiation, hundreds of slaves in pens are succumbing to the effects of deadly drugs, gangs of raiders are attacking defenseless settlements. Humanity is too fragile. It needs help. It deserves better.}
 {140}{}{I can deal with them. With all the knowledge about the device, I will subdue the Vault's systems to my will. The government wouldn't dare to get into conflict with me in here - especially if I throw them a bone. A couple of bodies once in a while should provide enough for maintaining a truce between us. And when the right time comes, they will no longer be relevant. A new kind of people will march forward.}
 {141}{}{[Next]}
 {142}{}{This vault will become a birthplace for true humans. Better species. In 70 years from now on, Nevada will rise again. Trading, culture and economy will bloom. And the Vault 8 will be the center of it. Superior beings, capable of making this world a better place, a new civilization, like none other throughout the history... The only thing that's left for you to do is to bring me the device. Then you can either join me, or go. I won't be looking for you.}
@@ -65,7 +65,7 @@
 {150}{}{Those are big words for a loner surrounded by a heavily armed squad. Make it easy on yourself. You die - and I'll have to reassemble your brain piece by piece to find out the location of the device. It's just silly. Do what is asked of you - and you will be free to leave.}
 {151}{}{I lived the way I wanted to live. And I will die the way I want. [Attack]}
 {152}{}{You are delusional. The one who stands before you will make your delusions disappear. Because I lived the way I wanted to live. And I will die the way I want. [Attack]}
-{153}{}{One "health insurance product" has already done more than you thought it would. Well, let this be the last thing it did. [Attack]}
+{153}{}{Come to think of it, this "health insurance product" has already done more than you thought it would. Well, let this be the last thing it did. [Attack]}
 {154}{}{[Leave]}
 
 {155}{}{Where is the device?}

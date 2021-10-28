@@ -3,7 +3,6 @@
 {101}{}{You see a filthy junkie nicknamed Mold, probably due to his smell.}
 
 
-
 #Плавающие фразки перед пропоем:
 
 {102}{}{Aw, f-f-fuck... I g-got the shakes... }
@@ -106,7 +105,7 @@
 
 {145}{}{::snores::}
 
-{146}{}{Either I just shit myself or... Nope, right the first time.}
+{146}{}{Either I just shat myself or... Nope, that's it.}
 
 {147}{}{::unconscious::}
 
@@ -118,7 +117,7 @@
 
 # Диалог
 
-{150}{}{Hey, your booze was real swill! I was puking up shit I'd never eaten! Can you get me something decent? I'm starting to feel the shakes... }
+{150}{}{Hey, your booze was the real swill! I was puking up shit I'd never eaten! Can you get me something decent? I'm starting to feel the shakes... }
 
 {151}{}{There's a still in the next room. Can't you get it yourself?}
 
@@ -225,6 +224,6 @@
 
 # Female character
 
-{1162}{}{Damn! Thanks, friend... [he eagerly chugs the alcohol, finishing with a loud burp] Ohhhh, that's good... Man, you... I'm just... Wow! Listen, in this gang it's, you know... Complicated. You're new, but you'll understand. Hey, listen... Can you get me another one? I'm kinda fucked up... I need some of Fatso's healing powder. It just takes the pain away, you know? Could you get me some? I'm dying here... }
+{1162}{}{Damn! Thanks, laydeh... [he eagerly chugs the alcohol, finishing with a loud burp] Ohhhh, that's good... Man, you... I'm just... Wow! Listen, in this gang it's, you know... Complicated. You're new, but you'll understand. Hey, listen... Can you get me another one? I'm kinda fucked up... I need some of Fatso's healing powder. It just takes the pain away, you know? Could you get me some? I'm dying here... }
 
 {1170}{}{[He convulses on the floor, his eyes wide and staring at the ceiling] Ah, f-f-fuck! It's bad! I need... I need a fix... Acid, painkillers, anti-smoking chems, anything! Just h-h-help me!}
