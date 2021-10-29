@@ -1,4 +1,4 @@
-{100}{}{You see: Jacob.}
+{100}{}{You see Jacob.}
 {101}{}{You see Jacob, a citizen of Vault City.}
 {102}{}{Ugh, don't do that again!}
 
@@ -9,7 +9,7 @@
 {107}{}{I won't say a word without Jacob!}
 
 #Плавающие фразы
-{110}{}{Listen, someone's coming...}
+{110}{}{Hush, someone's coming...}
 {111}{}{Hide it! Quick!}
 {112}{}{Ohh... No one saw us, right?}
 {113}{}{::sighs heavily::}

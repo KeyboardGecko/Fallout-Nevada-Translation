@@ -27,7 +27,7 @@
 #Прово
 {150}{}{Freddie "Gorefiend" Voorhees: They named the "Ripper" after me, baby!}
 {151}{}{Dallas "Evil Kitty" Ocasec. A hot little thing that will feel cold even in the depths of hell.}
-{152}{}{Nick "Savage" Eckhart. 17 kills, 4 robberies, 9 rapes - and thats in only one week.}
+{152}{}{Nick "Savage" Eckhart. 17 kills, 4 robberies, 9 rapes - and that's only one week.}
 {153}{}{Arkin "Shiz" Fernandez. Hated his family so much that after a week without them blew his brains out to continue torturing them in hell.}
 {154}{}{Kevin "The Postman" Brooks. Philanthropist, family man, sadistic cannibal.}
 {155}{}{Patrick "Not a day without pain," Bale. Satan sent him, Satan took him back.}
@@ -35,9 +35,9 @@
 
 #Вегас
 {200}{}{Brunson, Phil. Excellent evening - pleasant company - 8 bribes - myocardial infarction.}
-{201}{}{Chris Buddy. Rare bitch - folded with three aces.}
+{201}{}{Chris Buddy. Rare asshole - folded with three aces.}
 {202}{}{Johnny "Zero" Hellmuth. The real player is never too poor to buy chips while he has two kidneys.}
-{203}{}{Mordechai Ungar. He was called by the lights of Vegas, and his dreams burned up in them.}
+{203}{}{Mordecai Ungar. He was called by the lights of Vegas, and his dreams burned up in them.}
 {204}{}{Oscar "Toothy" Manfredi. I'm silent in the ring, because my fists do the talking.}
 
 #Блэк-Рок
@@ -52,10 +52,10 @@
 {301}{}{Oliver Smith. "I experienced one day of judgment - to rise to the second!"}
 {302}{}{Fuzzy, Gourmet and Striped Tail. To kill women, children and the elderly is understandable. But what monster could harm a cat?!}
 {303}{}{Oliver Rigdon. That's all that was known about him.}
-{304}{}{Vic Allison. Realized too late that "Aqua Regia" was not the new drink at the "Lead Angel".}
+{304}{}{Vic Allison. Realized too late that "Aqua Regia" was not some new drink from the "Tin Angel".}
 {305}{}{Hayley Ross. Her husband had no faith in her immaculate conception.}
-{306}{}{Adam "Cleaner" Garner. He did dirty work... And was cleaned himself in the end.}
-{307}{}{George "Commie" Glick. Oh, here you will not get me, you greedy dogs of capitalism!}
+{306}{}{Adam "Cleaner" Garner. He did dirty work... And cleaned himself in the end.}
+{307}{}{George "Commie" Glick. You will never get me here, you greedy dogs of capitalism!}
 {308}{}{Johnny Melton. "As man is now, as was the Lord once, as Lord is now, as was the man"}
 {309}{}{Joseph Harris. "...And shall put my arms to the grave, in order and at the threshold of death, I tirelessly served our Creator..."}
 {310}{}{Unknown. His last words were: "I will wait for you at the gates of hell, sinners!"}
@@ -68,4 +68,4 @@
 {354}{}{Sergeant Richard "Nuclear" Beckett. Invisible, pervasive and deadly.}
 
 #Рино
-{400}{}{Luciano Marin.}
+{400}{}{Maureen Luciano.}

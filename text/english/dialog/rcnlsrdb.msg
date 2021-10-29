@@ -49,19 +49,19 @@
 {155}{}{Alright, whatever you say.}
 {156}{}{Maybe we'd talk about something else?}
 
-{157}{}{You are good with rifles, am I right? The gun you have here is quite unusual.}
+{157}{}{You are good with rifles, am I right? The gun you have is quite unusual.}
 {158}{}{What's your opinion on Nelson?}
 {159}{}{Why didn't you leave, like everyone else?}
-{160}{}{An old but reliable rifle. I bought it in the Wind of War. They usually keep good guns for themselves and sell whatever is left over. I was lucky enough to catch one of the better ones they had in stock. This one, however, has flaws, too. As for skills... I have to count every shot because bullets don't come cheap. That's how I trained.}
-{161}{}{I try to stay away from crazy ones, but this one seems more with the head. At least I don't see anyone better at organizing things here.}
+{160}{}{An old, but reliable rifle. I bought it in Wind of War. They usually keep good guns for themselves and sell whatever junk is left. I was lucky enough to catch one of the better ones they had in stock. This one, however, has flaws, too. As for skills... I have to count every shot because bullets don't come cheap. That's how I trained.}
+{161}{}{I try to stay away from crazy ones, but this one seems smart. At least I don't see anyone better at organizing things here.}
 {162}{}{I need a quiet place to live. I do not like big cities.}
 {163}{}{Wind of War? Can you show me where it is?}
 {164}{}{Only if you have the map... It's here, in the east, right in the middle of the ruins of the old town.}
 {165}{}{Thanks.}
-{166}{}{I try to stay away from crazy ones, but this one seems more with the head. At least I see no one better at organizing stuff. But is it important now?}
+{166}{}{I try to stay away from crazy ones, but this one seemed smart. At least I don't see anyone better at organizing things here. But is it important now?}
 
 {167}{}{"Flaws", you say? What's the problem?}
-{168}{}{Misfires have been occurring more frequently lately. Probably a problem with the bolt. I'm cleaning the rifle, but it doesn't help. Do you know anything about guns?}
+{168}{}{Misfires have been occurring more often lately. Probably a problem with the bolt. I'm periodically cleaning the rifle, but it doesn't help much. Do you know anything about guns?}
 {169}{}{I have some experience. Let me take a look, let's see if I can fix it.}
 {170}{}{If the problem is the mechanics, it is on my part. Just give me a screwdriver and I'll get down to business.}
 {171}{}{Too bad it's not my profile. Let's change the subject.}

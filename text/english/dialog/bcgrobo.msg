@@ -2,24 +2,24 @@
 {101}{}{You see a dirty hairy man in old tattered clothes.}
 
 #Starting conversation
-{110}{}{[You see a dirty villager, reeking of sweat and alcohol. His head, barely covered with long thin locks of hair, looks oddly shaped; it's as if, when being born, he was pulled out by the skull with forceps, and, when he saw the world he'd have to live in, he grabbed onto whatever he could to keep himself from it.]}
+{110}{}{[You see a dirty villager who reeks of sweat and alcohol. His head, barely covered with long thin locks of hair, looks strange; it is as if he was pulled out by the head with forceps at birth, and when he saw the world he would have to live in, he clung to everything he could to keep away from it.]}
 {111}{}{Um, excuse me, who are you?}
 {112}{}{Don't just stand there, hairy! Are you going to say hi, or what?}
 
-{113}{}{[He jumps and whirls his dirty face to you, opening his mouth wide, showing the yellow tooth, probably, the only one he has.] Oh, my golly gosh! W-why'd you have to go and sh-care me like that?}
-{114}{}{I'm sorry, I didn't mean to! It won't happen again.}
+{113}{}{[He jumps up and turns his dirty face toward you with his mouth wide open, showing a yellow tooth, perhaps the only one he has.] Oh, my golly gosh! W-why'd you have to sh-care me like that?}
+{114}{}{I'm sorry, I didn't mean to. It won't happen again.}
 {115}{}{Quit shaking, coward. I asked you a question.}
 
-{116}{}{Uh, erm... I'm Bob, the local gravedigger and c-carpenter. I'm n-nobody sh-peshial.}
+{116}{}{Uh, erm... I'm Bob, the local gravedigger and c-carpenter. I'm n-no one sh-peshial.}
 {117}{}{My name is }
 {118}{}{. Nice to meet you, gravedigger Bob.}
 {119}{}{I disagree, you're very special. Of all the freaks in this village, you're easily the freakiest.}
 
-{120}{}{[For a couple of seconds, he numbly glares at you, then extends his muddy hand, smiling wide with his toothless dirty mouth] O-o-oh, it's sho g-good to meet a n-nice pershon! [he looks around with shame in his eyes] S-shorry for the messh. I don't usually h-have visitorsh.}
+{120}{}{[For a couple of seconds, he numbly glares at you, then extends his muddy hand, smiling wide with his toothless dirty mouth] O-o-oh, it's sho g-good to meet a n-nice pershon! [He looks around with shame in his eyes] S-shorry for the messh. I don't usually h-have visitorsh.}
 {121}{}{Don't worry about it. Can you answer a few questions?}
 
-{122}{}{[He mumbles something inaudible under his nose] ...like everyone. Why would they... Dish-gushting little... }
-{123}{}{Don't mumble at me. I need answers, and it's unpleasant enough talking to you as it is.}
+{122}{}{[He mumbles something inaudible under his nose] ...Like everyone. Why would they... Dish-gushting little... }
+{123}{}{Don't mumble at me. I need answers, and talking to you is already unpleasant.}
 
 {124}{}{I - I don't know anyshing. I only make c-coffinsh. And - and dig g-gravesh... }
 {125}{}{Then I'm wasting my time. I'm getting out of here.}
@@ -44,13 +44,13 @@
 #About Jed
 {160}{}{Who is that coffin outside for?}
 {161}{}{[He sighs shakily] It'sh for... It'sh for Jed. He s-shaid he'sh going to... To d-die shoon. But he'sh been sh-aying that for a long time. Ushually, when shomeone d-diesh, we jusht wrap them in rag-sh, but Sh-mith is... Sh-mith is sh-pecial.}
-{162}{}{Let’s talk about something else.}
+{162}{}{Let's talk about something else.}
 
 {163}{}{Smith, you traveled a long way to come here, and now you will stay here forever.}
-{164}{}{This place hurt you, but... }
-{165}{}{... But you conquered it. And... Started new life here.}
+{164}{}{This place tried to hurt you, but... }
+{165}{}{...But you conquered it. And... Started a new life here.}
 {166}{}{We will never forget you.}
-{167}{}{Rest in peace. You earned it. Amen.}
+{167}{}{Rest in peace. You deserve it.}
 
 {168}{}{Now let's hit the bar!}
 {169}{}{It looks like Jed is dead.}
@@ -59,7 +59,7 @@
 
 #Ïðî Æàñìèí
 {180}{}{How do you feel about Jasmine?}
-{181}{}{[He smiles crookedly] She... Well, she's a... S-she'sh a good girl. I'd talk to her, but... But I'm afraid to. She's infectioush. What would p-people shay? No, I'm... I'm fine being alone.}
+{181}{}{[He smiles crookedly] She... Well, she's a... S-she'sh a good girl. I'd talk to her, but... But I'm afraid. She's infectioush. What would p-people shay? No, I'm... I'm fine being alone.}
 {182}{}{Would you like to live with her?}
 
 {183}{}{Me?! Oh, yesh! Yesh, I'd love to!}
@@ -103,16 +103,16 @@
 {217}{}{Fine, forget it.}
 
 #The main quest of this location
-{250}{}{Hmm. You have some nice boots there. Where did you get them?}
-{251}{}{Uh... T-they were on sh-ome dead man I buried. Jush-t a pair of old boot-sh... }
-{252}{}{Any old boots from any old corpse? Show me the soles!}
+{250}{}{Hmm. Nice boots you have there. Where did you get them?}
+{251}{}{Uh... F-from sh-ome dead man I buried. Jush-t a pair of old boot-sh... }
+{252}{}{Just a pair of old boots from an old corpse? Show me the soles!}
 {253}{}{[He looks nervous] Wh-wh-what for? They're just b-b-boot-sh!}
 {254}{}{Buh-buh-buh-because if there's a star there, I'll know they're Milo's buh-buh-buh-boots, asshole!}
 {255}{}{Just show me. If there's a star on the soles, then we'll talk about what happens next.}
 
-{256}{}{[He looks around frantically] Wait, I - I, uh, I have to go shee Jushtin - }
+{256}{}{[He looks around frantically] Wait, I- I, uh, I have to go shee Jushtin- }
 {257}{}{So Justin's a part of this? Tell me what you know about Milo, or the next one buried out here will be you!}
-{258}{}{Bob, you have to come clean with me. After all I did for Black Rock, don't you think you can do that?}
+{258}{}{Bob, you got to be honest with me. After all I've done for Black Rock, don't you think I deserve it?}
 {259}{}{All I want is the truth, Bob. Just tell me what happened. I promise you won't be punished for it.}
 {260}{}{No, *I'll* go see him. Stay here until I get back.}
 
@@ -122,7 +122,7 @@
 {264}{}{I'll be right back. Stay here, don't move.}
 {265}{}{You won't tell anyone? P-pleazhe, Jushtin and William shouldn't know about thish! They'll kill me!}
 {266}{}{I promise. Just tell me what happened.}
-{267}{}{No, no, no! [he covers his face with his arms] Don't touch me, pleazhe! I'll t-tell you everyshing!}
+{267}{}{No, no, no! [he covers his face with his hands] Don't touch me, pleazhe! I'll t-tell you everyshing!}
 {268}{}{Let's hear it.}
 {269}{}{[Frantically waves his hand around] Don't - don't touch me! I'll fight you!}
 {270}{}{I'll give you time to think about your options. Maybe you'll be smarter about this when I come back.}
@@ -141,12 +141,12 @@
 {281}{}{I have another question.}
 
 {282}{}{[He gulps dryly and his voice drops to a whisper] The... The "Moleratsh" gang. Jushtin'sh shon, he'sh - he'sh one of them... }
-{283}{}{They had to h-hide hizh body, and... [he shrugs helplessly] ...where elshe could they do it, if not here?}
+{283}{}{They had to h-hide hizh body, and... [he shrugs helplessly] ...Where elshe could they do it, if not here?}
 {284}{}{I jusht wanted to wear shomeshing n-nice! If I knew thish would happen, I wouldn't have t-taken them!}
-{285}{}{They t-took it. He had a whole shack of g-gecko sh-kinsh, and they took it all!}
+{285}{}{They t-took it. He had a whole shack of g-gecko p-peltsh, and they took it all!}
 {286}{}{[He looks around nervously] Jushtin wouldn't hurt me, but hizh - hizh shon... He told me to k-keep my moush shut, sho... Sho I kept it shut! You won't... T-tell him I talked to you, r-right?}
 {287}{}{No! I don't believe you! You'll r-rat me out! You're jusht like them! Like everyone!}
-{288}{}{Okay, I'm sick and tired of this. You give me the truth right now, or I'm telling everything to William!}
+{288}{}{Okay, I'm sick of this. You tell me the truth right now, or I'm telling everything to William!}
 {289}{}{You're - no, no! Thish ish b-blackmailing! Everyone will hate you for thish!}
 {290}{}{Not nearly as much as they'll hate you, when I tell William you killed Milo... }
 {291}{}{Fine, I'll deal with this myself. You wait here.}

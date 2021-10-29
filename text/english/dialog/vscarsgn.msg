@@ -24,7 +24,7 @@
 {119}{}{So be it.}
 
 #After the change of the parking spot
-{120}{}{Once more time.}
+{120}{}{Change it again.}
 {121}{}{That's better.}
 {122}{}{I don't need that now.}
 

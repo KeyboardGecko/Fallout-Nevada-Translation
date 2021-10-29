@@ -1,56 +1,56 @@
 {100}{}{You see Bobby.}
 {101}{}{You see old pal Bobby.}
 
-{110}{}{Hello wanderer! Be my guest. Everyone is always in haste, running somewhere... You're one of the kind? Wouldn't you stay for a little chat with the old man? Time flows slowly with interesting stories, but are you ready for them?}
-{111}{}{Only smokes goes into sky irretrievably, human is free on his way in any direction... Do you want a story about it?}
-{112}{}{Eh, okay, I'll listen.}
-{113}{}{And you seems to be an wasteland weed expert? It's gonna be fun.}
-{114}{}{Wow easy! I only here to look around. Don't strain so soon.}
+{110}{}{Hello, stranger! Be my guest. Everyone is always in a hurry, running somewhere... Are you one of them? Why don't you stay for a chat with an old man? Time flows slowly, telling interesting stories, but are you ready for them?}
+{111}{}{Only smoke goes to the sky irrevocably, but a man is free to choose his path in any direction... Would you like a story about that?}
+{112}{}{Uh, okay, I'll listen.}
+{113}{}{And you seem to be an expert on wasteland weed? This is going to be fun.}
+{114}{}{Wow, easy! I only here to look around. Don't strain yourself too soon.}
 
-{115}{}{Anyway, there were two brothers. Called... Well, let's say Dick and Tom. One of them named Tom always help closest one... And even distant. He was a humble man of heart, a unique one. And his brother couldn't restrain himself from benefiting on someone. He sued his own mother for money she owned him.}
+{115}{}{Anyway, there were two brothers. Their names were... Well, let's say Dick and Tom. One of them named Tom was always helping the closest... or even distant. He was a humble man at heart, unique. And his brother couldn't resist taking advantage of someone. He sued his own mother for money that belonged to her.}
 {116}{}{[Next]}
-{117}{}{And there came Black Saturday, when God, as many believed, gave everyone what they deserved. Tommy, who drove a bunch of clowns to their circus, got eaten by the very same clowns without even salt and pepper... Fun and tasty, ta-ta-ta! But Dick also died... In a slumber. After he had taken a warehouse with medicines and acquired wealth with skillful speculation. That's the story.}
+{117}{}{And then came the day, when God, as many believed, gave everyone what they deserved. Tommy, who had driven a crowd of clowns to their circus, was eaten by those same clowns, even without salt and pepper... But Dick died, too. In his sleep. After earning his way to the pharmaceutical warehouse and amassing wealth through skillful speculation. That's the story.}
 {118}{}{Tell me it's just a fiction. I really need to hear it from you. Hey, I'm talking to you!}
 {119}{}{Excellent! I was ready for some snotty sermon, and how well you turned it around!}
-{120}{}{You're so stoned, I've got nothing to say. I'll return when you'll be normal... If it's possible.}
+{120}{}{You're so stoned, I literally have nothing to say. I'll come back when you're normal... If that's even possible.}
 
-{121}{}{I also remembered this one: about old writer from Denver. Extremely positive person he was - always tried to find positive things in any situation. Lost his leg after meeting with stoned cola truck driver - he said now he can finish writing his book without being distracted with meaningless running around.}
-{122}{}{In the vault during bombing in 2077, where his relatives complained about their fate to no end, he was happy that everyone finally came together at one table. In the end he was kicked out and became a ghoul - it's great, now radiation is not an issue, so many places to visit!}
-{123}{}{Some crazy sectarians crucified him somewhere at Great Plains - good! That means... U-ugh... Well, to be honest, I see no positives in this case. But he'd think something out, rest assured. Don't worry, be happy.}
-{124}{}{I hope you didn't tell such stories your children? Wait, you're not finished?}
-{125}{}{One story is more killing than other! Would you give me a nickel bag?}
-{126}{}{I'm not in the right mood to listen about your trips. Good luck.}
+{121}{}{I also remembered this one: about an old writer from Denver. What an extremely positive person he was - always tried to find positive side to any situation. Lost his leg after meeting with stoned cola truck driver - said "now I can finish writing my book without being distracted by meaningless running around."}
+{122}{}{In the vault during bombing in 2077, where his relatives complained about their fate to no end, he was happy that everyone finally came together. In the end, he was kicked out and became a ghoul... And said that it's great, the radiation is not an issue anymore, so many places to visit!}
+{123}{}{Some crazy sectarians crucified him somewhere at Great Plains - good! That means... U-ugh... Well, to be honest, I don't see anything positive in this case. But he'd think of something, rest assured. Don't worry, be happy.}
+{124}{}{I hope you don't tell stories like this to your children. Wait, you're not done yet?}
+{125}{}{One story is better than the other! Give me a nickel bag!}
+{126}{}{I'm not in the mood to listen about your tripping. Good luck.}
 
-{127}{}{So... Devotion - nice word, isn't it? Same opinion had one dog, which made it's way to the owner through the devastation of a nuclear holocaust and scratch along  with the surviving cats and rats. But when that dog found him...}
+{127}{}{So... Loyalty is a good word, isn't it? That was also the opinion of one dog who made his way to his master through the devastation of the nuclear holocaust. But when that dog found him...}
 {128}{}{Stop! Lemme guess - someone ate someone.}
 {129}{}{Yeah-yeah, go on. I'm eager for more.}
 {130}{}{That's it, I'm done. Bye, fabler!}
 
-{131}{}{Hm... I think I better tell a story about some lone wanderer from some vault. How you'd think I end this tale?}
+{131}{}{Hmm... I think I'd better tell the story of the lonely wanderer from some vault. How do you think I would end this tale?}
 {132}{}{I think it's up to wanderer how the story ends.}
-{133}{}{What's the catch? Why did you keep telling me these stories? Is this some kind of test?}
-{134}{}{I don't fuckin' care! I'm tired of you already. I'm gonna leave you.}
-{135}{}{Wanderer killed some stoned old man for loot. Do you like this tale? [Attack]}
+{133}{}{What's the catch? Why do you keep telling me these stories? Is this some kind of test?}
+{134}{}{I don't fuckin' care! I'm tired of you already. I'm gonna leave.}
+{135}{}{Wanderer killed some stoned old man for loot. How do you like that? [Attack]}
 
-{136}{}{No catch, nope. After all, we're not on bridge of death, ha-ha! Just wanna stir your mind to some determinate thoughts.}
-{137}{}{Thoughts is nothing, deeds matter. And whoever says anything, I will do whatever I think is necessary.}
-{138}{}{So far my thoughts are about beating you for time spent ineptly with you. Disappear from horizon, junkie.}
-{139}{}{Well said! Let it go as it is... You never know what's hiding behind the corner, but it's not a good reason for grim thoughts. Don't worry, be happy!}
+{136}{}{No catch, nope. After all, we're not on bridge of death, ha-ha! I just want to stir your mind a little. To turn it in the right direction.}
+{137}{}{Thoughts are nothing, it's deeds that matter. And no matter what anyone says, I will do what I think is right.}
+{138}{}{So far my thoughts are all about beating you up for my wasted time. Get out of my sight, junkie.}
+{139}{}{Well said! Let it go as it is... You never know what's around the corner, but that's no reason to think gloomily. Don't worry, be happy!}
 {140}{}{Amen. So long, philosopher.}
-{141}{}{Whatever hides behind the corner, it's better flee from the way in fear. Be healthy, don't smoke too much.}
+{141}{}{Whatever is hiding around the corner had better run in fear. Be healthy, don't smoke too much.}
 {142}{}{Thank you, the wisest one, for the opportunity to joint to the source knowledge. Well, I need to go.}
 
 #Случайные фразы
-{150}{}{Why did no one thought of selling empty cigs?}
-{151}{}{In this wilderness, can't even smoke a joint with no one...}
-{152}{}{Life is way simpler than everyone thinks}
-{153}{}{You were allowed to start everything from scratch - and how did you manage to ruin everything?}
-{154}{}{Like in hell - lots of killing vynils and not a single gramophone.}
+{150}{}{Why didn't anyone think of selling empty cigs?}
+{151}{}{In this wilderness, there's no one to smoke a joint with...}
+{152}{}{Life is way simpler than everyone thinks.}
+{153}{}{You were allowed to start everything from scratch - how did you manage to ruin everything?}
+{154}{}{Like hell - lots of killer vinyls and not a single gramophone.}
 {155}{}{Be happy, for Pete's sake!}
 {156}{}{Don't worry!}
 
 #Женские реплики
-{1110}{}{Hello wanderer! Be my guest. Everyone is in haste, to somewhere... You're one of the kind? Wouldn't you stay for a little chat with the old man? Time flows slowly with interesting stories, but are you ready for them?}
-{1114}{}{Wow easy! I only here to look around. Don't strain so soon.}
+{1110}{}{Hello, stranger! Be my guest. Everyone is always in a hurry, running somewhere... Are you one of them? Why don't you stay for a chat with an old man? Time flows slowly, telling interesting stories, but are you ready for them?}
+{1114}{}{Wow, easy! I only here to look around. Don't strain yourself too soon.}
 {1119}{}{Excellent! I was ready for some snotty sermon, and how well you turned it around!}
 {1129}{}{Yeah-yeah, go on. I'm eager for more.}

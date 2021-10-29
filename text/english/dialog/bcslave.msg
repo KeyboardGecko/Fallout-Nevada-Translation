@@ -18,14 +18,14 @@
 {123}{}{How did you escape?}
 {124}{}{We spent weeks digging a tunnel, then knocked out a guard one night and escaped. Our friend spent a year planning it, but he only figured out how to get out. We didn't know how to survive outside or how to remove these collars. Walking around with these on our necks is... [they glance at each other anxiously] ...very dangerous.}
 {125}{}{Why did you run away?}
-{126}{}{Mister Luciano is having trouble in Reno, so he gave us less food and made us work every day. We understand why he needed to do that, but it was too much. It was better to take the risks than stay there.}
+{126}{}{Mister Luciano is having trouble in Reno, so he started to give us less food and made us work more every day. We understand why he needed to do that, but it was too much. It was better to take the risks than stay there.}
 {127}{}{How many of you escaped?}
 {128}{}{There were five of us. One starved to death. The second drank from a puddle and died of sickness. The third was eaten by a gecko. It was... [they look at each other sadly] ...a hard journey.}
 {129}{}{Do you think they're looking for you?}
 {130}{}{Mister Luciano will be angry, but we are not special. He won't pay anyone to look for us outside the city.}
 {131}{}{I've heard enough to make a decision.}
 
-{132}{}{[The two men watch you nervously.]}
+{132}{}{[The two men look at you nervously.]}
 {133}{}{You seem harmless. You can stay. Let's get you a job at the stables...}
 {134}{}{You can't stay here. You have to leave.}
 {135}{}{I need to think about this. I'll be back with my answer.}
@@ -38,7 +38,7 @@
 {142}{}{Stay safe!}
 {143}{}{The sooner the better. I don't want to see you around here again.}
 
-{144}{}{I'm not asking, I'm telling. Get out. One more word, and I'll feed you to the geckos, feet-first. Alive.}
+{144}{}{I'm not asking, I'm telling. Get out. One more word, and I'll feed you to the geckos, feet first. Alive.}
 {145}{}{N-no sir, please don't sir! We'll leave, sir, just please don't hurt us!}
 {146}{}{That was a hell of a lot more than one word. Start running.}
 {147}{}{Just walk away. Leave these people, this food, this water, this whole settlement, and I'll spare your lives. Just walk away.}
@@ -51,7 +51,7 @@
 {151}{}{I'll try. Let me see.}
 {152}{}{Tell me about yourselves.}
 {153}{}{[These collars are specifically designed to resist being removed without proper authorization. Unless you know what you're doing, tampering with them will cause them to electrocute the wearer, killing them instantly.]}
-{154}{}{I think I see how to disable these. I'll get them off now.}
+{154}{}{I think I know how to disable these. I'll get them off now.}
 {155}{}{Whoops! [deliberately activate both collars]}
 {156}{}{I can't help you.}
 

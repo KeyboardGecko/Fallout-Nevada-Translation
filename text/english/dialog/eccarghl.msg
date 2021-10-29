@@ -6,7 +6,7 @@
 {111}{}{Vegas? It's just a junkyard, you weirdo!}
 {112}{}{Vegas? Oh, yeah, sounds great.}
 
-{113}{}{Vegas is everywhere, just take a look around! Isn't it beautiful?}
+{113}{}{Vegas is everywhere, just look around! Isn't it beautiful?}
 {114}{}{You're a raving lunatic, wonderful. But I don't care. Do you have any tires for my wheels?}
 {115}{}{Oh yes. Beautiful indeed. Tell me, do you by any chance have tires for my wheels?}
 
@@ -19,10 +19,10 @@
 {121}{}{What are you talking about?}
 {122}{}{No, I was only looking for tires. Take care.}
 {123}{}{You're just crazy. What can you make out of junk, other than some more junk!?}
-{124}{}{I'm not crazy, I'm full of ideas! These two are often confused, so don't feel bad about that. You see, I might just be the last engineer on this godforsaken planet!}
+{124}{}{I'm not crazy, I'm full of ideas! These two are often confused, so don't feel bad about that. You see, I might just be the last good engineer on this godforsaken planet!}
 {125}{}{I see... What exactly are you offering?}
-{126}{}{You got a ride? Oh, I see you do. Well... It's rather primitive, but I still got the itch to do some things to it. Just pick from the list of options!}
-{127}{}{You got a ride? Oh... Pity you don't. See, I got this itch for engineering!}
+{126}{}{You got a ride? Oh, I see you do. Well... It's rather primitive, but I'm still itching to do some things with it. Just pick from the list!}
+{127}{}{You got a ride? Oh... A pity you don't. See, I got this itch for engineering!}
 {128}{}{Great, let's perform an inspection.}
 {129}{}{I'm not interested in all that right now. What I am interested in is this Chryslus Motors catalog. Can you tell me anything about it?}
 
@@ -35,14 +35,14 @@
 {135}{}{A couple of massive halogen lamps on your hood never go out of fashion. It's not too comfortable driving at night when there's no roads anymore, don't you agree? I could install them, no sweat. The question is, what will I get in return.}
 {136}{}{Oh yes, I'd like that!}
 {137}{}{Not now. What else did you say you could do?}
-{138}{}{Your car eats up loads of fuel and half of the energy goes to heating up the wasteland, right? Oh yeah, I know how it feels! I also know how to make it stop draining your batteries like a short fuse. The question here, what will I get in return.}
-{139}{}{That'll take some work, but I could do it. Your trunk is quite roomy, and you could fit a dozen or so debtors in there all their gear included, but sometimes it's still just not enough, am I right? A leather canopy will let you stuff about 20% more loot in there. But you'll have to motivate me, if you know what I mean.}
+{138}{}{Your car eats up loads of fuel and half of the energy goes to heating up the wasteland, right? Oh yeah, I know how it feels! I also know how to make it stop draining your batteries like a short fuse. The question is, what will I get in return.}
+{139}{}{That'll take some work, but I could do it. Your trunk is pretty roomy, and you could fit about a dozen or so fighters with all their gear in it, but sometimes that's still not enough, am I right? A leather canopy will let you stuff about 20% more loot in there. But you'll have to motivate me, if you know what I mean.}
 {140}{}{Hmm! I didn't have to read in quite a long while. I wouldn't remember the letters, but if you read it to me, I'll try to make some use of it.}
 {141}{}{Great, let's do that.}
 {142}{}{Just like that? No-no, I got to have a hot meal and wet my whistle first. My head doesn't work right on an empty stomach.}
 {143}{}{Whatever.}
 {144}{}{Wait a little then - we'll talk about it later.}
-{145}{}{You changed your mind yet? Too bad!}
+{145}{}{Have you changed your mind yet? Too bad!}
 {146}{}{Tell me about your car options again.}
 {147}{}{Maybe. But I'm leaving anyway.}
 {148}{}{Oh yes, that should be enough! Go warm yourself by that barrel while I finish working on this baby...}
@@ -57,16 +57,16 @@
 {156}{}{[-more-]}
 {157}{}{20%.}
 {158}{}{Okay, what do you want?}
-{159}{}{What snacks and booze have you got?}
+{159}{}{What snacks and drinks do you have?}
 {160}{}{[Look for liquor in your backpack]}
 {161}{}{[Look for food in your backpack]}
 {162}{}{Nothing like that. I'll go get some.}
 {163}{}{Forget it. What did you say about my car?}
-{164}{}{You already had as much as a deathclaw could eat in a week. I dare you, ask me for food again!}
-{165}{}{Hey, easy, buddy! I might have pushed it a little too far. Can you blame me? Oh, don't give me that look.}
+{164}{}{You already had as much as a deathclaw could eat in a week. Don't you dare ask me for food again!}
+{165}{}{Hey, easy, buddy! I might have pushed it a little too far. Can you really blame me? Oh, don't give me that look.}
 {166}{}{Shut your blowhole and get to work.}
 {167}{}{Articles on "Chryslus Motors" vehicles proved to be quite useful. You got some tips on increasing your car's speed and maximum carried weight.}
-{168}{}{Need anything else?}
+{168}{}{Anything else?}
 {169}{}{Forget about food. Let's talk about my car.}
 {170}{}{You'll have to deal with it. Bye.}
 
@@ -74,7 +74,7 @@
 {172}{}{[Give booze]}
 {173}{}{[Give Rot Gut]}
 {174}{}{[Give "Bloody Mary"]}
-{175}{}{(Waits in anticipation)}
+{175}{}{[He waits in anticipation.]}
 
 {176}{}{[Give sandwich]}
 {177}{}{[Give pizza]}
@@ -82,7 +82,7 @@
 {179}{}{[Give iguana bits]}
 {180}{}{[Give fruit]}
 
-{181}{}{Oh yeah! It's always good to snatch a bite before work. Even if it's not much, right?}
+{181}{}{Oh yeah! It's always good to have a bite before work. Even if it's not much, right?}
 {182}{}{Wait, you mean it wasn't enough for you?}
 {183}{}{Oh yeah! Some fuel in the system - just what a mechanic needs, right? Well, at least for starters.}
 {184}{}{Won't you burn up from this much "fuel"?}
@@ -100,5 +100,5 @@
 #Female dialogue (by Rekrut)
 {1110}{}{Whoa, welcome to sparkling Vegas, precious!}
 {1145}{}{You changed your mind yet, darling? Too bad!}
-{1164}{}{You already had as much as a deathclaw could eat in a week. I dare you, ask me for food again!}
-{1165}{}{Hey, easy, darling! I may have pushed it a little too far, can you blame me? Who wouldn't? Oh, don't give me this look..}
+{1164}{}{You already had as much as a deathclaw could eat in a week. Don't you dare ask me for food again!}
+{1165}{}{Hey, easy, darling! I might have pushed it a little too far. Can you really blame me? Oh, don't give me that look.}

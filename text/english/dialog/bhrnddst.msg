@@ -115,13 +115,13 @@
 
 # Red Encounter Table
 {550}{}{You encounter geckos and wolves.}
-{551}{}{You encounter claim jumpers.}
+{551}{}{You encounter robbers.}
 {552}{}{You encounter wolves.}
 {553}{}{You encounter golden geckos.}
-{554}{}{You encounter prospectors fending off claim jumpers.}
+{554}{}{You encounter prospectors fending off robbers.}
 {555}{}{You encounter trappers hunting geckos.}
 {556}{}{You encounter bootleggers fighting wolves.}
-{557}{}{You encounter homesteaders fighting claim jumpers}
+{557}{}{You encounter homesteaders fighting robbers}
 {558}{}{You encounter homesteaders fighting wolves.}
 {559}{}{You encounter bootleggers.}
 {560}{}{You encounter trappers.}

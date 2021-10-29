@@ -17,15 +17,15 @@
 {119}{}{Tell me about San-Francisco.}
 {120}{}{Why didn't you mind?}
 {121}{}{No one saw Emperor since the founding of Palace. And it was a long time ago. We only know that he lives in the palace, and no one but his First Advisor can see him.}
-{122}{}{Ruins and more ruins - this is what awaits any traveler. But Shi are trying hard to restore the city with hard labor. The palace has already been rebuilt, the clan has settled in the suburbs, other neighborhoods are waiting their turn.}
+{122}{}{Ruins and more ruins - this is what awaits any traveler. But Shi are trying hard to restore the city with their labor. The palace has already been rebuilt, the clan has settled in the suburbs, other neighborhoods are waiting their turn.}
 {123}{}{We dare not oppose the Emperor's will. He has decided so - and we will obey. But we like living like farmers, I must say. The land smells of life and is soothing, while the ruins of the city only make us feared and angered.}
 
 {124}{}{We cultivate maize and breed Brahmin. We are peasants, we are born to do this.}
-{125}{}{But we live here well. We grow crops, breed cattle, we are not hampered by the noise and bustle of the big city. Now this is our home. And we do not want to leave, even if the earth dragons devour all our brahmin.}
+{125}{}{But we live well here. We grow crops, breed cattle, we are not hampered by the noise and bustle of the big city. Now this is our home. And we do not want to leave, even if the earth dragons devour all our brahmin.}
 {126}{}{Earth dragons?}
-{127}{}{Oh, Nelson hasn't told you yet? The greed of the men who worked in the mine has awakened the earth dragons. They want to punish the people as Gods once punished them with hellfire that wiped out entire cities.}
+{127}{}{Oh, Nelson hasn't told you yet? The greed of the men who worked in the mine has awakened the earth dragons. They want to punish the people as Gods once punished them with a hellfire that wiped out entire cities.}
 {128}{}{Let's suppose I want to meet them. What do I need for this?}
-{129}{}{Well, then, there's nothing like making noise. We even had to put away a noisemaker made out of cans that guarded our herd at night. It lies on the shelves.}
+{129}{}{Well, there's nothing better than to make noise. We even had to put away a noisemaker made of cans that guarded our herd at night. It's on the shelves.}
 
 #Брамин
 {150}{}{I apologize, but I need your brahmin to save this settlement.}
