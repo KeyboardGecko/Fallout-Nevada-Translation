@@ -14,19 +14,19 @@
 #Общие реплики при применении термита,
 #которые используются у всех типовых сейфов
 #(текст берется отсюда для SSRSeif, LISeif, NIEldSlf и пр.)
-{107}{}{You don't have anything to light the thermite.}
-{108}{}{It's no use}
-{109}{}{The incredible heat melts through the locks like butter.}
+{107}{}{You don't have anything to light the thermite with.}
+{108}{}{It's no use.}
+{109}{}{The incredible heat melts the lock like it's butter.}
 
 #Использование двери и навыков
 {110}{}{The door is locked.}
 {111}{}{Locked.}
-{112}{}{Careful, the door is trapped!}
-{113}{}{Trap!}
+{112}{}{Careful, the door is booby-trapped!}
+{113}{}{A trap!}
 {114}{}{Clear.}
-{115}{}{You couldn't disarm the trap. Lucky for you, it didn't blow up.}
-{116}{}{You disarmed the trap and placed it in your bag.}
-{117}{}{Done}
+{115}{}{You failed to disarm the trap. Lucky for you, it didn't blow up.}
+{116}{}{You disarmed the trap and put it in your bag.}
+{117}{}{Done.}
 {118}{}{Good job, you triggered the trap.}
 {119}{}{Bad luck - the pin snapped.}
 
@@ -38,38 +38,38 @@
 {124}{}{You receive }
 {125}{}{ experience points.}
 {126}{}{This is beyond your abilities.}
-{127}{}{You don't have anything to light the thermite.}
-{128}{}{It's no use}
-{129}{}{The incredible heat melts through the locks like butter.}
+{127}{}{You don't have anything to light the thermite with.}
+{128}{}{It's no use.}
+{129}{}{The incredible heat melts the lock like it's butter.}
 
 #Навыки, сила
-{130}{}{An Electronic Lockpick won't help, this is a mechanical lock.}
-{131}{}{Lockpicks won't help, this is an electronic lock.}
-{132}{}{Wrong lockpicks}
+{130}{}{An Electronic Lockpick won't help you here, this is a mechanical lock.}
+{131}{}{Lockpicks won't help you here, this is an electronic lock.}
+{132}{}{Wrong kind of lockpicks.}
 {133}{}{The door crumbles under your strength.}
 {134}{}{Did you really expect to pull this off with muscles like that?}
 {135}{}{Ugh!}
 {136}{}{}
 {137}{}{}
-{138}{}{You can't just break this door down. You'll need a lot more force than that.}
+{138}{}{You can't just break this door down. You'll need a lot more strength than that.}
 {139}{}{The laser beam can't pierce through the door.}
 
 #Минирование
-{140}{}{No use}
+{140}{}{No use.}
 {141}{}{This is pointless.}
 {142}{}{This is pointless - the door is already trapped.}
-{143}{}{Done}
+{143}{}{Done.}
 {144}{}{You've trapped the door. Touching it again is probably a bad idea.}
-{145}{}{Trapped}
-{146}{}{Bad luck}
+{145}{}{Trapped.}
+{146}{}{Bad luck.}
 {147}{}{You couldn't install the trap.}
-{148}{}{Thanks to your lack of expertise, the trap worked prematurely.}
+{148}{}{Thanks to your lack of experience, the trap worked prematurely.}
 
 {150}{}{You activated the alarm!}
 {151}{}{Hey! What's going on!?}
 
 {152}{}{This key doesn't fit.}
-{153}{}{That's not it}
+{153}{}{That's not right.}
 {154}{}{You can't set a trap on an open door.}
 {155}{}{You completed Luciano's task.}
 
@@ -83,7 +83,7 @@
 
 #Особые подробные описания
 {200}{}{You see a tough warehouse door.}
-{201}{}{You see an emergency exit from a pharmacy.}
+{201}{}{You see an pharmacy emergency exit.}
 {202}{}{You see a flimsy warehouse door.}
 {203}{}{You see a gate to the slave pens.}
 {204}{}{You see an armored door to the reactor.}
@@ -97,7 +97,7 @@
 {212}{}{You see a tough, electronic warehouse door.}
 {213}{}{You see a tough garage door.}
 {214}{}{You see a very tough gate to a bunker. The lock looks like it was changed recently.}
-{215}{}{Hm. There must be some sort of bunker below. The lock is brand new.}
+{215}{}{Hmm. There must be some sort of bunker below. The lock is brand new.}
 {216}{}{You see a standard Vault door.}
 {217}{}{You see a hotel room numbered 15.}
 {218}{}{You see a heavy duty hatch with a tough lock. It probably needs a special key.}
