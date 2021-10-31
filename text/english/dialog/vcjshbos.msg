@@ -1,4 +1,4 @@
-{100}{}{You see: Supervisor}
+{100}{}{You see a supervisor.}
 {101}{}{You see the Vault City maintenance supervisor.}
 {102}{}{What did Joshua screw up this time?}
 {103}{}{Citizen? Please don't distract Joshua, he's on a tight schedule.}
@@ -15,20 +15,20 @@
 {116}{}{I got this piece of information from the nearby nuclear power plant. What can you tell me about it?}
 {117}{}{Don't worry.}
 
-{120}{}{Absolutely. We maintain all of the city's technology, from simple lights to computers, terminals, and robots.}
+{120}{}{Absolutely. We maintain all of the city's technology, from simple lights to computers, terminals and robots.}
 {121}{}{I fixed that light your man was having trouble with.}
-{122}{}{Oh, uh... Yeah, I heard. It's hard to find experienced workers these days, you know? Well, anyway, thanks for the help, }
+{122}{}{Oh, uh... Yeah, I heard. It's hard to find experienced workers these days, you know? Well, thanks for the help, }
 {123}{}{.}
-{124}{}{Absolutely not! The information on our servers can be dangerous to common citizens! The Overseer declared it classified. Try logging a request with the Information Bureau and they'll decide what you can and can't see.}
+{124}{}{Absolutely not! The information on our servers can be dangerous to common citizens! The Overseer declared it classified. Try putting a request to the Information Bureau and they'll decide what you can and can't see.}
 {125}{}{That's enough.}
 {126}{}{*Another* one? No, I don't think so. If he did, he'd tell me.}
-{127}{}{Here's the holodisk from the missing robot. Believe me now?}
-{128}{}{[Sigh] I feel bad for him, I really do. He has a lot on his plate. But he's already lost two robots, and that puts him on thin ice. We need these robots to work in hazardous zones, and they're not easy to replace. Joshua's received a number of warnings already. If he can't be trusted, he must be isolated.}
+{127}{}{Here's the holodisk from the missing robot. Do you believe me now?}
+{128}{}{[Sigh] I feel bad for him, I really do. He has a lot on his plate. But he's already lost two robots, and that puts him on thin ice. We need those robots to work in dangerous zones, and they're not easy to replace. Joshua has already received several warnings. If he can't be trusted, he needs to be isolated.}
 {129}{}{That's a little harsh, don't you think?}
 {130}{}{No, I don't. Rules are rules. If we can't uphold the laws written by the committee and the Overseer, then there will be chaos in the city.}
-{131}{}{Joshua lied to me? That's it, no more kid gloves. I'll have the committee place Joshua in correctional isolation.}
-{132}{}{That's right! He deserves no less!}
-{133}{}{Well, if you say so.}
+{131}{}{Joshua lied to me? That's it, no more kid gloves. I'll have the committee put Joshua in correctional isolation ward.}
+{132}{}{That's right! He totally deserves this!}
+{133}{}{If you say so.}
 {134}{}{Thank you for telling me this, }
 {135}{}{! You did the right thing, exposing this vermin! Keep it up. Oh, and long live Vault City!}
 {136}{}{Of course.}
@@ -51,9 +51,9 @@
 
 #Починка поезда
 {160}{}{Can you help fix this onboard computer?}
-{161}{}{I can't do that for you while your citizenship is suspended. I'll need authorization from Peter Graves. If he gives the okay, I'll do my best to help you.}
+{161}{}{I can't do anything for you while your citizenship is suspended. I'll need authorization from Peter Graves. If he gives his approvement, I'll do my best to help you.}
 {162}{}{Understood.}
-{163}{}{Sure thing. Sergeant Graves gave the okay. Let me take a look at it.}
+{163}{}{Sure thing. Sergeant Graves gave the nod. Let me take a look at it.}
 {164}{}{Here you go.}
 {165}{}{Actually, I'll try and fix it myself.}
 {166}{}{You found a simple way to fix the train.}
@@ -66,7 +66,7 @@
 {204}{}{Josh! Stop!!!}
 {205}{}{Halt, citizen!}
 {206}{}{Get back here, citizen!}
-{207}{}{Joshua has fled the city in depression. You're pretty sure you won't be seeing him again.}
+{207}{}{Joshua fled the city in a depression. You're sure you won't see him again.}
 
 #Female character
 {1103}{}{Citizen? Please don't distract Joshua, he's on a tight schedule.}
