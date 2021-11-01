@@ -17,17 +17,17 @@
 {121}{}{Tell me about your gang.}
 {122}{}{It's time for me to go. Bye.}
 
-{123}{}{His parents died a year ago. Only his elder sister left. I wanted to help her, honestly. Paid for her treatment, but in the end she died too. That boy lived for some time on my money. I took care of him, supported him all this time. But now it's time for him to bring something to the table.}
-{124}{}{Consider for now that I'm Kevin's brother: I took care of him, fed him, treated his sister. What else do you want?}
+{123}{}{His parents died some time ago. Only his elder sister left. I wanted to help her, honestly. Paid for her treatment, but in the end she died too. That boy lived for some time on my money. I took care of him, supported him all this time. But now it's time for him to bring something to the table.}
+{124}{}{Consider for now that I'm Kevin's brother: I take care of him, feed him, I treated his sister. What else do you want?}
 {125}{}{[Laughs] Time goes - the debt grows. It's a lot of money. But listen, if you want to help him so bad, then we can make a deal. Bring me a laser pistol, a police model. It's an expensive toy, you can get one only in Clean City. Can you do it? If you will, we can consider Kevin's debt paid off.}
-{126}{}{About the Kings? Well, we are quite famous in Vegas. We have many nasty fellas in our gang, and we are all around the city. I advise you not to get in our way. If not for the police, we would rule the whole Vegas already.}
+{126}{}{About the Kings? Well, we are quite famous. We have many nasty fellas in our gang and we are all around the city. I advise you not to get in our way. If not for the police, we would rule the whole Vegas already.}
 
 {127}{}{Right. You tricked the boy in order to make him feel guilty. And he turned out a good pickpocket. And now you want to "milk" him infinitely.}
 {128}{}{[Surprised] I sense thieves from a mile away. And I saw TALENT in Kevin. And I see that you are not so bad yourself. But the spot in Vegas is occupied. So steer clear from my turf.}
 
 {129}{}{It just so happened that I have this pistol. Here, take it. Are we done?}
 {130}{}{I managed to get the pistol. Here, take it. Are we done now?}
-{131}{}{[Smiles, examining the pistol] Debt? There was no debt. I tricked the boy, because even back then I knew that he would make a great pickpocket. But I was honest about his sister. I had a relationship with her. And I really cared about her. I just didn't have enough time to... Look. The boy is free now. Just tell him to steer clear from the outskirts of Vegas.}
+{131}{}{[Smiles, examining the pistol] Debt? There was no debt. I tricked the boy, because even back then I knew that he would make a great pickpocket. But I was honest about his sister. We had a relationship. And I really cared about her. I just didn't have enough time to... Look. The boy is free now. Just tell him to steer clear from the outskirts of Vegas.}
 {132}{}{What do you mean?}
 {133}{}{Think. What will he do now? He was under my protection, there's a whole gang covering my back. At least he had a purpose in life and a stable income. And now? I don't know. He will die on the streets - then you'll remember me.}
 {134}{}{Don't you count on that!}

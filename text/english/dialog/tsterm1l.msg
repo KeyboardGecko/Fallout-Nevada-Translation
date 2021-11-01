@@ -22,7 +22,7 @@
 {131}{}{Watch the first underground floor.}
 {132}{}{The first underground floor is also a large laboratory. In addition, here is located the control center of the external line of defense (obviously, it means the turrets and surveillance cameras), as well as the emergency generator and the control systems of the force fields and external ventilation. It is impossible to get below the first underground level due to strict security regulations.}
 #Служебки:
-{140}{}{Memos for the last available month have been sorted by topic. They are mostly usual production and nutrition reports, but you see a few interesting notes.}
+{140}{}{Memos for the last available month have been sorted by topic. They are mostly usual production and delivery reports, but you see a few interesting notes.}
 {141}{}{Select a note to read.}
 
 {142}{}{"About an error in the turrets control program"}
@@ -48,6 +48,6 @@
 
 {160}{}{Read the order 1123.}
 {161}{}{Summarize data about the project Vault 8.}
-{162}{}{Information is scarce and scattered, but each document is marked by a special mark "Project Vault 8".}
+{162}{}{Information is scattered, but some documents are marked with a "Project Vault 8" label.}
 {163}{}{The order was to set up a transit point of surveillance to monitor Vault 8. The station itself did not store any data - only relayed them to the top of the chain: the Hawthorne military base. After that, the processed data was transmitted in the form of reports to Area 51.}
-{164}{}{Although the vault network was not part of the Area 51 area of responsibility, Vault 8 was an exception. The reason for this was that, for some reason, the vault had a status of governmental facility. In an emergency, Area 51 was supposed to contribute to the protection of the vault, but not to interfere in internal affairs. There was even an initiative to install a force field barrier around the area, but there was not enough time and funding, as too many resources had already been allocated for the project. The function of guarding the vault was by default assigned to the Hawthorne military base, but in case of its inability to perform such functions, the task was to be delegated to Area 51.}
+{164}{}{Although the vault network was not part of the Area 51 area of responsibility, Vault 8 was an exception. The reason for this was that the vault had a status of governmental facility. In an emergency, Area 51 was supposed to contribute to the protection of the vault, but not to interfere in internal affairs. There was even an initiative to install a force field barrier around the area, but there was not enough time and funding, as too many resources had already been allocated for the project. The function of guarding the vault was by default assigned to the Hawthorne military base, but in case of its inability to perform such functions, the task was to be delegated to Area 51.}
