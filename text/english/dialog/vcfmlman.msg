@@ -1,8 +1,8 @@
 {100}{}{You see Richard Pryor.}
-{101}{}{You see a comedian with a bushy mustache and gambling glance. He lets everyone know with only his looks - anything can be expected from him.}
+{101}{}{You see a comedian with a bushy mustache and the face of a gambler. He lets everyone know with only his looks - anything can be expected from him.}
 
 #Попы'ка заговори'ь на кар'е кафе не получив квес'а
-{102}{}{All the paparazzi leave my house! I don't give out autographs today.}
+{102}{}{Get out of my house, damn paparazzi! I don't give autographs today.}
 
 #Фраза при смер'и
 {103}{}{No-oo! I have not yet finished my tour around Nevada!}
@@ -12,7 +12,7 @@
 {105}{}{Wild verbal itching with an abundance of vulgarity makes you constantly distracted. Because of this, you may have serious problems.}
 {106}{}{While Pryor is with you, your luck will be reduced by }
 {107}{}{.}
-{108}{}{Freed from the comedian, you feel an incredible peace in the head.}
+{108}{}{Free from the comedian, you feel at incredible peace.}
 
 #Вс'упи'ельные фразы при загрузке кар'
 {110}{}{What the gecko are we doing here?!}
@@ -41,21 +41,21 @@
 {156}{}{Don't say another word.}
 
 #Диалог в Вегасе
-{200}{}{Fans, fans... You didn't bring paparazzi with you, did you? Good enough.}
+{200}{}{Fans, fans... You didn't bring paparazzi with you, did you? Good.}
 {201}{}{So it's you I have to accompany to the Reno's stage?}
-{202}{}{I didn't need you! I don't even want to talk to you.}
-{203}{}{Reno's stage is calling for me, baby! But you are... By yourself... Didn't they have a security escort, or, at least, a stagecoach? Okay, okay, I'm going now, if it is time to.}
+{202}{}{I don't need you! I don't even want to talk to you.}
+{203}{}{Reno's stage is calling for me, baby! But you are... By yourself... Didn't they have a security escort, or, at least, a stagecoach? Okay, okay, I'm going now, if it is time.}
 {204}{}{Let's go.}
 {205}{}{Wait, I should prepare for departing.}
 
 {210}{}{How would I put it mildly... The thing is, the club's owner died and now you're out of work.}
-{211}{}{What the fuck am I doing here then!? [looks around in confusion] What a shithole! [Sees homeless men around the barrel] Hey, guys! Want some company?.. [Goes to them and gets lost in the crowd, then a collective laughter is heard in the distance, eventually falling silent.]}
+{211}{}{What the fuck am I doing here then!? [Looks around in confusion] What a shithole! [Sees homeless men around the barrel] Hey, guys! Want some company?... [Goes to them and gets lost in the crowd, then a collective laughter is heard in the distance, eventually falling silent.]}
 {212}{}{Well, apparently, we won't see each other again, Richard Pryor.}
 {213}{}{Go fuck yourself, piece of shit!}
 
 #Обычный диалог
 {250}{}{Tell me about your work.}
-{251}{}{Look, I'm funny. People laugh at my jokes, like a crowd of morons. I was born for this. However, Vegas is already tired of me, so I stopped performing here. But I still have to eat, so I decided to try my luck in Reno.}
+{251}{}{Look, I'm funny. People laugh at my jokes, like they are a crowd of morons. I was born for this. However, Vegas is already tired of me, so I stopped performing here. But I still have to eat, so I decided to try my luck in Reno.}
 {252}{}{You don't talk like a comedian right now...}
 {253}{}{Fine.}
 {254}{}{Well... You know, I have some heavy shit on my heart. I tell something important to people - and they don't listen. They think it's just a joke. But they listen to *you*. Because you're serious, even though you don't have much to say. You know what I'm saying?}
@@ -68,7 +68,7 @@
 #What the fuck am I doing here!?
 #Sick of hearing this shit about me not talking... Not true... Good days, bad days... But I still am a talkin motherfucker!
 {300}{}{What the fuck am I doing here!?}
-{301}{}{See No Evil, Hear No Evil}
+{301}{}{See No Evil, Hear No Evil.}
 {302}{}{Dedicated to all those who took care of my cocaine}
 {303}{}{Good days, bad days... But I still am a talkin' motherfucker!}
 {304}{}{Do you remember that dry fucking season 20 years ago? I survived through that shit...}
@@ -76,12 +76,12 @@
 {306}{}{And everybody starts asking: what is it?! It's Richard Pryor running down the street!}
 {307}{}{I thought, this is because of the straight hair. While they are like this, the white bully me around. And I burned them.}
 {308}{}{Let me zipper up, if I'm performing before an audience.}
-{309}{}{60 years ago you could fuck no one, because every girl had a sickness called "virginity"}
+{309}{}{60 years ago you couldn't fuck anyone, because every girl had a sickness called "virginity"}
 {310}{}{Being black is cool. 'Cause being white is not cool.}
 {311}{}{Kiss my black ass!}
 {312}{}{Did you know, that one million bucks weights 2204,6 pounds?}
 {313}{}{What is it: a cross on cross? it's a pope on a nurse.}
 
 #Female character
-{1200}{}{Fans, fans... You didn't bring paparazzi with you, did you? Good enough.}
+{1200}{}{Fans, fans... You didn't bring paparazzi with you, did you? Good.}
 {1254}{}{Well... You know, I have some heavy shit on my heart. I tell something important to people - and they don't listen. They think it's just a joke. But they listen to *you*. Because you're serious, even though you don't have much to say. You know what I'm saying?}
