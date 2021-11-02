@@ -46,7 +46,7 @@
 {217}{}{Hey, you... [winks]... Are you looking to gamble?}
 {218}{}{He looks so... [shivers]... Dangerous.}
 {219}{}{Welcome to the casino, }
-{220}{}{Put in a good word with the boss for me?}
+{220}{}{Put in a good word for me with your boss.}
 {221}{}{Hello, ma'am. Let me know if I can help you with anything.}
 {222}{}{Looking to gamble, ma'am?}
 {223}{}{She looks so... [shivers]... Dangerous.}

@@ -1,6 +1,6 @@
 #Барабанщик
 {100}{}{You see Jay.}
-{101}{}{You see Jay Nilsson, a black street dweller. People call him "Potato foot".}
+{101}{}{You see Jay Nielson, a black street dweller. People call him "Potato foot".}
 {102}{}{Hey, let's show these crackers some rhythm!}
 {103}{}{I'm gonna miss your vocals.}
 

@@ -37,7 +37,7 @@
 {137}{}{Look, I don't want to know what you're up to. Let's end this conversation.}
 
 {138}{}{You look like a man with the necessary qualities.}
-{139}{}{Heh, say what you want, but you can't hide your true nature. I'm afraid I was wrong. Good luck, wanderer.}
+{139}{}{Heh, say what you want, but you can't hide your true nature. I'm afraid I was wrong about you. Good luck, wanderer.}
 {140}{}{I'm sick of your attitude! I don't care about your ambitions, I'm only interested in personal gain. Tell me what you need and how much you'll pay for it - and I'm in.}
 {141}{}{Hey, easy! However... There's some truth in your words. After all, who else needs my ambitions, but me?}
 {142}{}{Exactly.}
@@ -72,5 +72,5 @@
 #Women's replics
 {1110}{}{Looking for something, wanderer? Never mind, I was just asking.}
 {127}{}{Oh, a fellow wastelander? This is interesting... You know, you don't look particularly distrustful. I think it would be possible to do joint business with you.}
-{1139}{}{Heh, say what you want, but you can't hide your true nature. I'm afraid I was wrong. Good luck, wanderer.}
+{1139}{}{Heh, say what you want, but you can't hide your true nature. I'm afraid I was wrong about you. Good luck, wanderer.}
 {1160}{}{So, how are you doing, wanderer?}

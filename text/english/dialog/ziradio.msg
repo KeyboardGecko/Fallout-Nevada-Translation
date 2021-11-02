@@ -19,13 +19,13 @@
 {122}{}{[You hear ordinary slaver chatter, but nothing interesting.]}
 {123}{}{Look out, a slave has escaped! He has a weapon!}
 {124}{}{[Turn the radio off.]}
-{125}{}{[The slavers can see you listening to the radio from here. You will have to leave the building or find somewhere quiet to do this.]}
+{125}{}{[The slavers can see you using the radio. You will have to leave the building or find some quiet place to do this.]}
 {126}{}{[Turn the radio off.]}
 
 #Lovelock, Cheyennes village
 {130}{}{You hear the weak signal of the local radio station.}
 {131}{}{Turn the radio off.}
-{132}{}{Suddenly, you pick up a strange signal on an unusual frequency. It is very weak, but it gets stronger, the closer you get to its source.}
+{132}{}{Suddenly you pick up a strange signal on an unusual frequency. It is very faint, but gets stronger the closer you get to its source.}
 {133}{}{Try to locate the source of the transmission.}
 {134}{}{The signal is loud and clear here, but it seems to be coded.}
 
@@ -70,23 +70,23 @@
 {209}{}{[Try to locate any sort of signal]}
 
 {210}{}{[You finally get a voice through the static] This is Ranger Tycho. Who is this? Over.}
-{211}{}{Hi, ranger Tycho. I'm a traveler who stumbled into an abandoned outpost in the mountains and found this radio and some codes lying around.}
+{211}{}{Hi, ranger Tycho. I'm a traveler who stumbled upon an abandoned outpost in the mountains and found this radio and some codes lying around.}
 {212}{}{An outpost in the mountains? That might be one of ours. You're free to use it, just don't break anything. Over.}
 {213}{}{Well, I'll try.}
 {214}{}{I'll be careful.}
-{215}{}{Actually, I don't advise wandering around. There's nothing out here but us rangers. If anything happens, there's no help coming. Over.}
+{215}{}{Actually, I wouldn't advise wandering around here. There's nothing here but us rangers. If anything happens, no help will come. Over.}
 {216}{}{Are you saying it's safer to be close to civilization?}
 
-{217}{}{Heh, you got me. The wastes are hostile and dangerous, even to the wary traveler. Tread with caution, and remember that everything you see and hear is a clue. Radiation and strange creatures will take their toll. But we know everything there is to know about survival. One can always adapt to his environment. Anything else, over?}
+{217}{}{Heh, you got me. The wastelands are dangerous even for experienced and cautious travelers. Radiation and strange creatures take their toll in every part of Nevada. Walk carefully, and remember that you can see the sign of danger everywhere if you look hard enough. As for civilization... Everyone has their own ways of adapting. As for us, we try to stay away from it. Any other questions?}
 {218}{}{Why are you so scared of civilization?}
 {219}{}{Can I meet you in person?}
 {220}{}{What can you tell me about the rangers?}
-{221}{}{Thanks for answering, friend. If we ever meet, the beer's on me.}
+{221}{}{Thanks for your answers, friend. If we ever meet, the beer's on me.}
 
-{222}{}{Scared? No, we're not easily scared. We just prefer the freedom of the wilds. We can find everything we need and stay independent. Over.}
+{222}{}{Scared? No, we're not scared. We just prefer the freedom of the wilderness. We can get everything we need and stay independent. Over.}
 {223}{}{I don't know. We travel a lot and don't like crowds. If we ever crossed paths, we'd probably keep to ourselves. Nothing personal. Over.}
-{224}{}{You're that interested? I'm flattered. We're a small group, but we're well trained to live in the wild. Our ancestors lived here when the world burned to ashes and the cities were doing their best to finish off the survivors. "The war was a testament to human greed and stupidity," as our fathers told us. They lived in the wilds and took only what they need, and they passed it on to us. Sometimes we trade for ammunition, but personally, I depend on myself, not some piece of tech. Anything else, over?}
-{225}{}{Heh. I'd prefer a strong stout, or perhaps a Nuka-Cola. Be careful out there. Over and out.}
+{224}{}{You're that interested? I'm flattered. We're a small group, but we're well-trained to live in the wild. Our ancestors lived here when the world burned to ashes and the cities were doing their best to finish off the survivors. "The war was a testament to human greed and stupidity," as our fathers told us. Now we, like them, live by nature. Where you city dwellers would die on the first day, we have a good chance of finding food, water, and lodging for the night. We have largely abandoned technology, we only use what is left of the rangers and military, sometimes trade ammunition from the traders on the trails. Personally, I prefer to rely on myself rather than on machinery that can't even be repaired. So, is your curiosity satisfied?}
+{225}{}{Heh. I'd prefer a strong stout, or perhaps a root beer. Be careful out there. Over and out.}
 {226}{}{[Turn the radio off.]}
 
 #Freaks hotel
@@ -97,9 +97,9 @@
 
 #Hoover Dam
 {240}{}{[Scan the frequencies for any chatter.]}
-{241}{}{Boss, do you hear me? [...] Yeah, what? [...] I don't want to carry all this. What if I leave it here and take it on my way back? [...] Fine, but if anyone finds it, I'm wiping that stupid smile off your face for good. [...] Don't worry, boss. Everything will be fine...}
+{241}{}{Boss, do you hear me? [...] Yeah, what? [...] I don't want to carry all this. What if I hide them here, in a street light outside the office, and take it on my way back? [...] Fine, but if anyone finds it, I'm wiping that stupid smile off your face for good. [...] Don't worry, boss. Everything will be fine...}
 {242}{}{Lucky for me, someone talks too much...}
-{243}{}{[Compare the signal against the data on the drug dealer's holodisk.]}
+{243}{}{[Check the signal with the data on the drug dealer's holodisk.]}
 {244}{}{You have found a secret frequency.}
 {245}{}{[Follow the signal]}
 {246}{}{}
@@ -123,5 +123,5 @@
 {523}{}{+50 infection points.}
 {524}{}{Show infection points and etc.}
 {525}{}{Give inventory to a car.}
-{526}{}{Play 1 game month.}
+{526}{}{Skip 1 game month.}
 {527}{}{[To main menu]}

@@ -55,9 +55,9 @@
 {325}{}{"Scott Rodenhizer. Built 3D heads."}
 {326}{}{"Thomas French:  Died while attempting to master the Flying Guillotine."}
 {327}{}{"Tim Cain. Founder, Lover, Fighter, Programmer."}
-{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(single-core). I think. Rest in peace, T-Ray"}
+{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare (single-core). I think. Rest in peace, T-Ray"}
 {329}{}{"Zeb - Still Older Than Dirt"}
-{330}{}{"Dennis Presnell. We can almost hear him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah-blah-blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept on the patch."}
+{330}{}{"Dennis Presnell. We can almost hear him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah-blah-blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept the patch."}
 {331}{}{"Rupert Diukos, died 9/24/96"}
 {332}{}{"Sal De Ban, died 9/24/96"}
 {333}{}{"Greg Zeschule, Fall '99"}
@@ -126,7 +126,7 @@
 {515}{}{You find a trap on the grave.}
 {516}{}{You do not find any traps on the grave.}
 {517}{}{Congratulations - the rusty old shovel just couldn't handle your strength.}
-{518}{}{Fuck!..}
+{518}{}{Fuck!...}
 
 {520}{}{ finds a trap on the grave.}
 {521}{}{ does not find any traps on the grave.}
