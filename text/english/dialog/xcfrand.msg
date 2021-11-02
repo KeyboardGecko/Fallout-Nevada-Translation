@@ -2,7 +2,7 @@
 {101}{}{You see your trainman.}
 {102}{}{You see your trainman.}
 
-{103}{}{I'll be here if I needed.}
+{103}{}{I'll be here if you need me.}
 {104}{}{Wait for me.}
 {105}{}{Oh, shit! You? What the hell?! What have you gotten me into?}
 {106}{}{Calm down. We don't time to sort things out. Let's get back to the train.}

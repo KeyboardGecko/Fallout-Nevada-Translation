@@ -2,7 +2,7 @@
 {101}{}{You see a lab computer. It's in working condition.}
 
 #После взлома, изучение архивов:
-{200}{}{Access granted. You are in the main menu. From here it is possible to browse through archive reports and calculations for various projects.}
+{200}{}{Access granted. You can browse through archive reports and calculations for various projects.}
 {201}{}{See the documentation.}
 {202}{}{Select a category.}
 {203}{}{[Exit]}
@@ -21,14 +21,14 @@
 
 {214}{}{The aliens were humiliated to the fullest. They were tested every week with various kinds of physical and biological impact. As it turned out, the aliens are strong animals with enormous military potential: one of them can take out an entire squad. Scientists tried to tame them for later use as living weapons. However, although their combat potential was never in doubt, the taming part failed.}
 {215}{}{They seem to have no known weaknesses. The only kind of damage that turned out to be better than the others is fire. The only thing that is at least somewhat reassuring is that these creatures require special conditions to reproduce: high levels of radiation, a heated, humid environment, and no light. In addition, females of this species are born one in a thousand, so the probability of reproduction is extremely low, and, sooner or later, the species will die out. Sounds good, except that the life cycle of aliens lasts more than 70 years.}
-{216}{}{This explains why aliens encounter the wastelands usually in darkness: they see with thermal vision, orienting themselves to the speed of their prey. During the day, they hibernate, as the heated environment interferes with thermal vision, making it harder for the aliens to navigate. With this information in mind, researchers set out to develop a unique piece of equipment - a corset that could conceal a person's heat.}
+{216}{}{This explains why aliens are usually encountered in the wastelands at night: they see with thermal vision, orienting themselves to the speed of their prey. During the day, they hibernate, as the heated environment interferes with thermal vision, making it harder for the aliens to navigate. With this information in mind, researchers set out to develop a unique piece of equipment - a corset that could conceal a person's heat.}
 {217}{}{In the winter of 2077 there was an incident in the laboratory when, due to the negligence of the staff, an experiment on an alien female went out of control. The subject slipped out into the corridor. Apparently these creatures are not stupid, as the mutant quickly assessed the situation and escaped through the vents into the desert. The military found traces in the caves in Sector C, but did not risk the soldiers and blew up all the exits. Six months later, the creature resurfaced again.}
-{218}{}{The order to implement the force field system came after an incident in the winter of 2077. The military tried to maximize protection against the test subjects. Apparently, they realized how much they had underestimated the aliens' capabilities. Sector A5 commanders, along with the maintenance department, supervised the further process. There may be some information on the first level about what happened to the forcefields and whether they are working now. In any case, the force fields are known to be impenetrable to aliens.}
+{218}{}{The order to implement the force field system came after an incident in the winter of 2077. The military tried to maximize protection against the test subjects. Apparently, they realized how much they had underestimated the capabilities of these creatures. Sector A5 commanders, along with the maintenance department, personally supervised the further process. There may be some information on the first level about what happened to the force fields and whether they are working now. In any case, the force fields are known to be impenetrable to aliens.}
 {219}{}{}
 
 {220}{}{"A memo with a suggestion"}
 {221}{}{"Acts of project completion"}
-{222}{}{"A report on the work performed"}
+{222}{}{"A summary of the system installation"}
 {223}{}{"Service passwords"}
 
 {224}{}{As it turned out, scientists were very concerned about an incident in the winter of 2077, when one of the aliens got loose. It was decided to develop a powerful protection system for the duration of the experiments. Key points in this system were force fields and gas protection. Lethal gas, which was to be used only in extreme cases, could be spread throughout all levels, including the upper part of the hangar, through the ventilation system. Management thought this solution was reasonable but very dangerous, so a multi-stage launch system was installed.}
