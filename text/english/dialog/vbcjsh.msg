@@ -1,4 +1,4 @@
-{100}{}{You see: Joshua.}
+{100}{}{You see Joshua.}
 {101}{}{Poor Joshua seems to have a lot of work. He's carefully analyzing data on the monitor.}
 
 ##############################################
@@ -24,21 +24,21 @@
 #
 ##############################################
 
-{210}{}{Yes, we use the radio to communicate with the security patrols, so we're experienced in this field.}
+{210}{}{Yes, we use the radio to communicate with the security patrols, so we're quite experienced in this field.}
 {211}{}{Can you tell me anything about these papers from NPP "Poseidon Oil"?}
 
-{212}{}{Radio transmission points? Hmm... It seems that there's a radio station in the wastes that supports smaller stations by rebroadcasting their signals at higher power. That's just a theory, though. We've never gotten a signal before, just white noise. I've never seen any other reports about this. And what's stranger is that these recordings were at the Poseidon Oil power plant.}
+{212}{}{Radio transmission points? Hmm... Looks like there seems to be a radio station in the wasteland that supports small stations by relaying their signals. But this is only a theory. We've never received a signal before, just white noise. I haven't seen any other reports of it. And what's even stranger, these recordings were made at the Poseidon Oil power plant.}
 {213}{}{What is "white noise"?}
 {214}{}{Can we listen to those frequencies?}
 {215}{}{Can we learn the coordinates of those stations?}
 
 {216}{}{And the second station?}
 {217}{}{It's to the south-east. I'll mark the coordinates on your Pip-Boy.}
-{218}{}{Hmm, that's where Cheyenne is located. Maybe they can show me where the station is.}
+{218}{}{Hmm, that's where Cheyenne live. Maybe they can show me where the station is.}
 {219}{}{Thanks. I'll take it from here.}
 
-{220}{}{It's nothing. Just background noise on the radio.}
-{221}{}{Our station isn't strong enough. It has range about a couple of miles. We'll need a more powerful station.}
+{220}{}{It's nothing. Just a background noise on the radio.}
+{221}{}{Our station is not strong enough. It has a range of about a couple of miles. You need a more powerful station.}
 {222}{}{Oh, I... Shouldn't have said that. I was told not to tell that to common citizens. But I guess you're an exception, right?}
 {223}{}{Sure, you can trust me.}
 {224}{}{Then you'll have to wait while I study the signal.}
@@ -52,7 +52,7 @@
 {231}{}{Aw, jeez... Fine, just this time. I've already broke the law once. Oh, this is going to haunt me...}
 {232}{}{Don't worry, I'll be careful.}
 
-{233}{}{Joshua showed you the coordinates of a previously unknown location in the South-East.}
+{233}{}{Joshua showed you the coordinates of a previously unknown location in the south-east.}
 
 ##############################################
 #
@@ -67,11 +67,11 @@
 {254}{}{What are scouting robots used for?}
 {255}{}{They won't work without you?}
 {256}{}{Is that difficult?}
-{257}{}{Everything running smoothly?}
-{258}{}{Self-guiding, multi-functional systems, from flying scouts to heavy duty mining ones. Every one is irreplaceable, and we never have enough of them, so they're in constant use. Still, the work's being done very slowly.}
+{257}{}{Is everything running smoothly?}
+{258}{}{Self-guiding multi-functional systems, from flying scout bots to heavy miners. Each is irreplaceable, and there is never enough of them, so they are constantly in use. Still, the work's being done very slowly.}
 {259}{}{Mostly, the scouting robots are used to study the topography, seismography, and radioactivity of the surrounding areas.}
-{260}{}{Uh, yes and no. They have complex A.I. systems, but they need a human controller in case of unexpected situations.}
-{261}{}{It depends on the task. Sometimes it can be very difficult. But I wouldn't rely just on robots. They need a human telling them what to do. Without that, they're just useless machines.}
+{260}{}{Uh, yes and no. They have complex AI systems, but they need a human controller in case of unexpected situations.}
+{261}{}{It depends on the task. Sometimes it can be very difficult. But I wouldn't rely just on robots. They still need a human to tell them what to do. Without that, they're just useless piles of metal.}
 {262}{}{My supervisor wouldn't allow it. Even if he would, to do that I'd have to pull a huge amount of data off the server. None of us can spare that kind of time.}
 {263}{}{Can I see the scouting reports?}
 {264}{}{Uh... [glances at a monitor with one red flashing light] W-we manage.}
@@ -97,9 +97,9 @@
 {282}{}{Of course, don't worry. No one will ever find out.}
 
 {289}{}{Not yet.}
-{290}{}{Did you find the robot yet?!}
+{290}{}{Have you found the robot yet?!}
 {291}{}{Where did you lose contact with it?}
-{292}{}{Go outside and up the street to the "Dangerous Area" sign. There'll be a guard standing there. Turn west and you'll be in the ruins.}
+{292}{}{Go outside and up the street to the "Closed Zone" sign. There'll be a guard standing there. Turn west and you'll be in the ruins.}
 {293}{}{That's all.}
 {294}{}{I found the robot. The data's on this holodisk. Here, take it.}
 {295}{}{I found the robot this holodisk, but are you going to give me something for it?}
@@ -114,15 +114,15 @@
 #
 ##############################################
 
-{300}{}{What is it? A story from the wastes? How interesting! Wait here while I try to load them onto the computer.}
+{300}{}{What is it? A story from the wastes? How interesting! Wait here while I try to load it onto the computer.}
 {301}{}{Go on, try. This is very interesting.}
 {302}{}{I don't have time for this.}
-{303}{}{Yes! [pumps his fist in the air] I did it!}
+{303}{}{Yes! [He pumps his fist in the air] I did it!}
 {304}{}{What's on there? Show me!}
-{305}{}{These notes were encrypted. I had to go digging through some old archives to find the right code. I saved the decrypted file to the holodisk so you can read it.}
+{305}{}{These notes were encrypted. I had to do some digging through our old archives to find the right code. I saved the decrypted file to the holodisk so you could read it.}
 {306}{}{Great! How do I read it from the holodisk?}
 {307}{}{Good, give it to me. I'll read it when I have the time.}
-{308}{}{Easy. Select "use" on the holodisk, and the information will be copied to your Pip-Boy. Then open it and go into your notes list on the right. Select the file and read.}
+{308}{}{Easy. Select "use" on the holodisk, and the information will be copied to your Pip-Boy. Then open it and go through your notes list to the right. Select the file and read.}
 {309}{}{Thanks, I'll give it a try.}
 {310}{}{Joshua deciphered the information on the holodisk. This information should be very useful.}
 
@@ -138,7 +138,7 @@
 {331}{}{Sure, this is all pretty standard. But I'll need some time.}
 {332}{}{I'll wait. Do your thing.}
 {333}{}{Then forget it. Don't waste time.}
-{334}{}{That took a while. There's a lot of data in here, that robot was not well optimized.}
+{334}{}{That took a while. There's a lot of data in here, that robot was not well-optimized.}
 {335}{}{Thank you. This is what I needed.}
 
 ##############################################

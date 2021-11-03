@@ -1,19 +1,19 @@
 {100}{}{You see Big Louie!}
-{101}{}{Holy crap! It's Big Louie! He actually found stardom in Vegas!}
+{101}{}{Holy crap! It's Big Louie! He actually found fame in Vegas!}
 
 #Ответные реплики для Ж и М
 {102}{}{Hey, look who it is! Let's have a round of applause for my old friend! Without him, I wouldn't be here!}
-{103}{}{We accomplished a lot together, but he has no time to tell you the details... No time, I said!}
+{103}{}{We've accomplished a lot together, but he doesn't have time to tell you the details... No time, I said!}
 {104}{}{Hey, look who it is! Let's have a round of applause for my old friend! Without her, I wouldn't be here!}
-{105}{}{We accomplished a lot together, but she has no time to tell you the details... No time, I said!}
+{105}{}{We've accomplished a lot together, but she doesn't have time to tell you the details... No time, I said!}
 
 {106}{}{I'm happy to see you, but I'm about to go onstage. We'll talk later.}
-{107}{}{The show just ended! Give me a minute.}
+{107}{}{The show's just ended! Give me a minute.}
 
 #Диалог
-{110}{}{Hey, brother. It's good to see you! We're a long way from that Indian camp, aren't we?}
+{110}{}{Hey, brother! It's good to see you! We've come a long way from that Indian camp, aren't we?}
 {111}{}{Big Louie! You seem to be doing well.}
-{112}{}{I'm terrific! At first I almost regretted leaving that Cheyenne canyon. I was feared and respected there. But here, the elites... Accepted me. For the first time I feel *needed*... I never thought I'd achieve this. And I owe it all to you. Speaking of which, you look a little rough... }
+{112}{}{I'm terrific! At first I almost regretted leaving that Cheyenne canyon. I was feared, I was respected. But here, the elites... Accepted me. For the first time I feel *needed*... I never thought I'd achieve this. And I owe it all to you. Speaking of which, you look a little rough... }
 {113}{}{I've been busy. Sometimes it feels like everyone I talk to has another job for me. Anyway, can we chat?}
 {114}{}{I'll always have time for you... When I'm not on stage, that is.}
 {115}{}{I have to go. We'll talk later.}
@@ -23,7 +23,7 @@
 {118}{}{Bad news. Everyone in your gang is dead.}
 {119}{}{I was wondering why they've been so quiet... Well, no turning back now. Don't worry, I'm not upset. I had no love for those dogs.}
 {120}{}{Ripper is getting out of hand. What do we do, boss?}
-{121}{}{The Ripper? When I was in charge, he was useful... On his place. But he can't lead them. Don't worry, they'll tear themselves apart if he tries.}
+{121}{}{The Ripper? When I was in charge, he was useful... On his place. But he doesn't have what it takes to be a leader. Don't worry, they'll tear themselves apart eventually.}
 {122}{}{He wants to take your place. He says you went soft, and... }
 {123}{}{Let's talk about something else.}
 {124}{}{Hmm. We'll leave it at that, then.}
@@ -131,7 +131,7 @@
 {257}{}{~But stay on your motherfuckin' toes~}
 {258}{}{Big Louie's runnin' this - let's go!~}
 
-{259}{}{I'd very much appreciate autotune now, T-Pain style! But it's, like, post-apocalypse, so let's proceed with what we have!}
+{259}{}{I'd very much appreciate autotune now, T-Pain style! But it's a post-apocalypse, so let's proceed with what we have!}
 
 {260}{}{I'm on a boat - I'm on a boat! On a boat - I'm on a boat!}
 {261}{}{Everybody look at me cause I'm sailin' on a boat!}
@@ -175,4 +175,4 @@
 {289}{}{Сперва убедись, что она - сирота!}
 
 #Жен реплики
-{1110}{}{Hey, sister. It's good to see you! We're a long way from that Indian camp, aren't we?}
+{1110}{}{Hey, sister! It's good to see you! We've come a long way from that Indian camp, aren't we?}

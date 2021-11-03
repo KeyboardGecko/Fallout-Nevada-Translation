@@ -5,14 +5,14 @@
 #Beginning of dialogue
 {110}{}{No! I ain't going nowhere! [covers his face with hands, like expecting a blow]}
 {111}{}{Calm down, I'm not here after you.}
-{112}{}{Well-well! Hiding from someone, am I right?}
+{112}{}{Well, well! Hiding from someone, am I right?}
 {113}{}{As you wish, I'm leaving.}
 
 {114}{}{Ohh... Sorry, I thought you were after me... Er... Alright, never mind.}
 {115}{}{Are you hiding from someone?}
 {116}{}{Alright.}
 
-{117}{}{Oh nah... Err... I mean yeah. [grabs you by your clothes and begins shaking hysterically] You must help me! Someone wants to kill me!!! I don't wanna to die!!! Shit, I don't fucking wanna die!!! A-a-a!!!}
+{117}{}{Oh nah... Err... I mean yeah. [grabs you by your clothes and begins shaking hysterically] You must help me! Someone wants to kill me!!! I don't wanna to die!!! Shit, I don't wanna fucking die!!! A-a-a!!!}
 {118}{}{Hands off, vermin! Get away!}
 {119}{}{[Smack him across his head]}
 {120}{}{Alright, alright! Calm down! No need to make a scene!}
@@ -20,7 +20,7 @@
 {122}{}{[Struggle out of his grip and leave]}
 
 {123}{}{Oh yes... Of course... Sorry... I don't know what came over me... I'm alright...}
-{124}{}{Let's just calmly discuss what happened right now?}
+{124}{}{Let's just calmly talk about what happened right now, okay?}
 {125}{}{What the hell was that?! What's with the panic?}
 {126}{}{None of my business. I'm outta here.}
 
@@ -28,8 +28,8 @@
 {128}{}{Tell me your story.}
 
 #Questions about the event
-{129}{}{Erm, well... It's all rather stupid really. I lost a few rounds of cards to one of those skull crushers downstairs. Without anything to put on the table, I bet my adrenal gland... Shit. I'm so, so stupid!!!}
-{130}{}{Hold on... You lost your adrenal gland on a bet?!}
+{129}{}{Erm, well... It's all rather stupid really. I lost a few rounds of cards to one of those skull crushers downstairs. Without anything to put on the table, I bet my adrenal gland... Shit. I'm so stupid!!!}
+{130}{}{Hold on... You bet your adrenal gland and lost?!}
 {131}{}{Err, what the hell is that?}
 {132}{}{Can you even live without it?}
 {133}{}{Why does anyone even need somebody else's adrenal gland?}
@@ -40,7 +40,7 @@
 {138}{}{Stay here while I figure this out.}
 {139}{}{The adrenal gland is a paired organ producing adrenaline and other hormones. You can live without one, but why would anyone even need yours?}
 
-{140}{}{Yeah, that was about the worst decision in my life! And, looks like the last too... But the cards... I just couldn't help myself.}
+{140}{}{Yeah, that was about the worst decision in my life! And, looks like the last one... But the cards were so... I just couldn't help myself.}
 {141}{}{Adrenal gland. It's the gland above the kidneys that produces adrenaline and some other stuff. A very... Expensive thing.}
 {142}{}{I heard that it's survivable. But, I don't know... Most likely... I'll end up as a stiff.}
 {143}{}{Oh, don't you know?! You need it for adrenochrome. It's the most... Hellish drug in the history of mankind! It takes only a few drops of extract from this gland to just keel over. First you lose control over your own muscles, the body begins burn up. You're covered with a layer of sweat. And then the hallucinations come - your head will swell up like a watermelon... You gain about two hundred pounds in two hours, grow claws, bleeding warts... And then you notice about six huge, hairy tits swelling up on your back. You'll go blind, your body turns to wax, they'll have to put you in a wheelbarrow... And when you scream for help you sound like a raccoon... That's what I was told at least. I've never tried it myself.}
@@ -54,7 +54,7 @@
 {153}{}{Stay here.}
 
 {154}{}{What, really?! What do you mean?!}
-{155}{}{Get up! David will reward me for your adrenal.}
+{155}{}{Get up! David will reward me for your adrenal gland.}
 {156}{}{I'll get you through the backdoor.}
 {157}{}{I'm a doctor and I can remove your adrenal without risk to your health.}
 {158}{}{How was the deal made? On paper or just by word?}
@@ -67,7 +67,7 @@
 {163}{}{Quit pissing yourself and get to David! I'll make sure you don't try and run.}
 {164}{}{I was just kidding, you can calm down.}
 
-{165}{}{It's going to be hard. The backdoor is always locked, and it's unlikely to break it down without causing any noise. If they were unlocked, I could quickly run outside. The cops wouldn't let anything happen to me... I hope.}
+{165}{}{It's going to be hard. The backdoor is always locked, and it's unlikely to break it down without causing any noise. If it was unlocked, I could quickly run outside. The cops wouldn't let anything happen to me... I hope.}
 {166}{}{Get ready, we're going! I took care of the door. Move! Move!}
 {167}{}{Wait here then.}
 {168}{}{There's another option.}
@@ -76,12 +76,12 @@
 {170}{}{Erm... If you're really a doctor, then I'd rather let you operate on me... Yeah, something about you strikes me as doctor-ish. But you won't put me under the scalpel without painkillers, will you?}
 {171}{}{I've got a strong anesthetic with me. Now, let's go to a free room. Don't be scared, you'll live!}
 
-{172}{}{On paper. We both signed it. Then he folded it up and stuck it in the back of his pants. If it wasn't for that paper, I could ask the cops for help!.. Or at least try.}
+{172}{}{On paper. We both signed it. Then he folded it up and stuck it in the back of his pants. If it wasn't for that paper, I could ask the cops for help!... Or at least try.}
 {173}{}{I got the paper. Here it is.}
 
 {174}{}{That gland costs a huge amount of money. Not completely sure, but it's *at least* a few thousand bucks.}
-{175}{}{Kill David?! Are you suicidal?! David is one of the casino employees, the whole security force will be at his back.}
-{176}{}{The man you owed is dead.}
+{175}{}{Kill David?! Are you suicidal?! David is one of the casino employees, the whole security will be at his back.}
+{176}{}{The man you owed to is dead.}
 {177}{}{Oh god! How did you do it?! Actually... I don't care. I'm not stepping another foot in this place!}
 {178}{}{Correct. Time to get out.}
 
@@ -104,7 +104,7 @@
 {194}{}{Not sure yet, I'll need to think about it. Anything will do, as long as it's far away from here!}
 {195}{}{Understood. In that case, good luck.}
 {196}{}{Hold on, what did you say about drugs in the city?}
-{197}{}{Not like it's a secret, but a few know. I hear that somewhere not far away from the city exists a hidden lab that makes hallucinogens and other chems. Supposedly, that's where the most part of the city's dope comes from. But I've never been there.}
+{197}{}{Not like it's a secret, but not many would tell you about it. I hear that somewhere not far away from the city exists a hidden lab that makes hallucinogens and other chems. Supposedly, that's where the most part of the city's dope comes from. But I've never been there.}
 {198}{}{Alright, rumors are helpful too. Good luck.}
 {199}{}{}
 
@@ -125,7 +125,7 @@
 {213}{}{Ugh... Fuck it. You won't get far.}
 {214}{}{We'll see about that... Let's go!!!}
 {215}{}{Ha-ha! We showed him, didn't we!? That was great!}
-{216}{}{"We"? Heh!.. Alright, what are you gonna do now?}
+{216}{}{"We"? Heh... Alright, what are you gonna do now?}
 
 #Female version
 {1166}{}{Get ready, we're going! I took care of the door. Move! Move!}
