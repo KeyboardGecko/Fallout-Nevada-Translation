@@ -99,7 +99,7 @@
 {1035}{}{Just leave me alone!}
 {1036}{}{Ohhh, pain!}
 {1037}{}{I'm dying!}
-{1038}{}{Oh Christ, that hurt so bad....}
+{1038}{}{Oh Christ, that hurt so bad...}
 {1039}{}{I'm bleedin' out.}
 {1040}{}{I'm a gonner.}
 {1041}{}{Christ, why did you have to do that?}
@@ -120,7 +120,7 @@
 {1056}{}{(Cough, cough) Can't breathe.}
 {1057}{}{Feeling faint, can't keep going.}
 {1058}{}{Help me,eeeeellp meeeeee!}
-{1059}{}{Oh God, oh God, oh God....}
+{1059}{}{Oh God, oh God, oh God...}
 #
 # target hit in right leg
 #
@@ -143,7 +143,7 @@
 {1073}{}{I'll never dance again.}
 {1074}{}{I'll never run again.}
 {1075}{}{I can't feel my toes.}
-{1076}{}{Bone, so white, pain so great....}
+{1076}{}{Bone, so white, pain so great...}
 {1077}{}{So much blood...it's everywhere.}
 {1078}{}{I've been torn open.}
 {1079}{}{It's a bad one, oh God, why me.}
@@ -159,7 +159,7 @@
 {1086}{}{You've blinded me, noooooo.}
 {1087}{}{Not my eyes, please not that.}
 {1088}{}{I'm blind, just kill me. (sob, sob)}
-{1089}{}{Where's my eye, if I could just push it back in....}
+{1089}{}{Where's my eye, if I could just push it back in...}
 #
 # target hit in groin
 #
@@ -175,7 +175,7 @@
 {1096}{}{It burns, it burns.}
 {1097}{}{I think I need to sit down.}
 {1098}{}{That wasn't fair.}
-{1099}{}{Cow...ard, unh....}
+{1099}{}{Cow...ard, unh...}
 #
 ############################################
 # 1100 Normal Person
@@ -201,7 +201,7 @@
 {1112}{}{Oh man, that hurts!}
 {1113}{}{My arm hurts, it's a bad one.}
 {1114}{}{My arm's all tore up.}
-{1115}{}{My arm's broken, here...and here....}
+{1115}{}{My arm's broken, here...and here...}
 {1116}{}{Bone sticking out of arm, arrrrrgghhh.}
 {1117}{}{I can't feel anything, my arm's all numb.}
 {1118}{}{Someone bend my arm back, pleeeeeaassee?!?}
@@ -682,7 +682,7 @@
 {1546}{}{Suddenly, I feel warm and sleepy.}
 {1547}{}{Errrggggg!}
 {1548}{}{Gack! cough, cough.}
-{1549}{}{Must continue, must slay enemy....}
+{1549}{}{Must continue, must slay enemy...}
 {1550}{}{The darkness beckons to me.}
 {1551}{}{The hour of my death approaches.}
 {1552}{}{The Shaman was right, I do not return.}
@@ -697,11 +697,11 @@
 # target hit in right leg
 #
 {1560}{}{I will crawl to kill you.}
-{1561}{}{Must keep standing, must....}
+{1561}{}{Must keep standing, must...}
 {1562}{}{Do not make me run to catch you!}
 {1563}{}{You would cripple me, Coward!}
 {1564}{}{Awwwwgg!}
-{1565}{}{Bone? So white....}
+{1565}{}{Bone? So white...}
 {1566}{}{Why can't I walk?}
 {1567}{}{Arrrrrrgh.}
 {1568}{}{Unnhhh.}
@@ -710,12 +710,12 @@
 # target hit in left leg
 #
 {1570}{}{I will crawl to kill you.}
-{1571}{}{Must keep standing, must....}
+{1571}{}{Must keep standing, must...}
 {1572}{}{Do not make me run to catch you!}
 {1573}{}{You would cripple me, Coward!}
 {1574}{}{Awwwwgg!}
-{1575}{}{Bone? So white....}
-{1576}{}{Can't walk. Oh the pain....}
+{1575}{}{Bone? So white...}
+{1576}{}{Can't walk. Oh the pain...}
 {1577}{}{I will burn off your foot for that.}
 {1578}{}{Ooooo-ouuuuch!}
 {1579}{}{Leg burns like fire.}
@@ -739,7 +739,7 @@
 {1591}{}{You fight without honor.}
 {1592}{}{I'm married, didn't use it anyway.}
 {1593}{}{Holy spirits, the world just exploded.}
-{1594}{}{Gasp...can't breath....}
+{1594}{}{Gasp...can't breath...}
 {1595}{}{In high, squeaky, voice--Ouch!}
 {1596}{}{Unnhhh. I need to sit down for a bit.}
 {1597}{}{You bastard--I kill you slow for that.}
@@ -851,7 +851,7 @@
 {1690}{}{Aren't you chivalrous.}
 {1691}{}{Yooooouuuuch!}
 {1692}{}{Unnhhhhh!}
-{1693}{}{Maybe if I just don't move for a while....}
+{1693}{}{Maybe if I just don't move for a while...}
 {1694}{}{That's my beef bologna!}
 {1695}{}{There goes my social life.}
 {1693}{}{I think I need to sit down for a bit.}
@@ -1036,7 +1036,7 @@
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2006}{}{Somebody help meeeee!}
-{2007}{}{Oh God, oh God, oh God....}
+{2007}{}{Oh God, oh God, oh God...}
 {2008}{}{Just don't kill me, pleeeeaaasssssee!}
 {2009}{}{Don't kill me!}
 {2010}{}{Please don't kill me.}
@@ -1737,7 +1737,7 @@
 {3114}{}{I've gotta go reattach some parts.}
 {3115}{}{These old bones can't take this anymore.}
 {3116}{}{It's not the years, it's the mileage.}
-{3117}{}{What a world, what a world....}
+{3117}{}{What a world, what a world...}
 {3118}{}{I guess, you've learned your lesson, I'm outa here!}
 {3119}{}{Hey, stop backing away from me.}
 #
@@ -1749,7 +1749,7 @@
 {3123}{}{Brains...}
 {3124}{}{I'm gonna dig your grave...}
 {3125}{}{Hope I can keep your head intact...}
-{3126}{}{More Brains....}
+{3126}{}{More Brains...}
 {3127}{}{Send more cops!}
 {3128}{}{Send more paramedics!}
 {3129}{}{I could use some fresh parts.}
@@ -1948,7 +1948,7 @@
 #
 {10120}{}{Number five is alive!}
 {10121}{}{Vee-jer, Veee-jer.}
-{10122}{}{Error! Error Errrrrrrooooorrrr....}
+{10122}{}{Error! Error Errrrrrrooooorrrr...}
 {10123}{}{Who is the creator?}
 {10124}{}{Does not compute! Does not compute!}
 {10125}{}{I'm sorry Dave.}
@@ -1971,7 +1971,7 @@
 #
 {10140}{}{Number five is alive!}
 {10141}{}{Vee-jer, Veee-jer.}
-{10142}{}{Error! Error Errrrrrrooooorrrr....}
+{10142}{}{Error! Error Errrrrrrooooorrrr...}
 {10143}{}{Who is the creator?}
 {10144}{}{Does not compute! Does not compute!}
 {10145}{}{I'm sorry Dave.}
@@ -2241,7 +2241,7 @@
 {12415}{}{I got blood all over my arm...!}
 {12416}{}{My gunhand!}
 {12417}{}{*Nfff*...nearly tore my arm clean off...!}
-{12418}{}{*Urkkk*...can still....hit you...with the other hand...}
+{12418}{}{*Urkkk*...can still... hit you... with the other hand...}
 {12419}{}{Gonna need some stims for my arm. After I kill you.}
  #
 # target hit in right arm
@@ -2255,7 +2255,7 @@
 {12426}{}{My gunhand!}
 {12427}{}{*Nfff*...nearly tore my arm clean off...!}
 {12428}{}{Gonna need some stims for my arm. After I kill you.}
-{12429}{}{*Urkkk*...can still....hit you...with the other hand...}
+{12429}{}{*Urkkk*...can still... hit you... with the other hand...}
 #
 # target hit in torso
 #
@@ -2953,7 +2953,7 @@
 {32640}{}{Something for you...}
 {32641}{}{... something for your mother...}
 {32642}{}{...something for your father...}
-{32643}{}{...something for  your sister....}
+{32643}{}{...something for  your sister...}
 {32644}{}{... and something for your ancestors!}
 {32645}{}{Get out!}
 {32646}{}{Die!}
@@ -4126,7 +4126,7 @@
 {40923}{}{The bomb shoulda weeded all you trash out...}
 {40924}{}{I'm gonna beat your sorry ass into oblivion.}
 {40925}{}{Dirty sonuvabitch...}
-{40926}{}{*Huf*...I...*Huf*...need more...*Huf*.... action points.}
+{40926}{}{*Huf*...I...*Huf*...need more...*Huf*... action points.}
 {40927}{}{You're gonna be a long time dying...}
 {40928}{}{You're one dead sonuvabitch to pick a fight with us...}
 {40929}{}{Time for Cassidy to show you how we do things in the big city...}
@@ -4319,7 +4319,7 @@
 {41309}{}{I'll be right back. Don't wait up.}
 {41310}{}{No, no, no. You go ahead. I'll catch up-later.}
 {41311}{}{I'm late for my root-canal. See you later.}
-{41312}{}{And then we get inside the giant rabbit and....}
+{41312}{}{And then we get inside the giant rabbit and...}
 {41313}{}{Jesus Christ! Run for it!!!!!}
 {41314}{}{For the love of God, get me out of here!}
 {41315}{}{Just let me live through this one.}
@@ -4362,7 +4362,7 @@
 {41346}{}{I'll moiderize ya'!}
 {41347}{}{I'm gonna git you sucka!}
 {41348}{}{Nobody messes with *crazy* Lenny.}
-{41349}{}{You just better stop it or, or I'll, uh....}
+{41349}{}{You just better stop it or, or I'll, uh...}
 {41350}{}{I did it, I actually did it!}
 {41351}{}{You hate me, you really hate me!}
 {41352}{}{Haii-yah!}

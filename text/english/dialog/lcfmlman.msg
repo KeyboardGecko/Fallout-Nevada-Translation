@@ -127,7 +127,7 @@
 {221}{}{Right! Cheers, neighbor!}
 {222}{}{Ugghh! Oh, that's was good one! You have a decent moonshine, neighbor... why aren't you drinking? I don't get it.}
 {223}{}{Weak kidneys.}
-{224}{}{Ahh... I even broke a little sweat! You know, when I was on the force, my partner and I once got a tip on a brothel. You know, we had to gain the trust of the drug dealers, so we took a few doses.... Uh...}
+{224}{}{Ahh... I even broke a little sweat! You know, when I was on the force, my partner and I once got a tip on a brothel. You know, we had to gain the trust of the drug dealers, so we took a few doses... Uh...}
 {225}{}{What is it?}
 {226}{}{My partner had the bad stuff... He died after two days. Nobody could save him. And I... [cries]}
 {227}{}{My friend, it seems you two were close?}

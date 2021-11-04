@@ -2,7 +2,7 @@
 {101}{}{The body is chest-deep in the nest, but what's sticking out still seems to be breathing!}
 
 #Диалог:
-{102}{}{Uhh... Mghhhh....}
+{102}{}{Uhh... Mghhhh...}
 {103}{}{Hey! Can you hear me? Do you understand what I'm saying?}
 
 {104}{}{Maaaahh...}

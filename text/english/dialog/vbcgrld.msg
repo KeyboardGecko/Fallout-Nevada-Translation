@@ -50,7 +50,7 @@
 {200}{}{Yeesh. I don't want to be rude, but I didn't get here just for kicks.}
 {201}{}{What are you doing here then?}
 {202}{}{You tell me! It was your brave boys who stopped my caravan when we got too close. It seems they had orders to capture someone like me to learn more information about the outside world... Or maybe just to poke me with your damn needles.}
-{203}{}{Oh, Dr. Willmouth must have been looking for subjects for his studies.... What's a caravan, anyway?}
+{203}{}{Oh, Dr. Willmouth must have been looking for subjects for his studies... What's a caravan, anyway?}
 {204}{}{It means I travel around looking for junk to buy and sell, kiddo, and maybe make enough profit to eat once in a while. You don't even know that? You're a funny bunch. I've never met anyone like you in the wastes, and I've been around for a REALLY long time.}
 {205}{}{Good, because I want to know everything about the outside world.}
 {206}{}{What? Don't take me wrong, friend, but you people don't belong out there. The outside world is cruel. The Hub or Necropolis would eat you alive. You're lucky to be living in a place like this, with all this technology. Most fellas can't even dream of such life.}

@@ -48,7 +48,7 @@
 {159}{}{Well, my friend, have you calmed down?}
 {160}{}{Why don't you get out of here, buddy.}
 {161}{}{[Smiles all over her face and waves her hand] Îh! Come on! Worse things have happened here! You wouldn't believe what the old lady has seen in her life! Don't you worry! It's okay!}
-{162}{}{Phew, that's a relief....}
+{162}{}{Phew, that's a relief...}
 {163}{}{Oh, you pathetic idiot! [Almost crying, she threatens with her fists] If I was younger, I would have shown you! Hey, boys, throw him out!}
 {164}{}{Oh, you hag!!!}
 

@@ -441,7 +441,7 @@
 {993}{}{And there, in the pipes, the Cola runs instead of urine. Tee-hee.}
 {994}{}{And there's the beggar, who sits and fills the bottles with urine.}
 
-{995}{TTT}{Did you really voluntarily go into the sewers? You've completely lost your mind....}
+{995}{TTT}{Did you really voluntarily go into the sewers? You've completely lost your mind...}
 
 {1000}{GGG}{No, no, wait, let me finish!}
 {1010}{GGG}{And there's... There's... Oh my god, I can't believe this!!!}

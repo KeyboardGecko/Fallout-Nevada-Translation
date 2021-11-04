@@ -15,7 +15,7 @@
 {117}{}{Calm down, I won't hurt you.}
 {118}{}{That's right, mutant! Fear me!}
 
-{119}{}{But... [he looks around wildly, almost suspiciously] ...But how? Why are you here?! I've never found a way out, and I've been here for ten years... Or is it twenty? Without the sun, I can't tell one day from another....}
+{119}{}{But... [he looks around wildly, almost suspiciously] ...But how? Why are you here?! I've never found a way out, and I've been here for ten years... Or is it twenty? Without the sun, I can't tell one day from another...}
 {120}{}{Yeah, yeah, you've been here a long time. I get it. Can we move on?}
 {121}{}{Oh, right... Yes... Please, tell me, how do I get out?}
 {122}{}{Same way I got in. There's a rope leading back up to the street.}
@@ -63,4 +63,4 @@
 #Female character
 {1111}{}{Calm down, I'm definitely real. I think.}
 {1113}{}{You... [he puts his hands gently on your chest] ...You're real! [he suddenly jumps back as if his hands were scalded with boiling water] Ahh! Oh my god! When was... How long has it been since I saw a real person?!}
-{1119}{}{But... [he looks around wildly, almost suspiciously] ...But how? Why are you here?! I've never found a way out, and I've been here for ten years... Or is it twenty? Without the sun, I can't tell one day from another....}
+{1119}{}{But... [he looks around wildly, almost suspiciously] ...But how? Why are you here?! I've never found a way out, and I've been here for ten years... Or is it twenty? Without the sun, I can't tell one day from another...}

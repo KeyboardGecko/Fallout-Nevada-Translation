@@ -29,7 +29,7 @@
 {133}{}{Well, it would be all nice if one day he didn't read the poster with the pre-war advertising. It said that the use of radium water is good for the body. Here it is. [gives you a small bottle with clear liquid] He found a whole box of this filth and drank 3 bottles a day... Until he died from poisoning.}
 {134}{}{How sad and strange...}
 {135}{}{What a ridiculous death!}
-{136}{}{Yes, it is. It turned out that radium water is quite a toxic thing. Poor Byers, who could have known that people before the war were so stupid....}
+{136}{}{Yes, it is. It turned out that radium water is quite a toxic thing. Poor Byers, who could have known that people before the war were so stupid...}
 {137}{}{It's a sad story, my friend. I'm sorry.}
 {138}{}{Damn right they were. A big crowd of idiots.}
 {139}{}{Let's drink for the deceased, that is all we can do now.}

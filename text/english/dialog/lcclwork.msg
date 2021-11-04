@@ -46,7 +46,7 @@
 {306}{}{To work? Why?}
 {307}{}{Working overtime again...}
 {308}{}{I'd better be herding brahmin...}
-{309}{}{Only to make it until the evening....}
+{309}{}{Only to make it until the evening...}
 {310}{}{Who took my beer?!!}
 {311}{}{I'm sick of staring at this Nuka-Cola!}
 {312}{}{Who worked today on the third machine? It's messed up again!}

@@ -26,7 +26,7 @@
 {122}{}{Uh, fine, I'll go.}
 
 {123}{}{Don't yell at me, you started it! Okay?! And you're in *my* house, so - bye-bye! [points at the door]}
-{124}{}{Ah, you little smartass shit! Where in the post-apocalyptic world do smart little assholes like you come from....}
+{124}{}{Ah, you little smartass shit! Where in the post-apocalyptic world do smart little assholes like you come from...}
 
 {125}{}{You want to solve it too?}
 {126}{}{Yeah, tell me about the puzzle!}

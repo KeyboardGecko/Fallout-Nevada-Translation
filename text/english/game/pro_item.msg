@@ -556,7 +556,7 @@
 {28300}{}{Tommy Gun}
 {28301}{}{This Thompson M1928 submachine gun is a sinister looking weapon; every time you hold it, you have an urge to put on a fedora hat and crack your knuckles. The Thompson is well-fed by a large 50 round drum magazine. Min ST: 5.}
 {28400}{}{Meat Jerky}
-{28401}{}{These smoked and dried chunks of beast-flesh remain chewy-licious and even somewhat nutritious for years, and years, and years....}
+{28401}{}{These smoked and dried chunks of beast-flesh remain chewy-licious and even somewhat nutritious for years, and years, and years...}
 {28500}{}{Stash}
 {28501}{}{Strong wooden box, buried in the ground.}
 {28600}{}{"White walls"}
