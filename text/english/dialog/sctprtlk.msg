@@ -28,7 +28,7 @@
 #≈сли выполнен квес' по рейдерам пу'ем о'равлени€ воды
 {125}{}{Truly, the Midnight Watcher walks the path through you! Cheyenne will sing of you in sacred songs and remember you as Ghost Asp, who poisoned even the black blood of the Devourer!}
 {126}{}{You honor me, brother!}
-{127}{}{Well, at least it's better than Thick Snake, I guess.}
+{127}{}{Well, at least it sounds better than Thick Snake, I guess.}
 {128}{}{Greetings, Ghost Asp! What do you need of me?}
 {129}{}{I was just in the neighborhood and wanted to say hi.}
 
@@ -40,16 +40,16 @@
 {134}{}{Tell me the path of shadows and this "Midnight Watcher".}
 {135}{}{Silent River? Is that another one of your gods?}
 {136}{}{Ah, yes... In the past, when the blessed lands knew eternal daylight, the Soul Devourer battled the Fireborn Father to steal the Heavenly Mother and all her lands, seas, and mountains. But Midnight Water, who had long hid under the earth in the shadows, cast a black cloak over the battlefield to create night, allowing the Fireborn Father to strike the Soul Devourer down with one blow. This defeated him for many years, until he took up his flaming axe of war again... }
-{137}{}{You seem like a master of wilderness survival. Could you share some secrets with me?}
-{138}{}{You're alone here, right? Or is there someone else hiding in the shadows?}
+{137}{}{You seem like a master of wilderness survival. Could you share your secrets with me?}
+{138}{}{You're alone here, right? Or there's someone else hiding in the shadows?}
 {139}{}{I should go.}
 {140}{}{[He sighs] Silent River... Me brother, not by blood, but by soul. Only he and me hear the Midnight Watcher and walk the path of shaodws. He and me are the tips of the Midnight Watcher's blades. Me is skilled with any weapon that grants quick and silent death, but Cheyenne have no better scout than Silent River. He is quieter than the dead in the night... And now he is gone in the vast wasteland... }
 {141}{}{What happened?}
 {142}{}{You're skilled? Can you teach me a few tricks?}
 {143}{}{I'm sorry to hear that. Let's talk about something else.}
-{144}{}{[He gives you a sidelong look] The Midnight Watcher only give this knowledge to Cheyenne. But as me say before, in the night, all are brothers. Maybe, if one can walk the path of shadows... Guide Silent River back to his tribe... }
-{145}{}{I'm sure getting asked to find a lot of missing people, nowadays. Fine, I'll look for him. I just hope the river hasn't dried up yet.}
-{146}{}{Tell me more about Silent River.}
+{144}{}{[He gives you a long stare] The Midnight Watcher only give this knowledge to Cheyenne. But as me say before, in the night, all are brothers. Maybe, if one can walk the path of shadows... Guide Silent River back to his tribe... }
+{145}{}{I'm sure getting asked to find a lot of missing people nowadays. Fine, I'll look for him. I just hope the river hasn't dried up yet.}
+{146}{}{Tell me more about the Silent River.}
 {147}{}{Sure, sure. I help you, you help me, we're all brothers... }
 {148}{}{Cheyenne have not seen Silent River since he walk into the wastes. But caravan merchants say they see him in the city of the Devourer - the one they call "Reno". They say he is held in chains by an evil man. Me want to go find him, but Ogima the Black Cloud says no, because if Cheyenne lose any more hunters, it will bring death to us all.}
 {149}{}{If I'm ever in Reno, I'll try to find him.}
@@ -57,7 +57,7 @@
 {151}{}{You think me is a shaman? Ha-ha, no! Me is not nearly so wise. Me only walk the path of shadows, as the Midnight Watcher showed me. It is a difficult path.}
 {152}{}{We follow the Midnight Watcher's path. Night is us guardian, shadows us allies. Us feet is silent, and us weapons, deadly... }
 {153}{}{Right.}
-{154}{}{What were you saying about Silent River, before?}
+{154}{}{What were you saying about Silent River before?}
 {155}{}{Me thank you, outsider. May the Midnight Watcher draw his cloak over you.}
 {156}{}{I'll look for him. I have another question, though.}
 {157}{}{I'll go look for him right now.}
@@ -71,7 +71,7 @@
 {179}{}{Me could... There are not many of us, but the Midnight Watcher knows the path to victory in these times. And he values those that honor him more than those that mindlessly charge the enemy... But no. This is not the right time, yet.}
 {180}{}{Me could... There are not many of us, but the Midnight Watcher knows the path to victory in these times. And he values those that honor him more than those that mindlessly charge the enemy... But without Silent River, me is not enough to take revenge... }
 {181}{}{Silent River? Who's that?}
-{182}{}{Midnight what? Do you mean yourself, or some kind of spirit?}
+{182}{}{Midnight what? Do you mean yourself? Or some kind of spirit?}
 {183}{}{Yes, it's hard to do things without help. Speaking of which, can you help answer some more questions?}
 {184}{}{If you say so. I have to go.}
 
@@ -108,10 +108,10 @@
 {262}{}{The sun has blinded you, and now you know only your own thirst. But you helped me, so me help you.}
 {263}{}{Enough of this crap. Let's get down to business!}
 {264}{}{Yes, you is right... And me understand your path is as difficult as the path of shadows. Many trials approach you, brother. Me is do everything to help you face them.}
-{265}{}{I'm grateful, brother!}
+{265}{}{I'm grateful to you!}
 {266}{}{Forget it, I have no time for training.}
 {267}{}{Acabidab has raised your melee and throwing skills by 5%.}
-{268}{}{[For hours, Acabidab shows you various tricks, such as throwing knives silently or striking where an enemy is vulnerable. Afterward, you feel more confident in your skills.]}
+{268}{}{[For hours, Acabidab shows you various tricks, such as how to throw knives silently, or to strike an enemy where he is the most vulnerable. In the end, you feel more confident in your skills.]}
 {269}{}{[Next]}
 {270}{}{You is a very good student... Please, take this knife as a gift. But remember, a spear will defeat it. Bring me a spear, and me is sharpen it... But me is almost out of flint.}
 {271}{}{Thank you, Acabidab. I will remember this.}
@@ -148,10 +148,10 @@
 {1261}{}{I'm happy for you both. Good friends are hard to find. I hope you watch out for each other.}
 {1262}{}{The sun has blinded you, and now you know only your own thirst. But you helped us, so me help you.}
 {1264}{}{Yes, you is right... And me understand your path is as difficult as the path of shadows. Many trials approach you, sister. Me is do everything to help you face them.}
-{1265}{}{I'm grateful, brother!}
+{1265}{}{I'm grateful to you!}
 {1270}{}{You is a very good student... Please, take this knife as a gift. But remember, a spear will defeat it. Bring me a spear, and me is sharpen it... But me is almost out of flint.}
 {1306}{}{That's too bad. I was just getting the hang of it.}
 {1309}{}{Done, outsider.}
 {1310}{}{Done, White Shadow.}
 {1313}{}{Done, outsider. But everything in this world ends, even stone. Me have no more flint. Me can sharpen no more spears.}
-{1314}{}{Done, Ghost Asp. But everything in this world ends, even stone. Me have no more flint. Me can sharpen no more spears.}
+{1314}{}{Done, White Shadow. But everything in this world ends, even stone. Me have no more flint. Me can sharpen no more spears.}

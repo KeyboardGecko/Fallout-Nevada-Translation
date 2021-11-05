@@ -5,7 +5,7 @@
 # description_proc
 
 # Perception Check Critical Success
-{102}{}{You see a sturdy door with a lock, which can be picked with lockpicks, and a highly explosive trap in the doorframe, which you may be able to pry open.}
+{102}{}{You see a sturdy door with a lock, which can be picked with lockpicks and a highly explosive trap in the doorframe, which you may be able to pry open.}
 {103}{}{You see a sturdy door with a lock on it and a highly explosive trap in the doorframe, which you may be able to pry open.}
 {104}{}{You see a sturdy door with no apparent locking device and a highly explosive trap in the doorframe, which you may be able to pry open.}
 {105}{}{You see a sturdy door with an old, rusty lock and a highly explosive trap in the doorframe, which you may be able to pry open.}

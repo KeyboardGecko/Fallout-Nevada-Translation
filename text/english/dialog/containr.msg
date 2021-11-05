@@ -19,42 +19,42 @@
 # description_proc
 
 # Perception Check Critical Success
-{102}{}{You see a durable container, which is locked shut (but, probably, it could be opened with a lockpick) with an explosive trap. Maybe you could break into.}
-{103}{}{You see a durable container, which is locked shut, with an explosive trap on it. Maybe you could break into.}
-{104}{}{You see a durable container, seemingly with no lock, but with an explosive trap on it. Maybe you could break into.}
-{105}{}{You see a durable container, with old, rusty lock with an explosive trap. Maybe you could break into.}
+{102}{}{You see a durable container, which is locked shut (but, probably, can be opened with a lockpick) with an explosive trap. Maybe you could break into it.}
+{103}{}{You see a durable container, which is locked shut, with an explosive trap on it. Maybe you could break into it.}
+{104}{}{You see a durable container, seemingly with no lock, but with an explosive trap on it. Maybe you could break into it.}
+{105}{}{You see a durable container, with old, rusty lock with an explosive trap. Maybe you could break into it.}
 
-{106}{}{You see a durable container, which is locked shut (but, probably, it could be opened with a lockpick) and a trap on it. Maybe you could break into.}
-{107}{}{You see a durable container, which is locked shut and a trap on it. Maybe you could break into.}
-{108}{}{You see a durable container, seemingly with no lock, but with a trap on it. Maybe you could break into.}
-{109}{}{You see a durable container, with old, rusty lock, and a trap on it. Maybe you could break into.}
+{106}{}{You see a durable container, which is locked shut (but, probably, can be opened with a lockpick) and a trap on it. Maybe you could break into it.}
+{107}{}{You see a durable container, which is locked shut and a trap on it. Maybe you could break into it.}
+{108}{}{You see a durable container, seemingly with no lock, but with a trap on it. Maybe you could break into it.}
+{109}{}{You see a durable container, with old, rusty lock, and a trap on it. Maybe you could break into it.}
 
-{110}{}{You see a durable container, which is locked shut (but, probably, it could be opened with a lockpick) and a wire on its door. Maybe you could break into.}
-{111}{}{You see a durable container, which is locked shut, it has a ripped wires on its door. Maybe you could break into.}
-{112}{}{You see a durable container, seemingly with no lock, but has a ripped wires on its door. Maybe you could break into.}
-{113}{}{You see a durable container, with old, rusty lock, and a wire on its door. Maybe you could break into.}
+{110}{}{You see a durable container, which is locked shut (but, probably, can be opened with a lockpick) and has a wire on it. Maybe you could break into it.}
+{111}{}{You see a durable container, which is locked shut and has a torn wires on it. Maybe you could break into it.}
+{112}{}{You see a durable container, seemingly with no lock. It has a torn wires on its door. Maybe you could break into it.}
+{113}{}{You see a durable container, with old, rusty lock, and has a wire on it. Maybe you could break into it.}
 
-{114}{}{You see a durable container, which is locked shut (but, probably, it could be opened with a lockpick). Maybe you could break into.}
-{115}{}{You see a durable container, which is locked shut. Maybe you could break into.}
-{116}{}{You see a durable container, seemingly with no lock. Maybe you could break into.}
-{117}{}{You see a durable container, with old, rusty lock. Maybe you could break into.}
+{114}{}{You see a durable container, which is locked shut (but, probably, can be opened with a lockpick). Maybe you could break into it.}
+{115}{}{You see a durable container, which is locked shut. Maybe you could break into it.}
+{116}{}{You see a durable container, seemingly with no lock. Maybe you could break into it.}
+{117}{}{You see a durable container, with old, rusty lock. Maybe you could break into it.}
 
 # Perception Check Success
 
-{118}{}{You see a durable container, which is locked shut - but, probably, it could be opened with a lockpick - with an explosive trap.}
+{118}{}{You see a durable container, which is locked shut - but, probably, can be opened with a lockpick - with an explosive trap.}
 {119}{}{You see a durable container, which is locked shut, with an explosive trap on it.}
 {120}{}{You see a durable container, seemingly with no lock, but with an explosive trap on it.}
 {121}{}{You see a durable container, with old, rusty lock with an explosive trap.}
 
-{122}{}{You see a durable container, which is locked shut (but, probably, it could be opened with a lockpick) with an explosive trap.}
+{122}{}{You see a durable container, which is locked shut (but, probably, can be opened with a lockpick) with an explosive trap.}
 {123}{}{You see a durable container, which is locked shut and a trap on it.}
 {124}{}{You see a durable container, seemingly with no lock, but with a trap on it.}
 {125}{}{You see a durable container, with old, rusty lock, and a trap on it.}
 
-{126}{}{You see a durable container, which is locked shut (but, probably, it could be opened with a lockpick) and a wire on its door.}
-{127}{}{You see a durable container, which is locked shut, it has a ripped wires on its door.}
-{128}{}{You see a durable container, seemingly with no lock, but has a ripped wires on its door.}
-{129}{}{You see a durable container, with old, rusty lock, and a wire on its door.}
+{126}{}{You see a durable container, which is locked shut (but, probably, can be opened with a lockpick) and has a wire on it.}
+{127}{}{You see a durable container, which is locked shut and has a torn wires on it.}
+{128}{}{You see a durable container, seemingly with no lock. It has a torn wires on its door.}
+{129}{}{You see a durable container, with old, rusty lock, and has a wire on it.}
 
 {130}{}{You see a durable container, which is locked shut, but, probably, it could be opened with a lockpick.}
 {131}{}{You see a durable container, which is locked shut.}
@@ -63,20 +63,20 @@
 
 # Perception Check Critical Failure
 
-{134}{}{You see damaged container locked shut - but, probably, it could be opened with a lockpick - with an explosive trap.}
+{134}{}{You see damaged container locked shut - but, probably, can be opened with a lockpick - with an explosive trap.}
 {135}{}{You see damaged container locked shut, with an explosive trap on it.}
 {136}{}{You see damaged container, seemingly with no lock, but with an explosive trap on it.}
 {137}{}{You see damaged container with old, rusty lock with an explosive trap.}
 
-{138}{}{You see damaged container locked shut (but, probably, it could be opened with a lockpick) and a trap on it.}
+{138}{}{You see damaged container locked shut (but, probably, can be opened with a lockpick) and a trap on it.}
 {139}{}{You see damaged container locked shut and a trap on it.}
 {140}{}{You see damaged container, seemingly with no lock, but with a trap on it.}
 {141}{}{You see damaged container with old, rusty lock, and a trap on it.}
 
-{142}{}{You see damaged container locked shut (but, probably, it could be opened with a lockpick) and a wire on its door.}
-{143}{}{You see damaged container locked shut, it has a ripped wires on its door.}
-{144}{}{You see damaged container, seemingly with no lock, but has a ripped wires on its door.}
-{145}{}{You see damaged container with old, rusty lock, and a wire on its door.}
+{142}{}{You see damaged container locked shut (but, probably, can be opened with a lockpick) and has a wire on it.}
+{143}{}{You see damaged container locked shut and has a torn wires on it.}
+{144}{}{You see damaged container, seemingly with no lock. It has a torn wires on its door.}
+{145}{}{You see damaged container with old, rusty lock, and has a wire on it.}
 
 {146}{}{You see damaged container locked shut, but, probably, it could be opened with a lockpick.}
 {147}{}{You see damaged container locked shut.}
@@ -85,20 +85,20 @@
 
 # Perception Check Failure
 
-{150}{}{You see and old container locked shut - but, probably, it could be opened with a lockpick - with an explosive trap.}
+{150}{}{You see and old container locked shut - but, probably, can be opened with a lockpick - with an explosive trap.}
 {151}{}{You see and old container locked shut, with an explosive trap on it.}
 {152}{}{You see and old container, seemingly with no lock, but with an explosive trap on it.}
 {153}{}{You see and old container with old, rusty lock with an explosive trap.}
 
-{154}{}{You see and old container locked shut (but, probably, it could be opened with a lockpick) with an explosive trap.}
+{154}{}{You see and old container locked shut (but, probably, can be opened with a lockpick) with an explosive trap.}
 {155}{}{You see and old container locked shut and a trap on it.}
 {156}{}{You see and old container, seemingly with no lock, but with a trap on it.}
 {157}{}{You see and old container with old, rusty lock, and a trap on it.}
 
-{158}{}{You see and old container locked shut (but, probably, it could be opened with a lockpick) and a wire on its door.}
-{159}{}{You see and old container locked shut, it has a ripped wires on its door.}
-{160}{}{You see and old container, seemingly with no lock, but has a ripped wires on its door.}
-{161}{}{You see and old container with old, rusty lock, and a wire on its door.}
+{158}{}{You see and old container locked shut (but, probably, can be opened with a lockpick) and has a wire on it.}
+{159}{}{You see and old container locked shut and has a torn wires on it.}
+{160}{}{You see and old container, seemingly with no lock. It has a torn wires on its door.}
+{161}{}{You see and old container with old, rusty lock, and has a wire on it.}
 
 {162}{}{You see and old container locked shut, but, probably, it could be opened with a lockpick.}
 {163}{}{You see and old container locked shut.}
