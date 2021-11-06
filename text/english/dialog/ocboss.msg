@@ -4,21 +4,21 @@
 
 #Самоубийс'во
 {103}{}{They all left me... }
-{104}{}{... Left me for a mouthful of bread.}
-{105}{}{That's what I get for trying to beat human nature.}
+{104}{}{...Left me for a mouthful of bread.}
+{105}{}{That's what I get for trying to beat the human nature.}
 {106}{}{Well. Now nothing is keeping me in this damned place.}
 {107}{}{ }
 
 #Плавающие реплики перед поджогом
 {110}{}{You stupid son of a bitch!}
 {111}{}{We took you in, and this is how you repay us?!}
-{112}{}{You put in danger the whole community!}
-{113}{}{Did you forget the first rule? "Protect what's ours"!}
-{114}{}{But you let your weaknesses to win over you!}
+{112}{}{You put the whole community in danger!}
+{113}{}{Have you forgotten the first rule? "Preserve all that's ours"!}
+{114}{}{You let your weaknesses take over!}
 {115}{}{You think only about yourself!}
 {116}{}{And now we're all paying the price!}
-{117}{}{... The price of your selfishness!}
-{118}{}{We won't stand for it!}
+{117}{}{...The price of your selfishness!}
+{118}{}{We won't tolerate it!}
 {119}{}{Now you'll see what happens when you betray the community!}
 
 #Разговор перед казнью:
@@ -33,13 +33,13 @@
 {126}{}{[Someone yells from the crowd] Gerlach, let him speak! He should know why we're doing this!}
 {127}{}{Exactly!}
 
-{128}{}{[He growls in frustration] Fine! Listen, outsider. This bastard - [he points at the prisoner] - was supposed to watch the community's water pump. But when it overheated and had to be shut down, his dumb ass was asleep! Now we're all gonna die of thirst thanks to his carelessness! [he grabs the prisoner's hair and violently shakes his head back and forth]}
-{129}{}{I can fix the water pump, if you give me time.}
-{130}{}{This bastard deserves what he gets! Hang him!!!}
+{128}{}{[He growls in frustration] Fine! Listen, outsider. This bastard - [he points at the prisoner] - was supposed to watch the community's water pump. But when it overheated and needed to be turned off, his dumb ass was asleep! Now we're all going to die of thirst thanks to his carelessness! [he grabs the prisoner's hair and violently shakes his head back and forth]}
+{129}{}{I can fix the water pump, if you give me some time.}
+{130}{}{This bastard deserves what he gets! Burn him!!!}
 {131}{}{}
 {132}{}{Gerlach, this is low - to lay your hands on those who are weaker.}
 {133}{}{What if I buy his life?}
-{134}{}{This really isn't any of my business. Do as you will.}
+{134}{}{This really isn't my business. Do what you want.}
 
 {135}{}{[His eyes blaze with anger] What?! What did you just say to me? Shut your mouth! Nobody asked you!}
 {136}{}{Hey, calm down... }
@@ -59,9 +59,9 @@
 {147}{}{[End]}
 {148}{}{You've given the man a few more days of life.}
 
-{149}{}{The money have little value in our community. But we could buy some things we need in Reno... Fine, a thousand bucks for this scum's hide, and don't even try dickering with me.}
+{149}{}{The money hold little value in our community. But we could buy some things we need in Reno... Fine, a thousand bucks for this scum's hide, and don't even try dickering with me.}
 {150}{}{A man's life is far more valuable. Here's the money.}
-{151}{}{You saved a life of a complete stranger.}
+{151}{}{You saved the life of a complete stranger.}
 {152}{}{I don't have that kind of money. Can I pay you later?}
 {153}{}{[The prisoner is untied from the pole and dragged into a nearby house. The spectators disappointedly disperse.]}
 {154}{}{[End]}
@@ -78,7 +78,7 @@
 {163}{}{Okay, Gerlach. I got it.}
 {164}{}{[He gives you a wild stare and hisses] Who the hell are you to know? You're going to give me - ME! - a lecture about life?! To a caravan guard with ten years of experience? Stop messing with me or get the hell away from here!}
 
-{165}{}{You watched a man be executed right in front of your eyes.}
+{165}{}{You watched a man being executed right in front of you.}
 {166}{}{[Pulls the man's head back by his hair and screams into his face] You hear that, scum?! Even some stranger from the wastes wants you dead! Take one last look at the people you betrayed, before we send you to hell.}
 {167}{}{[End]}
 {168}{}{You got what you deserved.}
@@ -94,10 +94,10 @@
 {176}{}{I'll come back later.}
 {177}{}{After all that's happened, I didn't even think we'd meet again.}
 
-{180}{}{What the hell for? You got a good reason, or are you just trying to help him escape?}
+{180}{}{What the hell for? Do you have a good reason, or are you just trying to help him escape?}
 {181}{}{No way... }
 {182}{}{I want to talk to him about the repairing the pump.}
-{183}{}{Hmm. Fine, have it your way. You can talk to him. Rico's watching him in the next building.}
+{183}{}{Hmm. Fine, have it your way. You can talk to him. Rico's guarding him in the next building.}
 {184}{}{Thanks.}
 {185}{}{I don't think so. His dumb ass broke the pump in the first place, and now you want his advice? Go ask a real mechanic and don't bother me with this crap.}
 {186}{}{Nice try, Mister Fixit. I know a working man's hands when I see them - you'll do just fine without that dumbass's help.}
@@ -110,7 +110,7 @@
 #Насос:
 {191}{}{Without the pump, we'll have no water. We'll have to leave this place.}
 {192}{}{What can be done?}
-{193}{}{I'm no mechanic, but some part of the pump seems to have broken. We've got two choices: find someone to repair it, or replace the part.}
+{193}{}{I'm no mechanic, but some part of the pump seems to have broken. We've got two choices: find someone to repair it, or to replace the part.}
 {194}{}{What will I get in return if I fix the pump?}
 {195}{}{I'll get the pump working for you.}
 {196}{}{I'll make it worth your while. I've got connections in... Well, it doesn't matter what kind of connections. I can get you a good weapon, if you're interested.}
@@ -164,18 +164,18 @@
 {235}{}{You got 10mm pistol with 48 10mm rounds.}
 
 {236}{}{So, what about my reward?}
-{237}{}{You got a cattle rod with some batteries.}
-{238}{}{Cattle rod and some batteries for it.}
+{237}{}{You got a cattle prod with some batteries.}
+{238}{}{Cattle prod and some batteries for it.}
 
 #Про казненного
 {250}{}{Do you always execute people when they screw up?}
 {251}{}{His "screw up" threatened all of our lives. It was too much to forgive. Everyone must know our community won't tolerate this kind of carelessness.}
-{252}{}{Tough town. But I'll risk asking just one more question.}
+{252}{}{Tough town. But I'll risk asking another question.}
 {253}{}{What are you, some kid fresh out of the vault, wanting to save the world? Ha! Don't make the old man laugh. If not for my rules, everyone here would be lost in the sands of the wasteland.}
 
 #Про кражу из 'айника
-{254}{}{Hey outsider, wait. Was that you sneaking around my house? No? Well, watch yourself - I don't want to see any bullshit from you. We solve those kinds of problems fast around here. Clear?}
-{255}{}{Uh, sure, clear. Whatever you say.}
+{254}{}{Hey outsider, wait. Was that you sneaking around my house? No? Well, watch yourself - I don't need any bullshit from you. We solve those kinds of problems fast around here. Is that clear?}
+{255}{}{Uh, sure. Whatever you say.}
 
 #Переселение в убежище 8
 {270}{}{It sure is quiet around here lately, isn't it Gerlach?}
@@ -201,19 +201,19 @@
 {286}{}{Tell me more!}
 {287}{}{I think I've heard enough. Let's talk about something important now.}
 
-{288}{}{Well, the real story goes back long before I actually came to this place. It started a long time back, probably about ten years ago.}
+{288}{}{Well, the real story goes back long before I actually came to this place. It started a long time ago, probably about ten years or so.}
 {289}{}{I'm listening.}
 {290}{}{Oh no, is it too late to get the short version?}
 {291}{}{Maybe we should end it at that. Take care.}
 
-{292}{}{I worked as a caravan guard back then. We wandered all over California - or what was left of her. Bad as it is now, it was worse then. Every town and village had at least one gang waiting to fuck you.}
+{292}{}{I worked as a caravan guard back then. We wandered all over California - or what was left of it. Bad as it is now, it was worse then. Every town and village had at least one gang waiting to fuck you.}
 {293}{}{More?}
-{294}{}{Caravan fell on hard times - our own people betraying us, or just walking away. Didn't do much for my opinion of people, let me tell you. But then... }
-{295}{}{We found a small village, all one big family. Inbred as all hell - you could see their kids were fucked up. But they protected their own, didn't even let us close to them.}
+{294}{}{Caravan fell on hard times - our own people betraying us, sometimes just walking away. Didn't do much for my opinion of people, let me tell you. But then... }
+{295}{}{We found a small village, all one big family. Inbred as hell - you could see their kids were fucked up. But they protected their own, didn't even let us close to them.}
 {296}{}{Each of them would give their last drop of blood to protect their children. It surprised me. I was an orphan - I couldn't understand it.}
-{297}{}{I thought about it for a long time. In the end, I realized, that's what we needed - a collective community where people don't just live for themselves, but for the common good. A small community where everyone would know each other, where everyone would be responsible for their work, where everyone would be *unified*. And anyone who couldn't pull their weight would be cast out.}
-{298}{}{I talked to people in Reno about this. A lot of them laughed. But some of the others... They saw what I was saying.}
-{299}{}{Together, we found this place and actually made it livable! Now, most of them were killed by raiders early on, but we managed to fend them off. Once word got out, new people came.}
+{297}{}{I thought about it for a long time. In the end, I realized, that's what we needed - a collective community where people don't just live for themselves, but for the common good. A small society, where everyone would know each other, where everyone would be responsible for their work, where everyone would be *unified*. And anyone who couldn't pull their weight would be cast out.}
+{298}{}{I talked to people in Reno about this. A lot of them laughed. But some... They understood what I was trying to say.}
+{299}{}{Together, we founded this place and actually made it suitable for living! Now, most of them were killed early on, by raiders, which we managed to fend off in the end. Once word got out, new people came.}
 {300}{}{Now we have everything we need. We're pretty much independent. And I hope it stays that way!}
 {301}{}{Thanks. I have no more questions, Mister Gerlach.}
 
@@ -224,7 +224,7 @@
 
 #Пропавший посыльный
 {313}{}{Do you know anything about Milo's disappearance?}
-{314}{}{No. Why should I? The desert's a dangerous place. Geckos, radscorpions, even raiders. If he doesn't come back, it's going to be hard on his wife. You understand.}
+{314}{}{No. Why should I? The desert's a dangerous place. Geckos, radscorpions, even raiders. If he doesn't come back, his wife is going to have a hard time. You understand.}
 {315}{}{Milo is married? Maybe I should talk to her.}
 
 {316}{}{Hmm... [looks at everybody] Perhaps... There is something about you, wanderer.}
@@ -232,7 +232,7 @@
 #Female character
 {1120}{}{Not now, outsider. We'll talk after we deal with this - [spits in disgust] - piece of shit.}
 {1126}{}{[Someone yells from the crowd] Gerlach, let her speak! She should know why we're doing this!}
-{1128}{}{[He growls in frustration] Fine! Listen, outsider. This bastard - [he points at the prisoner] - was supposed to watch the community's water pump. But when it overheated and had to be shut down, his dumb ass was asleep! Now we're all gonna die of thirst thanks to his carelessness! [he grabs the prisoner's hair and violently shakes his head back and forth]}
+{1128}{}{[He growls in frustration] Fine! Listen, outsider. This bastard - [he points at the prisoner] - was supposed to watch the community's water pump. But when it overheated and needed to be turned off, his dumb ass was asleep! Now we're all going to die of thirst thanks to his carelessness! [he grabs the prisoner's hair and violently shakes his head back and forth]}
 {1135}{}{[His eyes blaze with anger] What?! What did you just say to me? Shut your mouth! Nobody asked you!}
 {1140}{}{Hmm... [he looks over at the crowd] Why should we trust you, outsider?}
 {1144}{}{Actually, I changed my mind. I don't care about that guy. Burn him!}
@@ -242,6 +242,6 @@
 {1185}{}{I don't think so. His dumb ass broke the pump in the first place, and now you want his advice? Go ask a real mechanic and don't bother me with this crap.}
 {1186}{}{Nice try, Miss Fixit. I know a working woman's hands when I see them - you'll do just fine without that dumbass's help.}
 {1217}{}{You're right, there must be something wrong with me! I need a weapon.}
-{1254}{}{Hey outsider, wait. Was that you sneaking around my house? No? Well, watch yourself - I don't want to see any bullshit from you. We solve those kinds of problems fast around here. Clear?}
+{1254}{}{Hey outsider, wait. Was that you sneaking around my house? No? Well, watch yourself - I don't need any bullshit from you. We solve those kinds of problems fast around here. Is that clear?}
 {1284}{}{Forget it, I changed my mind.}
 {1316}{}{Hmm... [looks at everybody] Perhaps... There is something about you, wanderer.}
