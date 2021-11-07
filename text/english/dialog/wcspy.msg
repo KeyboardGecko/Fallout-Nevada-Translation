@@ -71,6 +71,6 @@
 
 #Women's replics
 {1110}{}{Looking for something, wanderer? Never mind, I was just asking.}
-{127}{}{Oh, a fellow wastelander? This is interesting... You know, you don't look particularly distrustful. I think it would be possible to do joint business with you.}
+{1127}{}{Oh, a fellow wastelander? This is interesting... You know, you don't look particularly distrustful. I think it would be possible to do joint business with you.}
 {1139}{}{Heh, say what you want, but you can't hide your true nature. I'm afraid I was wrong about you. Good luck, wanderer.}
 {1160}{}{So, how are you doing, wanderer?}

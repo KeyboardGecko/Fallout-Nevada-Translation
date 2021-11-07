@@ -280,7 +280,6 @@
 #Апгрейд брони
 {400}{}{Sure. I whip up a lot of armor for caravan merchants. I've only worked with leather, but I wouldn't mind trying something else. Just bring it to me and let's see what I can do.}
 {401}{}{I'll think about it.}
-#{402}{}{Thanks. I have another set of armor, if you're interested.}
 {402}{}{I'd like to show you another set of armor.}
 {403}{}{I'll be here.}
 {404}{}{You'll have to take it off before I can do anything with it.}

@@ -1,12 +1,12 @@
 {100}{}{You see Myers.}
 {101}{}{You see the head of the restaurant. He smiles, even though he's very busy.}
 
-#This next one is bugged, waiting for a fix
-#{102}{}{I have a feeling like I'm being watched... [he shakes his head] It's all in my head, probably.}
-
 #Оружие в руках
-{102}{}{Hey, when you're in here, the weapon stays in its holster.}
+{102}{}{Hey, while you're in here, the weapon stays in holster.}
 {103}{}{I know we say the customer with a knife is always right... But there's a limit!}
+
+#This next one is bugged, waiting for a fix
+#{104}{}{I have a feeling like I'm being watched... [he shakes his head] It's all in my head, probably.}
 
 ####################################################################
 #              Случайные плавающие фразы

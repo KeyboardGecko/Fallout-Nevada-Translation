@@ -134,4 +134,4 @@
 {1245}{}{Wha... Hold up, chum, don't judge too quick! This ain't a deal with the ring, you dig? Some strangers came in and made some deals with each other in the corner. It had nothing to do with the ring! Get it?}
 {1279}{}{[He gets closer] I'll say this, champion. You know Stryker, right? He's got a man who cooks chems. You need to talk to him about improving your skills. But that's only between us.}
 {1283}{}{Connections - they're as valuable as cash, maybe even more, babe. Never forget that. That's why I help everyone here and there.}
-{290}{}{[He hungrily grabs the cash] Just in time, girl. I appreciate the... Err, help. So, I heard you wanted to know who sells the dope on this ring? Well, I know a secret that I'll be happy to share with you.}
+{1290}{}{[He hungrily grabs the cash] Just in time, girl. I appreciate the... Err, help. So, I heard you wanted to know who sells the dope on this ring? Well, I know a secret that I'll be happy to share with you.}

@@ -112,10 +112,10 @@
 {191}{}{Is this for me or what?!!!}
 {192}{}{You're dead, fucker!!!}
 {193}{}{I'm gonna shove your head so far up your ass!!!}
-{193}{}{I'll find you, I swear!}
-{194}{}{Who did that?! Who the fuck did that?!!!}
-{195}{}{I'm gonna!.. I don't even *know*, what I'm gonna do to you!!!}
-{196}{}{Hey, wise guy? Come out, and we'll talk this out like men!}
+{194}{}{I'll find you, I swear!}
+{195}{}{Who did that?! Who the fuck did that?!!!}
+{196}{}{I'm gonna!... I don't even *know*, what I'm gonna do to you!!!}
+{197}{}{Hey, wise guy! Come out, and we'll talk this out like men!}
 
 #Mutants 
 {200}{}{WAAAAGH!!!}

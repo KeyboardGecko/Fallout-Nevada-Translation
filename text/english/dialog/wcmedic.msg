@@ -109,9 +109,9 @@
 {252}{}{Here's $100. Help him!}
 {253}{}{}
 {254}{}{I'll paint you worse, if you don't help him. Hurry up, old fart!}
-{255}{}You shouldn't be so heartless!}
+{255}{}{You shouldn't be so heartless!}
 
-{256}{}{Thinking about it - why not...}
+{256}{}{To think about it - why not...}
 {257}{}{That's right. Come on! Come on!}
 
 #Women's replics

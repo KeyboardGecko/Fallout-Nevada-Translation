@@ -76,7 +76,7 @@
 #
 # from pipboy.c -- Fallout 2
 #
-// Fallout 2:  For Pipboy
+# Fallout 2:  For Pipboy
 {7000}{}{You aren't wearing the pipboy!}
 
 #
@@ -102,7 +102,7 @@
 {9013}{}{I feel tougher. Stronger. Smarter.}
 
 {9020}{}{Wow! I feel as if I've passed some arbitrary experience value and gained more power!} # pMMarcus_PID
-{9021}{}{Aaagggh! Muscles... bulging... Stats... increasing.... Gaining level...}
+{9021}{}{Aaagggh! Muscles... bulging... Stats... increasing... Gaining level...}
 {9022}{}{Gimme a diploma and a silly lookin' hat with a tassel, 'cause I just graduated!}
 {9023}{}{Hey, I feel more powerful! Does that mean I get a pay raise?}
 
