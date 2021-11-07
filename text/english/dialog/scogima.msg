@@ -18,7 +18,7 @@
 #Про могилы
 {115}{}{And so appears the man whose greed is more important than the peace of our dead...}
 {116}{}{What are you talking about?}
-{117}{}{Someone disturbed our graves. It wasn't animals and it wasn't raiders. It's obvious to us both, but let our opinions stay with us. It can't be undone now, can it?}
+{117}{}{Someone disturbed our graves. It wasn't animals or raiders. This is obvious to both of us, but let our opinions remain with us. It can't be undone, can it?}
 {118}{}{Er... Okay, I guess. But I wanted to talk to you.}
 {119}{}{Oh... Uh, I'll go fill in the graves, then.}
 
@@ -40,7 +40,7 @@
 ###############################################################
 
 #Список вопросов
-{130}{}{The gods rarely touch these lands with their sights. There is nothing special here. When the wasteland devours our valley, this will go, too.}
+{130}{}{The gods rarely touch these lands with their sights. There is nothing special here. When the wasteland devours our valley, all this will go, too.}
 {131}{}{Tell me more about your tribe.}
 {132}{}{Tell me more about this settlement.}
 {133}{}{Tell me more about the raiders.}
@@ -369,7 +369,7 @@
 
 #Female character
 {1115}{}{And so appears the woman, whose greed is more important, than the peace of our dead...}
-{1118}{}{Er...okay, I guess. But I wanted to talk to you.}
+{1118}{}{Er... Okay, I guess. But I wanted to talk to you.}
 {1120}{}{Greetings, outsider. What guides your path to our village?}
 {1205}{}{You? Your hands and eyes speak the truth that your words do not. Don't fool yourself, outsider. You are no healer.}
 {1206}{}{Hmm. Niskigvan will not trust an outsider's medicine easily. How will you heal the child?}

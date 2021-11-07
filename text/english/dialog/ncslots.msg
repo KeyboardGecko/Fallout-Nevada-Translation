@@ -71,8 +71,8 @@
 {237}{}{ coin?}
 {238}{}{Bet }
 {239}{}{ coins?}
-{240}{}{Thats enough for the night.}
-{241}{}{Thats enough for the day.}
+{240}{}{That's enough for the night.}
+{241}{}{That's enough for the day.}
 
 9.  LOOOOOOSER (8)
 {245}{}{The wheel spins, aaand... Nothing.}
@@ -84,8 +84,8 @@
 {251}{}{ coins. Risk everything?}
 {252}{}{You lost. The party's over for tonight, whether you like it or not.}
 {253}{}{You lost. The party's over for today, whether you like it or not.}
-{254}{}{Thats enough for tonight.}
-{255}{}{Thats enough for today.}
+{254}{}{That's enough for tonight.}
+{255}{}{That's enough for today.}
 
 10.  WIN x1 (8)
 {260}{}{Three blades. You made your money back.}
@@ -95,8 +95,8 @@
 {264}{}{ coins. Continue playing?}
 {265}{}{You still have }
 {266}{}{ coins. Continue playing?}
-{267}{}{Thats enough for tonight.}
-{268}{}{Thats enough for today.}
+{267}{}{That's enough for tonight.}
+{268}{}{That's enough for today.}
 
 11.  WIN x2 (8)
 {275}{}{Three bullets! You have doubled your money!}
@@ -104,8 +104,8 @@
 {277}{}{[The machine is breathy with pleasure.] *So, dear... Keep pulling the handle... Faster, stronger, faster, come on... *}
 {278}{}{You have }
 {279}{}{ coins. Continue playing?}
-{280}{}{Thats enough for tonight.}
-{281}{}{Thats enough for today.}
+{280}{}{That's enough for tonight.}
+{281}{}{That's enough for today.}
 
 12.  WIN x3 (8)
 {290}{}{Three grenades! Wow! You tripled your money!}
@@ -115,8 +115,8 @@
 {294}{}{Come on, grenades! I need new shoes! [Keep playing.]}
 {295}{}{You have }
 {296}{}{ coins. Continue playing?}
-{297}{}{Thats enough for tonight.}
-{298}{}{Thats enough for today.}
+{297}{}{That's enough for tonight.}
+{298}{}{That's enough for today.}
 
 13. DRUNK, HIGH OR OTHERWISE FUCKED UP (WTG)
 {305}{}{[You see a slot machine. Its body and gilded lever shine seductively at you in light of New Reno's glowing signs. The coin slot beckons you, and you feel your face light up in anticipation. Looking at it, you see one of the windows winks at you and hear a female voice.] *Well, hello, sugar. Spend some time with me?*}
@@ -186,8 +186,8 @@
 {388}{}{ coins?}
 {389}{}{Bet }
 {390}{}{ coins?}
-{391}{}{Thats enough for tonight.}
-{392}{}{Thats enough for today.}
+{391}{}{That's enough for tonight.}
+{392}{}{That's enough for today.}
 
 21.  LOOOOOOSER, HIGH-ROLLING (20)
 {400}{}{The wheel spins, aaand... Nothing.}
@@ -199,8 +199,8 @@
 {406}{}{ coin. Risk everything?}
 {407}{}{No more money. This just isn't your night.}
 {408}{}{No more money. This just isn't your day.}
-{409}{}{Thats enough for tonight.}
-{410}{}{Thats enough for today.}
+{409}{}{That's enough for tonight.}
+{410}{}{That's enough for today.}
 
 22.  WIN x1, HIGH-ROLLING (20)
 {415}{}{Three bombs. You made your money back.}
@@ -208,8 +208,8 @@
 {417}{}{[The machine continues whispering.] *Well, well, sweet... Try more... Grab the lever... Squeeze it tighter... Come on... *}
 {418}{}{You have }
 {419}{}{ coins. Continue playing?}
-{420}{}{Thats enough for tonight.}
-{421}{}{Thats enough for today.}
+{420}{}{That's enough for tonight.}
+{421}{}{That's enough for today.}
 
 23.  WIN x2, HIGH-ROLLING (20)
 {425}{}{Three nukes! You doubled your money!}
@@ -217,8 +217,8 @@
 {427}{}{[The machine is breathy with pleasure.] *So, dear... Keep pulling the handle... Faster, stronger, faster, come on... *}
 {428}{}{You have }
 {429}{}{ coins. Continue playing?}
-{430}{}{Thats enough for tonight.}
-{431}{}{Thats enough for today.}
+{430}{}{That's enough for tonight.}
+{431}{}{That's enough for today.}
 
 24.  WIN x3, HIGH-ROLLING (8)
 {435}{}{Three mushroom clouds! You tripled your money!}
@@ -228,8 +228,8 @@
 {439}{}{Come on, mushrooms! I need new shoes! [Keep playing.]}
 {440}{}{You have }
 {441}{}{ coins. Continue playing?}
-{442}{}{Thats enough for tonight.}
-{443}{}{Thats enough for today.}
+{442}{}{That's enough for tonight.}
+{443}{}{That's enough for today.}
 
 # use gambling skill on table, the +1 is for high roller tables
 # critical failures

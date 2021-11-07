@@ -57,7 +57,7 @@
 #Диалог
 {300}{}{What do you want?}
 {301}{}{What the hell is going on here?!}
-{302}{}{Oh, you are a stranger, apparently. Relax. Thats how our folks are having fun.}
+{302}{}{Oh, you are a stranger, apparently. Relax. That's how our folks are having fun.}
 {303}{}{Fun?!}
 {304}{}{Yes. We used to actually hang criminals here. Just a while ago. But since the Sheriff Burton dealt with the criminal underworld and kicked all the bastards out of town, the gallows was empty and the folks in town got bored.}
 {305}{}{And? Didn't you have something better to came up with?}

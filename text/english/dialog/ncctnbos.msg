@@ -89,10 +89,10 @@
 {170}{}{Got any work?}
 {171}{}{Well, I have something in mind, but it's a bit risky.}
 {172}{}{Nah, I don't need risk.}
-{173}{}{Sounds good. Lay it out.}
+{173}{}{Sounds good. Spill it.}
 {174}{}{One of the "Nevada Express" workers told me about a comedian in Vegas. Apparently, he's looking for work, but he doesn't have enough money to leave. And frankly, I don't have that kind of money either.}
-{175}{}{So...?}
-{176}{}{So I'll pay $1500 if you deliver him. Not all at once - I'm gonna need a couple of shows to earn that sum. But think about it, you'll be the sponsor for the hottest show in Reno!}
+{175}{}{So?}
+{176}{}{So I'll pay $1500 if you bring him here. Not all at once - I'm gonna need a couple of shows to earn that sum. But think about it, you'll be the sponsor for the hottest show in Reno!}
 {177}{}{I'll see what I can do. Vegas, right?}
 {178}{}{I don't think it's worth my time.}
 {179}{}{That's right. I'll be waiting.}
@@ -131,15 +131,15 @@
 {211}{}{Well, then start right now. There is the rags, and there is the mop. Later I will show you where is the toilet.}
 {212}{}{Let's go!}
 {213}{}{For cleaning of the room, you get 200 experience points. Janitor - it sounds good!}
-{214}{}{(You easily deal with cleaning. A satisfied owner generously rewarded with a tasty sandwich, juicy fruit and a bottle of cold beer!) Hey, you want to stay for a while? Have some beer, huh?}
+{214}{}{[You easily deal with cleaning. A satisfied owner generously rewarded with a tasty sandwich, juicy fruit and a bottle of cold beer.] Hey, do you want to stay for a while? Have some beer, maybe?}
 {215}{}{Beer? This is great!}
 {216}{}{No, someone is waiting for me, I'll stop by later. Bye!}
-{217}{}{(for some time you sit with this man and talk about Reno and the problems of the caf?. The man pours his soul to you, talks about how he was fed up and and just wants to say, fuck it all in the ass and be done with it, to everything)}
+{217}{}{[for some time you sit with this man and talk about Reno and the problems of the cafe. The man pours his soul to you, talks about how he was fed up and and just wants to say, fuck it all in the ass and be done with it, to everything]}
 {218}{}{Well, we can always abandon everything, but how to regain it after - this is what we should aim for!}
-{219}{}{Yeah, an ass - is an ass. Thats right! And there is nothing you can do about it!}
+{219}{}{Yeah, an ass is an ass. That's right! And there is nothing you can do about it!}
 
 {220}{}{Yeah... Ah, easy to say. You try to establish your business when there are so many extortionists and druggies!}
-{221}{}{Yeah... And and the worst part is - there are no alternatives! Circle of junkies, drug dealers, racketeers! I sometimes just want to give up....}
+{221}{}{Yeah... And and the worst part is - there are no alternatives! Circle of junkies, drug dealers, racketeers! I sometimes just want to give up...}
 {222}{}{Have you thought to move to another location, more quieter?}
 {223}{}{Why opening your business and suffer? You would be better working for someone, less responsibility!}
 

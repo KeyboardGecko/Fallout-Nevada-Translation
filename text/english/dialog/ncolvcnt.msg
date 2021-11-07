@@ -8,7 +8,7 @@
 #
 ###################################################################
 
-{110}{}{[You see a well-groomed, sharp-dressed man. His nice looks and demeanor contrast with the scar on his neck and ice in his eyes.] Hello there. Fancy a game of pool? I'm not looking to bet, just want a worthy partner.}
+{110}{}{[You see a well-groomed, sharp-dressed man. His nice looks and demeanor contrast with the scar on his neck and ice-cold stare.] Hello there. Fancy a game of pool? I'm not looking to bet, just want a worthy partner.}
 {111}{}{Can I ask you some questions about this city?}
 {112}{}{Sure, I could go for a game.}
 {113}{}{Sorry, I'm just here to admire the tables. Good luck.}
@@ -27,11 +27,11 @@
 #
 ###################################################################
 
-{120}{}{[He slowly chalks his cue] Some people think conversation distracts from a good game, but I think a person's true nature comes out at the table, whether they like it or not. Thus, one should watch themselves, even when playing for fun. [he nods at you] Go ahead and break. You are the guest, after all.}
+{120}{}{[He slowly chalks his cue] Some people think conversation distracts from a good game, but I think a person's true nature comes out at the table, whether they like it or not. Thus, one should watch themselves, even when playing for fun. [he nods at you] Go ahead, strike first. You are the guest, after all.}
 {121}{}{One should always watch themselves.}
 {122}{}{What are you trying to say?}
 
-{123}{}{What a break! Joe Davis himself could scarcely have done better. Perhaps this game will be more interesting than I'd expected.}
+{123}{}{What a break! Joe Davis himself could hardly have done it better. Perhaps this game will be more interesting than I'd expected.}
 {124}{}{[Continue]}
 {125}{}{Just thinking out loud, that's all. Better to concentrate on the game - that's a poor break.}
 {126}{}{[Continue]}
@@ -41,7 +41,7 @@
 {129}{}{Gambling is too dangerous for me. It's a good way to lose everything you've got.}
 {130}{}{I don't have anything against gambling, but I'd rather stay out of it.}
 {131}{}{Easy money! Isn't it great? You get the thrill of victory *and* you get paid for it!}
-{132}{}{That's a good approach. A gentleman should not have to borrow money for his vices, whether it is before the game or after. Good shot, by the way - I should have asked for a handicap. Do you mind if I smoke? Good... }
+{132}{}{That's a good approach. A gentleman should not borrow money for his vices, whether it is before the game or after. Good shot, by the way - I should have asked for a handicap. Do you mind if I smoke? Good... }
 {133}{}{A decent answer. It's better to be overcautious, than the alternative. Interesting move, by the way - you've put me in a tricky position. Perhaps I should fancy a cigar, while I think about my move... }
 {134}{}{Strange words. You don't strike me as someone that averse to risk. [he gives you an inscrutable look out of the corner of his eye] My turn... But first, I have to light up my cigar.}
 {135}{}{Reno's furnaces run on the bodies of those who came seeking quick wins. The locals have learned not to deal with them, fearing they'll be drawn down... Say, that reminds me. How about a smoke?}
@@ -56,7 +56,7 @@
 {143}{}{[He sighs] I'm no prude, but it's unseemly to offer oneself so cheaply. [he shoots] Ha! I learned that trick shot from... Well, it doesn't matter. He's just another one of Reno's beggars now.}
 {144}{}{Hey, slow down, would you? Just kidding, well played. A good move.}
 {145}{}{Really? Hmm. Hey, slow down, would you? Just kidding, good move. You had better options, though... Maybe you should have a drink to calm down.}
-{146}{}{I suppose you're right. Not everyone can maintain themselves as skilled at profession as I could. Or you could. [he shoots] Bah, how did I miss?}
+{146}{}{I suppose you're right. Not everyone can maintain themselves as skilled at profession as me... Or you. [he shoots] Bah, how did I miss?}
 {147}{}{You should keep such thoughts to yourself. However legitimate they may be, coming from you they sound like sour grapes... Don't wag that cue, it's not a tail. Look, you fouled again.}
 {148}{}{With such an attitude, you may earn more than you bargained for... Don't wag that cue, it's not a tail. Look, you fouled again.}
 {149}{}{}
@@ -76,17 +76,17 @@
 {161}{}{I do enjoy the sound of balls knocking together. Far better than the crack of gunshots, especially if the latter are meant for you. It's a shame that in Reno, quick hands are in higher demand than those who prefer... Alternative methods of solving problems.}
 {162}{}{A quick wit and quick hands are more effective than a quick wit alone. Violence was the first standard of diplomacy, and often, it's the last.}
 {163}{}{I try not to get into fights. When I do, I try to get out of them as soon as possible.}
-{164}{}{Diplomacy is underrated. Why die for a cause when you can get someone else to die for you, and be grateful to do it?}
-{165}{}{There's always demand for my methods. The only problem is, they're so quiet, it's hard to prove you have them.}
+{164}{}{Diplomacy is underrated. Why die for a cause when you can get someone else to die for you and even be grateful for it?}
+{165}{}{There's always demand for my methods. The only problem is, they're so quiet that it's hard to prove they are being used.}
 {166}{}{Yes, I think that weapon on your belt is not just for show. My money's on you, if you're up against one of the local rabble.}
-{167}{}{An expert like yourself will never be without opportunity in Reno. Certainly, you'd rank above the local cannon fodder... }
-{168}{}{Hmm. You don't look like Annie Oakley to me. If you're putting on airs, I'd suggest you file the front sight off your gun, in case the locals decide to shove it where you're speaking out of. They don't care for empty boasts.}
+{167}{}{An expert like yourself will never be left without opportunity in Reno. Certainly, you'd rank above the local cannon fodder... }
+{168}{}{Hmm. You don't look like Annie Oakley to me. If you're putting on airs, I'd suggest you file the front sight off your gun, in case the locals decide to shove it where you're speaking from. They don't care for empty boasts.}
 {169}{}{You can't run from all your problems, especially in Reno. There's a bullet waiting around every corner, and I doubt you can outrun them all.}
 {170}{}{[He chuckles slightly] Diplomacy... I hadn't expected to hear that from you. You don't seem the type to rely on it.}
 {171}{}{[He grins slightly, giving you a sidelong look] Sounds serious... But believe me, I've seen my share.}
 {172}{}{[He listens carefully, moving the cue in his hand] By the way, the local gangs seem quiet today. Many of the locals think that throwing in with either of the two bosses will keep their heads above water. Well, I suppose bodies do float, if you're sitting on enough of them.}
 {173}{}{It's survival of the fittest. If I have to, I'll throw in with one too.}
-{174}{}{Everyone's looking at one or the other. A third party could swoop in before anyone knew what was happening.}
+{174}{}{Everyone's looking at one or the other. A third party could swoop in before anyone knows what's happening.}
 {175}{}{I'm waiting for someone who seems to know what they're talking about. Someone like you, for example.}
 {176}{}{Anyone who could conquer Reno must be someone special. That's worth following.}
 {177}{}{Hmm. You are determined, I'll say that. I don't approve of such methods, but I certainly respect your... Focus.}
@@ -167,11 +167,11 @@
 {1111}{}{Can I ask you some questions about this city?}
 {1113}{}{Sorry, I'm just here to admire the tables. Good luck.}
 {1119}{}{And I'm not in the mood for that. Good luck, then.}
-{1123}{}{What a break! Joe Davis himself could scarcely have done better. Perhaps this game will be more interesting than I'd expected.}
+{1123}{}{What a break! Joe Davis himself could hardly have done it better. Perhaps this game will be more interesting than I'd expected.}
 {1125}{}{Just thinking out loud, that's all. Better to concentrate on the game - that's a poor break.}
 {1127}{}{[He aims at the nearest ball] Well, here we are in Reno, the city spared by Lady Luck. There's satisfaction for every type of thirst here. Have you broken the bank at any of the casinos yet? Or are you the type that refuses to risk anything on a game of chance?}
 {1130}{}{I don't have anything against gambling, but I'd rather stay out of it.}
-{1132}{}{That's a good approach. A lady should not have to borrow money for her vices, whether it is before the game or after. Good shot, by the way - I should have asked for a handicap. Do you mind if I smoke? Good... }
+{1132}{}{That's a good approach. A lady should not borrow money for her vices, whether it is before the game or after. Good shot, by the way - I should have asked for a handicap. Do you mind if I smoke? Good... }
 {1141}{}{Some people have no other choice. But personally, I'd rather steer clear of it.}
 {1144}{}{Hey, slow down, would you? Just kidding, well played. A good move.}
 {1145}{}{Really? Hmm. Hey, slow down, would you? Just kidding, good move. You had better options, though... Maybe you should have a drink to calm down.}

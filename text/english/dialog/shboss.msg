@@ -11,17 +11,17 @@
 {103}{}{Search this one! Put everything into the locker. [he turns to you] You, dead meat! What are you sniffing in my territory?}
 {104}{}{Whoa, slow down, man...}
 {105}{}{You will call me Boss! Or you gonna puke your guts out!}
-{106}{}{Okay, boss. I've been looking for your base hoping to join you.}
+{106}{}{Okay, boss. I've been looking for your base in hopes of joining you.}
 {107}{}{I'm here to drain the blood from your corpse, skin your men for leather and burn this building to the ground!}
-{108}{}{Funny, your mother called me that last night. But it wasn't answers she had in her mouth.}
+{108}{}{Funny, your mother called me that last night. But those weren't answers she was holding in her mouth.}
 
 {109}{}{HA-HA-HA! Aren't you the tough one? Okay, now you are meeting the dogs. Let's see just how brave you are!}
-{110}{}{[He growls] You arrogant PIG! I HATE smug assholes like you! Bring him to the dogs. We haven't had a fight in a long time!}
+{110}{}{[He growls] You arrogant PIG! I HATE smug assholes like you! Bring him to the dogs. We haven't had a good fight in a long time!}
 {111}{}{Wha... [you are forcibly escorted to the ruins near the base of the building]}
 
-{112}{}{[He crosses two enormous arms] Is that so?}
+{112}{}{[He crosses his enormous arms on his chest] Is that so?}
 {113}{}{I'm sick of running with two-bit gangster wannabes. I'm the real deal! I want some SERIOUS action!}
-{114}{}{You think I'm idiot, don't you?}
+{114}{}{You think I'm an idiot, don't you?}
 {115}{}{No.}
 {116}{}{Yes you do. Do you?}
 {117}{}{Yes.}
@@ -31,10 +31,10 @@
 {120}{}{[He studies you carefully] Okay, macho. Why would I want you?}
 {121}{}{[He studies you carefully] Okay. Why would I want you?}
 {122}{}{I'm strong. And not like your men downstairs - they are not exactly tough, like you. Or even me.}
-{123}{}{I'm a cat in the night. Anyone can kick in a door, but I can be miles away before my victims even know I was there.}
+{123}{}{I'm a cat in the night. Anyone can kick a door in, but I can be miles away before my victims even know I was there.}
 {124}{}{I'm a master of explosives. You want someone dead? I'll wipe out their whole family. You want something wrecked? You'll think it never even existed. I can get things done on a whole other level than the men you have now.}
 {125}{}{I can open any lock, mechanical or electric. You must have a use for that.}
-{126}{}{I know these wastes like the back of my hand. No one is better than me when it comes to wilderness survival.}
+{126}{}{I know this wasteland like the back of my hand. No one is better than me when it comes to wilderness survival.}
 {127}{}{Just look at me. I've been everywhere, I've done everything, I've met everyone. Whatever you need, I'll get it done.}
 
 {128}{}{Okay, pretty boy. }
@@ -48,9 +48,9 @@
 {135}{}{I'm listening.}
 {136}{}{[He nods] Good. The guns we're using now are good enough for scaring small villages, but we need some real army equipment to be serious. And I know just the place to get it from.}
 {137}{}{[Listen]}
-{138}{}{There's a pre-war army base to the south of here. My dogs tried to get in, but the turrets are still on. To get around them - that's your headache now. I'll send a couple of my boys to help out, but they won't risk their necks for you. This is YOUR job. Got it?}
+{138}{}{There's a pre-war army base to the south of here. My dogs tried to get in, but the turrets are still active. To get around them - that's your problem now. I'll send a couple of my boys to help out, but they won't risk their necks for you. This is YOUR job. Got it?}
 {139}{}{Got it. When do we leave?}
-{140}{}{I'll give you some time to gather up. Talk to me when ready, I'll organize the convoy.}
+{140}{}{I'll give you some time to prepare. Talk to me when ready, I'll organize the convoy.}
 {141}{}{I'll be back soon.}
 {142}{}{I'm ready to go to the base right now.}
 {143}{}{Time is money, macho. Don't keep me waiting. If I have to go looking for you, you'd better already be dead.}
@@ -90,13 +90,13 @@
 {164}{}{Aaaagh!}
 {165}{}{Rnnmf...}
 {166}{}{NO ONE DOES THIS TO BIG LOUIE!}
-{167}{}{You're dead! I've seen what you've done!}
+{167}{}{You're dead! I saw what you did!}
 
 # Проверка инвен'аря:
 {170}{}{No. I want a look at it first.}
-{171}{}{[Wait for him to finish searching your gear.]}
-{172}{}{[Try to break loose.]}
-{173}{}{[He goes through your things and throws what he doesn't want at your feet] Ah, shiny presents for Big Louie! I'll take that. [he takes your money]}
+{171}{}{[Wait for him to finish searching your gear]}
+{172}{}{[Try to break loose]}
+{173}{}{[He goes through your things and throws what he doesn't want at your feet] Ah, shiny presents for Big Louie! I'll take that. [He takes your money]}
 {180}{}{[He silently, almost reverently, places your Elvis Presley portrait on his shelf]}
 {181}{}{[He takes your lighter and turns it over in his hand, flipping it open and gazing at the flame] I'll take that.}
 {182}{}{[He shudders at the sight of your sniper rifle and carefully places it in his locker]}
@@ -112,14 +112,14 @@
 ################################################################################
 
 #Сдача первого квес'а:
-{200}{}{Aren't you the capable one! My pack is now fully equipped. You've earned some respect. Consider yourself one of us. So, for starters, go grab a beer or something from Fatso, relax, and when you're done - come see me. We'll have real talk. Big plans.}
+{200}{}{Aren't you the capable one! My pack is now fully equipped. You've earned some respect. Consider yourself one of us. So, for starters, go grab a beer or something from Fatso, take a break. When you're done, come see me. We'll have real talk. Big plans.}
 {201}{}{See you.}
 
 #В'орой квес' (дань С'райкера)
 {202}{}{About our plans...}
 {203}{}{Nothing right now. Bugger off.}
-{204}{}{The business's good, get it? Still - one player forgets to pay his cut. Name's Stryker, lays in Reno. You should remind him about which hand is holding the leash. That's the password, by the way. He'll understand. Go get me my share.}
-{205}{}{[His knuckles crack as his hands tighten into fists] I see you here, but I don't see my cut. Get your ass on your feet and go to Reno, or I'll rip your fingers out!}
+{204}{}{The business's good, get it? Still - one player forgets to pay his cut. Name's Stryker, resides in Reno. You should remind him about which hand is holding the leash. That's the password, by the way. He'll understand. Go get me my share.}
+{205}{}{[His knuckles crack as his hands tighten into fists] I see you, but I don't see my cut. Get your ass on your feet and go to Reno, or I'll rip your fingers out!}
 
 {206}{}{There's a problem. Stryker isn't forgetful, he's dead.}
 {207}{}{Here's Stryker's share.}
@@ -166,7 +166,7 @@
 {241}{}{Who, me?}
 {242}{}{Not long ago, one of Fatso Jackson's suppliers sold him bad product. A couple of our boys kicked the bucket.}
 {243}{}{This supplier must have a death wish.}
-{244}{}{[He frowns] He should pay in blood! It's not even about the boys - we'll bury them, and they'll stop stinking. It's about Reno itself. The city had... Forgotten who Big Louie is. Stryker and Thompson are off the leash, two-bit pushers are scamming Fatso... We have to send a message. You *have* to do this for *me*... And for the gang. Reno has to remember.}
+{244}{}{[He frowns] He should pay in blood! It's not even about the boys - we'll bury them, and they'll stop stinking. It's about Reno itself. The city had... Forgotten who Big Louie is. Stryker and Thompson are off the leash, two-bit pushers are scamming Fatso... We have to send a message. You do this for *me*... And for the gang. Reno has to remember.}
 {245}{}{Where do I find this supplier?}
 {246}{}{Ask Fatso. He's the one who dealt with him. All I know is he always wore some ring. Bring it to me when the job is done.}
 {247}{}{Fine, I'll talk to Fatso.}
@@ -227,7 +227,7 @@
 {293}{}{After a few years, the law broke down and Reno became a hellhole again. No more Armstrong after that.}
 
 {294}{}{You weren't always the top dog around here?}
-{295}{}{You mean a vicious killer, leading mindless thugs to prey on the weak and abandoned? No. I was educated, sophisticated. A *man*, not one of these animals. I even started my own jazz band, but the life made me choose between it and a mob gang. I'd never have survived otherwise. Anyway, now I look back on things and I see them differently. That Indian shaman - he's a wise man. He told me the truth about people. About my people. [he motions towards the floor] The ones downstairs... And the ones up here.}
+{295}{}{You mean a vicious killer, leading mindless thugs to prey on the weak and abandoned? No. I was educated, sophisticated. A *man*, not one of these animals. I even started my own jazz band, but the life made me choose between it and a mob gang. I'd never survived otherwise. Anyway, now I look back on things and I see them differently. That Indian shaman - he's a wise man. He told me the truth about people. About my people. [he motions towards the floor] The ones downstairs... And the ones up here.}
 {296}{}{Would you ever want to play jazz again?}
 {297}{}{I'd kill to have that chance again! But with my reputation...}
 {298}{}{Jazz is the only good memory I've got left.}
@@ -275,7 +275,7 @@
 {1220}{}{[Big Louie's jaw clenches. His narrowed eyes smolder with rage.] I'll only say one thing about this. You are *almost* a deadmeat, marimacho.}
 {1233}{}{I didn't find the package, but the courier is dead.}
 {1237}{}{[His eyes seem to sparkle as he opens the package] Well, well, what a big boy I am now! And there's something here for you, too! [he gives you 3000 dollars and two stimpaks] Now kick back. There's no more work right now.}
-{1244}{}{[He frowns] He should pay in blood! It's not even about the boys - we'll bury them, and they'll stop stinking. It's about Reno itself. The city had... Forgotten who Big Louie is. Stryker and Thompson are off the leash, two-bit pushers are scamming Fatso... We have to send a message. You *have* to do this for *me*... And for the gang. Reno has to remember.}
+{1244}{}{[He frowns] He should pay in blood! It's not even about the boys - we'll bury them, and they'll stop stinking. It's about Reno itself. The city had... Forgotten who Big Louie is. Stryker and Thompson are off the leash, two-bit pushers are scamming Fatso... We have to send a message. You do this for *me*... And for the gang. Reno has to remember.}
 {1249}{}{I found the supplier. I made him measure the length of his guts with his steps. Here's the ring...uh, I had to get a little creative taking it off of him.}
 {1251}{}{Good. Very good. [he gives you 3000 dollars]}
 {1253}{}{[He sighs deeply] Honestly, sister, I'm tired. I'm getting sick of all this... Oh, forget it. The season's over, nothing to do but milk the tribe and rob caravans. You can go on your way. I'm not holding you here any longer.}

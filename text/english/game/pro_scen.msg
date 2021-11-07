@@ -2853,7 +2853,7 @@
 {194701}{}{This advertising Billboard is covered with old sheets and used as the screen of the cinema.}
 {194800}{}{Ladder}
 {194801}{}{This stair is barricaded so that no one can go to the top floor. However, you have no reasons to.}
-{194900}{}{Sign of "Aromas of Marin" ranch}
+{194900}{}{Sign of "Aromas of Maureen" ranch}
 {195000}{}{Brahmin water supply}
 {195001}{}{Here must be drawn water for the brahmin in the pen.}
 {195100}{}{Fuel barrel}

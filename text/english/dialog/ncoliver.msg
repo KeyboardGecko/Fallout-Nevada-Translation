@@ -5,10 +5,10 @@
 {104}{}{Get out!}
 
 {105}{}{My... Heart... How... Painful... }
-{106}{}{Ugh... Marin... }
+{106}{}{Ugh... Maureen... }
 {107}{}{A-a-arrgh!!!}
 {108}{}{*cough*... *cough*... }
-{109}{}{A quiet and painful death caught up to the businessman near his bed.}
+{109}{}{The businessman died a quiet and painful death at his bedside.}
 
 {110}{}{Machete said you wanted to see me. I'm ready to hear you out.}
 {111}{}{I apologize for bothering you, Mr. Luciano. I'll come back when I have something that's worth your time, if you let me... }
@@ -47,12 +47,12 @@
 
 {137}{}{Who wrote this persuasive speech? I doubt it was you. Tell Wright that such fine words sound ridiculous coming out of your lips.}
 {138}{}{Well, I'll pass your rejection on to Mr. Wright.}
-{139}{}{I'll admit, you think things through better than most underlings. Perhaps that's why Wright picked you for this job, instead of a family member. After all, his sons together have less brains, than a one-headed Brahmin. Okay, you win. Tell Theodore that I'm ready to meet.}
+{139}{}{I'll admit, you think things through better than most underlings. Perhaps that's why Wright picked you for this job, instead of a family member. After all, his sons together have less brains than a one-headed Brahmin. Okay, you win. Tell Theodore that I'm ready to meet.}
 
 {140}{}{You reputation isn't worth a bucket of brahmin piss to me. Leave and tell Wright that he should send a better intermediary next time.}
 {141}{}{Because, unlike his people, I'm not being watched. Mr. Luciano, you know how dangerous it is to operate out in the open. Mr. Wright chose me for my discretion.}
-{142}{}{No. I'm not interested in negotiating with a businessman who's fallen so low that he sends some pathetic flunky instead of his own sons.}
-{143}{}{You're refusing because of me? Well, at least I tried... }
+{142}{}{No. I'm not interested in negotiating with a businessman who's fallen so low that he sends some pathetic flunky instead of his own son.}
+{143}{}{You're refusing because it's me? Well, at least I tried...}
 {144}{}{Hey, easy there! I'll have you know I've got a bright future waiting for me here in Reno.}
 {145}{}{I already told you my decision. You've done nothing to change my opinion.}
 {146}{}{With all due respect, sir, that's a mistake. Believe me, Mr. Wright's offering you an excellent deal.}
@@ -61,26 +61,26 @@
 
 #Попытка напроситься на работу
 {150}{}{Mr. Luciano, I want to work for you.}
-{151}{}{Lots of people *say* that. But when it comes to actually doing work, most of them are are about as useful as brahmin shit. And just like brahmin shit, the ones who are all talk end up in the compost heap... If you catch my drift.}
+{151}{}{Lots of people say that. But when it comes to actually doing work, most of them are are about as useful as brahmin shit. And just like brahmin shit, the ones who are all talk end up in the compost heap... If you catch my drift.}
 {152}{}{I hear you. So what about the job?}
 {153}{}{Listen, I don't accept just anybody. I need someone with impeccable credentials. The question is, do you have them?}
 {154}{}{Well, now that you and Mr. Wright are working together, I think I can work for you too, without dividing my loyalties.}
 {155}{}{I'm convinced. I'll hire you, but know this: I am not a forgiving man. And if you fail me, my people will nail your ass to the wall, even if they have to chase you into the depths of hell to do it.}
 {156}{}{Of course. No problem.}
 {157}{}{I already helped you out with Canary. Isn't that enough?}
-{158}{}{Mr. Chase told me to come speak to you about a job. I'm sure he wouldn't do that without good reason.}
+{158}{}{Mr. Chase told me to come speak to you about a job. I'm sure he wouldn't do that without a good reason.}
 {159}{}{I don't know anyone in Reno who can vouch for me.}
 {160}{}{[Raises his voice] Then FIND SOMEONE, you dolt! Get off your lazy backside and do some work. I appreciate people who earn a living by the sweat of their own labor. Now get out of my house.}
-{161}{}{[Leave.]}
+{161}{}{[Leave]}
 {162}{}{I don't need someone like you. I can't stand political whores who move from one master to another. I need LOYALTY! Not just to me, but to my ideals. Now get the hell out.}
-{163}{}{[Leave.]}
+{163}{}{[Leave]}
 {164}{}{I've got work that needs doing, but I can't stand political whores who move from one master to another. I need LOYALTY! Not just to me, but to my ideals. Remember that and get the hell out.}
 {165}{}{Not necessary. Just look at me - I've got enough experience that I don't need any recommendations.}
 {166}{}{So, my old friend Johnny Chase needs help in a very delicate matter. Find him at the El Dorado casino and help him get the job done quickly.}
 {167}{}{I'm heading for Mr. Chase now.}
 {168}{}{Alright, I'll see what I can do.}
-{169}{}{Stop. I'm not done. This is important: be polite with Chase and don't you dare lie to him. We don't tolerate political whores who flirt with anyone they meet for their meal ticket. That's all. [he makes a hand gesture for you to leave]}
-{170}{}{[Leave.]}
+{169}{}{Stop. I'm not done. This is important: be polite with Chase and don't you dare lying to him. We don't tolerate political whores who flirt with anyone they meet for their meal ticket. That's all. [He makes a gesture for you to leave]}
+{170}{}{[Leave]}
 {171}{}{I've got something to tell you about the job.}
 {172}{}{Did you complete your task?}
 {173}{}{Eh, I just wanted to clarify something... }
@@ -88,8 +88,8 @@
 {175}{}{[Leave.]}
 {176}{}{That's it, job done.}
 {177}{}{[He sighs] Perhaps it is. But I've heard that Chase happened to have an "accident". I don't believe in "accidents" and you didn't even bother to give me an explanation. Guards!}
-{178}{}{[Fight.]}
-{179}{}{[Leave quietly.]}
+{178}{}{[Fight]}
+{179}{}{[Leave quietly]}
 {180}{}{[He nods] I hope you were paid in full. I want an honest partnership.}
 {181}{}{Yes, Mr. Luciano. Pretty much.}
 {182}{}{Well, since you helped my old friend Chase, we can talk about more "serious" matters.}
@@ -115,8 +115,8 @@
 {203}{}{Uh, rob a casino? You low on money or something?}
 {204}{}{Understood. Something else?}
 {205}{}{[He frowns] I'm not a thief! I work for a living. But perhaps you're confused by my request... Well, to clear any doubts, I'll explain myself. I don't need the money itself as much as I need Bertolini to go broke. He collected this sum for a reason.}
-{206}{}{Understood. You said that this is the main goal. There are secondary objectives?}
-{207}{}{Once Bertolini loses his savings, it will still take some time for his business to unravel. When that happens all his people will boil up like ants running out of a devastated anthill. We must postpone this moment of crisis as long as possible.}
+{206}{}{Understood. You said that this is the main goal. Are there any secondary objectives?}
+{207}{}{Once Bertolini loses his savings, it will still take some time for his business to collapse. When that happens all his people will boil up like ants running out of a devastated anthill. We must postpone this moment of crisis as long as possible.}
 {208}{}{Can you advise something specific?}
 {209}{}{Talk with Machete about it. These details are beneath me.}
 {210}{}{Alright. Steal the money and sabotage a casino. Got it.}
@@ -143,18 +143,18 @@
 {229}{}{What's next?}
 {230}{}{I want you to start a war between Stryker and Thompson. Sabotage their territory so they blame each other. Machete will give you the details.}
 {231}{}{That's all?}
-{232}{}{Yes, all... You're still here?}
+{232}{}{Yes... Are you still here?}
 {233}{}{Already leaving, Mr. Luciano.}
 
 {234}{}{Good work! Also, I heard about some "commotion" at the casino. I don't know if you had anything to do with it, but I'll warn you once - be careful while you're working for me. Since you got the job done, though, I'll pay you what I'd planned to. [he gives you $1000]}
 
 #Второй квест
-{240}{}{Strangely enough, it appears that Thompson is dead, so there's no more need to complete the job.}
-{241}{}{Strangely enough, it appears that Stryker is dead, so there's no more need to complete the job.}
+{240}{}{Strangely enough, it appears that Thompson is dead, so there's no need to complete the job.}
+{241}{}{Strangely enough, it appears that Stryker is dead, so there's no need to complete the job.}
 {242}{}{Mission accomplished. Stryker and Thompson won't discover the truth any time soon.}
 {243}{}{Well, it means that your service was less significant than I expected. Therefore, you'll receive only half the pay. And don't you dare try to argue with me. Stryker and Thompson were an important force in this town. Without them, Reno will fall into chaos, and we're not prepared for that yet.}
 {244}{}{What do you mean?}
-{245}{}{[He counts your payment] Striker and Thompson were an important force in this town. Without them, Reno will fall into chaos, and we're not prepared for that yet.}
+{245}{}{[He counts your payment] Striker and Thompson were important forces in this town. Without them, Reno will fall into chaos, and we're not prepared for that yet.}
 {246}{}{What are you talking about?}
 {247}{}{Until now, my ranch has been self-sufficient. But recent years have drained our resources. We don't have a lot of money for the exchange and we're being watched. The powers that be are oppressing us from all sides. They won't allow us to develop further.}
 {248}{}{Further?}
@@ -169,7 +169,7 @@
 {262}{}{Come in, there's something we need to discuss. Technically, you got the job done - I received the goods and Bertolini's casino was left without equipment. But I was hoping that you could get this done without bloodshed. After all, these suppliers could've been useful to me in future. However, I won't reproach you for the violence since you were the man on the ground and it was your call. You could have done better, but you still earned your pay.}
 {263}{}{Good.}
 {264}{}{Come in, there's something we need to talk about: your cowardice and stupidity! You think you can come in here with your head bowed and receive charity? You show your face here after blowing such an important transaction? Your idiocy is astonishing. Just thank God that I haven't shot you already! [he is consumed by mad coughing and choking, clutching his chest, before he recovers] Fortunately for you, my people have frightened off the convoy, and they fled into the the wasteland. The goods remained with me. Out of respect for what you've done before, I'll let you go in peace. New get out!}
-{265}{}{[Leave.]}
+{265}{}{[Leave]}
 {266}{}{Perhaps someday I'll help you, if you have problems. And finally, I'd like to make you my consigliere, if you don't mind. This is a prestigious position, very respectable. I recommend that you not refuse.}
 {267}{}{Thank you, Mr. Luciano, I would be honored.}
 {268}{}{Thank you, boss, but that's too much responsibility for me. I have to turn you down.}
@@ -191,11 +191,11 @@
 {1110}{}{Machete said you wanted to see me. I'm ready to hear you out.}
 {1119}{}{You don't understand, you dolt. I just want to win.}
 {1130}{}{I assumed that you worked for *me*. How many more unpleasant surprises do you have up your sleeves? While I'm disappointed, the truth is that our relations with Wright have been tense for far too long. Tell him I'm ready to arrange a meeting... Solely because I trust you.}
-{1143}{}{You're refusing because of me? Well, at least I tried... .}
+{1143}{}{You're refusing because it's me? Well, at least I tried...}
 {1157}{}{I already helped you out with Canary. Why don't you do me a favor in return?}
 {1158}{}{Mr. Chase recommended that I speak with you about a job. I'm sure he wouldn't have done that without a reason.}
 {1160}{}{[He raises his voice] Then FIND SOMEONE, you dolt! Get off your lazy backside and do some work. I appreciate people who earn a living by the sweat of their own labor. Now get out of my house.}
-{1169}{}{Stop. I'm not finished. This is important: be polite with him and don't you dare lie to him. We don't tolerate political whores who flirt with anyone they meet for their meal ticket. That's all. [he makes a hand gesture for you to leave]}
+{1169}{}{Stop. I'm not finished. This is important: be polite with him and don't you dare lie to him. We don't tolerate political whores who flirt with anyone they meet for their meal ticket. That's all. [he makes a gesture for you to leave]}
 {1172}{}{Did you complete the job?}
 {1182}{}{Well, since you helped my old friend Chase, we can proceed to a more "serious" conversation.}
 {1195}{}{Mr. Luciano, there's an Cheyenne slave in your possession. I'd like to buy him.}

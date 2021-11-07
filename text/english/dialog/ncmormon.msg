@@ -1,9 +1,9 @@
 {100}{}{You see Patrick.}
-{101}{}{You see a young man with a cute old-style beard.}
+{101}{}{You see a young man with a cute old-fashioned beard.}
 
 #Первый разговор
 {110}{}{[The young man smiles at you, but you see sadness in his eyes] Welcome, wanderer. My name is Patrick. Can I ask you a few questions?}
-{111}{}{That depends on the question.}
+{111}{}{That depends on the questions.}
 {112}{}{Sure, I have nothing to hide.}
 {113}{}{Hell no, I ask the questions around here!}
 
@@ -12,7 +12,7 @@
 {116}{}{Well, okay. Go, ask your questions.}
 {117}{}{I don't want you asking something of me.}
 
-{118}{}{That doesn't matter. We all walk the same earth.}
+{118}{}{That doesn't matter. We all walk the same land.}
 {119}{}{Nonetheless. The decision is yours.}
 {120}{}{Fine, then.}
 
@@ -25,7 +25,7 @@
 {122}{}{Your words inspire confidence. Tell me, do you believe in God?}
 {123}{}{I only believe in smooth barrel of my gun.}
 {124}{}{Yes, I believe in Him!}
-{125}{}{No, I don't. Just don't.}
+{125}{}{No, I don't. I just don't.}
 {126}{}{Are you serious? You might as well ask if I believe in Santa.}
 {127}{}{I don't even know who that is.}
 
@@ -37,10 +37,10 @@
 {133}{}{I don't know. The question is beyond me.}
 
 {134}{}{Are you willing to sacrifice your life to save other people?}
-{135}{}{I need to know what kind of people they are first. If they're worthy and there's no other choice - then yes.}
-{136}{}{I want to devote my life to help people, willing to sacrifice myself saving them.}
-{137}{}{Most people in the world aren't worth my kind of sacrifice.}
-{138}{}{I can sacrifice my left boot. That should be difficult, but I can try.}
+{135}{}{I need to know what kind of people they are first. If they're worthy and there's no other choice, then yes.}
+{136}{}{I want to devote my life to helping people. I am willing to sacrifice myself to save them.}
+{137}{}{Most people in the world aren't worth my sacrifice.}
+{138}{}{I can sacrifice my left boot. That would be difficult, but I can try.}
 {139}{}{I don't know. I could only answer that in the moment.}
 
 {140}{}{What do you want most in this life? Wealth, glory, family... Or, maybe, to save the world?}
@@ -66,9 +66,9 @@
 
 {160}{}{[He nods approvingly] You know the price of things. You know the path you walk. But not everything in this world has a number. Be ready for a puzzle that cannot be solved.}
 {161}{}{[He nods approvingly] You've devoted your life to your fellow man. Many of them won't do you the same courtesy. Some day it might kill you... Or save you.}
-{162}{}{[He nods approvingly] You know your worth. And when the right time comes, you'll make the world earn it.}
+{162}{}{[He nods approvingly] You know what you're worth. And when the right time comes, you'll make the world earn it.}
 {163}{}{[He nods approvingly] You believe in tomorrow. And it will come, with us or without us.}
-{164}{}{[He nods approvingly] It's hard to make a choice ahead of time, isn't it? You must prefer to choose on a case-by-case basis. Many people think the world is black and white, but the truth is that there is no truth. You can't know the right answer until you've seen the question for yourself.}
+{164}{}{[He nods approvingly] It's hard to make a choice ahead of time, isn't it? You must be preferring to do it on a case-by-case basis. Many people think the world is black and white, but the truth is that there is no truth. You can't know the right answer until you've seen the question for yourself.}
 {165}{}{Sorry if that was tiresome. I just wanted to know what kind of person you are.}
 {166}{}{Ugh, that's fine.}
 
@@ -93,11 +93,11 @@
 {180}{}{Enough about you and your missionary work. Let's change the subject.}
 {181}{}{Right. But I have to go.}
 
-{182}{}{No, no, I was born after our people left the shelter. There is a vault on city's outskirts, but no one has been there in years. This jumpsuit is a... Keepsake from my grandfather. He served the vault, but when the bombs came, he refused to hide away from God's world. He said he wouldn't, or couldn't, bear the gray walls and enclosed space without a single ray of God's light. That's all I know about him - he was dead long before I was born.}
+{182}{}{No, no, I was born after our people left the shelter. There is a vault on city's outskirts, but no one has been there in years. This jumpsuit is a... Keepsake from my grandfather. He served the vault, but when the bombs came, he refused to hide away from God's world. He said he wouldn't - or couldn't - bear the gray walls and enclosed space without a single ray of God's light. That's all I know about him - he was dead long before I was born.}
 {183}{}{}
-{184}{}{This is our tradition. Every one of us must spend two years preaching the gospel of God. I could have chosen another path or denied it entirely, but I didn't. The people here need salvation as much as anyone else.}
+{184}{}{This is our tradition. Every one of us must spend two years preaching the word of God. I could have chosen another path or denied it entirely, but I didn't. The people here need salvation as much as anyone else.}
 {185}{}{Do not blame the people here. They are surviving the only way they know how. That's why I'm here - to open their eyes. You may not believe it, but some of them have converted already.}
-{186}{}{Oh, many things. Besides praying, preaching, and gathering old books, I teach children to write, lead an anonymous support group, and just help whoever I can.}
+{186}{}{Oh, many things. Besides praying, preaching and gathering old books, I teach children to write, lead an anonymous support group, and just help whoever I can.}
 
 #Пожер'вование
 {190}{}{I want to donate $100 to your cause.}
@@ -118,7 +118,7 @@
 {204}{}{Perhaps we can talk about something else?}
 {205}{}{Tell me about these group meetings. What are you trying to do?}
 {206}{}{I'm sorry, but I don't think you'd understand. Do you know what psychiatry is?}
-{207}{}{Let me guess - group psychotherapy, right? You sit around in circle and start brainwashing each other.}
+{207}{}{Let me guess - group psychotherapy, right? You sit around in circle and brainwash each other.}
 {208}{}{That's... Not far from the truth. I'm surprised! How do you... I suppose I should be happy to have a colleague in front of me. Medical knowledge is hard to find in this city. Where did you learn this?}
 {209}{}{Life experience, Patrick. Life experience.}
 {210}{}{Amazing! May God bless you. Your gift can do great things in the wasteland!}
@@ -134,7 +134,7 @@
 {218}{}{How are trying to "cure" Harding?}
 {219}{}{I'm trying to teach him to deal with his insecurities. Society won't accept him, so he must learn to accept himself.}
 {220}{}{Has Harding always been like this?}
-{221}{}{From childhood, I think. He won't talk about it, but I suspect sexual abuse by his parents. I know he's always been an outcast and found refuge in books. It hasn't been good for his social development.}
+{221}{}{Since childhood, I think. He won't talk about it, but I suspect sexual abuse by his parents. I know he's always been an outcast and found refuge in books. It hasn't been good for his social development.}
 {222}{}{How has Harding survived with this condition?}
 {223}{}{He thinks he's the lowest of society, so he takes the lowest jobs - watching brahmin, cleaning toilets, that sort of thing. Any community, even Reno, needs people to do these things.}
 
@@ -145,7 +145,7 @@
 {228}{}{What about medication?}
 {229}{}{I still thinking about it. For now, I have another question.}
 
-{230}{}{I've been thinking about that lately. He need something to calm his nerves and suppress the worries.}
+{230}{}{I've been thinking about that lately. He needs something to calm his nerves and suppress his anxiety.}
 {231}{}{Pre-war anti-smoker was used to suppress anxiety. Maybe that will help.}
 {232}{}{I still think he has to improve his social confidence.}
 
@@ -166,9 +166,9 @@
 {240}{}{What can you tell me about the situation in the city?}
 {241}{}{As we speak, the Satan lures people of this city deeper in his cobwebs of civil war.}
 {242}{}{In your opinion, why can't the people here live peacefully?}
-{243}{}{That's a good question. The most part of my home, Salt Lake City, was destroyed by the thirteen nuclear strikes, so it took a lot of time and a lot of work to rebuild. But Reno and its people retained all of the gifts of the old world.}
+{243}{}{That's a good question. The northern part of my home, Salt Lake City, has been destroyed by thirteen nuclear strikes, so it took a lot of time and effort to make it habitable. But Reno and its people retained all of the gifts of the old world.}
 {244}{}{The irony is, the devastation of Salt Lake City built strong families and communities, as people had to work together. Here, people fell victim to their own selfishness.}
-{245}{}{Everyone tried to take from each other, caring only about themselves. AS a result, you won't find bright doctors, educators, or other people here. And because of that, this society has no future. The people can only fight for what's left over from earlier years.}
+{245}{}{Everyone tried to take from each other, caring only about themselves. As a result, you won't find bright doctors, educators or other people here. And because of that, this society has no future. The people can only fight for what's left over from earlier years.}
 {246}{}{[Next]}
 
 {247}{}{If the local gangs go to war, which of them will you support?}
@@ -179,13 +179,13 @@
 {250}{}{Can I help your mission in some way?}
 {251}{}{Are you serious? It brings joy to my soul to know someone wants to help.}
 {252}{}{ Right now, I have two problems. Itchie has a serious arm injury, and I can't get my long-waited package from home.}
-{253}{}{ Right now, the biggest problem is Itchie's bullet wound. I can't do anything for him.}
+{253}{}{ Right now, the biggest problem is Itchie's wound. I can't do anything for him.}
 {254}{}{ Right now my main concern is that I can't get my long-waited package from home.}
 {255}{}{I will take care of him.}
 {256}{}{I will look into your package.}
 {257}{}{ But no, that's alright. I don't need anything right now.}
 
-{258}{}{He was rummaging through some trash bin when a firefight broke out around him. He was shot in the arm and it's become infected. All I could do is give him all painkillers I had. If you are a doctor, can you help?}
+{258}{}{He was rummaging through some trash bin when a firefight broke out around him. He was shot in the arm, and it became infected. All I could do was give him all the painkillers I had. If you are a doctor, can you help?}
 {259}{}{I'll help.}
 {260}{}{I can help, but medication costs money.}
 {261}{}{Ah, I'm sorry. I thought you were offering charity, not paid services. Let's see... I only have 100 dollars. Will that be enough?}
@@ -236,7 +236,7 @@
 {304}{}{What's so important about it?}
 {305}{}{Why are you so concerned about Wright's opinion?}
 {306}{}{That's all.}
-{307}{}{It's a pre-war movie about the greed and vice of humanity. The mail idea is that the sins of the world brought about its destruction... I know it won't mean anything for a lot of people, but if it will allow me to save one soul, it will have been worth it. Mormons have been using it for this purpose since before the war, and missionaries like myself always show it at the end of their mission. No one in Reno has seen it yet, or so I assume.}
+{307}{}{It's a pre-war movie about the greed and vices of humanity. The mail idea is that the sins of the world brought about its destruction... I know it won't mean anything for a lot of people, but if it will allow me to save one soul, it will have been worth it. Mormons have been using it for this purpose since before the war, and missionaries like myself always show it at the end of their mission. No one in Reno has seen it yet, or so I assume.}
 {308}{}{The people in Reno have no awareness of their past and no hope for their future. This movie could give that to them. Besides, most locals have never seen any sort of movie at all before. This may help them understand our faith more and drive them to the path of God.}
 {309}{}{He owns the slums, and in essence, the people within them. If Wright doesn't approve of the movie, he may shut it down or take even more drastic action. It simply can't happen without his permission.}
 {310}{}{Wright gave you permission to show the movie, but he said he won't be responsible for your security.}
@@ -270,7 +270,7 @@
 {1110}{}{[The young man smiles at you, but you see sadness in his eyes] Welcome, wanderer. My name is Patrick. Can I ask you a few questions?}
 {1115}{}{I'm not from around here. I might not know how to answer your questions.}
 {1134}{}{Are you willing to sacrifice your life to save other people?}
-{1136}{}{Yes. If I can't help others, what's the point of living at all?}
+{1136}{}{I want to devote my life to helping people. I am willing to sacrifice myself to save them.}
 {1158}{}{Good. Let's get started.}
 {1159}{}{I've changed my mind.}
 {1160}{}{[He nods approvingly] You know the price of things. You know your path. But not everything in this world has a number. Be ready for a puzzle that cannot be solved.}
