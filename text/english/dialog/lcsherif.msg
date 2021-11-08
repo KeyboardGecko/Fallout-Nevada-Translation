@@ -135,7 +135,7 @@
 {235}{}{You doubt my abilities? Then I don't need your stinking job.}
 {236}{}{Sheriff, I have seen a lot during my wanderings and got myself out of a lot of sticky situations. I would really like to help you.}
 {237}{}{Hmm. You do look pretty sharp, I don't know about the rest. Well, it's your decision. If you die, don't come screaming at me.}
-{238}{}{Hmm, if you really are an excellent shooter, you might be able to stand up for yourself....}
+{238}{}{Hmm, if you really are an excellent shooter, you might be able to stand up for yourself...}
 {239}{}{That's great. What is that problem that needs to be solved?}
 {240}{}{Sheriff, I do not advise to reject my proposal, if you need "wet work" done. I have }
 {241}{}{ dead aliens from Area 51 on my tab, for example.}

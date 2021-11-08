@@ -409,7 +409,7 @@
 {1546}{}{Suddenly, I feel warm and sleepy.} 
 {1547}{}{Errrggggg!}
 {1548}{}{Gack! cough, cough.}
-{1549}{}{Must continue, must slay enemy....} 
+{1549}{}{Must continue, must slay enemy...} 
 {1550}{}{The darkness beckons to me.} 
 {1551}{}{The hour of my death approaches.} 
 {1552}{}{The Shaman was right, I do not return.} 
@@ -424,11 +424,11 @@
 # target hit in right leg
 #
 {1560}{}{I will crawl to kill you.}
-{1561}{}{Must keep standing, must....} 
+{1561}{}{Must keep standing, must...} 
 {1562}{}{Do not make me run to catch you!}
 {1563}{}{You would cripple me, Coward!} 
 {1564}{}{Awwwwgg!}
-{1565}{}{Bone? So white....}
+{1565}{}{Bone? So white...}
 {1566}{}{Why can't I walk?}
 {1567}{}{Arrrrrrgh.}
 {1568}{}{Unnhhh.}
@@ -437,12 +437,12 @@
 # target hit in left leg
 #
 {1570}{}{I will crawl to kill you.}
-{1571}{}{Must keep standing, must....} 
+{1571}{}{Must keep standing, must...} 
 {1572}{}{Do not make me run to catch you!} 
 {1573}{}{You would cripple me, Coward!} 
 {1574}{}{Awwwwgg!}
-{1575}{}{Bone? So white....}
-{1576}{}{Can't walk. Oh the pain....} 
+{1575}{}{Bone? So white...}
+{1576}{}{Can't walk. Oh the pain...} 
 {1577}{}{I will burn off your foot for that.} 
 {1578}{}{Ooooo-ouuuuch!}
 {1579}{}{Leg burns like fire.}
@@ -466,7 +466,7 @@
 {1591}{}{You fight without honor.}
 {1592}{}{I'm married, didn't use it anyway.} 
 {1593}{}{Holy spirits, the world just exploded.} 
-{1594}{}{Gasp...can't breath....}
+{1594}{}{Gasp...can't breath...}
 {1595}{}{In high, squeaky, voice--Ouch!} 
 {1596}{}{Unnhhh. I need to sit down for a bit.} 
 {1597}{}{You bastard--I kill you slow for that.} 
@@ -579,10 +579,16 @@
 {1690}{}{Aren't you chivalrous.}
 {1691}{}{Yooooouuuuch!} 
 {1692}{}{Unnhhhhh!}
+<<<<<<< Updated upstream
 # [disabled because of duplicates]
 #{1693}{}{Maybe if I just don't move for a while....} 
 #{1694}{}{That's my beef bologna!}
 #{1695}{}{There goes my social life.} 
+=======
+{1693}{}{Maybe if I just don't move for a while...} 
+{1694}{}{That's my beef bologna!}
+{1695}{}{There goes my social life.} 
+>>>>>>> Stashed changes
 {1693}{}{I think I need to sit down for a bit.}
 {1694}{}{Gee, if there were any female ghouls I'd be angry with you.} 
 {1695}{}{Oohh, that hurt.}
@@ -1278,7 +1284,7 @@
 {3114}{}{I've gotta go reattach some parts.} 
 {3115}{}{These old bones can't take this anymore.} 
 {3116}{}{It's not the years, it's the mileage.} 
-{3117}{}{What a world, what a world....}
+{3117}{}{What a world, what a world...}
 {3118}{}{I guess, you've learned your lesson, I'm outa here!} 
 {3119}{}{Hey, stop backing away from me.}
 #
@@ -1290,7 +1296,7 @@
 {3123}{}{Brains...}
 {3124}{}{I'm gonna dig your grave...} 
 {3125}{}{Hope I can keep your head intact...} 
-{3126}{}{More Brains....}
+{3126}{}{More Brains...}
 {3127}{}{Send more cops!}
 {3128}{}{Send more paramedics!}
 {3129}{}{I could use some fresh parts.} 
@@ -2077,7 +2083,7 @@
 {32640}{}{Something for you...}
 {32641}{}{... something for your mother...}
 {32642}{}{...something for your father...}
-{32643}{}{...something for  your sister....}
+{32643}{}{...something for  your sister...}
 {32644}{}{... and something for your ancestors!}
 {32645}{}{Get out!}
 {32646}{}{Die!}
