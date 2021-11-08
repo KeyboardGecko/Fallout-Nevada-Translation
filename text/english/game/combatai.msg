@@ -166,9 +166,10 @@
 {1090}{}{Ooooooooo, my groin! Ooooooo...}
 {1091}{}{Oww...It burns!}
 {1092}{}{Urp!}
-{1093}{}{Ooorp! aoooww...}
-{1094}{}{I...can't...breathe...}
-{1095}{}{The pain, the pain...}
+# [disabled because of duplicates]
+#{1093}{}{Ooorp! aoooww...}
+#{1094}{}{I...can't...breathe...}
+#{1095}{}{The pain, the pain...}
 {1093}{}{And I wanted a family too.}
 {1094}{}{Now I'll never have more kids.}
 {1095}{}{Why there? Why?}
@@ -795,10 +796,11 @@
 {1630}{}{That's *my* liver, give it back!}
 {1631}{}{Just a little more to the right, ahhh, that's better.}
 {1632}{}{Gerrk!}
-{1633}{}{What's that musty smell? Oh, it's my innards.}
-{1634}{}{Now that you've eviscerated me, I'm sooo svelte! Thanks!}
-{1635}{}{./~ I left my heart.../~}
-{1636}{}{That tickled my ribs.}
+# [disabled because of duplicates]
+#{1633}{}{What's that musty smell? Oh, it's my innards.}
+#{1634}{}{Now that you've eviscerated me, I'm sooo svelte! Thanks!}
+#{1635}{}{./~ I left my heart.../~}
+#{1636}{}{That tickled my ribs.}
 {1633}{}{Who needs an appendix anyway.}
 {1634}{}{Just a little off the edges there, doc.}
 {1635}{}{Arrggghh, my spine!}
@@ -851,9 +853,10 @@
 {1690}{}{Aren't you chivalrous.}
 {1691}{}{Yooooouuuuch!}
 {1692}{}{Unnhhhhh!}
-{1693}{}{Maybe if I just don't move for a while...}
-{1694}{}{That's my beef bologna!}
-{1695}{}{There goes my social life.}
+# [disabled because of duplicates]
+#{1693}{}{Maybe if I just don't move for a while...}
+#{1694}{}{That's my beef bologna!}
+#{1695}{}{There goes my social life.}
 {1693}{}{I think I need to sit down for a bit.}
 {1694}{}{Gee, if there were any female ghouls I'd be angry with you.}
 {1695}{}{Oohh, that hurt.}

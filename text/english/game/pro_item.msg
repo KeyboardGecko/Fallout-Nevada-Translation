@@ -5,55 +5,55 @@
 {300}{}{Power Armor}
 {301}{}{A self-contained suit of advanced technology armor. Powered by a microfusion reactor, with enough fuel to last a hundred years.}
 {400}{}{Knife}
-{401}{}{A sharp-bladed cutting and stabbing weapon. Min. ST: 2.}
+{401}{}{A sharp-bladed cutting and stabbing weapon.\nMin. ST: 2.}
 {500}{}{Club}
-{501}{}{Non-lethal melee weapon made out of steel and rubber, was commonly used by law enforcement units. Min. ST: 3.}
+{501}{}{Non-lethal melee weapon made out of steel and rubber, was commonly used by law enforcement units.\nMin. ST: 3.}
 {600}{}{Sledgehammer}
-{601}{}{A large hammer with big handle. Very popular with the muscular crowd. Min. ST: 6.}
+{601}{}{A large hammer with big handle. Very popular with the muscular crowd.\nMin. ST: 6.}
 {700}{}{Spear}
-{701}{}{A hand-made razor-tipped polearm. The shaft is wooden, and the tip is worked steel. Min. ST: 4.}
+{701}{}{A hand-made razor-tipped polearm. The shaft is wooden, and the tip is worked steel.\nMin. ST: 4.}
 {800}{}{10mm Pistol}
-{801}{}{A Colt 6520 10mm automatic pistol. Each pull of the trigger will automatically reload the firearm until the magazine is empty. Single shot only, using the powerful 10mm round. Min. ST: 3.}
+{801}{}{A Colt 6520 10mm automatic pistol. Each pull of the trigger will automatically reload the firearm until the magazine is empty. Single shot only, using the powerful 10mm round.\nMin. ST: 3.}
 {900}{}{10mm SMG}
-{901}{}{H&K MP9 Submachine gun (10mm caliber). A medium-sized SMG, capable of single shot and burst mode. Min. ST: 4.}
+{901}{}{H&K MP9 Submachine gun (10mm caliber). A medium-sized SMG, capable of single shot and burst mode.\nMin. ST: 4.}
 {1000}{}{Hunting Rifle}
-{1001}{}{A Colt Rangemaster semi-automatic rifle, in .223 caliber. Single-shot only. Min. ST: 5.}
+{1001}{}{A Colt Rangemaster semi-automatic rifle, in .223 caliber. Single-shot only.\nMin. ST: 5.}
 {1100}{}{Flamer}
-{1101}{}{A Flambe-450 model flamethrower, varminter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. Min. ST: 6.}
+{1101}{}{A Flambe-450 model flamethrower, varminter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly.\nMin. ST: 6.}
 {1200}{}{Minigun}
-{1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barrelled chaingun firing 5mm ammunition at over 60,000 RPM. Min. ST: 7.}
+{1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barrelled chaingun firing 5mm ammunition at over 60,000 RPM.\nMin. ST: 7.}
 {1300}{}{Rocket Launcher}
-{1301}{}{A Rockwell BigBazooka rocket launcher. With the deluxe 3 lb. trigger. Fires AP or Explosive Rockets. Min. ST: 6.}
+{1301}{}{A Rockwell BigBazooka rocket launcher. With the deluxe 3 lb. trigger. Fires AP or Explosive Rockets.\nMin. ST: 6.}
 {1400}{}{Explosive Rocket}
 {1401}{}{A rocket with a large explosive warhead.}
 {1500}{}{Plasma Rifle}
-{1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells. Min. ST: 6.}
+{1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells.\nMin. ST: 6.}
 {1600}{}{Laser Pistol}
-{1601}{}{A Wattz 1000 Laser Pistol. Civilian model, so the wattage is lower than military or police versions. Uses small energy cells. Min. ST: 3.}
+{1601}{}{A Wattz 1000 Laser Pistol. Civilian model, so the wattage is lower than military or police versions. Uses small energy cells.\nMin. ST: 3.}
 {1700}{}{Combat Armor}
 {1701}{}{High tech armor, made out of advanced defensive polymers.}
 {1800}{}{Desert Eagle .44}
-{1801}{}{An ancient Desert Eagle pistol, in .44 Magnum. Interest in late 20th century films made this one of the most popular handguns of all times. Min. ST: 5.}
+{1801}{}{An ancient Desert Eagle pistol, in .44 Magnum. Interest in late 20th century films made this one of the most popular handguns of all times.\nMin. ST: 5.}
 {1900}{}{Rock}
-{1901}{}{It's a rock. Looks like Granite. Min. ST: 1.}
+{1901}{}{It's a rock. Looks like Granite.\nMin. ST: 1.}
 {2000}{}{Crowbar}
-{2001}{}{A very solid and heavy piece of metal, specifically designed to exert leverage. Or pound heads. Min. ST: 5.}
+{2001}{}{A very solid and heavy piece of metal, specifically designed to exert leverage. Or pound heads.\nMin. ST: 5.}
 {2100}{}{Brass Knuckles}
-{2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat. Min. ST: 1.}
+{2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat.\nMin. ST: 1.}
 {2200}{}{Caravan Carbine}
-{2201}{}{An old varmint rifle. The barrel is shortened, and the butt is made as lightweight as possible, which makes the weapon more light and comfortable at the expense of accuracy. Min. ST: 4.}
+{2201}{}{An old varmint rifle. The barrel is shortened, and the butt is made as lightweight as possible, which makes the weapon more light and comfortable at the expense of accuracy.\nMin. ST: 4.}
 {2300}{}{Assault Rifle}
-{2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high velocity 5mm rounds. Min. ST: 5.}
+{2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high velocity 5mm rounds.\nMin. ST: 5.}
 {2400}{}{Plasma Pistol}
-{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by a small energy cell. Min. ST: 4.}
+{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by a small energy cell.\nMin. ST: 4.}
 {2500}{}{Grenade (Frag)}
-{2501}{}{A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Explodes on contact. Min. ST: 3.}
+{2501}{}{A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Explodes on contact.\nMin. ST: 3.}
 {2600}{}{Grenade (Plasma)}
-{2601}{}{A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact. Min. ST: 4.}
+{2601}{}{A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact.\nMin. ST: 4.}
 {2700}{}{Grenade (Pulse)}
-{2701}{}{An electromagnetic pulse grenade, generating an intense magnetic field on detonation. Doesn't affect biological creatures. Contact fuze. Min. ST: 4.}
+{2701}{}{An electromagnetic pulse grenade, generating an intense magnetic field on detonation. Doesn't affect biological creatures. Contact fuze.\nMin. ST: 4.}
 {2800}{}{Striker}
-{2801}{}{A Shotgun-Pistol hybrid, developed by an African engineer. Uses cartridges of 12 caliber, put into a special cylinder. Can be perfectly handled with one hand. Min. ST: 6.}
+{2801}{}{A Shotgun-Pistol hybrid, developed by an African engineer. Uses cartridges of 12 caliber, put into a special cylinder. Can be perfectly handled with one hand.\nMin. ST: 6.}
 {2900}{}{10mm JHP}
 {2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-points}
 {3000}{}{10mm AP}
@@ -87,7 +87,7 @@
 {4400}{}{Ice Chest}
 {4401}{}{On old-style ice chest. The hinges are in good working condition.}
 {4500}{}{Throwing Knife}
-{4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened. Min. ST: 3.}
+{4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened.\nMin. ST: 3.}
 {4600}{}{Cheater's Radio}
 {4601}{}{This is the radio of Mr. Cheater.}
 {4700}{}{First Aid Kit}
@@ -185,7 +185,7 @@
 {9300}{}{Bug}
 {9301}{}{Ancient device for secret wiretapping.}
 {9400}{}{Shotgun}
-{9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip. Min ST: 5.}
+{9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip. \nMin. ST: 5.}
 {9500}{}{12 ga. Shotgun Shells}
 {9501}{}{Shotgun ammunition. This particular ammo is marked: "12-gauge shells, not for use by children under the age of 3."}
 {9600}{}{Access card}
@@ -221,27 +221,27 @@
 {11100}{}{.44 magnum FMJ}
 {11101}{}{A brick of ammunition, .44 magnum caliber, full metal jacket.}
 {11200}{}{Dart}
-{11201}{}{Homemade dart that is used to play darts game. Min ST: 1.}
+{11201}{}{Homemade dart that is used to play darts game.\nMin. ST: 1.}
 {11300}{}{---}
 {11301}{}{---}
 {11400}{}{Pendant}
 {11401}{}{Personal named pendant with photo inside.}
 {11500}{}{Super Sledge}
-{11501}{}{A Super Sledgehammer, manufactured using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback. Min. ST: 5.}
+{11501}{}{A Super Sledgehammer, manufactured using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback.\nMin. ST: 5.}
 {11600}{}{Ripper}
-{11601}{}{A Ripper(tm) vibroblade. Powered by a small energy cell, the chainblade rips and tears into it's target. Min. ST: 4.}
+{11601}{}{A Ripper(tm) vibroblade. Powered by a small energy cell, the chainblade rips and tears into it's target.\nMin. ST: 4.}
 {11700}{}{Pistol 9mm}
-{11701}{}{The pistol is for a 9mm cartridge. In great condition. Ideal accuracy. Min. ST: 2.}
+{11701}{}{The pistol is for a 9mm cartridge. In great condition. Ideal accuracy.\nMin. ST: 2.}
 {11800}{}{Laser Rifle}
-{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range. Min. ST: 6.}
+{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range.\nMin. ST: 6.}
 {11900}{}{Bunker key}
 {11901}{}{The key from the gate, leading to the Reno bunker.}
 {12000}{}{Pump Shotgun}
-{12001}{}{Once a very popular sporting weapon of 12 ga. caliber. Min. ST: 6.}
+{12001}{}{Once a very popular sporting weapon of 12 ga. caliber.\nMin. ST: 6.}
 {12100}{}{9mm ball}
 {12101}{}{A collection of ancient 9x19mm rounds. Heavy grease to preserve them from the environment. Standard bullets.}
 {12200}{}{9mm pistol}
-{12201}{}{A 9mm caliber ammo pistol. Still in working condition, but it could use some minor repairs and cleaning of the mechanisms. Min. ST: 2.}
+{12201}{}{A 9mm caliber ammo pistol. Still in working condition, but it could use some minor repairs and cleaning of the mechanisms.\nMin. ST: 2.}
 {12300}{}{Box}
 {12301}{}{This box was dug from the ground.}
 {12400}{}{Beer}
@@ -283,7 +283,7 @@
 {14200}{}{Dynamite stick}
 {14201}{}{Small but powerful charge of dynamite with incendiary wick. Have a blast, baby!}
 {14300}{}{Sniper Rifle}
-{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber. Min. ST: 5.}
+{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber.\nMin. ST: 5.}
 {14400}{}{Super Stimpak}
 {14401}{}{An advanced healing chem. Very powerful. Superstims will cause a small amount of damage after a period of time due to powerful nature of the chemicals used.}
 {14500}{}{Bookshelf}
@@ -315,13 +315,13 @@
 {15800}{}{Tool Board}
 {15801}{}{This board holds a variety of tools above the popular workbench.}
 {15900}{}{Molotov Cocktail}
-{15901}{}{A homemade flammable grenade. Min. ST: 3.}
+{15901}{}{A homemade flammable grenade.\nMin. ST: 3.}
 {16000}{}{Cattle Prod}
-{16001}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. Uses small energy cells for power. Min. ST: 4.}
+{16001}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. Uses small energy cells for power.\nMin. ST: 4.}
 {16100}{}{UD M42}
-{16101}{}{The submachine gun, similar in construction to the Thompson's. Equipped with two rounds simultaneously, linked in a "jack" scheme for quick reload. Has not gained popularity, but for some time was actively used by the Office of Strategic Services. Min. ST: 6.}
+{16101}{}{The submachine gun, similar in construction to the Thompson's. Equipped with two rounds simultaneously, linked in a "jack" scheme for quick reload. Has not gained popularity, but for some time was actively used by the Office of Strategic Services.\nMin. ST: 6.}
 {16200}{}{Submachine gun 9mm}
-{16201}{}{A simple and very reliable police weapon, used in Nevada and California. It has a fairly spacious magazine that is inserted into the handle. Min. ST: 4.}
+{16201}{}{A simple and very reliable police weapon, used in Nevada and California. It has a fairly spacious magazine that is inserted into the handle.\nMin. ST: 4.}
 {16300}{}{12 ga. caliber bullets}
 {16301}{}{Ammunition pack for a shotgun. Cartridges are equipped with bullets.}
 {16400}{}{Fighting stimulant}
@@ -447,7 +447,7 @@
 {22800}{}{Molasses}
 {22801}{}{The brown mass is of rather doubtful origin. Has an unpleasant smell and some incomprehensible impurities.}
 {22900}{}{Photon Gun}
-{22901}{}{This unusual weapon works on the basis of a quantum generator. Min. ST: 3.}
+{22901}{}{This unusual weapon works on the basis of a quantum generator.\nMin. ST: 3.}
 {23000}{}{Coordinates of a tire dump}
 {23001}{}{This holotape contains the coordinates of the tire dump, located near Vegas.}
 {23100}{}{Coordinates of a tire dump}
@@ -455,13 +455,13 @@
 {23200}{}{Medical pajamas}
 {23201}{}{Pajamas made from a special synthetic fiber, which stabilizes the thermal and air regime of the body. Before the war, it was given to patients after chemotherapy.}
 {23300}{}{Turbo-plasma Rifle}
-{23301}{}{Advanced plasma gun Winchester P94. The plasma chamber is equipped with a thermal winding to accelerate the formation of plasma charge. Min. ST: 6.}
+{23301}{}{Advanced plasma gun Winchester P94. The plasma chamber is equipped with a thermal winding to accelerate the formation of plasma charge.\nMin. ST: 6.}
 {23400}{}{Spiked Knuckles}
-{23401}{}{An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat. Min. ST: 1.}
+{23401}{}{An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat.\nMin. ST: 1.}
 {23500}{}{Power Fist}
-{23501}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. Others are just scared. Powered by small energy cells. Min. ST: 1.}
+{23501}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. Others are just scared. Powered by small energy cells.\nMin. ST: 1.}
 {23600}{}{Combat Knife}
-{23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use! Min. ST: 2.}
+{23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use!\nMin. ST: 2.}
 {23700}{}{Newspapers}
 {23701}{}{Several issues of the newspaper "Denver Post". Among the materials - the review of nuclear tests in Nevada, the next evidence of observations of UFOs in 100 km from Las Vegas and the advertising of new products from "Pretty & Glamour".}
 {23800}{}{Passwords}
@@ -471,9 +471,9 @@
 {24000}{}{Tesla Armor}
 {24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy attacks.}
 {24100}{}{Civilian Rifle}
-{24101}{}{This rifle was widely used in various military conflicts long before the Great War. After the renovation of the US Army, surpluses poured into the civilian market, where they quickly became established as an affordable and reliable weapon. Min. ST: 5.}
+{24101}{}{This rifle was widely used in various military conflicts long before the Great War. After the renovation of the US Army, surpluses poured into the civilian market, where they quickly became established as an affordable and reliable weapon.\nMin. ST: 5.}
 {24200}{}{Combat Shotgun}
-{24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional DesertWarfare environmental sealant modification for extra reliability. Min. ST: 6.}
+{24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional DesertWarfare environmental sealant modification for extra reliability.\nMin. ST: 6.}
 {24300}{}{Pot}
 {24301}{}{A finely crafted clay pot.}
 {24400}{}{Pot}
@@ -511,7 +511,7 @@
 {26000}{}{Don't use}
 {26001}{}{Don't use!}
 {26100}{}{"Mickey's revenge"}
-{26101}{}{Your personal homemade melee weapon. In some ways it could even compete with factory-made shockers. Min. ST: 3.}
+{26101}{}{Your personal homemade melee weapon. In some ways it could even compete with factory-made shockers.\nMin. ST: 3.}
 {26200}{}{Rubber Boots}
 {26201}{}{An old pair of sturdy rubber work boots. They look durable enough to keep out sludge, at least for a while.}
 {26300}{}{Chest}
@@ -524,7 +524,7 @@
 {26700}{}{Pass}
 {26701}{}{Ordinary pass with magnetic stripe.}
 {26800}{}{H&K CAWS}
-{26801}{}{The CAWS, short for Close Assault Weapons System, shotgun is a useful tool for close-range combat. The bullpup layout makes the weapon compact enough to be easy to handle, while still retaining enough barrel length for its high velocity shells. Min ST: 6.}
+{26801}{}{The CAWS, short for Close Assault Weapons System, shotgun is a useful tool for close-range combat. The bullpup layout makes the weapon compact enough to be easy to handle, while still retaining enough barrel length for its high velocity shells.\nMin. ST: 6.}
 {26900}{}{Heavy bullets}
 {26901}{}{A handful of "successfully" shot bullets from 12-caliber cartridges. Specifically this collection can still be used to manufacture new cartridges.}
 {27000}{}{Robo Rocket Launcher}
@@ -548,13 +548,13 @@
 {27900}{}{Gilmore's head}
 {27901}{}{A severed head in a sack that once belonged to Gary Gilmore. This is a direct proof of his death.}
 {28000}{}{Sharpened Spear}
-{28001}{}{A razor tipped polearm. The shaft is wooden, and the tip is sharpened steel. Min. ST: 4.}
+{28001}{}{A razor tipped polearm. The shaft is wooden, and the tip is sharpened steel.\nMin. ST: 4.}
 {28100}{}{Hairpin}
 {28101}{}{Easily bends in any shape or form.}
 {28200}{}{Welding machine}
-{28201}{}{Welding machine with electromagnetic principle of operation. Precautions: Keep away from children and electronic devices. Min. ST: 6.}
+{28201}{}{Welding machine with electromagnetic principle of operation. Precautions: Keep away from children and electronic devices.\nMin. ST: 6.}
 {28300}{}{Tommy Gun}
-{28301}{}{This Thompson M1928 submachine gun is a sinister looking weapon; every time you hold it, you have an urge to put on a fedora hat and crack your knuckles. The Thompson is well-fed by a large 50 round drum magazine. Min ST: 5.}
+{28301}{}{This Thompson M1928 submachine gun is a sinister looking weapon; every time you hold it, you have an urge to put on a fedora hat and crack your knuckles. The Thompson is well-fed by a large 50 round drum magazine.\nMin. ST: 5.}
 {28400}{}{Meat Jerky}
 {28401}{}{These smoked and dried chunks of beast-flesh remain chewy-licious and even somewhat nutritious for years, and years, and years...}
 {28500}{}{Stash}
@@ -562,7 +562,7 @@
 {28600}{}{"White walls"}
 {28601}{}{A set for painting car tires. Fashion on white wheels was very common in the US during the Great Depression. Since then, this paint has slowly dried up and eventually turned into a useless stone.}
 {28700}{}{Scoped Hunting Rifle}
-{28701}{}{Nothing's better than seeing that surprised look on your target's face. The Loophole x20 Scope on this hunting rifle makes it easier than ever before. Accurate from first shot to last, no matter what kind of game you're gunning for. Min ST: 5.}
+{28701}{}{Nothing's better than seeing that surprised look on your target's face. The Loophole x20 Scope on this hunting rifle makes it easier than ever before. Accurate from first shot to last, no matter what kind of game you're gunning for.\nMin. ST: 5.}
 {28800}{}{Generator fuel}
 {28801}{}{Powerful source of energy used in electrical generators Wattz Electronics. If you find an exhausted generator, then this thing will be irreplaceable.}
 {28900}{}{Shovel}
@@ -580,15 +580,15 @@
 {29500}{}{Harrelson's attacks}
 {29501}{}{Used by sadists and monsters.}
 {29600}{}{HK P90c}
-{29601}{}{The Heckler & Koch P90c was just coming into use at the time of the war. The weapon's bullpup layout and compact design make it easy to control. The durable P90c is prized for its reliability, and high firepower in a ruggedly-compact package. Min ST: 4.}
+{29601}{}{The Heckler & Koch P90c was just coming into use at the time of the war. The weapon's bullpup layout and compact design make it easy to control. The durable P90c is prized for its reliability, and high firepower in a ruggedly-compact package.\nMin. ST: 4.}
 {29700}{}{Advanced Grenade Launcher}
-{29701}{}{Rockwell Grenade Launcher "Super-bazooka", equipped with a perfect recoil compensator. Min. ST: 5.}
+{29701}{}{Rockwell Grenade Launcher "Super-bazooka", equipped with a perfect recoil compensator.\nMin. ST: 5.}
 {29800}{}{Communication key}
 {29801}{}{The unusual shape of the key-turntables, which must be opened after placement inside the keyhole.}
 {29900}{}{Pipe Rifle}
-{29901}{}{This is a hand-made single shot rifle. Min ST: 5.}
+{29901}{}{This is a hand-made single shot rifle.\nMin. ST: 5.}
 {30000}{}{"Savage"}
-{30001}{}{Single-shot shotgun with a shortened barrel. Although this weapon is already very worn and outdated, it has an indisputable advantage - fast recharge. Min. ST: 4.}
+{30001}{}{Single-shot shotgun with a shortened barrel. Although this weapon is already very worn and outdated, it has an indisputable advantage - fast recharge.\nMin. ST: 4.}
 {30100}{}{Towel}
 {30101}{}{Designed in the laboratory "Pretty & Glamour" towel with a built-in chip that determines the dryness of the skin. Information on the tag prohibits smoking near the towel.}
 {30200}{}{Death note}
@@ -614,7 +614,7 @@
 {31200}{}{Tow rope}
 {31201}{}{Durable automotive tow rope about 18 feet in length. Hooks are tied at both ends.}
 {31300}{}{.44 Magnum Revolver}
-{31301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. "Do I feel lucky?" Well, do ya, punk? Min. ST: 5.}
+{31301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. "Do I feel lucky?" Well, do ya, punk?\nMin. ST: 5.}
 {31400}{}{Condom (Blue Package)}
 {31401}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one is ribbed for her pleasure.}
 {31500}{}{Condom (Green package)}
@@ -626,9 +626,9 @@
 {31800}{}{Empty syringe}
 {31801}{}{This is an empty syringe for hypodermic injections.}
 {31900}{}{Switchblade}
-{31901}{}{The blade of this small knife is held by a spring. When a button on the handle is pressed, the blades shoots out with a satisfying "Sssssshk" sound. Min. ST: 1.}
+{31901}{}{The blade of this small knife is held by a spring. When a button on the handle is pressed, the blades shoots out with a satisfying "Sssssshk" sound.\nMin. ST: 1.}
 {32000}{}{Sharpened Pole}
-{32001}{}{A wood pole sharpened at one end. Min ST: 4.}
+{32001}{}{A wood pole sharpened at one end.\nMin. ST: 4.}
 {32100}{}{Torn head}
 {32101}{}{The human head in a sack. Previously belonged to a resident of Provo, now it is yours by right.}
 {32200}{}{Mysterious device}
@@ -652,7 +652,7 @@
 {33100}{}{"Super-science"}
 {33101}{}{Perhaps the only pre-war magazine, entirely dedicated to the topic of energy weapons. Readers snapped it up like hotcakes, so to find one is a great luck!}
 {33200}{}{M3A1 "Grease Gun" SMG}
-{33201}{}{This submachine gun filled National Guard arsenals after the Army replaced it with newer weapons. However, the "Grease Gun" was simple and cheap to manufacture so there are still quite a few still in use. Min. ST: 4.}
+{33201}{}{This submachine gun filled National Guard arsenals after the Army replaced it with newer weapons. However, the "Grease Gun" was simple and cheap to manufacture so there are still quite a few still in use.\nMin. ST: 4.}
 {33300}{}{Heart Pills}
 {33301}{}{These pills are used by people with heart problems.}
 {33400}{}{"Horsekiller"}
@@ -684,17 +684,17 @@
 {34900}{}{Police armor}
 {34901}{}{Simplified version of combat armor for the police.}
 {35000}{}{Machine gun M2041}
-{35001}{}{A manual machine gun with air cooling of the quick-change barrel, it's the reincarnation of the old commercial development under modern requirements. Part of the machine guns left after the release went "under", for sale and trade to the countries of the "third world". Min. ST: 6.}
+{35001}{}{A manual machine gun with air cooling of the quick-change barrel, it's the reincarnation of the old commercial development under modern requirements. Part of the machine guns left after the release went "under", for sale and trade to the countries of the "third world".\nMin. ST: 6.}
 {35100}{}{Cue}
 {35101}{}{Ordinary billiard cue. Nothing special.}
 {35200}{}{H&K G11}
-{35201}{}{This gun revolutionized assault weapon design. The weapon fires a caseless cartridge consisting of a block of propellant with a bullet buried inside. The resultant weight and space savings allow this weapon to have a very high magazine capacity. Min ST: 5.}
+{35201}{}{This gun revolutionized assault weapon design. The weapon fires a caseless cartridge consisting of a block of propellant with a bullet buried inside. The resultant weight and space savings allow this weapon to have a very high magazine capacity.\nMin. ST: 5.}
 {35300}{}{Invitation ticket}
 {35301}{}{This ticket gives the holder a one-time free pass to the night club of New Reno.}
 {35400}{}{Pancor Jackhammer}
-{35401}{}{The Jackhammer, despite its name, is an easy to control shotgun, even when fired on full automatic. The popular bullpup design, which places the magazine behind the trigger, makes the weapon well balanced & easy to control. Min ST: 6.}
+{35401}{}{The Jackhammer, despite its name, is an easy to control shotgun, even when fired on full automatic. The popular bullpup design, which places the magazine behind the trigger, makes the weapon well balanced & easy to control.\nMin. ST: 6.}
 {35500}{}{Helical pistol machine gun}
-{35501}{}{This unusual weapon is equipped with a screw magazine, which can store a large number of cartridges. Min. ST: 2.}
+{35501}{}{This unusual weapon is equipped with a screw magazine, which can store a large number of cartridges.\nMin. ST: 2.}
 {35600}{}{CL 3000}
 {35601}{}{Portable laboratory equipment, including a centrifuge and a liquid heater. You could use it to make medicines in the field.}
 {35700}{}{.45 Caliber}
@@ -745,53 +745,53 @@
 {38300}{}{Don't use}
 {38301}{}{Don't use!}
 {38400}{}{Wrench}
-{38401}{}{A typical wrench used by mechanics. Min ST: 3.}
+{38401}{}{A typical wrench used by mechanics.\nMin. ST: 3.}
 {38500}{}{Sawed-Off Shotgun}
-{38501}{}{Someone took the time to chop the last few inches off the barrel and stock of this shotgun. Now, the wide spread of this hand-cannon's short-barreled shots makes it perfect for short-range crowd control. Min. ST: 5.}
+{38501}{}{Someone took the time to chop the last few inches off the barrel and stock of this shotgun. Now, the wide spread of this hand-cannon's short-barreled shots makes it perfect for short-range crowd control.\nMin. ST: 5.}
 {38600}{}{Baseball bat}
-{38601}{}{This all-American, hardwood, baseball bat. Equipped with spikes to strengthen the impact. Min. ST: 4.}
+{38601}{}{This all-American, hardwood, baseball bat. Equipped with spikes to strengthen the impact.\nMin. ST: 4.}
 {38700}{}{M60}
-{38701}{}{This relatively light machine gun was prized by militaries around for world for its high rate of fire. This reliable, battlefield-proven design, was used on vehicles and for squad level fire-support. Min. ST: 7.}
+{38701}{}{This relatively light machine gun was prized by militaries around for world for its high rate of fire. This reliable, battlefield-proven design, was used on vehicles and for squad level fire-support.\nMin. ST: 7.}
 {38800}{}{---}
 {38801}{}{---}
 {38900}{}{"Avenger" Minigun}
-{38901}{}{Rockwell designed the Avenger as the replacement for their aging CZ53 Personal Minigun. The Avenger's design improvements include improved, gel-fin, cooling and chromium plated barrel-bores. This gives it a greater range and lethality. Min ST: 7.}
+{38901}{}{Rockwell designed the Avenger as the replacement for their aging CZ53 Personal Minigun. The Avenger's design improvements include improved, gel-fin, cooling and chromium plated barrel-bores. This gives it a greater range and lethality.\nMin. ST: 7.}
 {39000}{}{Solar Scorcher}
-{39001}{}{Without the sun's rays to charge this weapon's capacitors this gun can't light a match. However, in full daylight, the experimental photo-electric cells that power the Scorcher allow it to turn almost anything into a crispy critter. Min ST: 3.}
+{39001}{}{Without the sun's rays to charge this weapon's capacitors this gun can't light a match. However, in full daylight, the experimental photo-electric cells that power the Scorcher allow it to turn almost anything into a crispy critter.\nMin. ST: 3.}
 {39100}{}{Kelly's Rifle}
-{39101}{}{Kelly's personal rifle. Very worn, but still a reliable weapon. Min. ST: 5.}
+{39101}{}{Kelly's personal rifle. Very worn, but still a reliable weapon.\nMin. ST: 5.}
 {39200}{}{M72 Gauss Rifle}
-{39201}{}{The M72 rifle is of German design. It uses an electromagnetic field to propel rounds at tremendous speed... and pierce almost any obstacle. Its range, accuracy and stopping power is almost unparalleled. Min. ST: 6.}
+{39201}{}{The M72 rifle is of German design. It uses an electromagnetic field to propel rounds at tremendous speed... and pierce almost any obstacle. Its range, accuracy and stopping power is almost unparalleled.\nMin. ST: 6.}
 {39300}{}{Machine gun .223}
-{39301}{}{Hand machine gun for rifle cartridges. Min. ST: 6.}
+{39301}{}{Hand machine gun for rifle cartridges.\nMin. ST: 6.}
 {39400}{}{PPK12 Gauss Pistol}
-{39401}{}{Praised for its range and stopping power, the PPK12 Gauss Pistol is of German design. The pistol uses an electromagnetic field to propel rounds at tremendous speed and punch through almost any armor. Min. ST: 4.}
+{39401}{}{Praised for its range and stopping power, the PPK12 Gauss Pistol is of German design. The pistol uses an electromagnetic field to propel rounds at tremendous speed and punch through almost any armor.\nMin. ST: 4.}
 {39500}{}{M16K}
-{39501}{}{Submachine gun, designed by the firm "La France" in San Diego based on the M16. For some time was popular among special forces and police in individual states. Min. ST: 4.}
+{39501}{}{Submachine gun, designed by the firm "La France" in San Diego based on the M16. For some time was popular among special forces and police in individual states.\nMin. ST: 4.}
 {39600}{}{YK32 Pulse Pistol}
-{39601}{}{The YK32 is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. Though powerful, the YK32 was never considered a practical weapon due to its inefficient energy usage and bulky design. Min. ST: 3.}
+{39601}{}{The YK32 is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. Though powerful, the YK32 was never considered a practical weapon due to its inefficient energy usage and bulky design.\nMin. ST: 3.}
 {39700}{}{YK42B Pulse Rifle}
-{39701}{}{The YK42B is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. It is considered a far superior weapon to the YK32 pistol, having a greater charge capacity and range. Min. ST: 3.}
+{39701}{}{The YK42B is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. It is considered a far superior weapon to the YK32 pistol, having a greater charge capacity and range.\nMin. ST: 3.}
 {39800}{}{.44 Magnum (Speed Load)}
-{39801}{}{A .44 Magnum Revolver with a speed loader. Min. ST: 5.}
+{39801}{}{A .44 Magnum Revolver with a speed loader.\nMin. ST: 5.}
 {39900}{}{Super Cattle Prod}
-{39901}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. This model has been upgraded to increase the electrical discharge. Min. ST: 4.}
+{39901}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. This model has been upgraded to increase the electrical discharge.\nMin. ST: 4.}
 {40000}{}{Improved Flamer}
-{40001}{}{A Flambe-450 model flamethrower, varminter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. This model has been modified to fire a hotter mixture which causes greater combustibility. Min ST: 6.}
+{40001}{}{A Flambe-450 model flamethrower, varminter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. This model has been modified to fire a hotter mixture which causes greater combustibility.\nMin. ST: 6.}
 {40100}{}{Laser Rifle (Ext. Cap.)}
-{40101}{}{This Wattz 2000 laser rifle has had its recharging system upgraded and a special recycling chip installed that reduces the drain on the micro fusion cell by 50%. Min. ST: 6.}
+{40101}{}{This Wattz 2000 laser rifle has had its recharging system upgraded and a special recycling chip installed that reduces the drain on the micro fusion cell by 50%.\nMin. ST: 6.}
 {40200}{}{Magneto-Laser Pistol}
-{40201}{}{This Wattz 1000 laser pistol has been upgraded with a magnetic field targeting system that tightens the laser emission, giving this pistol extra penetrating power. Min. ST: 3.}
+{40201}{}{This Wattz 1000 laser pistol has been upgraded with a magnetic field targeting system that tightens the laser emission, giving this pistol extra penetrating power.\nMin. ST: 3.}
 {40300}{}{Henry's Rifle}
-{40301}{}{Old, but still reliable carbine, designed in the era of the "gold rush." Being a popular sports weapon, an object of collectibles and show-off, was made up to the Great War for the civilian population. Min. ST: 4.}
+{40301}{}{Old, but still reliable carbine, designed in the era of the "gold rush." Being a popular sports weapon, an object of collectibles and show-off, was made up to the Great War for the civilian population.\nMin. ST: 4.}
 {40400}{}{Desert Eagle (Exp. Mag.)}
-{40401}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. This one has been equipped with an expanded magazine for longer fun and games! Min. ST: 5.}
+{40401}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. This one has been equipped with an expanded magazine for longer fun and games!\nMin. ST: 5.}
 {40500}{}{Assault Rifle (Exp. Mag.)}
-{40501}{}{This Assault Rifle has an extended, military sized, ammunition clip. The expanded magazine capacity makes it more fun than ever to Spray-and-Pray. Min. ST: 5.}
+{40501}{}{This Assault Rifle has an extended, military sized, ammunition clip. The expanded magazine capacity makes it more fun than ever to Spray-and-Pray.\nMin. ST: 5.}
 {40600}{}{Plasma Pistol (Ext. Cap.)}
-{40601}{}{This Glock 86 Plasma Pistol has had its magnetic housing chamber realigned to reduce the drain on its energy cell. Its efficiency has doubled, allowing it to fire more shots before the battery is expended. Min. ST: 4.}
+{40601}{}{This Glock 86 Plasma Pistol has had its magnetic housing chamber realigned to reduce the drain on its energy cell. Its efficiency has doubled, allowing it to fire more shots before the battery is expended.\nMin. ST: 4.}
 {40700}{}{Mega Power Fist}
-{40701}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. This one has upgraded power servos for increased strength. Powered by small energy cells. Min. ST: 1.}
+{40701}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. This one has upgraded power servos for increased strength. Powered by small energy cells.\nMin. ST: 1.}
 {40800}{}{Field Medic First Aid Kit}
 {40801}{}{A small kit containing basic emergency medical equipment. Bandages, wraps, antiseptic spray, and more.}
 {40900}{}{Paramedics Bag}
@@ -817,7 +817,7 @@
 {41900}{}{Mantis snack}
 {41901}{}{Mantis leg prepared the right way.}
 {42000}{}{"Blind Fury"}
-{42001}{}{A worn sword with wooden sheath disguised as a cane. Although the quality of steel leaves much to be desired, this weapon has clearly saved the lives of its owner more than once. Min. ST: 3.}
+{42001}{}{A worn sword with wooden sheath disguised as a cane. Although the quality of steel leaves much to be desired, this weapon has clearly saved the lives of its owner more than once.\nMin. ST: 3.}
 {42100}{}{Powder grenade}
 {42101}{}{Homemade hand grenade with a chemical detonator. Equipped with striking elements around a powerful powder fuse.}
 {42200}{}{Shampoo}
@@ -915,7 +915,7 @@
 {46900}{}{Rot Gut}
 {46901}{}{A very strong liquor. Or cleaning fluid, you decide.}
 {47000}{}{Crusher}
-{47001}{}{A large hammer with a massive handle, equipped with self-made spikes on the head to increase the damage. It is better to take a smaller hammer for cooking chops. Min. ST: 6.}
+{47001}{}{A large hammer with a massive handle, equipped with self-made spikes on the head to increase the damage. It is better to take a smaller hammer for cooking chops.\nMin. ST: 6.}
 {47100}{}{The manual on neurosurgery}
 {47101}{}{Very rare manual for highly qualified surgeons. It seems that very important information is collected here, but it is so scientific and complex that it will take a lot of time and effort to study.}
 {47200}{}{A look in the face of death}
@@ -923,7 +923,7 @@
 {47300}{}{Irradiated Nuka-Cola}
 {47301}{}{Amazing pre-war drink in a slightly dirty bottle. Has a wonderful aftertaste and a very questionable glow in the dark.}
 {47400}{}{Magnet-laser pistol Ì2}
-{47401}{}{This laser gun Wattz 1000 has undergone various improvements, which increased its capacity by 50% at price of range and power consumption. Min. ST: 3.}
+{47401}{}{This laser gun Wattz 1000 has undergone various improvements, which increased its capacity by 50% at price of range and power consumption.\nMin. ST: 3.}
 {47500}{}{Do not use}
 {47501}{}{Do not use!}
 {47600}{}{"Bloody Mary"}
@@ -966,7 +966,7 @@
 {49500}{}{Special pass}
 {49501}{}{An electronic access card from many government vault doors.}
 {49600}{}{Bo's Pole}
-{49601}{}{Very strong and balanced pole with rounded ends, on which soft cushions are fastened. Training version from the company "Hattori Souvenirs". Min. ST: 3.}
+{49601}{}{Very strong and balanced pole with rounded ends, on which soft cushions are fastened. Training version from the company "Hattori Souvenirs".\nMin. ST: 3.}
 {49700}{}{kubotan}
 {49701}{}{An ancient non-lethal weapon, originally designed for police needs. It is important to note that it's an excellent helper in a fight, but only for those who have sufficient martial arts skills. Min .ST: 1.}
 {49800}{}{Dual Plasma Cannon}
@@ -974,7 +974,7 @@
 {49900}{}{Food can}
 {49901}{}{In front of you is a can of dog food. And judging by the date on the lid, it is more than 70 years old. If you dare to open it, it is better to wear a gas mask in advance.}
 {50000}{}{Old revolver}
-{50001}{}{Very old model of once popular revolver. Perhaps the museum exhibit. Min. ST: 1.}
+{50001}{}{Very old model of once popular revolver. Perhaps the museum exhibit.\nMin. ST: 1.}
 {50100}{}{Wall Safe}
 {50200}{}{Floor Safe}
 {50300}{}{Blue Memory Module}
@@ -988,9 +988,9 @@
 {50700}{}{Decomposing Body}
 {50701}{}{This is a partially decomposed body of a humanoid creature.}
 {50800}{}{Pistol 10mm (ext. mag)}
-{50801}{}{Self-loading pistol Colt 6520 caliber 10mm with an extended magazine. Min. ST: 3.}
+{50801}{}{Self-loading pistol Colt 6520 caliber 10mm with an extended magazine.\nMin. ST: 3.}
 {50900}{}{Maxson's Sawed-off}
-{50901}{}{An old shotgun, once owned by raider Maxson. The barrel and butt are trimmed to expand the scatter of the shot. Min. ST: 5.}
+{50901}{}{An old shotgun, once owned by raider Maxson. The barrel and butt are trimmed to expand the scatter of the shot.\nMin. ST: 5.}
 {51000}{}{Pool Table}
 {51100}{}{Pool Table}
 {51200}{}{Pool Table}
@@ -1000,7 +1000,7 @@
 {51600}{}{Map of the lake}
 {51601}{}{A crumpled pre-war map of the surrounding area of Salt Lake City and its large lake. Throughout the map are scattered various markers, indicating local attractions and institutions. Practically a guide.}
 {51700}{}{Cleaver}
-{51701}{}{A huge knife designed for cutting meat. Min. ST: 3.}
+{51701}{}{A huge knife designed for cutting meat.\nMin. ST: 3.}
 {51800}{}{Dual Minigun}
 {51801}{}{Only use for Auto-Cannon critter.}
 {51900}{}{Bottle Caps}
@@ -1010,7 +1010,7 @@
 {52100}{}{Hunting table}
 {52101}{}{Table for cutting a prey.}
 {52200}{}{Rusty machete}
-{52201}{}{Someone worked the lawnmower blade, sharpening one edge, and tightly wrapped the hilt of the brahmin skin. Min. ST: 5.}
+{52201}{}{Someone worked the lawnmower blade, sharpening one edge, and tightly wrapped the hilt of the brahmin skin.\nMin. ST: 5.}
 {52300}{}{"Trade" magazine}
 {52301}{}{Pre-war weekly magazine, issued for people running their own business. And even while the times has changed, you can still draw useful information about the trade from this edition.}
 {52400}{}{Worn jacket}
@@ -1028,7 +1028,7 @@
 {53000}{}{Fireplace}
 {53001}{}{Once a beautiful decorative fireplace with a photograph of an Indian philosopher.}
 {53100}{}{Laser pistol (police.)}
-{53101}{}{Laser pistol Wattz 1500, police model. Power higher than civilian models thanks to the use of crystals instead of cheap diodes. Min. ST: 3.}
+{53101}{}{Laser pistol Wattz 1500, police model. Power higher than civilian models thanks to the use of crystals instead of cheap diodes.\nMin. ST: 3.}
 {53200}{}{---}
 {53300}{}{---}
 {53400}{}{---}
@@ -1048,7 +1048,7 @@
 {54800}{}{Ammo box}
 {54801}{}{Rare large-caliber ammo for very heavy machine guns - so heavy that you don't even have an idea which ones.}
 {54900}{}{Zip gun}
-{54901}{}{A pitiful semblance of a pistol, known as the Zip gun. The name says it all. Min. ST: 1.}
+{54901}{}{A pitiful semblance of a pistol, known as the Zip gun. The name says it all.\nMin. ST: 1.}
 {55000}{}{Shelf for tools}
 {55100}{}{Purse}
 {55101}{}{A manly dilapidated purse with various documents and notes of commercial content. For you there is nothing of value, but for the former owner the loss of this thing will certainly leave a mark.}
@@ -1083,23 +1083,23 @@
 {56600}{}{Healing water}
 {56601}{}{A small bottle of supposedly healing water "Radium" from the company "Pretty & Glamour".}
 {56700}{}{Colt Revolver}
-{56701}{}{Very powerful exclusive weapon. The surface is painted with traditional Indian ornament. When you look at it under the flickering lights of Vegas, you feel yourself like a god. Min. ST: 5.}
+{56701}{}{Very powerful exclusive weapon. The surface is painted with traditional Indian ornament. When you look at it under the flickering lights of Vegas, you feel yourself like a god.\nMin. ST: 5.}
 {56800}{}{"Black Dynamite"}
-{56801}{}{Extremely cool and stylish revolver. Min. ST: 6.}
+{56801}{}{Extremely cool and stylish revolver.\nMin. ST: 6.}
 {56900}{}{Bath salt}
 {56901}{}{Salt from the company "Pretty & Glamour" for the enrichment of bathroom water with radon. It is used for nervous disorders, insomnia, loss of strength, arthritis and rheumatism.}
 {57000}{}{Burp}
-{57001}{}{Stinky burp of an acid gecko. Min. ST: 1.}
+{57001}{}{Stinky burp of an acid gecko.\nMin. ST: 1.}
 {57100}{}{REZ-4}
-{57101}{}{Rare electromagnetic gun. You're lucky ... if, of course, you can handle a weapon of this size. The problem is also in the absence of a way for recharging the battery. When the charge is over, this weapon will become useless. Min. ST: 8.}
+{57101}{}{Rare electromagnetic gun. You're lucky ... if, of course, you can handle a weapon of this size. The problem is also in the absence of a way for recharging the battery. When the charge is over, this weapon will become useless.\nMin. ST: 8.}
 {57200}{}{Flail}
-{57201}{}{The brutal weapon of bikers is a large-caliber chain with a heavy metal ball at the end. Min. ST: 5.}
+{57201}{}{The brutal weapon of bikers is a large-caliber chain with a heavy metal ball at the end.\nMin. ST: 5.}
 {57300}{}{Rusty Katana}
-{57301}{}{Sword from the gift set from the company "Hattori Souvenirs". Although the weapon is clearly inferior in quality to its Japanese progenitor, in a strong hand it can permanently eliminate the enemy from the battlefield, even if he is in the armor. Min. Power: 4.}
+{57301}{}{Sword from the gift set from the company "Hattori Souvenirs". Although the weapon is clearly inferior in quality to its Japanese progenitor, in a strong hand it can permanently eliminate the enemy from the battlefield, even if he is in the armor.\nMin. ST: 4.}
 {57400}{}{Beatnik's glasses}
 {57401}{}{Round glasses. Nothing special, but looks stylish.}
 {57500}{}{Straight razor}
-{57501}{}{Razor with open blade made by "Sharpy wits". Still very sharp. Min. ST: 1.}
+{57501}{}{Razor with open blade made by "Sharpy wits". Still very sharp.\nMin. ST: 1.}
 {57600}{}{Painkiller}
 {57601}{}{This cartridge is filled with a powerful pre-war analgesic. The drug has expired for more than 40 years, which makes it even more adversely and irreversibly affect on heart and blood vessels than before.}
 {57700}{}{Wet wipes}
@@ -1119,7 +1119,7 @@
 {58400}{}{Nuka-Cola with flavor}
 {58401}{}{Bottle of self-made Nuka-Cola. Someone decided to make money by selling such a low-quality product bypassing the "official" manufacturer.}
 {58500}{}{"Desert Eagle"}
-{58501}{}{"Desert Eagle" Caliber .44 Magnum. Equipped with a modern accurate sight. Min. ST: 5.}
+{58501}{}{"Desert Eagle" Caliber .44 Magnum. Equipped with a modern accurate sight.\nMin. ST: 5.}
 {58600}{}{Ring}
 {58601}{}{A massive metallic ring in the shape of a skull. Quite a brutal piece. It was so grown into skin that you had to tear off a finger with it.}
 {58700}{}{Contract with the drug dealer}
@@ -1137,7 +1137,7 @@
 {59300}{}{Compromising evidence on H. Wallace}
 {59301}{}{Holodisk with a record you made while talking to Hal Wallace about getting a job on freaks. Police will find it interesting.}
 {59400}{}{"Desert Eagle"}
-{59401}{}{"Desert Eagle" .44 Magnum, owned by Bob Neil. In addition to its impressive appearance, it has an enhanced mechanism that increases the fire power of this weapon. Min. ST: 5.}
+{59401}{}{"Desert Eagle" .44 Magnum, owned by Bob Neil. In addition to its impressive appearance, it has an enhanced mechanism that increases the fire power of this weapon.\nMin. ST: 5.}
 {59500}{}{H. Wallace confession}
 {59501}{}{A holodisk with a record you made while talking to Hal Wallace about getting a job on Bob Neil. Direct evidence.}
 {59600}{}{O. Davis receipt}
@@ -1197,13 +1197,13 @@
 {62400}{}{Book shelf}
 {62401}{}{A shelf with some books.}
 {62500}{}{Ingram Police}
-{62501}{}{American submachine gun produced in the middle of last century. The police version is distinguished by the front handle, partially finned trunk and a fly without a nouvelle. Min. ST: 5.}
+{62501}{}{American submachine gun produced in the middle of last century. The police version is distinguished by the front handle, partially finned trunk and a fly without a nouvelle.\nMin. ST: 5.}
 {62600}{}{Rocket launcher}
-{62601}{}{Unclaimed Rockwell's weapon for projectiles caliber 40 mm. Simply in handling, but for effective application requires considerable strength. Min. ST: 5.}
+{62601}{}{Unclaimed Rockwell's weapon for projectiles caliber 40 mm. Simply in handling, but for effective application requires considerable strength.\nMin. ST: 5.}
 {62700}{}{Grenade launcher 40 mm}
-{62701}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Designed for strong soldiers. Min. ST: 6.}
+{62701}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Designed for strong soldiers.\nMin. ST: 6.}
 {62800}{}{Grenade launcher 40 mm (ext. mag)}
-{62801}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Equipped with a cylinder magazine for 6 shells. Min. ST: 7.}
+{62801}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Equipped with a cylinder magazine for 6 shells.\nMin. ST: 7.}
 {62900}{}{Reinforced jacket}
 {62901}{}{Black strong leather jacket, reinforced with various armored plates.}
 {63000}{}{Hand made jacket}
@@ -1229,7 +1229,7 @@
 {64000}{}{Mysterious Blaster (non functional.)}
 {64001}{}{Unusual weapons of unknown origin. On the case stands the mark: "Property of Area 51". For some reason it does not work.}
 {64100}{}{Mysterious Blaster}
-{64101}{}{Unusual weapons of unknown origin. On the case stands the mark: "Property of Area 51". Min. ST: 3.}
+{64101}{}{Unusual weapons of unknown origin. On the case stands the mark: "Property of Area 51".\nMin. ST: 3.}
 {64200}{}{Cache key}
 {64201}{}{The standard key to some lock in the Wind of War.}
 {64300}{}{House key}
@@ -1255,7 +1255,7 @@
 {65300}{}{---}
 {65301}{}{---}
 {65400}{}{Rod}
-{65401}{}{Homemade weapon, created from the sewage grate's steel rod. Min. ST: 1.}
+{65401}{}{Homemade weapon, created from the sewage grate's steel rod.\nMin. ST: 1.}
 {65500}{}{Message to Patrick}
 {65501}{}{A letter from the Mormon community to Patrick. Nothing that you would find out of ordinary.}
 {65600}{}{Cigarette case}
@@ -1275,7 +1275,7 @@
 {66300}{}{Blueprints T-51. Part 2}
 {66301}{}{These blueprints describe only internal automatic modules of the T-51b power armor. Rare information.}
 {66400}{}{"Bloatfly"}
-{66401}{}{A civilian self-defense plasma pistol. Powered by a non-rechargeable battery that lasts only for 4 shots. Min. ST: 1.}
+{66401}{}{A civilian self-defense plasma pistol. Powered by a non-rechargeable battery that lasts only for 4 shots.\nMin. ST: 1.}
 {66500}{}{Your equipment}
 {66501}{}{Your personal items are stored here.}
 {66600}{}{Delicate scalpel}
@@ -1301,9 +1301,9 @@
 {67600}{}{Shell}
 {67601}{}{Fired shell from cartridge of caliber .223.}
 {67700}{}{Katana}
-{67701}{}{Sword from a gift set from the company "Hattori Souvenirs". Although the weapon is clearly inferior in quality to its Japanese progenitor, in a strong hand it can permanently eliminate the enemy from the battlefield, even if he is wearing armor. Min. ST: 4.}
+{67701}{}{Sword from a gift set from the company "Hattori Souvenirs". Although the weapon is clearly inferior in quality to its Japanese progenitor, in a strong hand it can permanently eliminate the enemy from the battlefield, even if he is wearing armor.\nMin. ST: 4.}
 {67800}{}{Machete}
-{67801}{}{Someone worked the lawnmower's blade, sharpening one edge, and tightly wrapped the hilt of the brahmin's skin. Min. ST: 5.}
+{67801}{}{Someone worked the lawnmower's blade, sharpening one edge, and tightly wrapped the hilt of the brahmin's skin.\nMin. ST: 5.}
 {67900}{}{"Mickey's Revenge" schematics}
 {67901}{}{Instructions for creating self-made melee weapons. The developer is a certain Mickey. To whom he was going to take revenge is unknown. What is known is that to create this weapons you need a toaster and some other parts.}
 {68000}{}{Robot's remains}
@@ -1321,7 +1321,7 @@
 {68600}{}{Fuel regulator}
 {68601}{}{Some drivers installed this regulator, halving fuel consumption, but most drivers did not care how much their cars gobbled up. In the end, fuel is cheap, and there is a lot of it, so why worry?}
 {68700}{}{"Savage" with a bandolier}
-{68701}{}{Single-shot shotgun with a shortened barrel and ammunition belt on the butt. Although this weapon is already very worn and outdated, it has an indisputable advantage - fast recharge. Min. ST: 4.}
+{68701}{}{Single-shot shotgun with a shortened barrel and ammunition belt on the butt. Although this weapon is already very worn and outdated, it has an indisputable advantage - fast recharge.\nMin. ST: 4.}
 {68800}{}{Damaged robot}
 {68801}{}{This robot is damaged and cannot be repaired.}
 {68900}{}{Eli's key #10}
@@ -1329,9 +1329,9 @@
 {69000}{}{Slave collar}
 {69001}{}{Pre-war manufactured tazer in the form of a collar. In former times it has been used in prisons, now it is a great tool for the slave trade and exploitation.}
 {69100}{}{Old revolver}
-{69101}{}{Very old model of once popular revolver. Perhaps the museum exhibit. Min. ST: 3.}
+{69101}{}{Very old model of once popular revolver. Perhaps the museum exhibit.\nMin. ST: 3.}
 {69200}{}{Training rifle}
-{69201}{}{Sport model of laser rifle, designed for training and competition in accuracy. Has reduced characteristics in comparison with a conventional laser rifle, and slightly inferior to it in range. Min. ST: 5.}
+{69201}{}{Sport model of laser rifle, designed for training and competition in accuracy. Has reduced characteristics in comparison with a conventional laser rifle, and slightly inferior to it in range.\nMin. ST: 5.}
 {69300}{}{Crate}
 {69301}{}{Old wooden crate.}
 {69400}{}{Crate}
@@ -1397,11 +1397,11 @@
 {72700}{}{Tire armor}
 {72701}{}{Pretty awkward and disgustingly smelling rubber armor. But is this important when it comes to the impact of electricity or radiation?}
 {72800}{}{Electric spear}
-{72801}{}{An effective police tool to disperse a mob of rebels. Repeatedly used before the war. Min. ST: 4.}
+{72801}{}{An effective police tool to disperse a mob of rebels. Repeatedly used before the war.\nMin. ST: 4.}
 {72900}{}{Pistol 10mm #80}
-{72901}{}{Obsolete model of self-loading pistol Colt 6520 caliber 10mm. Judging by the markings on the body, it was produced in 2051. Min. ST: 3.}
+{72901}{}{Obsolete model of self-loading pistol Colt 6520 caliber 10mm. Judging by the markings on the body, it was produced in 2051.\nMin. ST: 3.}
 {73000}{}{Pistol 10mm with flashlight}
-{73001}{}{Police model of self-loading pistol Colt 6520 caliber 10mm, equipped with a barrel tactical flashlight. Though, sometimes it doesn't work - you need to shake it. Min. ST: 4.}
+{73001}{}{Police model of self-loading pistol Colt 6520 caliber 10mm, equipped with a barrel tactical flashlight. Though, sometimes it doesn't work - you need to shake it.\nMin. ST: 4.}
 {73100}{}{Locked case}
 {73101}{}{Durable metal case of a business man. Probably, there is something valuable inside, because it is locked with a combination lock.}
 {73200}{}{A Pip-Boy anatomical analyzer}
@@ -1413,15 +1413,15 @@
 {73500}{}{Body armor Ì2}
 {73501}{}{A light army bulletproof vest with elements to quickly unload all sorts of junk. Protects only a part of the torso, since it was meant to be used by Emergency Response Units members. Some of armored plates had been replaced by more sturdy ones.}
 {73600}{}{Winchester Pistol}
-{73601}{}{This gun is made by analogy with a plasma rifle of the "Winchester Arms" company. Gained no popularity because of competition with plasma pistols from the Gaston Glock AI. Min. ST: 5.}
+{73601}{}{This gun is made by analogy with a plasma rifle of the "Winchester Arms" company. Gained no popularity because of competition with plasma pistols from the Gaston Glock AI.\nMin. ST: 5.}
 {73700}{}{Awarded Pistol}
-{73701}{}{Nominal pistol Colt 6520 made of alloy steel. The use of more durable hardened alloys makes this weapon shoot with greater lethal force, but also makes it slightly heavier. Min. ST: 4.}
+{73701}{}{Nominal pistol Colt 6520 made of alloy steel. The use of more durable hardened alloys makes this weapon shoot with greater lethal force, but also makes it slightly heavier.\nMin. ST: 4.}
 {73800}{}{Heavy Coyote Spear}
-{73801}{}{Heavy spear of the Coyotes hunters. Apparently, as a cutting part it uses massive, sharpened blade from some agricultural machinery. Min. ST: 5.}
+{73801}{}{Heavy spear of the Coyotes hunters. Apparently, as a cutting part it uses massive, sharpened blade from some agricultural machinery.\nMin. ST: 5.}
 {73900}{}{Combat knife of Coyotes}
-{73901}{}{Blade weapon of the Coyotes hunters. Apparently made from the straightened cultivator blade. Min. ST: 4.}
+{73901}{}{Blade weapon of the Coyotes hunters. Apparently made from the straightened cultivator blade.\nMin. ST: 4.}
 {74000}{}{Coyote Truncheon}
-{74001}{}{Heavy steel arms' weapon of Coyote hunters. Apparently made of a grouser and a metal pipe, bolted together. Min. ST: 5.}
+{74001}{}{Heavy steel arms' weapon of Coyote hunters. Apparently made of a grouser and a metal pipe, bolted together.\nMin. ST: 5.}
 {74100}{}{Ultra-thermal mixture}
 {74101}{}{A termite mixture complemented with unknown components. When burning, gives off a staggering amount of heat, thereby silently and smokelessly melting everything around. Do not forget the lighter!}
 {74200}{}{Nelson's damaged weapon}
@@ -1445,7 +1445,7 @@
 {75100}{}{Remains of Sergeant Kong}
 {75101}{}{The withered remains of a man dressed in army vest and clutching a cowboy hat in his hand. Judging by the skits, all this once was Sergeant Kong.}
 {75200}{}{Knapsack Flamethrower}
-{75201}{}{Flamethrower model Flare-450, equipped with a large knapsack. Shoots a short jet of a flammable mixture. A special fuel is necessary. Min. ST: 6.}
+{75201}{}{Flamethrower model Flare-450, equipped with a large knapsack. Shoots a short jet of a flammable mixture. A special fuel is necessary.\nMin. ST: 6.}
 {75300}{}{Poker chip "El Capitan"}
 {75400}{}{Poker chip "Eldorado"}
 {75500}{}{Poker chip "Silver Legacy"}
@@ -1457,21 +1457,21 @@
 {75900}{}{Recipe: "Atomic Cocktail"}
 {75901}{}{The recipe for the preparation of the "Atomic cocktail". Hardly you will be able to achieve pre-war quality, but it won't be bad either.}
 {76000}{}{Worn minigun}
-{76001}{}{Minigun CZ53 Rockwell in very poor condition. Min. ST: 7.}
+{76001}{}{Minigun CZ53 Rockwell in very poor condition.\nMin. ST: 7.}
 {76100}{}{Ñompromising evidence on Mordino}
 {76101}{}{This is a record of the debate at Stryker's meeting, during which it was decided to remove Mr. Mordino, when the power in Reno will be seized by the Stryker's group. Mordino certainly will love to hear this.}
 {76200}{}{"Gonzo style"}
-{76201}{}{With this quality combat knife you can easily reveal any pretense and lie, if you have enough skills. Min. ST: 1.}
+{76201}{}{With this quality combat knife you can easily reveal any pretense and lie, if you have enough skills.\nMin. ST: 1.}
 {76300}{}{Biker's switchblade}
-{76301}{}{The knife that was found in the pocket of your jacket. The blade is shot out by a spring if button on the handle is pressed. Min. ST: 1.}
+{76301}{}{The knife that was found in the pocket of your jacket. The blade is shot out by a spring if button on the handle is pressed.\nMin. ST: 1.}
 {76400}{}{Hormonal explosion}
 {76500}{}{Extraction window}
 {76600}{}{Recipe: "Root beer"}
 {76601}{}{The recipe for the making of root beer.}
 {76700}{}{EMP-glove}
-{76701}{}{Power knuckle equipped with a generator of electromagnetic impulse. Min. ST: 2.}
+{76701}{}{Power knuckle equipped with a generator of electromagnetic impulse.\nMin. ST: 2.}
 {76800}{}{"Fiery Kiss"}
-{76801}{}{Hydraulic fist consisting of a fireproof glove, a gas cylinder and a sprayer with a piston mechanism. Upon impact, the mechanism sprays fuel onto the victim's body and then ignites it. Min. ST: 2.}
+{76801}{}{Hydraulic fist consisting of a fireproof glove, a gas cylinder and a sprayer with a piston mechanism. Upon impact, the mechanism sprays fuel onto the victim's body and then ignites it.\nMin. ST: 2.}
 {76900}{}{Prospector's corpse}
 {76901}{}{Everything says that this man wasn't killed by local rodents.}
 {77000}{}{Legendary scorpion's shell}
@@ -1492,7 +1492,7 @@
 {77701}{}{Apparently, this corpse will remain lying under the sun, if someone does not bury it, following local customs.}
 {77800}{}{Caravan merchant's corpse}
 {77900}{}{Gauss pistol PPK5}
-{77901}{}{Early model of handgun, based on a principle of electromagnetic acceleration. Shortly after its release, more advanced models were developed, so PPK5 quickly went out of use. Min. ST: 4.}
+{77901}{}{Early model of handgun, based on a principle of electromagnetic acceleration. Shortly after its release, more advanced models were developed, so PPK5 quickly went out of use.\nMin. ST: 4.}
 {78000}{}{Recipe: "Stimpak"}
 {78001}{}{Recipe for making stimpak and a super stimpak.}
 {78100}{}{Recipe: "Doctor's Bag"}
@@ -1502,6 +1502,6 @@
 {78300}{}{Blood analyzer}
 {78301}{}{This device measures sample of your blood, showing level of infection and poisoning.}
 {78400}{}{Thompson's Plasmogun}
-{78401}{}{Impulse weapon prototype by Thompson & Glock. Developed as an assault weapon for army regular forces, but didn't have time to enter mass production. Factory stamp "Lucky Tom 2029". Min. ST: 6}
+{78401}{}{Impulse weapon prototype by Thompson & Glock. Developed as an assault weapon for army regular forces, but didn't have time to enter mass production. Factory stamp "Lucky Tom 2029".\nMin. ST: 6}
 {78500}{}{The list of Nisckiguan}
 {78501}{}{A casually scrawled list of items needed for the operation: 1) pure water; 2) dope herb, alcohol or pain reliever; 3) sharp knife; 4) pliers or pincers ; 5) first aid kit with bandages; 6) öHealing powder or stimpaks.}
