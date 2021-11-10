@@ -1,0 +1,6 @@
+1:Citizen!
+2:Citizen?!
+3:Can you hear me?!
+4:Something strange is happening in the Vault!
+5:Please return, before it's too late.
+6: We are... [the signal fades]

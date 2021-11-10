@@ -1,0 +1,170 @@
+#FALLOUT: NEVADA
+
+@ Based on Fallout 2.
+@ Created in 2009-2015.
+
+----------------------------------------------------
+
+#PROGRAMMING
+
+@Scripts
+Alexander "BLACK DESIGNER" Poshelyuzhin
+
+@Fallout 2 engine tweaks
+Denis "Master" Voloshin
+
+@Installer / Autorun (Beta)
+Anton "SAMIRAKUS" Smirnov
+Pyran
+
+@Installer / Autorun
+Foxx
+Pyran - mod version.
+
+# DESIGN AND GRAPHICS
+
+@Lead designer, art designer, 3D-modeller
+Alexander "BLACK DESIGNER" Poshelyuzhin
+
+@Promo & design
+Anton "SAMIRAKUS" Smirnov
+
+@Additional graphics
+Osman "Wolfram" Ajiusmanov
+Alexey Osadchiy
+X'IL
+Pixote
+Mr.Stalin
+Dmitriy Yermak
+Pyran
+Foxx
+
+
+#Texts
+
+@In-game text development
+Alexander "BLACK DESIGNER" Poshelyuzhin
+Alexander "KERB" Agafontsev
+
+@Chief editor
+Maxim "Rekrut" Mikhalitsin 
+
+@Editors
+Maxim "Rekrut" Mikhalitsin 
+Alexander "KERB" Agafontsev
+Ivan "TSAR" Moskalenko
+Eugeniy "xoxmodav" Kosmach
+
+
+#QUALITY CONTROL
+
+@PC-version QA-testers:
+Egor "Vault 13" Ostapenko
+Ivan "ZEVS" Zykov
+Denis "Master" Voloshin
+Maxim "Rekrut" Mikhalitsin 
+
+
+#Audio
+
+@Original Fallout 2 composer
+Mark Morgan
+
+@Nevada's original composer 
+Alexey Trofimov
+("NOBODY'S NAIL MACHINE")
+
+@Narrator
+Keyboard Gecko
+
+@Narrator of Russian version
+Ivan "Yersinia Pestis" Sullivan
+
+@Narrator of Russian version (Beta)
+Alexey "Negodyai" Nevzgodyuk
+
+@Narrator and effect for "artimer4"
+Pyran
+
+@ Intro and main theme
+@Louie Armstrong:
+@"What a wonderful world"
+
+#Video
+
+@Cut-scenes:
+Alexander "BLACK DESIGNER" Poshelyuzhin
+Osman "Wolfram" Ajiusmanov
+Pyran
+Foxx
+
+----------------------------------------------------
+
+@ official site:
+WWW.FALLOUT-NEVADA.UCOZ.RU
+www.vk.com/Fallout_Nevada
+
+@ Information support:
+www.nuclear-city.com
+www.modgames.net
+www.nma-fallout.com
+
+----------------------------------------------------
+
+#SPECIAL THANKS TO:
+
+@our forum and VK group users.
+@Thank you for all your support, criticism and suggestions!
+
+TeamX
+@ for documentation "FScript - HOW-TO"
+
+Acop "Vaulter" Abraamyan
+@ for VK group and discussions
+
+Egor "Vault 13" Ostapenko
+@ for forum and information support
+
+Maxim Kulakov
+@ for commenting and reviewing the game in "Igrozor"
+
+Grigoriy Sokolov
+@ for advices regarding videos
+
+Yakov "FANtOM" Makarov
+@ for a lot of help and discussions
+
+Enclave Officer
+@ for help in redacting texts
+
+#ENGLISH TRANSLATION
+@ And to all this wonderful people
+@ for making english translation possible:
+
+@       Johny-17, Drobovik, .Pixote., Risewild, Matt Drax,
+@       theslitherydeee, gorlomi, Vault15, dozen, xps, 
+@       heatEXTEND, Reikis, Navarrrro, Muttie, Sagez,
+@       TheChosen1, 0wing, RetrospectiveGaming channel on Youtube,
+@       Snikers, Dionis, Foxx, Pyran and Keyboard Gecko.
+
+#UTILITES AND STUFF
+
+@ In development of the project were used
+@ the following utilites for Fallout modding:
+
+@ datexpl
+@ BIS mapper
+@ DimS mapper
+@ Fallout Script Editor by Jargo
+@ FGeck
+@ Frame Animator
+
+----------------------------------------------------
+
+@Copying, duplicating and reproduction
+@of this product and/or any of its parts with commercical purposes
+@without permission of its right holders
+@is a violation of copyright law.
+
+@The Fallout trademark belongs to:
+Bethesda Softworks LLC

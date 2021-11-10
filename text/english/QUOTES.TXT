@@ -1,0 +1,60 @@
+@Fallout: Nevada (Fixed Mod).
+
+#Based on Fallout: Nevada v1.02
+
+----------------------------------------------------
+
+#MADE BY:
+Foxx
+Pyran
+
+#HELP IN MODIFYING THE GAME:
+
+Crafty
+Mr.Stalin
+Pyran
+
+#INCLUDES RESOURSES FROM THE FOLLOWING GAMES:
+
+Fallout 1 & 2
+Olympus 2207
+Restoration Project
+
+#INCLUDES CONTENT OF THE FOLLOWING:
+
+Phobos 2077
+Mash
+Josan12
+Crafty
+Mr.Stalin
+Drobovik
+Rainman
+Magnus
+Timeslip
+Osman3d
+
+#BUG-REPORTS AND SUGGESTIONS:
+
+razor1977
+Pyran
+dozen
+Dr. Destructo
+AleSiS von Dallwitz
+Forest
+kobart
+RoMask
+
+#THE MAIN BIG THANKS TO:
+
+Alexander "BLACK DESIGNER" Poshelyuzhin
+for this wonderful game.
+
+#SPECIAL THANKS TO:
+Interplay Entertainment and BLACK ISLE Studios
+
+Nuclear-City.com, for technical support.
+
+----------------------------------------------------
+
+@Fallout trademark belongs to:
+Bethesda Softworks LLC
