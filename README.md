@@ -13,6 +13,6 @@ Installation instructions (for now):
 
 -Go to Nevada folder (Fallout 2\Nevada Mod (Extended)\)
 
--Make a folder "Patch001.dat", unpack everything from this repository into it (if you have something like Fallout 2\Nevada Mod (Extended)\patch001.dat\text\english\, then you're good)
+-Make a folder "Patch002.dat", unpack everything from this repository into it (if you have something like Fallout 2\Nevada Mod (Extended)\patch002.dat\text\english\, then you're good)
 
 -Launch the game with sfall, try to enjoy it.
