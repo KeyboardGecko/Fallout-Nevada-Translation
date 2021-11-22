@@ -2,17 +2,9 @@
 Another cleanup of a great mod. Completed 08.11.2021.
 
 
-The patch is on the way.
+As for 21.11.2021 this translation is a part of "Fallout Nevada Extended Edition" by Pyran. Just download and play.
+
+(http://www.mediafire.com/file/nqfrkb5fllbpqx4/Fallout_Nevada_Mod_Us.exe/file)
+
+
 Any contribution is encouraged.
-
---------
-
-Installation instructions (for now):
-
--Install the game (http://www.mediafire.com/file/nqfrkb5fllbpqx4/Fallout_Nevada_Mod_Us.exe/file , you need Fallout 2 to play)
-
--Go to Nevada folder (Fallout 2\Nevada Mod (Extended)\)
-
--Make a folder "Patch002.dat", unpack everything from this repository into it (if you have something like Fallout 2\Nevada Mod (Extended)\patch002.dat\text\english\, then you're good)
-
--Launch the game with sfall, try to enjoy it.
