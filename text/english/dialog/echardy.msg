@@ -1,6 +1,6 @@
-{100}{}{This is Hardy, ghoul merchant.}
-{101}{}{You see a merchant with scorched skin.} 
-{102}{}{Don't hurt ghouls, damn racist!} 
+{100}{}{This is Hardy, a ghoul merchant.}
+{101}{}{You see a merchant with a scorched skin.} 
+{102}{}{Don't hurt ghouls, you damn racist!} 
 {103}{}{Welcome... Hold on, was that you people told me about in Reno? Now, any sudden move and I will order to shoot you!} 
 
 #Торговля
@@ -38,7 +38,7 @@
 
 #Посылка от Берча
 {140}{}{I'm from Lewis Birch. He asked to take this to the Hub.}
-{141}{}{Birch asked? Then no problem... Yeah, I recognize his holodisks. Give them here. When I return to the Hub, will visit the office of this chump. And oh they will be glad to see me!}
+{141}{}{Birch asked? Then no problem... Yeah, I recognize his holodisks. Okay, I'll take them. When I return to the Hub, will visit this chumps' office. And oh they will be glad to see me!}
 {142}{}{Well, my job is done.}
 {143}{}{You've completed the task of Lewis Birch.}
 

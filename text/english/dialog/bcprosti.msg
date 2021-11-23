@@ -15,7 +15,7 @@
 {116}{}{Why am I "baby"?}
 {117}{}{Don't worry, baby. It's just 'cuz I like you.}
 
-{120}{}{What a nice name! I'm Jasmine. Good to meet you.}
+{120}{}{What a nice name! I'm Jasmine. Good to meet you, baby.}
 {121}{}{Hmm, how do I say this... I used to work in the fields, now I'm resting. Is that good enough, baby?}
 {122}{}{[She crosses her arms and scowls] Hmph! It's no good talking to the people here. Don't ask, baby, I have my reasons.}
 
