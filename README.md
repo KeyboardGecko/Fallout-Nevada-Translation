@@ -2,14 +2,9 @@
 Another cleanup of a great mod. Completed 08.11.2021.
 
 
-# Changelog:
+As for 21.11.2021 this translation is a part of "Fallout Nevada Extended Edition" by Pyran. Just download and play.
 
--The story is slightly changed to be more cohesive. (Let's be honest, it was not very consistent. Now it's solid and you can enjoy it, so please do.)
-
--Some dialogues are overhauled to make more sense
-
--Some redactory work (A LOT OF IT)
+(http://www.mediafire.com/file/nqfrkb5fllbpqx4/Fallout_Nevada_Mod_Us.exe/file)
 
 
-The patch is on the way.
 Any contribution is encouraged.
