@@ -4,12 +4,12 @@
 {103}{}{Piss off.}
 {104}{}{Hello.}
 
-{110}{}{What is it?}
+{110}{}{What?}
 {111}{}{Nothing.}
 
 {112}{}{I'm looking for Jay Kukish.}
-{113}{}{You won’t find him here. I think he's already in Hawthorne.}
-{114}{}{Why are you telling me that so easily?}
+{113}{}{You won’t find him here. I think he's already in Hawthorne. It's a military base not far to the east.}
+{114}{}{Why are you telling me this so easily?}
 {115}{}{Because our gang has a special relationship with Jay. He's always been a lone wolf, on his own. If you have business with him, go ahead, feel free to catch up with him. As for me, I'm more worried about what we're all going to do now. He's made some fuss at Hawthorne, and we've responded to his call and gathered here, and now we're idle.}
 {116}{}{So, you're waiting for a message from Hawthorne?}
 {117}{}{Why did Jay need to go to Hawthorne?}

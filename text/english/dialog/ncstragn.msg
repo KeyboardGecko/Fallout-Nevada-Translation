@@ -11,7 +11,7 @@
 {115}{}{[He glances around] Really?}
 {116}{}{"You're as small as a bug..."}
 {117}{}{"...or huge like a whale..." Right, we need to talk. Now.}
-{118}{}{What happened?}
+{118}{}{What's going on?}
 
 #Old text:
 {119}{}{Страйкер собирается заключить сделку по поставкам оружия. Я расскажу все, что знаю, но у меня есть условие - я хочу перейти к Томпсону и побыстрее.}
@@ -37,7 +37,7 @@
 {136}{}{I don't need you - I'll find everything out on my own. Now get out of my way.}
 {137}{}{I'll bring what you need.}
 {138}{}{So, where's the money?}
-{139}{}{Goddamn it, of course I get the one person on Thompson's payroll with half a brain! Fine, you're right - I'm fucking sick of this place. Day after day it's just more fighting, assassinations, patrols, raids - they say it's all for a better future, but it's bullshit! It doesn't matter who's in charge, they're all look the same when their boots stomps down on your face. I'm not going to let this become my fucking life.}
+{139}{}{Goddamn it, of course I get the one person on Thompson's payroll with half a brain! Fine, you're right - I'm fucking sick of this place. Day after day it's just more fighting, assassinations, patrols, raids - they say it's all for a better future, but it's bullshit! It doesn't matter who's in charge, they're all look the same when their boots stomps down your face. I'm not going to let this become my fucking life.}
 {140}{}{Does it have to be cash? I can cut out the middleman and get you a ticket instead.}
 {141}{}{I understand.}
 {142}{}{I don't care as long as I'm on that bus.}
@@ -47,6 +47,6 @@
 {146}{}{Great. That should be enough. And don't even think of following me - I'll be watching.}
 {147}{}{Okay, listen. Stryker's cutting a deal with a Wind of War to get munitions and medical supplies. They're signing the contract soon. The actual shipments will come in later.}
 {148}{}{When and where are they signing the contract?}
-{149}{}{They're meeting on the second floor of the Silver Legacy hotel. The room is reserved already. Stryker's men are securing the place.}
+{149}{}{They're meeting on the second floor of the Silver Legacy hotel. The room is already reserved. Stryker's men are securing the place.}
 {150}{}{Got it. That should be enough. Now, get out of here.}
 {151}{}{Thanks for the info. Now I don't need you anymore. [Attack.]}

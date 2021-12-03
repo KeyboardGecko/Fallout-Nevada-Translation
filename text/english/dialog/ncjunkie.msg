@@ -61,7 +61,7 @@
 {205}{}{:: sigh ::}
 {206}{}{Reno... Reno...}
 {207}{}{I'm going to die today.}
-{208}{}{I was a respected man once...}
+{208}{}{I was a respectable man once...}
 {209}{}{Wait... Ah, no, nothing.}
 {210}{}{[Adjusts torn clothes]}
 
