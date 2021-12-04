@@ -1083,7 +1083,7 @@
 {56600}{}{Healing water}
 {56601}{}{A small bottle of supposedly healing water "Radium" from the company "Pretty & Glamour".}
 {56700}{}{Colt Revolver}
-{56701}{}{Very powerful exclusive weapon. The surface is painted with traditional Indian ornament. When you look at it under the flickering lights of Vegas, you feel yourself like a god.\nMin. ST: 5.}
+{56701}{}{A very powerful exclusive weapon. The surface is painted with traditional Indian ornament. When you look at it under the flickering lights of Vegas, you feel like a god.\nMin. ST: 5.}
 {56800}{}{"Black Dynamite"}
 {56801}{}{Extremely cool and stylish revolver.\nMin. ST: 6.}
 {56900}{}{Bath salt}

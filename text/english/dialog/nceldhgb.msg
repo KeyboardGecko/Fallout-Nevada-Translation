@@ -15,7 +15,7 @@
 {120}{}{You are weak! Pathetic! Pull yourself together, this is your last chance to save your relationship with your father! Have you forgotten what happened to the others? Is that what you want? €? Look at me! Face the reality for once!}
 {121}{}{Suit yourself. It's your life.}
 {122}{}{Shut up! [he draws his head into shoulders and turns away from you] Kill him yourself then! I won't do it! I... I won't!}
-{123}{}{[Take Huey's hand and point his weapon at the victim] Just pull the trigger, Huey. Just once. That's all it takes. It will make you free.}
+{123}{}{[Take Huey's hand and point his weapon at the victim] Just pull the trigger, Huey. Just once. That's all it takes. It will set you free.}
 {124}{}{[Huey trembles, becomes pale and turns his face away from the victim] Forgive me...}
 {125}{}{[Next]}
 {126}{}{[Huey's gun fires once, then again and again, as crimson flowers blossom on the twitching victim's clothes. An artery bursts as he falls down, a thick red mist spreads around, settling on you and Huey. Finally, Huey's weapon clicks empty. The victim's body lies motionless.]}

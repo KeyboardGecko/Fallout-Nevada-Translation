@@ -29,7 +29,7 @@
 {117}{}{[Sighs] Well, ok! Ask your stupid question already!}
 {118}{}{Hello. What do you want?}
 {119}{}{Hello. Wanna make 10 bucks? We don't have anybody to replace a brahmin... HA-HA-HA!!!}
-{120}{}{Oh! Just when we need free labor! You're just in time!.. HA-HA-HA!!!}
+{120}{}{Oh! Just when we need free labor! You're just in time!... HA-HA-HA!!!}
 
 ###############################################################
 #       Расспросы про текущий город

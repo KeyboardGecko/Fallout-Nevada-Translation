@@ -123,7 +123,7 @@
 {205}{}{nightshade berries (2), xander root (1), broc flower (1), clean water (1)}
 
 {206}{}{Horsekiller poison.}
-{207}{}{nightshade barriers (2), radscorpion tail (2), empty syringe (1)}
+{207}{}{nightshade berries (2), radscorpion tail (2), empty syringe (1)}
 
 {208}{}{Root beer.}
 {209}{}{xander root (2), mutafruit (1), clean water (1)}

@@ -3,9 +3,9 @@
 {102}{}{Move, move, move!}
 
 #ѕервый диалог
-{110}{}{Greetings, citizen. I'm the team's security detail for this mission. The rest is waiting for you in the medical bay. Let me know when they're ready.}
+{110}{}{Greetings, citizen. I'm the team's security detail for this mission. The rest are waiting for you in the medical bay. Let me know when they're ready.}
 {111}{}{Right...}
-{112}{}{One more thing: take these flares. They can come in handy if there's too dark outside. Turn around the upper part to light one up.}
+{112}{}{One more thing: take these flares. They can come in handy if it's too dark outside. Turn around the upper part to light one up.}
 {113}{}{Okay.}
 
 {114}{}{What's the order?}
@@ -16,7 +16,7 @@
 {119}{}{Wait here. IТll go get our team ready.}
 
 {120}{}{Doctor Richard Moreau is supervising the operation, he will brief you. I'm only providing security.}
-{121}{}{No. I've spent years training for this. I was taught to suppress my fears of outside world. This team can count on me.}
+{121}{}{No. I've spent years training for this. I was taught to suppress my fears of the outside world. This team can count on me.}
 {122}{}{No. Vault security regulations forbid any citizens besides the Overseer and security personnel from carrying weapons. But don't worry, I'll keep you safe.}
 {123}{}{Affirmative. When the team is ready, use the terminal to open the door.}
 {124}{}{Got it.}
