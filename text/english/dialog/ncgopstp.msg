@@ -49,7 +49,7 @@
 {196}{}{You want to talk to my boss about this? Just so you know, he has a special distaste for smart-asses like you.}
 
 #Molotov 
-{200}{}{Molotov Cocktail? No problem. But you need to bring me the raw materials and, oh...}
+{200}{}{Molotov Cocktail? No problem. But you need to bring me the raw materials and, oh... }
 {201}{}{ bucks. Lemme see... I need a bottle of beer, a bottle of Rot Gut and a bit of oxidizer from those signal flares.}
 
 {202}{}{Make me one.}

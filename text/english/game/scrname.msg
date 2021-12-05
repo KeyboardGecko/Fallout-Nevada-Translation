@@ -134,7 +134,7 @@
 {234}{}{Electrical board}
 {235}{}{Door}
 {236}{}{Barmen}
-{237}{}{Diesel}
+{237}{}{Afterburner}
 {238}{}{Caravan merchant}
 {239}{}{Big Louie}
 {240}{}{Watering place}

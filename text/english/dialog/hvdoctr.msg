@@ -56,14 +56,14 @@
 {307}{}{Sure. What do you want to know?}
 {308}{}{Are there any specific areas I should avoid?}
 {309}{}{How can I treat my radiation poisoning?}
-{310}{}{Are there any chems I can use to prevent radiation poisoning?}
+{310}{}{How high the level of radiation poisoning must be to be dangerous?}
 {311}{}{What effect does prolonged exposure to radiation have on the body?}
 {312}{}{I think that's about it. See you later.}
 
 {313}{}{I already knew that. Goodbye.}
 {314}{}{Obviously, it's better to avoid places with high radiation levels. But sometimes individual objects emit radiation too. Especially large metal objects, such as old cars.}
 {315}{}{Rad-X pills will boost your body's natural resistance against radiation. They should be taken before entering contaminated areas. If you are already exposed, RadAway will remove the radiation from your body. There might be other chemicals that could be of help, but I'm not aware of any.}
-{316}{}{Keep your radiation levels below 100 rad. Anything exceeding that is very dangerous.}
+{316}{}{Keep your radiation levels below 100 rad. Anything exceeding that needs to be treated.}
 {317}{}{Long-term radiation exposure will have negative effects on your body, such as weakness, clumsiness and loss of stamina. You will recover with treatment, but it will take time.}
 {318}{}{Take care, citizen }
 {319}{}{. And long live Vault City!}

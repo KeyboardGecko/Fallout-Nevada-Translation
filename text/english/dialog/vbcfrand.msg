@@ -42,7 +42,7 @@
 {136}{}{Don't mention it. I'll see you around.}
 
 {137}{}{I'm sorry, but... Do I know you?}
-{138}{}{Oh, yes, it's you... I remember how you were dragged here to Doctor Willmouth. He told me you forgot almost everything. I'm sorry.}
+{138}{}{Oh, yes... I remember how you were dragged here to Doctor Willmouth. He told me you forgot almost everything. I'm sorry.}
 
 #В'орой диалог
 

@@ -8,7 +8,7 @@
 {113}{}{What's our mission?}
 {114}{}{We recently stopped getting information from our surface surveillance monitors. But they still should record data to the local backup. Your job is to get the data from the monitors, if that is possible.}
 {115}{}{How would I do that?}
-{116}{}{Take this empty holodisk. Each monitor has a slot on them, just plug the disk in and press "copy". The monitor will take care of the rest - if it still works, of course. Now, give me your sensor. I'll mark the positions of the monitors on your map, so it would be easier for you to find them.}
+{116}{}{Take this empty holodisk. Each monitor has a slot on them, just plug the disk in and press "copy". The monitor will take care of the rest - if it still works, of course. Now, give me your sensor. I'll mark the positions of the monitors on your map, so it will be easier for you to find them.}
 {117}{}{Okay, doctor Moreau, we're good to go. Follow me.}
 {118}{}{Understood. I'll tell you when we're ready to leave.}
 {119}{}{Yes?}

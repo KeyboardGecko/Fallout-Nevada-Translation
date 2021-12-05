@@ -248,7 +248,7 @@
 {483}{}{Okay, but I have more questions first.}
 {484}{}{I'll be back with your stuff.}
 
-{485}{}{The raiders hideout is not far from here - to the north. The one who took my backpack calls himself Diesel.}
+{485}{}{The raiders hideout is not far from here - to the north. The one who took my backpack calls himself Afterburner.}
 {486}{}{No doubt it's the Ruler of Life who sent you! Thank you, outsider! Such generosity is rare in our times... Rare and precious. For as long as you live, I will heal your injuries without payment.}
 {487}{}{That's great, but all this generosity really works up an appetite... }
 {488}{}{Aw, it was nothing. You're welcome.}

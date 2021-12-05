@@ -1,1 +1,1 @@
-{100}{}{At first sight, they are ordinary ruins. But anyone could be hiding in them.}
+{100}{}{At first sight these are ordinary ruins. But anyone could be hiding in them.}

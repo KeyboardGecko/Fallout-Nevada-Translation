@@ -25,7 +25,7 @@
 {126}{}{Can you make some iguanas for me?}
 {127}{}{Well, yes. And what will you give me for it?}
 {128}{}{Actually, I don't know... Let's see what we can trade.}
-{129}{}{Hey, tell me better how to cook them. It would be useful in my journey!}
+{129}{}{Hey, tell me instead how to cook them. It would be useful in my journey!}
 {130}{}{You know, I'd better look for other food.}
 {131}{}{It's easy. Bring me some water, or money - and I'll teach.}
 {132}{}{Yeah.}

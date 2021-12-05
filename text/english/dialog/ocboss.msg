@@ -110,7 +110,7 @@
 #Насос:
 {191}{}{Without the pump, we'll have no water. We'll have to leave this place.}
 {192}{}{What can be done?}
-{193}{}{I'm no mechanic, but some part of the pump seems to have broken. We've got two choices: find someone to repair it, or to replace the part.}
+{193}{}{I'm no mechanic, but some part of the pump seems to be broken. We've got two choices: find someone to repair it, or to replace the part.}
 {194}{}{What will I get in return if I fix the pump?}
 {195}{}{I'll get the pump working for you.}
 {196}{}{I'll make it worth your while. I've got connections in... Well, it doesn't matter what kind of connections. I can get you a good weapon, if you're interested.}

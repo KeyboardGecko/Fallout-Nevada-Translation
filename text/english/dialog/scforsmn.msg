@@ -1,5 +1,5 @@
-{100}{}{You see Diesel.}
-{101}{}{You see a raider nicknamed Diesel. He's shuffling a deck of cards.}
+{100}{}{You see Afterburner.}
+{101}{}{You see a raider nicknamed Afterburner. He's shuffling a deck of cards.}
 
 {105}{}{I'm beat. I gotta hit the hay.}
 
@@ -133,7 +133,7 @@
 
 {230}{}{Heh. Prepare to learn some humility. [he takes the cards out and the game begins]}
 {231}{}{Quit the bullshit. Let's play already.}
-{232}{}{[Diesel deals the cards. So far, everything is fair.]}
+{232}{}{[Afterburner deals the cards. So far, everything is fair.]}
 {233}{}{[Next]}
 {234}{}{Ha-ha, what is this? You lost ace and king! I'll kick your ass in the next hand.}
 {235}{}{Woah! Where did you get that ace from? It was... Ah, yeah, that's right. Let's keep going.}

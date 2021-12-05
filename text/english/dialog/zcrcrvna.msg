@@ -155,7 +155,7 @@
 {296}{}{They are called Coyotes tribe, even though nobody know anything about them. We know for sure, that they are cannibals and that they are using weapons custom-made from the old farming technologies. They live high in the mountains, so nobody goes there. Some rare lucky ones happened to see roadblocks and abandoned camps of those animals. That is all that is known. Nobody cares about them, besides, maybe, the slavers.}
 
 {300}{}{Tell me, how is it out there - in the Wasteland?}
-{301}{}{It is harsh in the Wasteland. We are forced to travel on the pre-war highways, because it's faster and more comfortable, that to walk through the desert. But the raiders know about this, that's why when we are approaching gas stations and small settlements we are always staying alert.}
+{301}{}{It is harsh. We are forced to travel on the pre-war highways, because it's faster and more comfortable then to walk through the desert. But the raiders know about this, that's why when we are approaching gas stations and small settlements we are always on alert.}
 {302}{}{Between which cities do you trade?}
 {303}{}{So, most travelers are using that highways? I will have to remember that. Bye.}
 

@@ -634,7 +634,7 @@
 {32200}{}{Mysterious device}
 {32201}{}{High-tech device of unknown purpose.}
 {32300}{}{Signal jammer}
-{32301}{}{Any action always has a reaction. This high-tech device is designed to suppress the radio signal and disable the electronic components of its source. Effective in eight miles' radius.}
+{32301}{}{Any action always has a reaction. This high-tech device is designed to suppress the radio signal and disable the electronic components of its source. Effective within eight miles' radius.}
 {32400}{}{Disinfection}
 {32401}{}{Tablets that completely destroy various biological contagion in water and similar fluids. With their help you can clean even the water from the sewer and drink it without harm to health.}
 {32500}{}{Dice}
@@ -878,7 +878,7 @@
 {45000}{}{---}
 {45001}{}{---}
 {45100}{}{Prospector's note}
-{45101}{}{This note was at the corpse of a prospector in Hawthorne. It says, "If I die, tell my family in Reno that I love them." Signature: Robert Gate.}
+{45101}{}{This note was on the corpse of a prospector in Hawthorne. It says, "If I die, tell my family in Reno that I love them." Signature: Robert Gate.}
 {45200}{}{Lunch token}
 {45201}{}{This token with the symbol of Nuka-Cola is made from an old poker chip.}
 {45300}{}{Box for bottles}
@@ -1015,8 +1015,8 @@
 {52301}{}{Pre-war weekly magazine, issued for people running their own business. And even while the times has changed, you can still draw useful information about the trade from this edition.}
 {52400}{}{Worn jacket}
 {52401}{}{This dirty smelly jacket once belonged to a raider. It is so worn out that you can hear how the threads break when you move.}
-{52500}{}{Diesel's gum}
-{52501}{}{Methamphetamine gum wrapped in a newspaper stub. According to Diesel, its use for a short time stimulates the central nervous system.}
+{52500}{}{Afterburner's gum}
+{52501}{}{Methamphetamine gum wrapped in a newspaper stub. According to Afterburner, its use for a short time stimulates the central nervous system.}
 {52600}{}{Remains}
 {52601}{}{Remains of the vault dweller. The corpse lies here for so long that it is withered to the bone.}
 {52700}{}{Remains}
@@ -1083,7 +1083,7 @@
 {56600}{}{Healing water}
 {56601}{}{A small bottle of supposedly healing water "Radium" from the company "Pretty & Glamour".}
 {56700}{}{Colt Revolver}
-{56701}{}{A very powerful exclusive weapon. The surface is painted with traditional Indian ornament. When you look at it under the flickering lights of Vegas, you feel like a god.\nMin. ST: 5.}
+{56701}{}{A very powerful exclusive weapon. The surface is covered in traditional Indian ornaments. When you look at it under the flickering lights of Vegas, you feel like a god.\nMin. ST: 5.}
 {56800}{}{"Black Dynamite"}
 {56801}{}{Extremely cool and stylish revolver.\nMin. ST: 6.}
 {56900}{}{Bath salt}
@@ -1091,7 +1091,7 @@
 {57000}{}{Burp}
 {57001}{}{Stinky burp of an acid gecko.\nMin. ST: 1.}
 {57100}{}{REZ-4}
-{57101}{}{Rare electromagnetic gun. You're lucky ... if, of course, you can handle a weapon of this size. The problem is also in the absence of a way for recharging the battery. When the charge is over, this weapon will become useless.\nMin. ST: 8.}
+{57101}{}{A rare electromagnetic gun. You're lucky... If you can handle a weapon of this size. The problem is also in the absence of a way for recharging the battery. When the charge is over, this weapon will become useless.\nMin. ST: 8.}
 {57200}{}{Flail}
 {57201}{}{The brutal weapon of bikers is a large-caliber chain with a heavy metal ball at the end.\nMin. ST: 5.}
 {57300}{}{Rusty Katana}
