@@ -60,7 +60,7 @@
 {192}{}{You feel light chills that just won't go away.}
 {193}{}{*cough-cough*}
 {194}{}{*Unghh*}
-{195}{}{Congratulations! Your disease has developed into full-blown leprosy.}
+{195}{}{Congratulations! Your disease has developed into a full-blown leprosy.}
 {196}{}{You feel feverish and nauseous.}
 {197}{}{You keep coughing up blood. You need medical attention!}
 {198}{}{You are suffering from an infectious disease.}
