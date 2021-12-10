@@ -53,9 +53,9 @@
 {203}{}{Oh, Dr. Willmouth must have been looking for subjects for his studies... What's a caravan, anyway?}
 {204}{}{It means I travel around looking for junk to buy and sell, kiddo, and maybe make enough profit to eat once in a while. You don't even know that? You're a funny bunch. I've never met anyone like you in the wastes, and I've been around for a REALLY long time.}
 {205}{}{Good, because I want to know everything about the outside world.}
-{206}{}{What? Don't take me wrong, friend, but you people don't belong out there. The outside world is cruel. The Hub or Necropolis would eat you alive. You're lucky to be living in a place like this, with all this technology. Most fellas can't even dream of such life.}
+{206}{}{What? Don't take me wrong, friend, but you people don't belong out there. The outside world is cruel. The Hub or Necropolis would eat you alive. You're lucky to be living in a place like this, with all this technology. Most fellas can't even dream of such a life.}
 {207}{}{[Next]}
-{208}{}{It's uglier out there than I am. Ha! The closest city, New Reno, is has some kind of a civil war going. And in Vegas, the local royalty are at each other's throats while everyone else is begging for crumbs. To the south of that is only a vast emptiness, scorched by nuclear fire... Cities in ashes... Radioactive, twisted forms of life... }
+{208}{}{It's uglier out there than I am. Ha! The closest city, New Reno, has some kind of a civil war going. And in Vegas, the local royalty are at each other's throats while everyone else is begging for crumbs. To the south of that is only a vast emptiness, scorched by nuclear fire... Cities in ashes... Radioactive, twisted forms of life... }
 {209}{}{It must be horrible.}
 {210}{}{Nevada and California to the west might be all that's left. At least those cities are just old, not destroyed. You should appreciate it, friend.}
 {211}{}{Interesting. But I have to go.}
