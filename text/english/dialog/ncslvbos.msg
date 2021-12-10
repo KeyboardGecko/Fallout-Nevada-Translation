@@ -30,7 +30,7 @@
 
 #Джей Кукиш
 {140}{}{I heard a rumor that you and the bikers are old friends. With one of them named Jay, for example.}
-{141}{}{I've never made any secret of the fact that I like these guys. We often share beers and stories when they're in town. But Jay is not like other bikers. He's fixated on technology and isn't very talkative. Even among his own, he's considered an odd one.}
+{141}{}{I've never made a secret of the fact that I like these guys. We often share beers and stories when they're in town. But Jay is not like other bikers. He's fixated on technology and isn't very talkative. Even among his own, he's considered an odd one.}
 {142}{}{They say Jay was passing through Reno recently. Is that true?}
 {143}{}{Yes, stayed for the night and left in the morning. He seemed to be in a great hurry. He had this peculiar sparkle in his eyes... Most likely, he found something special, but he didn't tell me jack shit about what it was.}
 {144}{}{I know what's that sparkle is about. I need to contact him immediately, before it's too late!}
