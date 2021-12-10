@@ -5,7 +5,7 @@
 {102}{}{You see presidential safe.}
 {103}{}{You see a wall safe made of a durable alloy with a complex electronic lock.}
 {104}{}{You see a safe.}
-{105}{}{You see a a sturdy wall safe with a powerful lever locks.}
+{105}{}{You see a sturdy wall safe with a powerful lever locks.}
 
 #safe usage
 {200}{}{This strong safe easily resisted a powerful strike. It will resist all others.}

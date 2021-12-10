@@ -161,7 +161,7 @@
 
 #Проблема с миссис Кловер
 {260}{}{A resident in your slums, Mrs. Clover, has become the victim of another person's debts. What is your position on this?}
-{261}{}{Another headache. Mrs. Clover is a a reliable cash cow due to her restaurant's income, so it's in my best interests to keep her solvent. On the other hand, it's not in my best interests to forgive debts... I'm taking my share, regardless of who pays it. I will be observing this matter from a distance with great care.}
+{261}{}{Another headache. Mrs. Clover is a reliable cash cow due to her restaurant's income, so it's in my best interests to keep her solvent. On the other hand, it's not in my best interests to forgive debts... I'm taking my share, regardless of who pays it. I will be observing this matter from a distance with great care.}
 {262}{}{I understand. Let's talk about something else.}
 {263}{}{That's all I needed. Goodbye, Mr. Wright.}
 
