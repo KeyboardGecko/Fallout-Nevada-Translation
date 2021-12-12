@@ -459,7 +459,7 @@
 {44200}{}{Drug Dealer}
 {44300}{}{Commander}
 {44400}{}{Militia}
-{44500}{}{Striker}
+{44500}{}{Stryker}
 {44600}{}{Biker}
 {44700}{}{Slut}
 {44800}{}{Slut}

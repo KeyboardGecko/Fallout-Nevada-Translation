@@ -28,7 +28,7 @@
 
 {134}{}{Really? You're a lifesaver. Hey, sit down and talk for a bit - I don't like to drink alone.}
 {135}{}{[Next]}
-{136}{}{...So, like I tell all the rookies, get a spare and strike will happen by itself!}
+{136}{}{...So, like I tell all the rookies, get a spare and a strike will happen by itself!}
 {137}{}{You must a knowledgeable player.}
 
 #Расспросы
@@ -78,7 +78,7 @@
 {186}{}{What?}
 {187}{}{It means it'd have a radio station, a power source, surveillance systems, medical supplies, all that stuff. Those pre-war folks didn't fuck around when it came to their shelters. But we'll never know for sure until Stryker finds someone that can either crack the terminal or blow the door down.}
 {188}{}{It looks like you scavenged some things from there already.}
-{189}{}{Yeah, Stryker pulled out all the surveillance systems we could get to and wired them up around the headquarters. They work great, though the guys get tired of staring at monitors all day. Honestly, we don't really need them, but sometimes Stryker keeps a record of his meetings in case he needs dirt on someone. But, uh, don't tell anyone I said that.}
+{189}{}{Yeah, Stryker pulled out all the surveillance systems we could get his hands on, and wired them up around the headquarters. They work great, though the guys get tired of staring at monitors all day. Honestly, we don't really need them, but sometimes Stryker keeps a record of his meetings in case he needs dirt on someone. But, uh, don't tell anyone I said that.}
 {190}{}{How can I get the key to the bunker?}
 {191}{}{Talk to Stryker. He'll probably give it to you for a few bucks. After all, if we can't get into the command center, it's not like you'll be able to.}
 {192}{}{Okay.}

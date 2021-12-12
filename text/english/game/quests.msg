@@ -204,7 +204,7 @@
 {841}{}{Thompson: punish street thugs}
 {842}{}{Thompson: investigate the attack on the propaganda team}
 {843}{}{Thompson: persuade Mordino to cooperate}
-{844}{}{Thompson: sabotage Striker's deal}
+{844}{}{Thompson: sabotage Stryker's deal}
 {845}{}{Thompson: prepare the invasion to Stryker's}
 
 #---------------------------------------------------------

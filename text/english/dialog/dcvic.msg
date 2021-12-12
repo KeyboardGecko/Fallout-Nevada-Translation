@@ -117,7 +117,7 @@
 {220}{}{Another question.}
 {221}{}{This is enough for today.}
 
-{230}{}{Oh, you're really dangerous, baby! I don't envy the one that you decided to kill. OK, I know where to do it. Striker, he lives in bowling stadium. Local gangster and manufacturer of drugs. Recommend.}
+{230}{}{Oh, you're really dangerous, baby! I don't envy the one that you decided to kill. OK, I know where to do it. Stryker, he lives in bowling stadium. Local gangster and manufacturer of drugs. Recommend.}
 {231}{}{What else?}
 
 #Про города и кар'ы:
@@ -384,7 +384,7 @@
 {2053}{}{A real rarity. They say, it not just heals, but also strengthens the immunity.}
 {2097}{}{Hmm, yeah you test my observation, baby! Of course, I can see that this must be placed somewhere.}
 {2120}{}{Effortless power and brutality. The real gold amongst all the shit that can be found in the Wasteland. The only minus is the heavy barrel. However, there are technicians that could give it a fix.}
-{2164}{}{Familiar! Recognize the work of Striker. However, many brake on this stuff in the ring. You're not going to try it, right?}
+{2164}{}{Familiar! I recognize the work of Stryker. However, many brake on this stuff in the ring. You're not going to try it, right?}
 {2222}{}{It glows? Baby, these things are valued simply for what they are.}
 {2237}{}{Newspapers? Well, you don't want to force me to read it do you? Okay... Advertising "Pretty & Glamour" I've heard it before. Yes that's right, vending machine in "Silver Legacy".}
 {2239}{}{Little weak. Honestly.}

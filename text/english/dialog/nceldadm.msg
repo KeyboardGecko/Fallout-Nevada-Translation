@@ -39,12 +39,12 @@
 {140}{}{I don't know, I'll have to ask him.}
 
 {141}{}{That's a lot of cash. Is there any other way to pay off the debt?}
-{142}{}{Hmm. [he studies you carefully] It's possible an accounting error could cause Mrs. Clover's debt to fall between the cracks. But such errors are usually the result of other, more *esoteric* errors. I could discuss such details with you, but it would have to remain between us...}
+{142}{}{Hmm. [he studies you carefully] It's possible an accounting error could cause Mrs. Clover's debt to slip between the cracks, shall we say. But such errors are usually the result of other, more *esoteric* errors. I could discuss such details with you, but it would have to remain between us...}
 {143}{}{Go on.}
 
 {144}{}{I could wipe Mrs. Clover's debt clean, but you'd have to get something for me. Specifically, a copper cigarette case, such as one in Mr. Wright's collection.}
 {145}{}{Of all the things in Reno, you want a cigarette case?}
-{146}{}{In this case, a cigarette case is not just a cigarette case. Symbols of pre-war society indicates of a certain status. In my particular situation, such things are more powerful than guns or even money.}
+{146}{}{In such instance, a cigarette case is not just a cigarette case. Such symbols of pre-war society indicate a certain status. In my particular situation, such things are more powerful than guns or even money.}
 {147}{}{Who is Mr. Wright, and what's that collection?}
 {148}{}{You don't know Mr. Wright? You should. He owns the slums opposite this casino and the Silver Legacy. He was once a very powerful man, but he's but a shadow of that now. Nonetheless, he retains his collection of pre-war memorabilia. He is a... Traditional man, and appreciates the America that once was. He collects artifacts of that time, and sometimes shows his collection to those that would appreciate it. Like me.}
 {149}{}{What if your boss finds out about this?}

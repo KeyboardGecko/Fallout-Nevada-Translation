@@ -140,8 +140,8 @@
 {216}{}{Poisoned booze for El Dorado patrons (5).}
 {217}{}{beer (5), radscorpion tail (1)}
 
-{218}{}{Stimpaks for Striker's chemicals (10).}
-{219}{}{Striker's chemicals (1), empty syringe (10)}
+{218}{}{Stimpaks for Stryker's chemicals (10).}
+{219}{}{Stryker's chemicals (1), empty syringe (10)}
 
 {220}{}{Stimpak.}
 {221}{}{xander root (1), broc flower (1), clean water (1), empty syringe (1)}

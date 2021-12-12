@@ -154,7 +154,7 @@
 {242}{}{Mission accomplished. Stryker and Thompson won't discover the truth any time soon.}
 {243}{}{Well, it means that your service was less significant than I expected. Therefore, you'll receive only half the pay. And don't you dare try to argue with me. Stryker and Thompson were an important force in this town. Without them, Reno will fall into chaos, and we're not prepared for that yet.}
 {244}{}{What do you mean?}
-{245}{}{[He counts your payment] Striker and Thompson were important forces in this town. Without them, Reno will fall into chaos, and we're not prepared for that yet.}
+{245}{}{[He counts your payment] Stryker and Thompson were important forces in this town. Without them, Reno will fall into chaos, and we're not prepared for that yet.}
 {246}{}{What are you talking about?}
 {247}{}{Until now, my ranch has been self-sufficient. But recent years have drained our resources. We don't have a lot of money for the exchange and we're being watched. The powers that be are oppressing us from all sides. They won't allow us to develop further.}
 {248}{}{Further?}

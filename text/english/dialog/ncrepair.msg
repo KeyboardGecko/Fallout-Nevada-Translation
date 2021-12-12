@@ -17,7 +17,7 @@
 {115}{}{Alright, forget it.}
 
 #Первый разговор
-{120}{}{[Entering dim-lit room, you see its dirty-faced goggles-wearing inhabitant. He looks busy and tired at the same time. He stops working when notices you] Huh? Are you a customer, or just lost? You'll never know who's going to wander in here... But hey, maybe I'm lucky this time. What can I do for ya?}
+{120}{}{[Entering a dim-lit room, you see its dirty-faced goggles-wearing inhabitant. He looks busy and tired at the same time. He stops working when noticing you] Huh? Are you a customer, or just lost? You'll never know who's going to wander in here... But hey, maybe I'm lucky this time. What can I do for ya?}
 {121}{}{Hi. May I ask who I stumbled upon in these slums?}
 {122}{}{Frank Cochran, at your service. I'm mechanic and electrician, and also a little bit of a gunsmith. I often have to deal with just about anything that has something to do with repairing. As for slums - no offense taken, I like it that way. If I had more trust in people, I would've already moved somewhere closer to the central streets.}
 {123}{}{I see. So if I need something repaired, I can talk to you?}

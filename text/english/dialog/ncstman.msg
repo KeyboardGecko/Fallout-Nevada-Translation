@@ -9,7 +9,7 @@
 
 #Floats while attempting to talk
 {110}{}{I've got nothing to say to you.}
-{111}{}{Striker's the boss here, talk to him.}
+{111}{}{Stryker's the boss here, talk to him.}
 {112}{}{Keep moving. Stryker doesn't tolerate loitering.}
 {113}{}{Uh-huh. What else?}
 {114}{}{No one to talk to? Eh, I feel you...}

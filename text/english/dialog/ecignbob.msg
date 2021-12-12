@@ -1,7 +1,7 @@
 {100}{}{You see a trapper of lizards.} 
 {101}{}{You see a tanned to the point of blackness desert lizards trapper. He must be long engaged in his art.}
 
-{110}{}{(Approaching the fire you notice a tanned man, dressed in leather. At first glance he looks like a retard, as if waiting for something to instantly grab. Seeing you, he only looks around with curiosity)}
+{110}{}{[Approaching the fire you notice a tanned man, dressed in leather. At first glance he looks a little slow, as if waiting for something to instantly grab. Seeing you, he only looks around with curiosity]}
 {111}{}{May I?}
 {112}{}{I don't mind... [his voice seems dull and stiff, like in his life this man rarely had to communicate with people] You must have a good reason to wander through these barren lands.}
 {113}{}{Yeah, I had to go on a long journey... But, judging by the look of your inventory, this land is not so barren.}

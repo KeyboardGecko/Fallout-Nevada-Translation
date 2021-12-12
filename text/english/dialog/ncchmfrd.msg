@@ -20,7 +20,7 @@
 {121}{}{What's your plan?}
 {122}{}{I'm out. This job isn't for me.}
 {123}{}{Hmm... That's not what I expected from you. Well, keep me in mind, anyway.}
-{124}{}{First step? You gotta get a message to him. I'm offering him to make a run to San Francisco. It's way, way west of here - they're never find us. The hard part is getting him out.}
+{124}{}{First step? You gotta get a message to him. I'm offering him to make a run to San Francisco. It's way, way west of here - they'll never find us. The hard part is getting him out.}
 {125}{}{If you want my help, I need to know more about you and Terry.}
 {126}{}{I'll see what I can do.}
 
@@ -31,9 +31,9 @@
 {131}{}{You were gone for ten years and are just expecting to pick up where you left off with this guy?}
 {132}{}{I've heard enough. Take care.}
 
-{133}{}{Businessmen around the city went into full-on war. My house burned down with my family with it, I got blind, Terry got snatched up, and it looks like he's been passed around from one leader to another ever since.}
-{134}{}{We dealt with booze, mostly. We were not half-bad - our stuff found its way into the local bars. Not pre-war quality, but better than the moonshine other people were churning out. Problem was, some of those moonshiners didn't appreciate the comparison. Some tough guys they were... Oh, and also, we lent some alcohol for medicinal purposes - obviously, health care in that times was not so good.}
-{135}{}{[He sighs] Alright, so, someone set my house on fire. I ran in to find my family. I did, but not fast enough. Then a burning piece of wood fell on me and I got blind. Days of me being suicidal mood went by, until a caravan from San Francisco arrived. They said the doctors there could treat me. Funny sort people. Had funny kind of morals too - made me their lab rat. It was... I don't like to remember it. But I can see again. Better than ever, actually.}
+{133}{}{Businessmen around the city went into full-on war. My house burned down with my family it it, I got blinded, Terry got snatched up, and it looks like he's been passed around from one leader to another ever since.}
+{134}{}{We dealt with booze, mostly. We were not half-bad - our stuff found its way into the local bars. Not pre-war quality, but better than the moonshine other people were churning out. Problem was, some of those moonshiners didn't appreciate the comparison. Some of them were really mean guys... Oh, and also, we used to lend some alcohol for medicinal purposes - obviously, health care in those times was not so good.}
+{135}{}{[He sighs] Alright, so, someone set my house on fire. I ran in to find my family. I did, but not fast enough. Then a burning piece of wood fell on me and I got blinded. Days of me being suicidal went by, until a caravan from San Francisco arrived. They said the doctors there could treat me. Funny sort of people. Had funny kind of morals too - made me their lab rat. It was... I don't like to remember it. But I can see again. Better than ever, actually.}
 {136}{}{I couldn't do it until now. It took me a long time to get out of San Francisco, and when I did, I was... I'll say it, I was scared. But I worked up the nerve, and I've worked out a plan. I've finally got the chance to help an old friend out... If he wants it.}
 {137}{}{Don't wait too long. This city could explode any day.}
 {138}{}{Good luck.}

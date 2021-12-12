@@ -17,7 +17,7 @@
 {117}{}{That's it? Huh, you're more curious than most of these goons. I'm a chemist. [he cocks an eyebrow at you] Funny that Stryker didn't tell you that.}
 {118}{}{Yes, but what are you doing *exactly?*}
 {119}{}{How long have you been working here?}
-{120}{}{How did you got involved with Stryker?}
+{120}{}{How did you get involved with Stryker?}
 {121}{}{What does Stryker need with a chemist?}
 {122}{}{Forget it, let's talk about something else.}
 
@@ -112,7 +112,7 @@
 
 #Побег
 {210}{}{Nick Hauer says hi.}
-{211}{}{[He freezes in place, then slowly turns to look at you] Nick... Nick is here? He's alive?!}
+{211}{}{[He freezes, then slowly turns to you] Nick... Nick is here? He's alive?!}
 {212}{}{Yes. He wants to free you and escape to San Francisco.}
 
 {213}{}{Escape?! But he's blind as a bat! How can he... Something happened, didn't it? Ten years - even people who can see are lucky to live that long. Holy shit... He's alive. I can't believe it. Look, I'd leave right now if it weren't for my son and the guards. I'm a prisoner, you get that?}
@@ -122,9 +122,9 @@
 {217}{}{Give me some time to think.}
 
 {218}{}{Look, I'd leave right now if it weren't for my son and the guards. I'm a prisoner, you get that?}
-{219}{}{We could go out the back door, but it's locked. You probably saw my guard when you came in, right? He won't let us walk out. Hmm... He drinks, you know - can you use that?}
+{219}{}{We could go through the back door, but it's locked. You've probably met the guard when you came in, right? He won't let us out. Hmm... He drinks, you know - can you use that?}
 {220}{}{I can't go without them. When Stryker finds out I'm gone, he'll find them and he'll make them suffer. I have to bring them with me.}
-{221}{}{He... [he covers his eyes] All these years, I've felt so guilty... I was a coward. I can't say I've changed much, but... If he's alive... Maybe I can make things right. I've got to.}
+{221}{}{He... [he covers his eyes] All these years, I've felt so guilty... I was a coward. I can't say I've changed much, but... If he's alive... Maybe I can make things right. I have to.}
 {222}{}{I took care of the guard. Let's get out of here.}
 {223}{}{Great! And the back door?}
 {224}{}{Just a second, I'll take care of it.}
@@ -133,11 +133,11 @@
 {227}{}{Let's go then!}
 {228}{}{Forward.}
 
-{229}{}{Escape?! But he's blind as a bat! How can he... Something happened, didn't it? Ten years - even people who can see are lucky to live that long. Holy shit... He's alive. I can't believe it. We just need to get my family and we can go. Better be careful... Even if Stryker's dead, someone in Reno might follow us. The animals on the street can smell hope and desperation.}
+{229}{}{Escape?! But he's blind as a bat! How can he... Something happened, didn't it? Ten years - even people who can see are lucky to live that long. Holy shit... He's alive. I can't believe it. We just need to get my family and we can go. Better be careful... Even if Stryker's dead, someone in Reno might follow us. The animals on the street can smell the desperation.}
 {230}{}{Then let's not waste time. Let's go to hotel.}
 {231}{}{Give me some time to get ready.}
 
 #Female character
 {1112}{}{If you call the guards, you won't live long enough to see them.}
 {1117}{}{That's it? Huh, you're more curious than most of these goons. I'm a chemist. [he cocks an eyebrow at you] Funny that Stryker didn't tell you that.}
-{1131}{}{Okay, but let's make them snappy. I've got a busy schedule.}
+{1131}{}{Okay, but let's make it snappy. I've got a busy schedule.}
