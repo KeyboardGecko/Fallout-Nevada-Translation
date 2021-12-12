@@ -1,4 +1,4 @@
-{100}{}{You see a strong man.}
+{100}{}{You see a very strong man.}
 {101}{}{You see Mike.}
 {102}{}{You see a large, very muscular man.}
 
@@ -84,7 +84,7 @@
 {172}{}{Not today.}
 {173}{}{Mike raised your unarmed skill by 3%.}
 
-#Силовой кулак
+#Г‘ГЁГ«Г®ГўГ®Г© ГЄГіГ«Г ГЄ
 {180}{}{Something tells me you didn't travel all the way here with just your bare hands.}
 {181}{}{Right. Even I can't fight my way up the highway with just my boxing gloves. Thankfully, I knew a guy who knew a guy who could get me a power fist before I left. Best unarmed weapon you'll ever see, but there's a catch - you can't get batteries for it here. Now that I'm here, it's useless.}
 {182}{}{I want to buy that power fist from you.}
