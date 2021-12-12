@@ -308,7 +308,7 @@
 {523}{}{Let's discuss the second phase of the repair.}
 {524}{}{Let's discuss the third phase of the repair.}
 
-{525}{}{My pleasure! The first thing that needs restoring is the armor hull. It is not easy. The construction used high quality polymers, cermets, and special fasteners. I need blueprints to see how it was all assembled before. The situation with materials is tight, but it is still possible to find them.}
+{525}{}{My pleasure! The first thing that needs restoring is the armor hull. It is not easy. The construction used high quality polymers, ceramics, and special fasteners. I need blueprints to see how it was all assembled before. The situation with materials is tight, but it is still possible to find them.}
 {526}{}{I have a broken power armor. Will it be enough to restore the hull?}
 {527}{}{I have blueprints of the frame structure!}
 {528}{}{Where I can find them?}
@@ -379,7 +379,7 @@
 {581}{}{Hmm... Anyway - thank you, partner. I hope this isn't our last "enterprise" together. [He smiles and shakes your hand] Good luck!}
 {582}{}{You too.}
 
-#Womens replica
+#Women's replica
 {1303}{}{Easy, like a piece of ca... Wait a second! You think this is cool, smartass!? You'll pay if I catch you doing this! Skinner even appointed a reward for thieves like you...}
 {1304}{}{Hey, easy! I didn't do anything wrong yet!}
 {1403}{}{Rare? Hey, wait a minute! So I'm not the only one with the wheels!?}

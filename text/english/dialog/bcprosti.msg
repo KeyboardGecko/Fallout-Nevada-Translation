@@ -3,7 +3,7 @@
 {102}{}{Thanks for the cash. First chance I get, I'm out of here.}
 {103}{}{I don't feel so good... }
 
-#Starting converstaion
+#Starting conversation
 {109}{}{. And yours?}
 {110}{}{[You see a girl with beautiful hair and a red scarf around her neck. As soon as she makes eye contact with you, she smiles flirtatiously.] Well, hello, handsome. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
 {111}{}{Nice to meet you. My name is }
@@ -74,7 +74,7 @@
 
 {191}{}{Haven't you tried going to a doctor?}
 {192}{}{Show me your skin condition.}
-{193}{}{You see any fuckin' doctors around here? Even in Reno you gotta keep buying anaesthetic from chem dealers to keep it from getting too bad. I think Jed, the old man that lives next to Justin, told me they managed to cure it in Reno a long time ago with some kind of plant, but that's it. I don't even know if it's true.}
+{193}{}{You see any fuckin' doctors around here? Even in Reno you gotta keep buying anesthetic from chem dealers to keep it from getting too bad. I think Jed, the old man that lives next to Justin, told me they managed to cure it in Reno a long time ago with some kind of plant, but that's it. I don't even know if it's true.}
 {194}{}{No shit? You're really gonna help me? [she smiles] Thank you! I didn't think anyone even cared! Try talking to Jed - he said he knew of some medicine made out of a plant or something, but he doesn't remember how to make it. Maybe you can get something out of him.}
 {195}{}{Fine.}
 
@@ -165,7 +165,7 @@
 {294}{}{Right.}
 
 #Female character
-{1110}{}{[You see a girl with a beautiful hair and red scarf around her neck. As soon as she makes eye contact with you, she smiles flirtaciously.] Well, hello, beautiful. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
+{1110}{}{[You see a girl with a beautiful hair and red scarf around her neck. As soon as she makes eye contact with you, she smiles flirtatiously.] Well, hello, beautiful. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
 {1126}{}{[She laughs] Are you serious? You really don't know? [she puts a finger under your chin and winks] Don't worry, baby. I'm a great teacher.}
 {1159}{}{I'm sorry. I didn't mean to upset you.}
 {1164}{}{[She stares at you with wide eyes] Are you fuckin' with me? Oh my god, you're serious. Holy shit... A virgin, at your age...}

@@ -43,7 +43,7 @@
 
 {135}{}{Oh, you're not the only thief that I had a chance to talk to... But I'll enjoy our conversation more when [he raises his voice] you'll be in a cage with your guts ripped out!!!}
 {136}{}{That's harsh.}
-{137}{}{You know, you pretend to be a kind son of a bitch, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. Whe you are grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
+{137}{}{You know, you pretend to be a kind son of a bitch, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. When you are grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
 {138}{}{I think there's more to my essence than this.}
 {139}{}{Come out and we will see. You're neither the first, nor last. However, I like you. With you I'm gonna have a "conversation" longer than usual.}
 
@@ -57,5 +57,5 @@
 {1109}{}{What did you say!? You bitch, this is MY shack! And it's YOU who came here for my hard-earned goods! Yeah, you'll suffer extra for saying that!}
 {1112}{}{Never expected to hear a sensible speech from the old ghoul. How did you end up like this?}
 {1113}{}{I'll tell you... When I catch you and put you in a cage! I've already caught a few dozen like you. Every one of them wanted a piece of me, wanted my things. But my traps aren't just for show! What about you? Isn't that what you came here for?}
-{1137}{}{You know, you pretend to be a kind bitch and all that, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. Whe you are grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
+{1137}{}{You know, you pretend to be a kind bitch and all that, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. When you are grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
 {1139}{}{Come out and we will see. You're neither the first, nor last. However, I like you. With you I'm gonna have a "conversation" longer than usual.}

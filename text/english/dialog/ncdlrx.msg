@@ -80,7 +80,7 @@
 {166}{}{You know what, Solomon? Do it yourself. I'm already going out of my way not to kill you, I'm not going to cut off your finger for you.}
 {167}{}{[He perks up] Are you really a doctor? Oh, god, thank you! This ring has gotten so painful I can't sleep at night! If you can do this right, then... When can we get started? I want to get this done as soon as possible!}
 {168}{}{We can do it now. Take these painkillers and we'll get started.}
-{169}{}{We can't perform surgery with you thrashing around. We'll need anaesthetic. Wait here.}
+{169}{}{We can't perform surgery with you thrashing around. We'll need anesthetic. Wait here.}
 {170}{}{[He perks up] Can you? This ring has gotten so painful, lately... But you know, you don't seem like a doctor to me. There haven't been any doctors in Reno for a long time.}
 {171}{}{That's it, you've exhausted my patience. Take the knife and cut off your own damn finger. How does that sound??}
 {172}{}{ My patience is nearing its end. Just like Louie's. Cut your finger off if you want to live.}

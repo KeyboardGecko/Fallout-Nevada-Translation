@@ -202,7 +202,7 @@
 {303}{}{Few will sacrifice potential earnings for the well-being of not their city. Thanks.}
 {304}{}{You're welcome.}
 
-#Women's replics:
+#Women's replies:
 {1122}{}{About the filter for the artesian water tower. I've found it! But how to start the tower? Is there anyone I can discuss this issue with?}
 {1138}{}{I visited the artesian water tower in the slums. Has anyone tried to fix it? That would give a ton of clean water for the city!}
 {1160}{}{Oh, that's why on the way here I saw people constantly chewing something...}

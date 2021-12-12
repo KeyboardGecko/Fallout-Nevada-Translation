@@ -16,7 +16,7 @@
 {117}{}{I can spar with you, if that's what you want.}
 {118}{}{You know, I don't like fighting... I don't think we have much to talk about. I'd better go.}
 
-{119}{}{[Looks you up and down appraisingly] I don't think so, shrimpy. Let me drink in peace.}
+{119}{}{[Looks you up and down appraisingly] I don't think so, shrimp. Let me drink in peace.}
 {120}{}{Relax, I only want to know what you're doing here.}
 {121}{}{Fine. I was just leaving, anyway.}
 

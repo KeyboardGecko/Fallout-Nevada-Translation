@@ -10,7 +10,7 @@
 {107}{}{Maxson is trying to escape!}
 
 #Пов'орный приход после первого диалога без опознания
-{110}{}{Again you see Maxon showing off his dreams of Las Vegas. He imitates a cowboy swinging a lasso and trying to ride a bull.}
+{110}{}{Again you see Maxson showing off his dreams of Las Vegas. He imitates a cowboy swinging a lasso and trying to ride a bull.}
 {111}{}{Do you still want to go to Vegas?}
 {112}{}{Oh. Yes. Have a happy stay.}
 

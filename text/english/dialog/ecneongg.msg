@@ -2,7 +2,7 @@
 {101}{}{You see a bandit known as Neon Gangster.}
 
 {110}{}{My motto is "Live bright and die bright!"}
-{111}{}{Get ready to become a shadow in this lightshow!}
+{111}{}{Get ready to become a shadow in this light show!}
 {112}{}{Lights of Vegas, reincarnated in me, will burn you into ashes!}
 {113}{}{This city will tremble in fear hearing my name. This is what I call a "bright personality"!}
 {114}{}{Want to hit me? It's like trying to hit a sun!}

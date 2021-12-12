@@ -10,7 +10,7 @@
 {115}{}{Mr. Wright doesn't like people who let him down. And Mark let him down. Now someone has to pay, you see? I pity the old geezers, but their days are numbered.}
 {116}{}{Do you know what happened to Mark?}
 {117}{}{Well... Let's just say I heard something the other night, but I can hardly remember it now. I'm sure there's something to help me remember... If you know what I mean.}
-{118}{}{Of course I do. Would a hunderd bucks be enough for the information?}
+{118}{}{Of course I do. Would a hundred bucks be enough for the information?}
 {119}{}{Do you know who I am? Who my boss is? You don't want to know, I'll tell you that. He usually gets the information out of people way faster than I do.}
 {120}{}{I know one trick I can do with your fingers that might refresh your memory. Want me to show you?}
 {121}{}{A hundr- oh yeah, sure...}

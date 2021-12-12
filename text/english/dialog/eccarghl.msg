@@ -1,7 +1,7 @@
 {100}{}{You see a ghoul.}
 {101}{}{You see a local resident.}
 
-#starting converstation
+#starting conversation
 {110}{}{Whoa, welcome to sparkling Vegas, wanderer!}
 {111}{}{Vegas? It's just a junkyard, you weirdo!}
 {112}{}{Vegas? Oh, yeah, sounds great.}
