@@ -22,14 +22,14 @@
 {121}{}{Remind me where to find your friend Orris.}
 {122}{}{Usually he can be found near the "Hard Rock" cafe. Tell him that his old friend Murphy is in trouble.}
 
-{123}{}{It was like that: I won in the casino. Not a lot, but you still can have a really good party with that money. When I went outside, the cops kettled me off without any explanation. Then brought me here, then this smart-ass from the mayor's office appeared and outlined how much money I have in my pockets, and in which bills. He knew it for sure, I remember him near the cash register in the casino. He followed me! Now it turns out like I stole these money from him.}
+{123}{}{It was like that: I won in the casino. Not a lot, but enough for a really good party, right? When I went outside, the cops kettled me off without any explanation. Then brought me here, then this smart-ass from the mayor's office appeared and outlined how much money I have in my pockets, and in which bills. He knew it for sure, I remember him near the cash register in the casino. He followed me! Now it turns out like I stole these money from him.}
 {124}{}{Who is this "smart-ass from the mayor's office"?}
 {125}{}{But can't they identify you in the casino?}
 {126}{}{Why should I believe you?}
 {127}{}{I see. I have to go.}
 {128}{}{Some Irwin guy, an employee of the City Hall. Looks like many people here know him, but I don't. I'm from the suburbs, I don't hang out with the locals.}
 {129}{}{Surely they can. They write everything down in this ledger book, but the cops don't care, they tend to believe that guy from the mayor's office. And I am sure that casino won't stand up for me. It's more convenient for them to lick asses of the City Hall and the cops.}
-{130}{}{You? You shouldn't. Why would you care... But I'm not asking you to believe me! I'm asking to talk to Orris, he will help, he's an old friend. And you might have something from it, you understand?}
+{130}{}{You? You shouldn't. Why would you care... But I'm not asking you to believe me! I'm asking to talk to Orris, he will help, he's an old friend. And you might get something from it, you understand?}
 
 {131}{}{What's going on?!}
 {132}{}{Well, apparently, the police officer in the waiting room is no longer at his duty. You should be happy.}

@@ -7,12 +7,12 @@
 {112}{}{Nothing.}
 {113}{}{"Fellow hard worker"? Heh! Bad, as always. Do you see this big guy on the floor?}
 {114}{}{What is it, a "robo-cop"? Looks funny...}
-{115}{}{Yeah, it sure does. So much complicated stuff to fix just so he can stand somewhere for intimidation. I'd have better luck wearing this junk on me and scaring passersby myself.}
+{115}{}{Yeah, it sure does. So much complicated stuff to fix just so he can stand somewhere and be intimidating. I'd have better luck wearing this junk on me and scaring passersby myself.}
 {116}{}{Do you think there would be no benefit from it?}
 {117}{}{Well, with full ammunition and in good condition, it's certainly a real death machine. Maybe the chief could even use it in special operations. But all in all, this thing is designed to intimidate by its appearance.}
-{118}{}{Do you think it will be dangerous after activation?}
+{118}{}{Do you think activating it could be dangerous?}
 {119}{}{Who knows... Military models were not created for peaceful purposes, baby. They were built to kill! And this robot's been dormant for about 70 years, with no checkups. Luckily, I figured out to strip it of its ammunition and disable the lower servo motors so I wouldn't be killed on the spot when it was turned on. But the thing that scares me is that not many people can understand this level of robotics. So no one can tell what's really in that piece of iron's mind. We have to rely on testing and spend a lot of time studying blueprints. So much effort for one robot! Is it worth it? I'm not sure.}
-{120}{}{Does it have any disadvantages?}
+{120}{}{Does it have any weaknesses?}
 {121}{}{Of course! It's full of electronics. One shot of an impulse weapon and the circuits just fry. This is a common problem with all pre-war robots.}
 {122}{}{Pulse weapon? And where can one find it?}
 {123}{}{I guess only in some military depots or places associated with the old army. These things were not produced for the civilian market.}
