@@ -155,7 +155,7 @@
 {226}{}{Oops... }
 
 {227}{}{No, please don't! I'll tell!}
-{228}{}{Phew! [he tries to catch him breath] I've never talked to him, but I've seen him painting the casino walls. There's usually a lot of people around during the day and most of the night, so he only works in the early morning, close to the sunrise. That's the only time when most of the city is asleep.}
+{228}{}{Phew! [he tries to catch his breath] I've never talked to him, but I've seen him painting the casino walls. There's usually a lot of people around during the day and most of the night, so he only works in the early morning, close to the sunrise. That's the only time when most of the city is asleep.}
 {229}{}{We'll see.}
 
 ####################################################################
