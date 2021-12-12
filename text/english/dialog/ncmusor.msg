@@ -4,7 +4,7 @@
 {103}{}{Hey, miss, I know how to help you!}
 
 ####################################################################
-#              Первый разговор
+#              ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 ####################################################################
 
 {110}{}{Hello, mister! Welcome to the great Reno!}
@@ -56,7 +56,7 @@
 {147}{}{Fine, let's talk about something else.}
 
 ####################################################################
-#              Покупка информации о тайнике:
+#              ГЏГ®ГЄГіГЇГЄГ  ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГЁ Г® ГІГ Г©Г­ГЁГЄГҐ:
 ####################################################################
 
 {148}{}{I'm trying to get into a, er, "abandoned" room. Want to help?}
@@ -104,7 +104,7 @@
 {186}{}{[He quickly pockets the money somewhere in his rags] I heard one of the caravan merchants saying a thief took some of their things and managed to hide them before they caught him. I don't know where he hid it, but it has to be close to the parking lot!}
 
 ####################################################################
-#                    О городе
+#                    ГЋ ГЈГ®Г°Г®Г¤ГҐ
 ####################################################################
 
 {187}{}{I'll tell you what I know, but I need the money up front.}
@@ -129,7 +129,7 @@
 {205}{}{A biker? Sometimes bikers go into the Silver Legacy hotel. You should ask there.}
 
 ####################################################################
-#                    О граффити
+#                    ГЋ ГЈГ°Г ГґГґГЁГІГЁ
 ####################################################################
 
 {210}{}{Oh... That's a pretty big secret. You'll have to pay a lot for that.}
@@ -159,7 +159,7 @@
 {229}{}{We'll see.}
 
 ####################################################################
-#                    О Лысом Максоне
+#                    ГЋ Г‹Г»Г±Г®Г¬ ГЊГ ГЄГ±Г®Г­ГҐ
 ####################################################################
 
 {230}{}{I think I've seen someone like that. But if you want to know where... }
@@ -173,7 +173,7 @@
 {237}{}{Phew! [he tries to breath] I saw him go into the caravan store. He should still be close!}
 
 ####################################################################
-#              Окно в коморку швейцара
+#              ГЋГЄГ­Г® Гў ГЄГ®Г¬Г®Г°ГЄГі ГёГўГҐГ©Г¶Г Г°Г 
 ####################################################################
 
 {238}{}{Uh... [he glances around] ... Help how?}
@@ -208,7 +208,7 @@
 {265}{}{Introducing this child to a life of crime won't be good for your karma.}
 
 ####################################################################
-#              У окна, таймерное событие
+#              Г“ Г®ГЄГ­Г , ГІГ Г©Г¬ГҐГ°Г­Г®ГҐ Г±Г®ГЎГ»ГІГЁГҐ
 ####################################################################
 
 {270}{}{Here we are.}
@@ -227,7 +227,7 @@
 {283}{}{   }
 
 ####################################################################
-#              О байкерах
+#              ГЋ ГЎГ Г©ГЄГҐГ°Г Гµ
 ####################################################################
 
 {290}{}{Hey, have you seen any bikers here?}
@@ -240,7 +240,7 @@
 {297}{}{The bikers robbed a bus going to Black Rock. That was really crazy, even for bikers. The guy in the combat armor, Tuco, told me to watch out for them. He's in charge of the Nevada Express in Reno.}
 
 ####################################################################
-#              Фича для машины
+#              Г”ГЁГ·Г  Г¤Г«Гї Г¬Г ГёГЁГ­Г»
 ####################################################################
 
 {300}{}{Woah, mister! I've never seen a working car in my life! You know, they say Reno was famous for its car workshops, once. I don't think there's anything left... Except... }
