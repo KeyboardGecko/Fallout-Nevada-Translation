@@ -379,7 +379,7 @@
 {581}{}{Hmm... Anyway - thank you, partner. I hope this isn't our last "enterprise" together. [He smiles and shakes your hand] Good luck!}
 {582}{}{You too.}
 
-#Womens replica
+#Women's replica
 {1303}{}{Easy, like a piece of ca... Wait a second! You think this is cool, smartass!? You'll pay if I catch you doing this! Skinner even appointed a reward for thieves like you...}
 {1304}{}{Hey, easy! I didn't do anything wrong yet!}
 {1403}{}{Rare? Hey, wait a minute! So I'm not the only one with the wheels!?}

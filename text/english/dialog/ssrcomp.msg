@@ -25,7 +25,7 @@
 
 #»стори€ трансл€ций
 {151}{}{Access granted. Searching... Search complete.}
-{152}{}{[Determine the the station's signal coverage]}
+{152}{}{[Determine the station's signal coverage]}
 {153}{}{[Scan every frequency for a signal]}
 {154}{}{}
 

@@ -147,7 +147,7 @@
 {213}{}{It's a long conversation. Let's just say we have different views on how the town should develop. I like the ideas of Mr. Thompson. Oliver's opinions are radically opposite.}
 {214}{}{Good question. Probably the overall situation in the town, and... How should I put it... This old man's stubbornness. I can not dissuade Oliver from his ideas, but they directly contradict my point of view on this town's future.}
 {215}{}{No way! The death of this man would only ruin his ranch. There won't be any workers, slaves, its resources will be ravaged. I have another idea, but it's still too early for you to hear it.}
-{216}{}{Occasionally, Luciano ships food to the the Silver Legacy's restaurant. I need you to undermine his reputation when he'll do it next time. Go to the restaurant, wait for the convoy and sabotage the deal. How you'll do it - I don't know and don't want to know. But it must be done so that it looked like a an oversight from Luciano's men.}
+{216}{}{Occasionally, Luciano ships food to the Silver Legacy's restaurant. I need you to undermine his reputation when he'll do it next time. Go to the restaurant, wait for the convoy and sabotage the deal. How you'll do it - I don't know and don't want to know. But it must be done so that it looked like a an oversight from Luciano's men.}
 {217}{}{I'm on my way.}
 {218}{}{Can I learn more about the situation that has caused tension with Luciano?}
 {219}{}{Did you manage to do what I asked?}

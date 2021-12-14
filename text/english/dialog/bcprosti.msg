@@ -3,7 +3,7 @@
 {102}{}{Thanks for the cash. First chance I get, I'm out of here.}
 {103}{}{I don't feel so good... }
 
-#Starting converstaion
+#Starting conversation
 {109}{}{. And yours?}
 {110}{}{[You see a girl with beautiful hair and a red scarf around her neck. As soon as she makes eye contact with you, she smiles flirtatiously.] Well, hello, handsome. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
 {111}{}{Nice to meet you. My name is }
@@ -165,7 +165,7 @@
 {294}{}{Right.}
 
 #Female character
-{1110}{}{[You see a girl with a beautiful hair and red scarf around her neck. As soon as she makes eye contact with you, she smiles flirtaciously.] Well, hello, beautiful. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
+{1110}{}{[You see a girl with a beautiful hair and red scarf around her neck. As soon as she makes eye contact with you, she smiles flirtatiously.] Well, hello, beautiful. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
 {1126}{}{[She laughs] Are you serious? You really don't know? [she puts a finger under your chin and winks] Don't worry, baby. I'm a great teacher.}
 {1159}{}{I'm sorry. I didn't mean to upset you.}
 {1164}{}{[She stares at you with wide eyes] Are you fuckin' with me? Oh my god, you're serious. Holy shit... A virgin, at your age...}

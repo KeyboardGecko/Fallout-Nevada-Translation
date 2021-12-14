@@ -292,7 +292,7 @@
 {499}{}{I have the coordinates of the vault where he is stationed. He has the Overseer from my city taken hostage; the Overseer's Pip-Boy has a tracking device in it. I can pinpoint the train's whereabouts. Besides, I already have working transport and I'm armed. The surprise element is on my side, along with my wits and courage. I am fully prepared for it, sheriff!}
 {500}{}{I see you are serious... I'm afraid this decision will haunt me for the rest of my life. Go.}
 {501}{}{I will not let you down, Sheriff!}
-{502}{}{...And I will not put my city in danger by trusting a wimp like you. Don't make me laugh and get out, for all our sakes!}
+{502}{}{...And I will not put my city in danger by trusting a wimp like you. Don't make me laugh and get out, for all our sake's!}
 {503}{}{The path is clear!}
 {504}{}{I won't warn you twice.}
 

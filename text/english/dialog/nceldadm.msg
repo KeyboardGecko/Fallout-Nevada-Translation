@@ -79,7 +79,7 @@
 {182}{}{Indeed. Mr. Bertolini is a man of conviction. He acts decisively, even regarding things he is very attached to.}
 {183}{}{[He gives you a sly look] But you already know that, don't you?}
 {184}{}{But you don't need to know anything about that.}
-{185}{}{Neither is it mine. But the job must be done sooner or later, by you or someone else. We are focused on results, so, here - as long as you return the cue in approprite condition, you will receive your pay, whether or not you carried out the repairs yourself.}
+{185}{}{Neither is it mine. But the job must be done sooner or later, by you or someone else. We are focused on results, so, here - as long as you return the cue in appropriate condition, you will receive your pay, whether or not you carried out the repairs yourself.}
 {186}{}{I'm happy to hear it. [he hands over the case] I'd appreciate it if you could return it as quickly as possible. Oh, and the case itself is worn out, particularly at the bottom - please see to that as well.}
 {187}{}{Remember, appreciation is best expressed in money. I'll be going.}
 {188}{}{Goodbye.}

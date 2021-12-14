@@ -2,7 +2,7 @@
 {101}{}{You see Harding.}
 {102}{}{You see a resident of the slums. You'd want to say he's seen better days, but actually he looks like he's never seen a good day in his life.}
 
-{103}{}{Thank you, I do feel a lot better. Although these pills make me feel kinda limpy.}
+{103}{}{Thank you, I do feel a lot better. Although these pills make me feel kinda limp.}
 {104}{}{Thank you for the support, friend. You're an example to live by.}
 
 #First dialogue
