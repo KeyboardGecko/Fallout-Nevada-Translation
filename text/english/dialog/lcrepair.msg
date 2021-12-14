@@ -308,7 +308,7 @@
 {523}{}{Let's discuss the second phase of the repair.}
 {524}{}{Let's discuss the third phase of the repair.}
 
-{525}{}{My pleasure! The first thing that needs restoring is the armor hull. It is not easy. The construction used high quality polymers, ceramics, and special fasteners. I need blueprints to see how it was all assembled before. The situation with materials is tight, but it is still possible to find them.}
+{525}{}{My pleasure! The first thing that needs restoring is the armor hull. It is not easy. The construction used high quality polymers, cermets, and special fasteners. I need blueprints to see how it was all assembled before. The situation with materials is tight, but it is still possible to find them.}
 {526}{}{I have a broken power armor. Will it be enough to restore the hull?}
 {527}{}{I have blueprints of the frame structure!}
 {528}{}{Where I can find them?}
