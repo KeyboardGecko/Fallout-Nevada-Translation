@@ -193,7 +193,7 @@
 {560}{}{I think I understand what you're talking about - microorganisms and viruses invading the body, leading to an immune reaction.}
 {561}{}{I see you've managed to learn the basics. Good job! Very impressive for a person that just got out of a coma.}
 {562}{}{But how could such a tiny thing cause such a strong reaction?}
-{563}{}{Heterogeneous microorganisms and viruses invade the body, leading to an immune reaction. The symptoms you described are how your body is fighting the invasion.}
+{563}{}{Heterogenous microorganisms and viruses invade the body, leading to an immune reaction. The symptoms you described are how your body is fighting the invasion.}
 {564}{}{I'm afraid, this is a common problem for vault citizens. You see, our bodies are used to sterile and clean habitat. The wasteland, on the other hand, is anything but that. An organism can adapt to an infection only if it often receives it in small doses, and due to our clean living environment, our immune systems are not exposed to many infections. That's why you got sick so easily.}
 {565}{}{What will happen, if it don't treat it in time?}
 {566}{}{That depends on the severity of the infection. Some will go away with your noticing them. Stronger infections will cause nausea, fever and other unpleasant symptoms. The strongest ones can lead to your death. Keep yourself healthy so you won't end up looking like Harold. But as I said before, after some time of exposing to infections, your body will adapt to them.}

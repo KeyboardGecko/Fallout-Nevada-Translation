@@ -74,7 +74,7 @@
 
 {191}{}{Haven't you tried going to a doctor?}
 {192}{}{Show me your skin condition.}
-{193}{}{You see any fuckin' doctors around here? Even in Reno you gotta keep buying anesthetic from chem dealers to keep it from getting too bad. I think Jed, the old man that lives next to Justin, told me they managed to cure it in Reno a long time ago with some kind of plant, but that's it. I don't even know if it's true.}
+{193}{}{You see any fuckin' doctors around here? Even in Reno you gotta keep buying anaesthetic from chem dealers to keep it from getting too bad. I think Jed, the old man that lives next to Justin, told me they managed to cure it in Reno a long time ago with some kind of plant, but that's it. I don't even know if it's true.}
 {194}{}{No shit? You're really gonna help me? [she smiles] Thank you! I didn't think anyone even cared! Try talking to Jed - he said he knew of some medicine made out of a plant or something, but he doesn't remember how to make it. Maybe you can get something out of him.}
 {195}{}{Fine.}
 

@@ -79,7 +79,7 @@
 {172}{}{And... How is it?}
 {173}{}{Nobody has been poisoned yet. And the meat is much more nutrient than brahmin's. Besides, we are sick of eating the same stuff all the time.}
 {174}{}{It seems this is not just meat. Can you tell me the recipe?}
-{175}{}{It's all simple - [She gets excited] the meat is mixed with pepper and salt, then poured over with bramin milk. Then the cutlets are cooked in maize oil and wrapped up in maize bread with greens. Sounds tasty, isn't it?}
+{175}{}{It's all simple - [She gets excited] the meat is mixed with pepper and salt, then poured over with brahmin milk. Then the cutlets are cooked in maize oil and wrapped up in maize bread with greens. Sounds tasty, isn't it?}
 {176}{}{Well, worms, of course, are edible too. Especially when there is nothing else to eat. Can I, uh, have some?}
 {177}{}{Eww, disguising! These worms could crawl anywhere, and you eat them! Ew! Ew! Ew!}
 {178}{}{Sure! Here, have a plate, free of charge.}

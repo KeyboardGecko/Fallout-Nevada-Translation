@@ -20,7 +20,7 @@
 {121}{}{Go ahead. Maybe I can tell you something.}
 
 {122}{}{Tell me about this ranch.}
-{123}{}{What can I say? It's not just our job, it's our home. We're all family here. And no one leaves the family... Mr. Luciano sees that as betrayal, and, heh, you don't want him to be mad at you. Not that you'd want to leave, but anyway. Reno will never stop needing food-and we have plenty. Now that we use the slaves for harvest, things are even better. Anything we can't use, we feed to the bramin until they're fit for slaughter. It always takes time for newcomers to get used to something, but for us it's a routine.}
+{123}{}{What can I say? It's not just our job, it's our home. We're all family here. And no one leaves the family... Mr. Luciano sees that as betrayal, and, heh, you don't want him to be mad at you. Not that you'd want to leave, but anyway. Reno will never stop needing food-and we have plenty. Now that we use the slaves for harvest, things are even better. Anything we can't use, we feed to the brahmin until they're fit for slaughter. It always takes time for newcomers to get used to something, but for us it's a routine.}
 {124}{}{So you supply food to the entire city?}
 {125}{}{No, of course not. There are other farmers around Reno, and people say there is a tribe of Indians in the northeast that grows good crops. But Mr. Luciano is by far the biggest producer around. He is reliable and honest, and his ranch is the largest in the county.}
 {126}{}{How is it even possible to run such a large ranch?}
