@@ -52,7 +52,7 @@
 {213}{}{Leave.}
 
 #6.  RETARD PULLS HANDLE (4, 5)
-{220}{}{You grab its hand and shake it warmly. You hear a *bzzzzzz*and the box starts to talk! "Please... Come on... Give me money."}
+{220}{}{You grab its hand and shake it warmly. You hear a *bzzzzzz* and the box starts to talk! "Please... Come on... Give me money."}
 {221}{}{Ayyyyyyy! Robot! Bad! Ruuun!}
 {222}{}{Leave.}
 

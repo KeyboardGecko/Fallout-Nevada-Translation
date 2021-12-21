@@ -133,7 +133,7 @@
 {313}{}{I'll try to find another way. Bye.}
 
 ####################################################################
-# Women's replics
+# Women's replies
 ####################################################################
 
 {1118}{}{I found a stone with the coat of arms on it. Do you know what it is?}

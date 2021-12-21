@@ -86,7 +86,7 @@
 {386}{}{Unconvincing. To base views on someone's inspiring speech is not the best idea. I hope you understand.}
 {387}{}{Hm, I'll need to think about this.}
 
-{388}{}{Oh, this is interesting! If they're more endurant and less affected by environment and radiation, then they'll make excellent workers. And considering their social position, they won't ask much... Alright, you've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
+{388}{}{Oh, this is interesting! If they have more endurance and are less affected by environment and radiation, then they'll make excellent workers. And considering their social position, they won't ask much... Alright, you've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
 {389}{}{Great!}
 
 {390}{}{You know, you don't really look like a scientist...}
@@ -123,7 +123,7 @@
 
 #Quest for labour -- finished:
 {415}{}{How are those new workers?}
-{416}{}{Those freaks are a treasure! They aren't pretentious, very endurant and they're not afraid of heat of radiation. The best bart is that they work for nothing! And... Honestly, sometimes I like their jokes. A great bunch. I'm glad they're with us.}
+{416}{}{Those freaks are a treasure! They aren't pretentious, have excellent endurance and they're not afraid of heat of radiation. The best part is that they work for nothing! And... Honestly, sometimes I like their jokes. A great bunch. I'm glad they're with us.}
 {417}{}{Good, I've got another question.}
 {418}{}{Great. I need to go now.}
 {419}{}{I don't regret the purchase. There are a few problems with the slaves. I had to hire a chef and supervisors, but that's nothing compared to what they will do for us. I'm glad and... Thank you.}
@@ -142,7 +142,7 @@
 {458}{}{Is he ready to act openly now? Hmm, did he manage to find a few more aces up his sleeve?}
 {459}{}{This city loves to make shady dealings behind your back. And you can bet your bottom dollar on the fact that Wallace is involved in them.}
 {460}{}{What are you talking about?}
-{461}{}{All the indluential people in Vegas, including Hal, are trying to take over the Hoover Dam. Usually they try to do it legally, but recently someone resorted to sabotage.}
+{461}{}{All the influential people in Vegas, including Hal, are trying to take over the Hoover Dam. Usually they try to do it legally, but recently someone resorted to sabotage.}
 {462}{}{How? What do you mean?}
 {463}{}{First we began to lose important workers. Then obscene insults and false accusations began to appear on city walls. There was some confusion at City Hall about the redistribution of shares, and the police opened several dirty cases designed to tarnish our reputation. Those who want to make us bankrupt definitely know what they are doing.}
 {464}{}{But why?}
@@ -180,7 +180,7 @@
 {1318}{}{I've got a piece of advice for you: watch your mouth in this city, wanderer. It's very important in general, and especially here.}
 {1354}{}{Handling public relations and making sure everything works smoothly. We're doing quite well thanks to the new labour force. Thank you, wanderer.}
 {1383}{}{Well, if you're so confident about them, then you must have reasons. Considering their current position, they won't ask much... Alright, you've convinced me. I'll give the freaks a chance and see how it goes. Thank you wanderer.}
-{1388}{}{Oh, this is interesting! If they're more endurant and less affected by environment and radiation, then they'll make excellent workers. And considering their social position, they won't ask much... Alright, you've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
+{1388}{}{Oh, this is interesting! If they have more endurance and are less affected by environment and radiation, then they'll make excellent workers. And considering their social position, they won't ask much... Alright, you've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
 {1391}{}{Of course, a woman of your reputation in Vegas deserves to be trusted. You convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
 {1393}{}{Ah, here's our savior of the damned. I knew that this is how it will end sooner or later. Well, now that the ghouls are gone, we're back to square one. We need labour force.}
 {1402}{}{I'm sure. Don't worry.}

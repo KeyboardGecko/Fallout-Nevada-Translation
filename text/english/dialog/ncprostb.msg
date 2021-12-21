@@ -45,7 +45,7 @@
 {142}{}{[You go to a small apartment.]}
 {143}{}{Now, you understand she's a *special* treat for *special* tastes. That'll be an extra 75 dollars. Or do you want to choose one of the others?}
 {144}{}{She'll be worth it. I'm sure.}
-{145}{}{A gangbang? Sure, honey, but you understand it won't be cheap. You'll have to pay for all four, so that's an extra }
+{145}{}{A gang bang? Sure, honey, but you understand it won't be cheap. You'll have to pay for all four, so that's an extra }
 {146}{}{ dollars. Are you alright with that?}
 {147}{}{I'm sure it's worth it. Here's the money.}
 {148}{}{You won't regret it!}

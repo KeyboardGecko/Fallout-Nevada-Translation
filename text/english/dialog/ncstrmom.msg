@@ -94,8 +94,8 @@
 #Общая с'ар'овая реплика
 {200}{}{Here is our sweet girl! How are you feeling?}
 {201}{}{Here is our sweet girl! How are you?}
-{202}{}{Here is our sweet girl! Came to conquer the dancefloor?}
-{203}{}{Here is our sweet girl! Are you missing the dancefloor already?}
+{202}{}{Here is our sweet girl! Came to conquer the dance floor?}
+{203}{}{Here is our sweet girl! Are you missing the dance floor already?}
 
 {204}{}{Here is our queen!}
 
@@ -103,7 +103,7 @@
 {211}{}{Just came by to say hi.}
 
 #Попы'ка напроси'ься на следующее выс'упление
-{219}{}{Have you missed the dancefloor? But it's not the right time yet. Come around 9 to 10 pm.}
+{219}{}{Have you missed the dance floor? But it's not the right time yet. Come around 9 to 10 pm.}
 {220}{}{Very good, but this is not a good time. Come by in the morning before lunch, between 8 and 12 am.}
 {221}{}{Okay.}
 {222}{}{Just in time! Let's go... }
@@ -111,12 +111,12 @@
 
 {224}{}{Come around 6 to 8 pm.}
 {225}{}{Fine.}
-{226}{}{Have you missed the dancefloor? You're just in time!}
+{226}{}{Have you missed the dance floor? You're just in time!}
 {227}{}{I'm ready!}
 {228}{}{Wait, I'm not ready.}
-{229}{}{Can't believe you missed the dancefloor so much, right? But it's not the time yet. Come by at 1 am tonight.}
+{229}{}{Can't believe you missed the dance floor so much, right? But it's not the time yet. Come by at 1 am tonight.}
 {230}{}{Oh, I like your passion! Well, it's the exact time to entertain the audience.}
-{231}{}{Wait... [her face changes] You know... I want to say... I'm glad that you still do this. Now is a very tough time for everyone in the city, and to make a whole club work is even harder. But, you see... Only don't be scared! I didn't mention troublesome clients just for show. There is one really nasty guy. Stay away from him. I wish I could find that son of a bitch. The things I would do to him... He appears from nowhere and does such horrible things to our girls! Look out for... Ted Bundy. Remember this name and avoid it. Okay? Now go to the dancefloor. You've got this, sweetie!}
+{231}{}{Wait... [her face changes] You know... I want to say... I'm glad that you still do this. Now is a very tough time for everyone in the city, and to make a whole club work is even harder. But, you see... Only don't be scared! I didn't mention troublesome clients just for show. There is one really nasty guy. Stay away from him. I wish I could find that son of a bitch. The things I would do to him... He appears from nowhere and does such horrible things to our girls! Look out for... Ted Bundy. Remember this name and avoid it. Okay? Now go to the dance floor. You've got this, sweetie!}
 {232}{}{I'm not afraid of any Ted Bundy. Let's go!}
 {233}{}{Great! Let's not waste time - change your clothes and go to your audience. They are waiting for you.}
 

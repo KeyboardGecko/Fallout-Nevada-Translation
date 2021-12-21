@@ -65,7 +65,7 @@
 {161}{}{Can you answer some questions, at least?}
 {162}{}{Then I don't need anything from you.}
 
-{163}{}{Strykers says I can only make drugs for our own people, and no discounts. You'll need to supply the components, too.}
+{163}{}{Stryker says I can only make drugs for our own people, and no discounts. You'll need to supply the components, too.}
 {164}{}{Make healing powder.}
 {165}{}{Make antidote.}
 {166}{}{Make a stimpak.}

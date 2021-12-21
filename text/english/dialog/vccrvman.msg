@@ -48,6 +48,6 @@
 {142}{}{Well, I had no luck. And that was fair.}
 {143}{}{What? How!? This can't be!... Don't even think about meeting me on the same trail, crook! Or I'll remind you of that.}
 
-#Women's replics
+#Women's replies
 {1110}{}{Hey, girl. It's pretty much obvious that you're freshly out of the wastelands. Sit down, take a break from the road.}
 {1134}{}{My offer about the game still stands. I've got a stimpak, I'm betting it against your 100 bucks. Want to play?}

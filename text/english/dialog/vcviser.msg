@@ -39,7 +39,7 @@
 {145}{}{Damn! I hate you so much! [you're unbinding Shitposter and he is about to go home] Oh, I HA-TE you!!!}
 {146}{}{I don't think so, you're too pretentious. If you learn not to think about yourself as someone very special, everything will be fine.}
 
-#Women's replics
+#Women's replies
 {1130}{}{Oh, you fucking cunt!!! Ah!!! [It seems that his reproductive organ was his vital spot; having lost his dignity, the Shitposter dies, squeezing out a huge amount of white foam from his mouth.]}
 {1132}{}{Fucking defenders of the innocent! I fucking hate you all! Arrgh! I'd pee on you till you're in it up your throats! Hands off the ropes! Away!}
 {1140}{}{Yes! I was right, see? Otherwise you would have ignored me from the beginning, but you gave it some thought first, and then began to look for excuses. You're a blowhard.}

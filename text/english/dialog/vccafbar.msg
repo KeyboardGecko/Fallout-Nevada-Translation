@@ -69,7 +69,7 @@
 {203}{}{Don't touch Suzie!}
 {204}{}{Hey, you can't belch here! Belches and other gasses go outside!}
 {205}{}{Two half-ounce bags or a tin?}
-{206}{}{Special order for Josh Sayer right here...}
+{206}{}{Special order for Josh Sawyer right here...}
 {207}{}{Let me guess, you want me to put it on your tab?}
 {208}{}{One "dive bomb" with ice, coming right up.}
 

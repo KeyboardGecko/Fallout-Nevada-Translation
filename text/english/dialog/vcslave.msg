@@ -56,6 +56,6 @@
 {169}{}{Ahhh! ::bangs his head against the ground::}
 {170}{}{How was it... "You will die anyway"?}
 
-#Women's replics
+#Women's replies
 {1118}{}{Oh, you dimwit! Do you have any idea what you've done?! [He grabs his head]}
 {1120}{}{Where? I have no home! Thank you, of course, great job and all that, but they could have given me a roof over my head, food and water, and now I have to look for it all myself... You're a moron if you think you made it better!}

@@ -18,7 +18,7 @@
 {403}{}{[Take the beer and the small energy cell]}
 
 {500}{}{[Search the lower shelf]}
-{501}{}{You find a spoiled can of meat and a dried-up omelette of indetermined age. You don't need to try any of that.}
+{501}{}{You find a spoiled can of meat and a dried-up omelette of indeterminate age. You don't need to try any of that.}
 
 {600}{}{[Pull out the vegetable crisper]}
 {601}{}{You feel the weight of something inside. What could it be?}

@@ -50,7 +50,7 @@
 {153}{}{In fact, nothing.}
 {154}{}{And yet - perhaps you need help?}
 
-{155}{}{You know, certainly not from you. My situation is too uncertain and dangerous, I'm afraid, you will only make matters worse.}
+{155}{}{You know, certainly not from you. My situation is too uncertain and dangerous, I'm afraid you will only make matters worse.}
 {156}{}{Well whatever you say.}
 {157}{}{I have no choice in my position. My friends afraid to interfere, and you're a new man, you may be able to find out, who did it... If you, of course, believe me. And if not - then join the camp of my enemies, there is plenty of space for you.}
 {158}{}{I see, that you're a good man without dirt in his heart. That's why I will help you anyway.}
@@ -97,7 +97,7 @@
 {207}{}{Er... No. Don't ask, why. I have my reasons... A few of them. But still don't ask!}
 {208}{}{I hope, you will change your mind.}
 
-{209}{}{I can't take a risk, especially after all this problems I went through. It's not about you, please understand, I'm just in time of uncertainty. I need to be completely sure in you merchandise. So bring your license, then we can make a deal.}
+{209}{}{I can't take a risk, especially after all the problems I went through. It's not about you, please understand, I'm just in time of uncertainty. I need to be completely sure in your merchandise. So bring your license, then we can make a deal.}
 {210}{}{Fine.}
 
 {211}{}{[Carefully studies the papers] Very good. [nods] Very. This is what I needed - confidence in my partner. We will cooperate with you.}
@@ -106,14 +106,14 @@
 {214}{}{I'll deal with this... Are you excited about our collaboration?}
 {215}{}{Excellent. Let's get strait to sealing the contract.}
 
-{216}{}{Very! Finally, we will be able to outdo this arrogants in Clean City.}
+{216}{}{Very! Finally, we will be able to outdo the arrogant jerks in Clean City.}
 {217}{}{Who?}
 {218}{}{If you have not noticed, the "Monte" casino has signed a contract with the same factory that you work with. It is our - and your - competitor. Funny, isn't it?}
 {219}{}{Funny that I'm working with my own competitors? Huh...}
 {220}{}{As long as the casino functions, you'll have to share with them the market in Vegas... Where was I? Oh yeah! I suggest signing the contract, partner!}
 {221}{}{Sure, partner!}
 
-{229}{}{Great deal. We'll work well together. Come tomorrow, I think we can set up a vending machine by that time. But first, take care of the availability of goods in stock. Have a nice day.}
+{229}{}{Great deal. We'll work well together. Come back tomorrow, I think we can set up a vending machine by that time. But first, take care of the availability of goods in stock. Have a nice day.}
 {230}{}{Sure! Have a nice day, Mr. Phillips!}
 
 #Female character

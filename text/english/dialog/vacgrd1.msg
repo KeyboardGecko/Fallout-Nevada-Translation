@@ -22,7 +22,7 @@
 {124}{}{Got it.}
 
 #На поверхности
-{150}{}{[Ignores you and watches for potental threats.]}
+{150}{}{[Ignores you and watches for potential threats.]}
 {151}{}{[Leave him]}
 {152}{}{Do you know where the monitors are located?}
 {153}{}{No. Doctor Moreau should have marked the locations on your map scanner. Stay focused!}

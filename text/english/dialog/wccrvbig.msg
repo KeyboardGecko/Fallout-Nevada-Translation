@@ -13,11 +13,11 @@
 {126}{}{I see. No more questions.}
 {127}{}{Have you met someone from the "Speed Hawk" caravan?}
 
-#Main replics
+#Main replies
 {250}{}{Great, another wanderer. What do you want from a simple worker?}
 {251}{}{Can you tell me about this settlement?}
 {252}{}{You said you wanted to get back at the technician for the broken wagon.}
-{253}{}{Nothing. You don't need to be so agressive.}
+{253}{}{Nothing. You don't need to be so aggressive.}
 {254}{}{Nothing.}
 
 #About the Wind of War
@@ -65,6 +65,6 @@
 {295}{}{For your actions, you lose karma, but increase your sneak skill by 2%.}
 {296}{}{Calm down, don't panic. We're just walking around...}
 
-#Women's replics
+#Women's replies
 {1250}{}{Great, another wanderer. What do you want from a simple worker?}
 {1278}{}{Are you out of your mind? Stealing is a risky business!}

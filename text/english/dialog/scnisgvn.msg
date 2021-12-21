@@ -205,7 +205,7 @@
 {451}{}{I'm an expert in medical field. I could explain it to you, if you are willing to share your knowledge in return.}
 
 {452}{}{Hmm... [he regards you curiously] The Heavenly Mother always taught us to seek new knowledge.}
-{453}{}{Shall we make ourself comfortable?}
+{453}{}{Shall we make ourselves comfortable?}
 {454}{}{Of course. I'd be happy to share with you.}
 {455}{}{Let's get started, then!}
 {456}{}{Not now.}
@@ -482,7 +482,7 @@
 {831}{}{[You clean the wounds] Now we must stitch the wounds shut - or at least bandage them tightly.}
 {832}{}{I have gauze and bandages in this doctor's bag.}
 {833}{}{I have gauze and bandages in this first aid kit.}
-{834}{}{I have nothing like that. Can we use a gecko hyde?}
+{834}{}{I have nothing like that. Can we use a gecko hide?}
 
 {835}{}{[Niskigvan blinks rapidly as sweat drops into his eyes] Now we have to put a splint. I have wooden poles and some cloth to tie them. [You and Niskigvan carefully splint Makkon's injured legs. Makkon quietly moans.] Shh, Bear Cub. Stay strong. We are almost done.}
 

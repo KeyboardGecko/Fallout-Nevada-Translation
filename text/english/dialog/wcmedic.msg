@@ -114,7 +114,7 @@
 {256}{}{To think about it - why not...}
 {257}{}{That's right. Come on! Come on!}
 
-#Women's replics
+#Women's replies
 {1120}{}{I found an excellent kit for healers, it's a set of tools and such. Want to see?}
 {1124}{}{Okay, I agree.}
 {1131}{}{How's it going with the water? I've been to Salt Lake, they have quite a bad situation there...}

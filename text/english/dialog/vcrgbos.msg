@@ -49,7 +49,7 @@
 {142}{}{Err, no, we're not ready. Come back tomorrow, okay?}
 {143}{}{What determination! Let's go!}
 {144}{}{What determination! You may have noticed that we are increasing the pressure, gradually raising the stakes. But SOMETHING just showed up recently, and it has challenged you. I'm sure you're going to love it. Go!}
-{145}{}{You'll get an extra reward for this fight. This time we've got a special visitor from New Reno. He specifically asked for a fight with you. This is going to be very serious, even for our ring's standarts. I'd suggest remembering all your weaknesses. They'll be your biggest problems.}
+{145}{}{You'll get an extra reward for this fight. This time we've got a special visitor from New Reno. He specifically asked for a fight with you. This is going to be very serious, even for our ring's standards. I'd suggest remembering all your weaknesses. They'll be your biggest problems.}
 {146}{}{Bloody amazing! How didn't you tear his hand out with that hold? We get a pretty payout for fights like these, the audience is just ecstatic! Anyway, here's your reward [He hands you the cash]}
 {147}{}{The crowd was just crazy about that fight! That's what I call determination! Here's the coin, champion! [He hands you the cash] But... Now for the bad news.}
 {148}{}{What do you mean?}

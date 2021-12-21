@@ -137,7 +137,7 @@
 {298}{}{Damn! Fuck!! Enough, stop it! Okay! I quit! I quit smoking! Just get away from me! Here, [He hastily hands you a lighter] take it! Now I'm left without fire and will not be able to smoke! Just fuck off! Fuck off!!}
 {299}{}{All right, calm down!}
 
-#Women's replics
+#Women's replies
 {1108}{}{Why are you so angry? Don't you see I'm stoned? I'm good. So back the hell off.}
 {1115}{}{Sorry, I overreacted.}
 {1116}{}{Damn, where the hell such bitches even come from?! I don't know about any labs!}

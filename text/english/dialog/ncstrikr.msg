@@ -86,13 +86,13 @@
 {179}{}{Got any more jobs?}
 {180}{}{Yeah, I got something in... [Suddenly, a henchman leans over and whispers something in his ear] ...Are you sure? Hmm... Didn't see that coming. [He turns to you] No, nothing. You can go.}
 {181}{}{Uh, okay... }
-{182}{}{Yeah, I got something in mind for you. [he crosses his arms and gives you a very serious look] So you've probably figured out I'm trying to get rid of Thompson, yeah? He thinks this city needs a dictator to straighten it out, but he's wrong. You can't just make a businessman give you the shirt off his back. A brahmin won't make any milk if you don't feed it, get it? [He leans forward slightly] You undertand, right? This isn't just about money or power. What we're doing here... It's about the city. The future of everyone in Reno depends on us. I want you to know this.}
+{182}{}{Yeah, I got something in mind for you. [he crosses his arms and gives you a very serious look] So you've probably figured out I'm trying to get rid of Thompson, yeah? He thinks this city needs a dictator to straighten it out, but he's wrong. You can't just make a businessman give you the shirt off his back. A brahmin won't make any milk if you don't feed it, get it? [He leans forward slightly] You understand, right? This isn't just about money or power. What we're doing here... It's about the city. The future of everyone in Reno depends on us. I want you to know this.}
 {183}{}{I understand. What do you need me to do?}
 
 {184}{}{[He pulls out a little box and carefully places it on the table] We have done several things with the chemicals you delivered. This contains one of them. These are poisoned contraceptives. You must slip them to Betty Page and her whores. Understand?}
 {185}{}{Yes... Actually, no. What do a bunch of prostitutes have to do with your plans?}
 {186}{}{I don't care who you want to kill, as long as the money is good enough.}
-{187}{}{I don't wan't to know the details. Let it be on someone else's conscience. I'll do the job and take my money when it's done.}
+{187}{}{I don't want to know the details. Let it be on someone else's conscience. I'll do the job and take my money when it's done.}
 {188}{}{No... I can't. I can't simply murder a woman like this.}
 {189}{}{It's time to take the fight to Thompson. Betty Paige is his madam, his lover... His Achilles' heel. Her death will put him off-balance and give me the edge I need. History shows how women can be the downfall of great men. That's why I'm a bachelor.}
 {190}{}{[He studies you silently for a while, then nods] I understand. You can leave... But never come back.}
@@ -253,7 +253,7 @@
 {1175}{}{Ahem. My payment?}
 {1178}{}{[He points a finger at you without looking up from the photos] Don't interrupt me again. Last warning. [He reaches into a drawer and hands you a wad of bills] Here's your money.}
 {1180}{}{Yeah, I got something in... [Suddenly, a henchman leans over and whispers something in his ear] ... Are you sure? Hmm... Didn't see that coming. [He turns to you] No, nothing. You can go.}
-{1182}{}{Yeah, I got something in mind for you. [he crosses his arms and gives you a very serious look] So you've probably figured out I'm trying to get rid of Thompson, yeah? He thinks this city needs a dictator to straighten it out, but he's wrong. You can't just *make* a businessman give you the shirt off his back. A brahmin won't make any milk if you don't feed it, get it? [he leans forward slightly] You undertand, right? This isn't just about money or power. What we're doing here... It's about the city. The future of everyone in Reno depends on us. I want you to know this.}
+{1182}{}{Yeah, I got something in mind for you. [he crosses his arms and gives you a very serious look] So you've probably figured out I'm trying to get rid of Thompson, yeah? He thinks this city needs a dictator to straighten it out, but he's wrong. You can't just *make* a businessman give you the shirt off his back. A brahmin won't make any milk if you don't feed it, get it? [he leans forward slightly] You understand, right? This isn't just about money or power. What we're doing here... It's about the city. The future of everyone in Reno depends on us. I want you to know this.}
 {1184}{}{[He pulls out a little box and carefully places it on the table] We have done several things with the chemicals you delivered. This contains one of them. These are poisoned contraceptives. You must slip them to Betty Page and her whores. Understand?}
 {1192}{}{[Nods] You've got your orders. You'll be paid after Paige's... Tragic accident. And that better be exactly that, by the way - I don't want this getting traced back to me.}
 {1211}{}{[He gives you a cunning look, then pulls out $100] That's all. Not enough? Then I'm sure you can find another job, since you've been working so many angles in this town. At this point, I need people who are fighting for more than just money. Take your payment and go - I don't need you anymore.}

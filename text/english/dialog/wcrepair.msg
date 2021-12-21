@@ -314,7 +314,7 @@
 {414}{}{All right. We will part ways peacefully and quietly.}
 {415}{}{It failed...}
 
-#Women's replics
+#Women's replies
 {1111}{}{Oops, I thought it's a toilet...}
 {1114}{}{That's it, you're screwed!}
 {1115}{}{What?! But I did nothing!...}

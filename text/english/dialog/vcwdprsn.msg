@@ -71,7 +71,7 @@
 {214}{}{[Takes the money] Okay, we do great together. I want to warn you as a friend. Mr. Wallace does not like an empty talk. If he asks you to do something, do it, no questions. Otherwise... [moves his thumb across his throat]}
 {215}{}{Understood.}
 
-#Women's replics
+#Women's replies
 {1104}{}{Hello there, friend!}
 {1110}{}{Heh-Hey! My girl! There you are! I knew you would come here! Let me buy you a drink! Hey, bartender! Put it on my tab!}
 {1112}{}{No way! Those military idiots are afraid of even coming near Vegas! Don't worry, baby! We're safe here.}

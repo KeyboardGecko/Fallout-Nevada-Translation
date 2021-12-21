@@ -272,7 +272,7 @@
 {1216}{}{[He stares at you in stunned silence for a moment before his hands curl into fists] Then WHAT are you doing HERE?! GET OUT THERE AND KILL HIM BEFORE HE ESCAPES!!! Get out, or I'll show you what REAL anger looks like!}
 {1217}{}{Balder's dead, boss. I killed him with my own hands.}
 {1218}{}{Good work, girl! Let's arm wrestle! Oh, you don't want to? Ha-ha!! I knew it from the start - you're worth two of those mindless apes, jerking off to each other downstairs... [he suddenly interrupts himself] Here. [he holds out 1000 dollars, but pulls it back out of your reach as you go to grab it] Next time, bring back evidence. Because if you're lying to me... [he waits for a few seconds, watching you, before handing over the money]}
-{1220}{}{[Big Louie's jaw clenches. His narrowed eyes smolder with rage.] I'll only say one thing about this. You are *almost* a deadmeat, marimacho.}
+{1220}{}{[Big Louie's jaw clenches. His narrowed eyes smolder with rage.] I'll only say one thing about this. You are *almost* a dead man, marimacho.}
 {1233}{}{I didn't find the package, but the courier is dead.}
 {1237}{}{[His eyes seem to sparkle as he opens the package] Well, well, what a big boy I am now! And there's something here for you, too! [he gives you 3000 dollars and two stimpaks] Now kick back. There's no more work right now.}
 {1244}{}{[He frowns] He should pay in blood! It's not even about the boys - we'll bury them, and they'll stop stinking. It's about Reno itself. The city had... Forgotten who Big Louie is. Stryker and Thompson are off the leash, two-bit pushers are scamming Fatso... We have to send a message. You do this for *me*... And for the gang. Reno has to remember.}

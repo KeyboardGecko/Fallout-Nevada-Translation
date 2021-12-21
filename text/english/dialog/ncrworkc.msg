@@ -11,7 +11,7 @@
 {117}{}{I can help you get your old job back.}
 {118}{}{[He looks up, surprised] Really? Well... Great! Except, what's the point? The mines have turned to hell. There's nothing for me to do there anyway.}
 {119}{}{The mine is clear. You can return.}
-{120}{}{Return? Ha... Hahaa! [he throws his head back and laughs hysterically] How can I return?! My wallet and stomach are empty. I'll never get there alive! The bandits will cut me down before I'm ten miles out of town.}
+{120}{}{Return? Ha... Hahaha! [he throws his head back and laughs hysterically] How can I return?! My wallet and stomach are empty. I'll never get there alive! The bandits will cut me down before I'm ten miles out of town.}
 {121}{}{Fine. Let's see if I have anything for you...}
 {122}{}{Here's $50 for provisions.}
 {123}{}{Alright, I'll think about sorting that out.}

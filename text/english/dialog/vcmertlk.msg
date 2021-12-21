@@ -70,7 +70,7 @@
 {170}{}{Ten years of hard work. At first, the boulevard was nothing but the same boring and uncrowded neighborhood like any other in Vegas. Then it became a central market with few wealthy families that made fortune on the trade of food and water. Soon the families increased their income and started practicing slave labor. With the help of slaves they cleared the area and put everything in order. For ten years the people here are trying to establish a decent life. A vicious circle of elites and celebrities formed. Much has changed in ten years.}
 {171}{}{Would you like it if your clean and lovingly maintained house was invaded by dirty beggars that make noise and create problems? Most of them see only luxury and brights, and our hard daily work falls behind the scenes. If so, then I see no reason to treat the monkey as a person, if it is an animal and I'm a man.}
 {172}{}{Of course. But only in the Clean City. We simply have no time for the whole Vegas. Therefore, outskirts are mired in poverty and crime.}
-{173}{}{The department of culture is responsible fo the program of cultural events, representation of the Clean City and its inhabitants, but most important of all - for education. Recently we even started selling the surviving pre-war books using vending machines. Just imagine a man reading a book outside of the Clean City. It's almost impossible, is it not?}
+{173}{}{The department of culture is responsible for the program of cultural events, representation of the Clean City and its inhabitants, but most important of all - for education. Recently we even started selling the surviving pre-war books using vending machines. Just imagine a man reading a book outside of the Clean City. It's almost impossible, is it not?}
 {174}{}{I would prefer not to discuss the mayor with anyone, even with my acquaintances. But sometimes I just think - how the Council could choose a spineless and pliant old man to such an important post? I'm just afraid that personal interest will corrupt the mayor.}
 {175}{}{Really? What is that business, allow me to know?}
 {176}{}{I supply Nuka-Cola, on the agreement with the factory in the north. I can show the papers, if you don't believe me.}
@@ -82,7 +82,7 @@
 {182}{}{D-don't touch me!!! Stay away! How did the security let you in here?! Leave! Leave now, ghoul, so I don't see you anymore!}
 {183}{}{Hey, don't confuse skin disease with ghoulification! Ah, damn it, its pointless to explain it to you.}
 {184}{}{If you'll talk about my sickness again - you will look lot worse than that. A lot worse.}
-{185}{}{Security! SECURUTY!!!}
+{185}{}{Security! SECURITY!!!}
 {186}{}{[Leave]}
 {187}{}{Actually, it's really significant. Maybe, you can answer a few questions?}
 {188}{}{Forget it, it's not important.}

@@ -47,11 +47,11 @@
 
 #Термит
 {140}{}{I have to open an, uh, abandoned safe. Can you help me?}
-{141}{}{Don't know nothing about safecracking. Plenty of thieves in Reno, if you want to ask about that. But I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
+{141}{}{Don't know nothing about safe cracking. Plenty of thieves in Reno, if you want to ask about that. But I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
 {142}{}{Tell me about this thermite.}
 {143}{}{Let's trade, then.}
 {144}{}{I don't think I need that.}
-{145}{}{Got it from some prospectors coming back from an army base. They thought it was an explosive. So, I ran some tests. Turned out, this stuff consists of some mixture of different oxydes, peroxydes, and some chemicals I couldn't understand. Looks like a common thermite, but there's a catch: it produces no flames, but a fuckton of heat. It'll burn through pretty much anything, including metal, and it does it silently. Perfect for getting into an "abandoned" safe.}
+{145}{}{Got it from some prospectors coming back from an army base. They thought it was an explosive. So, I ran some tests. Turned out, this stuff consists of some mixture of different oxides, peroxides, and some chemicals I couldn't understand. Looks like a common thermite, but there's a catch: it produces no flames, but a fuckton of heat. It'll burn through pretty much anything, including metal, and it does it silently. Perfect for getting into an "abandoned" safe.}
 {146}{}{Do you only have the one package?}
 {147}{}{[He squints at you for a second, then shrugs] Actually, I've got another. I was keeping it for a rainy day, but eh, what the hell. I know you mean business, so I'll sell it to you.}
 {148}{}{Yup, that's it. I didn't make it myself, you know. Once it's gone, it's gone.}
@@ -298,6 +298,6 @@
 {423}{}{Doesn't seem too complicated. I'll do it for }
 
 #Female character
-{1141}{}{Don't know nothing about safecracking. Plenty of thieves in Reno, if you want to ask about that. But I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
+{1141}{}{Don't know nothing about safe cracking. Plenty of thieves in Reno, if you want to ask about that. But I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
 {1230}{}{Actually, I changed my mind. You can go back to doing nothing.}
 {1262}{}{Ha! I don't fucking think so. You'll never find my stash without me.}

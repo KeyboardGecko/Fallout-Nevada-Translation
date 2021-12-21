@@ -1,5 +1,5 @@
 {100}{}{You see Thompson.}
-{101}{}{You see a formidable man. He oozez with authority.}
+{101}{}{You see a formidable man. He oozes with authority.}
 {102}{}{He looks disheveled and depressed.}
 {103}{}{I'll give you one minute.}
 

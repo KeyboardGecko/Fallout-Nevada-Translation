@@ -105,6 +105,6 @@
 {512}{}{Wanna fly to a place where only the gods can be? I will help you!}
 {513}{}{I have stuff, stuff and more stuff. Let's talk.}
 
-#Women's replics
+#Women's replies
 {1158}{}{Indeed. And that's all you need to know. Are you satisfied? Now you can safely choose a product. It's clean, don't worry.}
 {1192}{}{[Looks intently] You don't look like a drug addict. Who do you work for? The cops? Keep away from me!}

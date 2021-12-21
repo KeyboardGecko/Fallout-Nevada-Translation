@@ -40,7 +40,7 @@
 {209}{}{We don't allow customers to get high in here, pal.}
 {210}{}{Do you know why those theater guys have to be hanged? Because the theater begins with a hanger... Ha-ha-ha!!!}
 
-#Starting replics
+#Starting replies
 {230}{}{What do you want, buddy?}
 {231}{}{Booze. Show me what do you have.}
 {232}{}{No thanks.}
@@ -76,7 +76,7 @@
 {259}{}{ bucks a day.}
 {260}{}{[Go into your room]}
 
-#Women's replics
+#Women's replies
 {1131}{}{[He immediately smiles to you] Thank you for your generosity, ma'am.}
 {1139}{}{Anything else, ma'am?}
 {1230}{}{What do you want, friend?}

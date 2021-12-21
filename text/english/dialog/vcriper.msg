@@ -63,7 +63,7 @@
 
 {209}{}{Hey! You, asshole to the right! Put that back! My boys would chop off your hand for that, in our gan- I mean in our jazz gan- er, jazz-band. You know... }
 
-{210}{}{~Guatemala blend, ethiopian,}
+{210}{}{~Guatemala blend, Ethiopian,}
 {211}{}{French vanilla roast~}
 {212}{}{Dying, dying~}
 {213}{}{You're dying for a cup!}

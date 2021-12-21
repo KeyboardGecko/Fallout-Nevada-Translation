@@ -55,7 +55,7 @@
 {144}{}{Actually, I changed my mind. I don't care about that guy. Burn him!}
 {145}{}{Fine, we have a deal. I'll come back for him when the pump is fixed.}
 
-{146}{}{[The prisoner is untied from the pole and dragged into a nearby house. The spectators disappointedly disperse.]}
+{146}{}{[The prisoner is untied from the pole and dragged into a nearby house. The spectators disperse, dissapointed.]}
 {147}{}{[End]}
 {148}{}{You've given the man a few more days of life.}
 
@@ -63,7 +63,7 @@
 {150}{}{A man's life is far more valuable. Here's the money.}
 {151}{}{You saved the life of a complete stranger.}
 {152}{}{I don't have that kind of money. Can I pay you later?}
-{153}{}{[The prisoner is untied from the pole and dragged into a nearby house. The spectators disappointedly disperse.]}
+{153}{}{[The prisoner is untied from the pole and dragged into a nearby house. The spectators disperse, disappointed.]}
 {154}{}{[End]}
 
 {155}{}{We'll keep him here until you bring the money. He's not going anywhere until you do.}

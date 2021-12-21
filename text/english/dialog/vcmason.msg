@@ -54,7 +54,7 @@
 {163}{}{Hal Wallace, who else? He owns the casino and has... Some other businesses in the city. Very powerful man, someone you should stay friends with, trust me.}
 {164}{}{Until recently it was Hal Wallace... But his assistants are still in the casino, so it's still going without him.}
 {165}{}{I want to work for him too! Can you recommend me?}
-{166}{}{Hmm... I don't know how much my word means to my boss, but I can try. Talk to his head guard and tell him Maxon sent you. Maybe he'll listen.}
+{166}{}{Hmm... I don't know how much my word means to my boss, but I can try. Talk to his head guard and tell him Maxson sent you. Maybe he'll listen.}
 {167}{}{Thanks, Maxson.}
 
 {168}{}{What's up, old pal? How are you doing?}

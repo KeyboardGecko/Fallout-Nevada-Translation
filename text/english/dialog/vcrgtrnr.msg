@@ -46,6 +46,6 @@
 {137}{}{Your hard work was not in vain: your Unarmed skill increased by 5%!}
 {138}{}{After all those exhausting exercises you increased your Strength.}
 
-#Women's replics
+#Women's replies
 {1122}{}{Sorry, but I have nothing left to teach you anymore. You have grown up and now on your own. Your future school is the ring, not the gym.}
 {1130}{}{Great job, champion! Such diligence, such stamina... Who would have thought? Until now, no one could endure such prolonged exercises. I'm proud of you! But... You know, I taught you everything I could. Next you will have to learn on your own.}

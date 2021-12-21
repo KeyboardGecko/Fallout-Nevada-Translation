@@ -128,7 +128,7 @@
 #Brothers are dead
 {240}{}{What?! Damn! How did you manage to pull this off? No need explain, I don't want to know. What matters now is to seize the right moment to climb the barricades.}
 
-#Women's replics
+#Women's replies
 {1110}{}{Thank you, wanderer. Thank you for everything!}
 {1177}{}{[Sighs] That's right. Well, thanks for the visit.}
 {1180}{}{Yes! Yes!! Thank you, friend! For the support and all. All that's left is to come up with a plan. I have been thinking about us running away together for a very long time, but it's not an easy thing to do.}

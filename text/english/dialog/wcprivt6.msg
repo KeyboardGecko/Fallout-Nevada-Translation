@@ -104,7 +104,7 @@
 
 {199}{}{I'm listening.}
 
-#Women's replics:
+#Women's replies:
 {1120}{}{I was just passing by.}
 {1121}{}{You scum, get out of here! Or should I make you?}
 {1122}{}{No, I'll go by myself.}

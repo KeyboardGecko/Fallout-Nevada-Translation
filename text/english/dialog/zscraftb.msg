@@ -46,7 +46,7 @@
 #Special options about repairing tattered jacket
 {180}{}{You need more leather to restore this jacket.}
 
-#Name of theassembling product + list of components
+#Name of the assembling product + list of components
 #(no comma at the end of list of components)
 #(Each first line goes with a capital letter, the second one doesn't)
 
