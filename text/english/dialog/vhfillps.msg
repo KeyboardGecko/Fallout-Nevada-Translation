@@ -45,46 +45,46 @@
 ####################################################################
 
 {150}{}{You look upset. What happened?}
-{151}{}{[Waves his hand] Sorry, I have a lot of bad things happening to me right now, but it doesn't concern you, I just can't concentrate on my work... What did you want?}
+{151}{}{[Waves his hand] Sorry, I have a lot of bad things happening to me right now, but it doesn't concern you, I just can't concentrate on my work... Did you want something?}
 {152}{}{Let's go back.}
 {153}{}{In fact, nothing.}
 {154}{}{And yet - perhaps you need help?}
 
 {155}{}{You know, certainly not from you. My situation is too uncertain and dangerous, I'm afraid, you will only make matters worse.}
-{156}{}{Well whatever you say.}
-{157}{}{I have no choice in my position. My friends afraid to interfere, and you're a new man, you may be able to find out, who did it... If you, of course, believe me. And if not - then join the camp of my enemies, there is plenty of space for you.}
-{158}{}{I see, that you're a good man without dirt in his heart. That's why I will help you anyway.}
+{156}{}{Well... Whatever you say.}
+{157}{}{I guess I have no choice. My friends are too afraid to interfere... And you're a new man, you may be able to find it out... If you believe me, of course. And if not - you can join the camp of my enemies, there's plenty of room for you.}
+{158}{}{I see that you are a good man with a good heart. That's why I will help you anyway.}
 {159}{}{I'll pass then.}
 
-{160}{}{[Sighs] Thank you, but I wasn't always such a good person, I have a lot of history with drugs behind me. And the past, like a nightmare, showed itself again.}
+{160}{}{[Sighs] Thank you, but I wasn't always a good person, I have a lot of history with drugs behind me. And the past, like a nightmare, showed itself again.}
 {161}{}{What happened?}
-{162}{}{I was framed. Someone told the police that I buy poison from which my clients die. Cops turned the cafe upside-down, found all kind of additives and left - supposedly, for tests. But who will test them, really? These idiots won't tell sodium from marijuana! They don't realize that it's just a salt.}
-{163}{}{Why are they so sure?}
-{164}{}{I don't know. They have false evidence and it seems no one cares to figure it out. The last days I live under the fear of prison or the death penalty.}
-{165}{}{And you really bought a batch of dope?}
-{166}{}{No! I work only with a few caravans, most of them are working for "Monte". But, basically, Bob brings all needed goods.}
+{162}{}{I was framed. Someone told the police that I buy poison from which my clients die. Cops turned the cafe upside-down, found all kinds of additives and left - supposedly, for tests. But would they be able to test them, really? These idiots won't tell sodium from marijuana! They don't realize that it's just a salt.}
+{163}{}{Why are they so sure it's drugs?}
+{164}{}{I don't know. They have a false evidence and it seems no one cares to look more into it. For the last few days I have been living in fear of prison - or the death penalty.}
+{165}{}{Did you really buy a batch of dope?}
+{166}{}{No! I work only with a few caravans, most of them are also working for "Monte". Basically, Bob brings me everything I need.}
 {167}{}{Where can I find him?}
 {168}{}{Bob? He always hangs around the caravan parking lot.}
 {169}{}{Who could have set you up?}
-{170}{}{I don't know. I think, just any competitor. After all, there are not so many people that have been able to rebuild the old venues and get them to profit the city. I can't say anything more.}
+{170}{}{I don't know. I think just about any competitor. In the end, there aren't a lot of people here who have been able to rebuild the old venues and have them bring a profit to the city. There's not much else I can say.}
 {171}{}{All of this is very vague. Well, let's see what we can do.}
 
-{172}{}{About your problem with the police - it's all settled. Well, at least you have been proved innocent, but who did this is still a mystery to me.}
-{173}{}{It wasn't so simple, was it? I know already, by the way. The police contacted me and told me everything, with apologies. You saved me! I lost all hope and was ready to go to prison. You know, I think you earned this. Here, take it. [gives 1000 bucks]}
+{172}{}{About your problem with the police - it's all settled. You have been proved innocent, but who was behind this is still a mystery to me.}
+{173}{}{It wasn't so simple, was it? I already know, by the way. The police contacted me and told me everything, with apologies. You saved me! I lost all hope and was ready to go to prison. You know, I think you earned this. Here, take it. [gives you 1000 bucks]}
 {174}{}{Oh! It was worth it!}
-{175}{}{Regarding your enemies. It turns out that "evidence" was planted by one of the competitors - the owner of the "Monte" casino.}
-{176}{}{My God! I did not think Hal is so greedy... Well, I will not grieve if he gets his due. I did not get into his business and will not do so in the future, especially for the purpose of revenge. Thanks for telling.}
+{175}{}{Regarding your enemies. It turns out that "evidence" was planted by one of the competitors - the owner of "Monte" casino.}
+{176}{}{My God! I did not think Hal is so greedy... Well, I will not grieve if he gets his due. I did not get into his business and will not do so in the future, especially for the purpose of revenge. Thanks for telling me.}
 {177}{}{You're welcome.}
 
-{178}{}{What can you tell me about this substance? Caravan admitted that he delivers you to the party this rubbish...}
-{179}{}{Oh, you too... Police didn't understand either. This is for pizza. In our time it is not so easy to find a handful of grain to make normal dough, so we make it from all sorts of things - from cardboard, for example. And so the dough was so tough that we had to add emulsifier E30. This particular substance is being extracted from the depths of the Salt Lake and somehow it enriches the taste... A harmless thing, but it is better not to try separately, otherwise you will be obliged with the night in the toilet.}
+{178}{}{What can you tell me about this substance? Caravaneer admitted that he delivers it for you.}
+{179}{}{Oh, you too... Just like it was with the Police. This is for pizza. It's not easy to find enough grains to make a normal dough nowadays, so we produce it using all sorts of things - adding cardboard, for example. And the dough turns out to be so tough that it's impossible to chew! So we add this emulsifier E30. This particular additive is being extracted from the depths of the Salt Lake, it enriches the taste and makes the dough softer... A harmless thing, but it is better not to try on its own, otherwise you will be obliged to spend the night in the toilet.}
 {180}{}{Hmm...}
 
 ####################################################################
 #              Про колу - получение квеста
 ####################################################################
 
-{200}{}{I'm the official courier of the Nuka-Cola factory in Salt Lake. Would you be interested in buying from us?}
+{200}{}{I'm an official courier of the Nuka-Cola factory in Salt Lake. Would you be interested in buying from us?}
 
 {201}{}{I'd love to, but I cannot. We have big problems in the cafe. It is possible that we enter into this transaction and there will be no one to deal with soon. Let's not take chances now.}
 {202}{}{May I know, what is the problem?}
