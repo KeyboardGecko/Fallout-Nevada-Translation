@@ -84,7 +84,7 @@
 #              Comedian Quest
 ####################################################################
 
-# !! Only avaliable for female PC
+# !! Only available for female PC
 
 {170}{}{Got any work?}
 {171}{}{Well, I have something in mind, but it's a bit risky.}
@@ -125,7 +125,7 @@
 {206}{}{Okay. Here how it goes: You want something to eat - work for it. It's a bit of a mess here, you have to sweep, fix the chairs, clean the tables. When you do that, I will feed you. Ok?}
 {207}{}{Yes! Yes! Yes!!!}
 {208}{}{Greedy bastard! I better just go away from here!}
-{209}{}{Oh! So you want it all for free! Dont even think coming to me with complains about, how pitiful you are. Got that?}
+{209}{}{Oh! So you want it all for free! Don't even think coming to me with complains about, how pitiful you are. Got that?}
 {210}{}{[Proudly lift the chest and exit]}
 
 {211}{}{Well, then start right now. There is the rags, and there is the mop. Later I will show you where is the toilet.}
@@ -145,7 +145,7 @@
 
 {224}{}{Ha! Where is a quiet place here? Around "Silver", but there is already all spots are occupied! The hotel itself has a restaurant, and the caravan has its own merchant, he is the first all profit comes to... But actually, it's an idea, friend! Move that way a little bit, and maybe, I will be able to find something better!}
 {225}{}{Ha! Where is a normal workplace here? Except that hotel or casino, but there is already all positions are taken. It's not that nice and dandy there - there is always some shit going on, better to own your own business... But, it's a thought - maybe I need another way to do business?}
-{226}{}{Yeah, and make an advertisement so people could find the place, you literaly just sit in the most inconspicuous place! Who will find you here, away from the main street?}
+{226}{}{Yeah, and make an advertisement so people could find the place, you literally just sit in the most inconspicuous place! Who will find you here, away from the main street?}
 {227}{}{Hmm. Well maybe.}
 {228}{}{Well, friend, sorry to bore you with all this crap, I don't even have no one to talk to here. Tale care of yourself! Stop by someday someday.}
 {229}{}{Good luck.}
@@ -262,17 +262,17 @@
 {433}{}{Can't do that now, wait a little.}
 {434}{}{Amazing! How did you all manage to do it so well? It looks as easy for you as to peel a potato... Now, come here, cap, we've got a serious discussion ahead.}
 {435}{}{Something happened?}
-{436}{}{Not yet. But, you see, it's not going to be that easy. I didn't mention it before because... Well, I didn't think you'd pull it off anyway. But now, seeing how serious you are, it looks like I'll have to tell you. My place is on Mr. Thompson's property. I have to give him a portion of my profits as protection money. But, frankly, that's just robbery, not protection! I would have had better luck with my double-barrelled. Anyway, now the interest in the club will increase.}
+{436}{}{Not yet. But, you see, it's not going to be that easy. I didn't mention it before because... Well, I didn't think you'd pull it off anyway. But now, seeing how serious you are, it looks like I'll have to tell you. My place is on Mr. Thompson's property. I have to give him a portion of my profits as protection money. But, frankly, that's just robbery, not protection! I would have had better luck with my double-barreled. Anyway, now the interest in the club will increase.}
 {437}{}{So, you think he's going to crack down on you?}
 {438}{}{Thompson will want to increase payments. And then there are the advertising costs - we'll need posters, advertisers, tickets. I'm gonna go bankrupt just on that. And I'm not even sure we're gonna have some profit. So, I need you to do me a favor and talk to Thompson. To sort things out. If you are still in, that is.}
 {439}{}{I get it. I'll do my best...}
 
-{440}{}{Well, that would be great. But I think that's going to be more problems than it's worth... That's not the point, though. No offence, but this just isn't for you. The audience just isn't going to appreciate your, uh... Unique charisma.}
+{440}{}{Well, that would be great. But I think that's going to be more problems than it's worth... That's not the point, though. No offense, but this just isn't for you. The audience just isn't going to appreciate your, uh... Unique charisma.}
 {441}{}{Oh well, suit yourself.}
 
 #Finding the gangster
 {442}{}{Let's talk about the gangsters.}
-{443}{}{Like I said: Thompson's bleeding me dry for protection money. To run the event, I'll need to hand him over a sizeable chunk of the earnings.}
+{443}{}{Like I said: Thompson's bleeding me dry for protection money. To run the event, I'll need to hand him over a sizable chunk of the earnings.}
 {444}{}{I talked to Thompson. Everything is fine.}
 {445}{}{Mister Thompson has left the business. For good.}
 {446}{}{What if we switch sides?}

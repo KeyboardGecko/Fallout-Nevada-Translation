@@ -32,7 +32,7 @@
 {128}{}{What guides you in your decisions? The word of God, your personal experiences, or something else?}
 {129}{}{My Pip-Boy 2009 guides me along the path of logic and reason.}
 {130}{}{I believe that without the Lord we are wandering blindly in the dark, and only He can guide our path.}
-{131}{}{I have no need in anyone's advices and instructions to make important decisions in life.}
+{131}{}{I have no need in anyone's advice and instructions to make important decisions in life.}
 {132}{}{I'm being led by bottle of booze mixed with iguana-on-a-stick, country-style.}
 {133}{}{I don't know. The question is beyond me.}
 

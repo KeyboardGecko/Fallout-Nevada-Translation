@@ -3,7 +3,7 @@
 {102}{}{The family issue have been solved.}
 {103}{}{Shit! This cretin killed his wife!}
 {104}{}{What have you done?!}
-{105}{}{This cretin is unredeemable. Your conversation with him only reinforced his beliefs.}
+{105}{}{This cretin is irredeemable. Your conversation with him only reinforced his beliefs.}
 {106}{}{You solved the family issue without blood and violence.}
 {107}{}{The drunkard is so scared that he will remember this lesson for long.}
 {108}{}{Merck is scared of you so much that he won't dare to be rude to his wife.}
@@ -30,7 +30,7 @@
 {122}{}{With her - nothing. But she wants you dead. Say goodbye now!}
 {123}{}{Well, maybe... Bitches always complain when they don't like something...}
 {124}{}{So, what's wrong about it?}
-{125}{}{You're wrong. You must be kinded and gentler to your wife.}
+{125}{}{You're wrong. You must be kinder and gentler to your wife.}
 {126}{}{I will wreck you for this!... [punch him in the face]}
 {127}{}{Whaaa?! Do I look like a child to you? You want to teach me about life? Why everyone hates me?! What did I do?! I just wanted to relax, have some beer, but everyone is lashing out on me! You, my wife, everyone!}
 {128}{}{Strange to hear this from a man who is busy doing nothing. Bye.}

@@ -14,7 +14,7 @@
 {125}{}{Where did you last see it?}
 {126}{}{She was right there, around that far corner! And in the morning she was gone! Just disappeared!}
 {127}{}{Was anyone else around that night?}
-{128}{}{No! I'm sure! Because... Because I didn't sleep, and I tied the gate with a special knot! If someone would untie the rope, I'd know, because he won't tie it the same way! No one could do it! Not even the toilet, not even that lady's tent from Reno is close enough for someone to steal a bramin without me noticing!}
+{128}{}{No! I'm sure! Because... Because I didn't sleep, and I tied the gate with a special knot! If someone would untie the rope, I'd know, because he won't tie it the same way! No one could do it! Not even the toilet, not even that lady's tent from Reno is close enough for someone to steal a brahmin without me noticing!}
 {129}{}{Look, kid, I can tell you're lying to me. Tell me the truth, or else.}
 {130}{}{You... You won't tell my father, will you? I fell asleep... I'm sorry! I don't usually sleep in the night! But as soon as I drank some water, I just... I don't know! I don't even remember feeling tired, but I didn't wake up until morning. And then the brahmin was gone! It must have been some kind of... Of radiation, or a brahmin-stealing mutant with special powers!}
 {131}{}{It's a mystery, alright.}

@@ -260,7 +260,7 @@
 {1157}{}{Is that so? What about this? [pulls a coin out of your pocket that you're seeing for the first time in your life] I saw you! You just tried to pickpocket me!}
 {1159}{}{Shit, you got me man. Yeah, I'm a thief. Question is, what do we do now?}
 {1169}{}{No-no, forget it! I quit and all that. Bye.}
-{1220}{}{Quit wasting time. I need you to gelp me get over that fence. Understood?}
+{1220}{}{Quit wasting time. I need you to help me get over that fence. Understood?}
 {1360}{}{Well, well, let's see what you've got.}
 
 #Floating dialogue when thief waits in courtyard [fem char]

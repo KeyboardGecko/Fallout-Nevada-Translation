@@ -185,7 +185,7 @@
 {552}{}{Oh yeah, if you gather more samples, bring them to me.}
 {553}{}{Okay, Doc.}
 {554}{}{Oh yeah. I think that's all I needed. These samples would be enough for a couple weeks of research. I'm very grateful, thank you.}
-{555}{}{You're welcome, but... Doc, after I interacted with those dead mutants, I feel kinda strange... Nauseous, feverish, my head hurts... What's happpening to me?}
+{555}{}{You're welcome, but... Doc, after I interacted with those dead mutants, I feel kinda strange... Nauseous, feverish, my head hurts... What's happening to me?}
 {556}{}{Quick, sit down so I can examine you... }
 {557}{}{[Next]}
 {558}{}{You're fine now. It was just an infection.}

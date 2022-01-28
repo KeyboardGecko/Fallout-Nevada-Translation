@@ -85,14 +85,14 @@
 {214}{}{The factory has been doing rather well lately. We have so many contracts now that we sometimes run short of hands able to work on them! Our income is high and people are as motivated as ever. We must strike it while it's hot and get the most out of the situation.}
 {215}{}{Everything as usual: the people are lazy, the income isn't encouraging, but we have enough to keep our heads above water for now... Not sure how long we'll last, though.}
 {216}{}{Some asshole has also sabotaged our production. We haven't been able to find out who it was. It must have been some tricky son of a bitch!}
-{217}{}{Oh, and some bastard has been robbing our Nuka-Cola vending machines. That sly punk leaves no evidence behind and acts very carefully. I've already talked to the Sheriff regarding this matter. I'm sure mr. Burton will promptly deal with the problem.}
+{217}{}{Oh, and some bastard has been robbing our Nuka-Cola vending machines. That sly punk leaves no evidence behind and acts very carefully. I've already talked to the Sheriff regarding this matter. I'm sure Mr. Burton will promptly deal with the problem.}
 {218}{}{I see.}
 {219}{}{Where do you get ingredients for production?}
 {220}{}{There are several Mormon farms located in the Salt Lake City area. They grow all the necessary plants there. Salt and alkali are extracted from the Great Salt Lake's deposits. So we had no problems with that.}
 
 #Второй квест - деталь у караванщика
 {230}{}{What will be the next task?}
-{231}{}{There's one caravaner who wants to take advantage of our troubles. We had a deal that he would find us a new encoder to replace the broken one. We agreed on the price of $300. Now that he has the encoder, he asks for $1,000!}
+{231}{}{There's one caravaneer who wants to take advantage of our troubles. We had a deal that he would find us a new encoder to replace the broken one. We agreed on the price of $300. Now that he has the encoder, he asks for $1,000!}
 {232}{}{[More.]}
 {233}{}{That caravaner has a lot of nerve! Each day he raises the price even more, and we have no hope of buying it from another seller. The Sheriff decided to stay away from this conflict of interest of ours. Therefore, I'm offering you a deal: you get the encoder from him using *any* means that you may deem necessary, and I'll buy it from you for a reasonable price of $300. This way we'll resolve several issues at once: I'll get the part for a fair price, you'll make some money, and the caravaner will get what he deserves for his greediness.}
 {234}{}{Sound good. Where do I find the caravaner?}
@@ -129,7 +129,7 @@
 {268}{}{I see. I have other questions.}
 {269}{}{As I told you - at the caravan camp.}
 {270}{}{You think it's a "small retail outlet". But think about it: how can a random flashman have so many goods to sell? I don't know where he gets his Nuka-Cola, but it certainly doesn't come from us. Nobody knows how he got so many bottles for his stock. He may even have a full storage somewhere. What's worse is that his goods also cost less. Such competition may negatively affect the factory's reputation.}
-{271}{}{No, his stock does not come from our storages. We have already checked. It looks like he managed to stumble upon a pre-war Nuka-Cola cache. Some abandoned truck or a big warehouse, I don't know.}
+{271}{}{No, his stock does not come from our storage. We have already checked. It looks like he managed to stumble upon a pre-war Nuka-Cola cache. Some abandoned truck or a big warehouse, I don't know.}
 {272}{}{I've already talked to the Sheriff about it. He doesn't see anything criminal in the salesman's activities. Thus, legally, his business is clean.}
 {273}{}{Thanks for your answers.}
 {274}{}{I have some questions about the job.}

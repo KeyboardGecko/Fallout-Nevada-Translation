@@ -38,7 +38,7 @@
 {143}{}{I'm not in the mood for riddles. Do you have work, yes or no?}
 {144}{}{Yes, Mr. Wright. It's reputation, isn't it?}
 
-{145}{}{Wilful ignorance. [he scoffs] Get out.}
+{145}{}{Willful ignorance. [he scoffs] Get out.}
 {146}{}{[Get out]}
 
 {147}{}{Reputation. And regardless of your wallet or gun, reputation is something you don't have. In my slums, no one knows you and no one recommends you. And I trust my people. If you want a job, show me the results of your work... Which can be evaluated.}

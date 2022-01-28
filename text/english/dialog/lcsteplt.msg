@@ -45,7 +45,7 @@
 
 #Про собак - about the dogs
 {160}{}{How's dog meat?}
-{161}{}{Well... Better than tough gecko meat or stinky molerat's.}
+{161}{}{Well... Better than tough gecko meat or stinky molerats.}
 {162}{}{And their owners don't mind?}
 {163}{}{They don't have owners. It's a stray meat.}
 {164}{}{You sure?}
@@ -114,7 +114,7 @@
 
 {229}{}{It wasn't an easy task, but device works now. Here, try it. [Stares at you for some time silently] It's not just curiosity, right? Where are you heading, if it's not a secret?}
 {230}{}{I'm going far. A few days of travel to the north.}
-{231}{}{The north? It's a dangerous path. There's a different nature there, much meanier. Strong winds, cold, radiation. People don't live there for long. Though, traveling by train, probably, won't be as dangerous.}
+{231}{}{The north? It's a dangerous path. There's a different nature there, much meaner. Strong winds, cold, radiation. People don't live there for long. Though, traveling by train, probably, won't be as dangerous.}
 {232}{}{How do you know all this?}
 {233}{}{I've rode from north. But it was a long time ago.}
 {234}{}{Rode? On, like, a vehicle?}

@@ -12,7 +12,7 @@
 {115}{}{W-well, whatever...}
 {116}{}{That's all? Buddy, you will die from hunger like this! Ha-ha-ha!}
 
-#Women's replics:
+#Women's replies:
 {118}{}{I'd like to complain about your waitress. She was rude to me!}
 {119}{}{That's all? Buddy, you will die from hunger like this! Ha-ha-ha!}
 
@@ -113,7 +113,7 @@
 
 # Markers:
 # GGG -- Joe phrases
-# TTT -- replics over the "strange person"
+# TTT -- replies over the "strange person"
 
 ####################################################################
 # Story number 1. About The Ghost Train.

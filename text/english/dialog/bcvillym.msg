@@ -101,7 +101,7 @@
 {192}{}{[More]}
 {193}{}{We heard a rumor that someone settled here, and realized we could build ourselves a community away from "civilization". Life was pretty shitty in big cities back then. We wanted a fresh start.}
 {194}{}{[More]}
-{195}{}{So we came here, busted down these strange structures, and built our houses out of them. More people came, with bramins and tents. So we eventually became a place to stop for travelers and caravan traders.}
+{195}{}{So we came here, busted down these strange structures, and built our houses out of them. More people came, with brahmins and tents. So we eventually became a place to stop for travelers and caravan traders.}
 {196}{}{Thanks.}
 {197}{}{Don't mention it!}
 {198}{}{Sounds more like it was a collection of sculptures than a junkyard, don't you think?}

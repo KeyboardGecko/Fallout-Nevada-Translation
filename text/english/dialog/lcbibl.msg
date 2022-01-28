@@ -133,7 +133,7 @@
 {253}{}{No, I'm interested in something else.}
 {254}{}{Yes, this will work. Let's trade.}
 
-{255}{}{Thank you, wonderer, it was a pleasure dealing with you.}
+{255}{}{Thank you, wanderer, it was a pleasure dealing with you.}
 {256}{}{Likewise. Goodbye.}
 {257}{}{}
 {258}{}{}

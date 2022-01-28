@@ -161,7 +161,7 @@
 {252}{}{Where can I get explosives?}
 {253}{}{That's enough. I will take it from here.}
 {254}{}{Finally, I'm getting some use out of you. Now I'm off to do all the work. Again.}
-{255}{}{Hey, I didn't give you that facemask for party tricks, you know. Use your head, rookie!}
+{255}{}{Hey, I didn't give you that face mask for party tricks, you know. Use your head, rookie!}
 {256}{}{If you can't do it yourself, find someone who will do it. That's your problem, not mine.}
 {257}{}{That's your problem, not mine. Start with the mechanic at the station.}
 {258}{}{Take this. [he hands you a balaclava] Put it on before you do the job, and they won't see your face.}
