@@ -6,18 +6,18 @@
 {111}{}{Goodbye.}
 {112}{}{Regarding the case of Sam Phillips.}
 
-#Дело о Сэме Филлипсе
-{113}{}{[The policeman suddenly sparkles with interest] This is the toughest subject... So what did you want to tell about Sam Phillips?}
+#Г„ГҐГ«Г® Г® Г‘ГЅГ¬ГҐ Г”ГЁГ«Г«ГЁГЇГ±ГҐ
+{113}{}{[The policeman's interest is suddenly sparked] This is the toughest subject... So what did you want me to tell you about Sam Phillips?}
 {114}{}{I have a substance, that proves his involvement with drugs in the city! He buys this from a caravan from Salt Lake.}
 {115}{}{I have a substance, that proves his innocence regarding his involvement with drugs in the city! Seems like someone mistook this food supplement for a drug.}
-{116}{}{I just wanted to ask - how the case is going?}
+{116}{}{I just wanted to ask - how is the case going?}
 {117}{}{Hmm, nothing, I suppose. Just asking.}
 {118}{}{So that's what it is! Then I'll simply put handcuffs on you and put you in a cell, so you think next time before wasting police officer's time.}
 {119}{}{Oh no, not in a cell! I'd better walk away quietly.}
 
-{120}{}{Can I know why are interested in this case?}
+{120}{}{Can I know why you are interested in this case?}
 {121}{}{Sam Phillips... Er... Owes me money, and I'm worried.}
-{122}{}{Sam Phillips is my friend and I don't want, him to go in prison!}
+{122}{}{Sam Phillips is my friend and I don't want him to go in prison!}
 {123}{}{I'm investigating the crime with order of the mayor himself.}
 {124}{}{No reason. Why?}
 {125}{}{Your boss has given me a civil job to snitch Phillips.}
@@ -25,7 +25,7 @@
 {126}{}{Oh, then this changes things. At first we have been contacted by anonymous individual and notified that Phillips makes drugs in his cafe. We went at the site, and found there some of that yellow stinky crap. Our specialists still try to figure out what is it. But they are still struggling, so if they can't identify this substance, then I don't know, how all this is going to end.}
 {127}{}{Yellow substance? Like this? [show an emulsifier]}
 {128}{}{Hmm. Okay.}
-{129}{}{Then you'll have to hurry, because during the search in the cafe we found dubious yellow substance resembling components for the production of drugs. Most likely, he will be sent to prison.}
+{129}{}{Then you'll have to hurry, because during the search in the cafe we found a dubious yellow substance resembling one of the components for the production of drugs. Most likely, he will be sent to prison.}
 {130}{}{Oh shit, is it really that bad?}
 {131}{}{Oh so it's your friend! Well then, guys, you'll have to say goodbye to each other. Because soon Sam Phillips will be behind bars in prison. End of story.}
 {132}{}{Damn it, is it really that bad?}
@@ -44,7 +44,7 @@
 {144}{}{You, of course, are right, and we will do that immediately. Phillips will be arrested, and you, as it is being done in such cases, will be rewarded. Here, 1000$. Thank you, civilian, for your cooperation. I hope you will continue to notify us about any crimes that may be occurring.}
 {145}{}{Heh, easy money.}
 
-#Про Высера
+#ГЏГ°Г® Г‚Г»Г±ГҐГ°Г 
 {150}{}{How is the duty, friend? Anything interesting happened lately?}
 {151}{}{With the wit like yours, I have nothing to do here. But watch yourself. Because you may end up like the other one before you, which we tied to the pillar of shame for everyone to see. Try to not taking his place, with your insolent questions.}
 {152}{}{Who are you talking about?}
@@ -52,13 +52,13 @@
 {154}{}{This idiot calls himself Shitposter. Underage asshole with high self-esteem. He is now hanging under the sun around welcoming console. Go have a look. It's quite a show!}
 {155}{}{Fine.}
 
-#Джей Кукиш
+#Г„Г¦ГҐГ© ГЉГіГЄГЁГё
 {160}{}{I'm looking for jay Kukish, a biker. Heard anything about him?}
 {161}{}{Wow - what a coincidence. We are also looking for him! We have orders to detain the offender. If you meet him - remember, he is very dangerous. Do not play around - shoot first, ask questions later.}
 {162}{}{Uh, thanks for the info.}
 {163}{}{Very well. It was a correct decision.}
 
-#Джей Кукиш
+#Г„Г¦ГҐГ© ГЉГіГЄГЁГё
 {170}{}{I demand that you release Murphy from his cell.}
 {171}{}{You've got two options: either prove his innocence, or pay a deposit of 500$.}
 {172}{}{I will pay. Here's the money.}
@@ -70,7 +70,7 @@
 {178}{}{You're telling me that, the "Wasteland disease" is not real? I'm a doctor with many years of experience, we have seen the whole villages die from that. Just like in Tonopah or Mesquite. Have you ever been there?}
 {179}{}{Hmm. I heard something about Tonopah. Something about mad people, consuming their own flesh... Or it was really the whole village, which just died out there... But since you're a doctor, I have to believe you. First, write a receipt that you vouch for the diagnosis.}
 
-#Квест архивариуса и уличный воришка
+#ГЉГўГҐГ±ГІ Г Г°ГµГЁГўГ Г°ГЁГіГ±Г  ГЁ ГіГ«ГЁГ·Г­Г»Г© ГўГ®Г°ГЁГёГЄГ 
 {180}{}{Is there any work here for a private detective?}
 {181}{}{Usually we don't hire anyone and work by ourselves. But there are two cases where your help would be appreciated.}
 {182}{}{Interesting. Can you say more?}
@@ -83,7 +83,7 @@
 {191}{}{Daughter disappeared without a trace. In the "Hard Rock" no one has seen her, in "Monte" she didn't appear for a long time, and there is no more places to search for girls like her. We gave up on the matter, because of absence of any clues.}
 {192}{}{Okay.}
 
-#Дело о выродках
+#Г„ГҐГ«Г® Г® ГўГ»Г°Г®Г¤ГЄГ Гµ
 {205}{}{Regarding freaks.}
 {206}{}{I've got proof of their innocence. They have been framed!}
 {207}{}{I've got proof of their guilt. This record I made during a conversation with Larry Geller.}
@@ -95,7 +95,7 @@
 
 {212}{}{What are you saying, freaks' favorite? How doubtful. Well, let's see what you got there...}
 {213}{}{Here, I secretly picked up this pamphlet from the slavers. Direct evidence.}
-{214}{}{Oh! How unexpected. I don't know, what the slavers wanted, but we will deal with them. I'll give the evidence to the chief. Thank you, citizen. In such cases one must be rewarded. Here, take it. [gives 1000$]}
+{214}{}{Oh! How unexpected. I don't know what the slavers want, but we will deal with them. I'll give this evidence to the chief. Thank you, citizen. In such cases one must be rewarded. Here, take it. [Gives you 1000$]}
 {215}{}{One thousand bucks!}
 
 {216}{}{Very cunning of you. Good job! Underworld must be punished... And you should be rewarded. [Gives you $ 2000] As for those freaks - do not worry. We now arrange to round them up and they won't do any harm to anyone from now on.}
@@ -107,7 +107,7 @@
 {221}{}{I visited the freaks' hotel. They've got dope laying even in boxes! You should investigate immediately!}
 {222}{}{You are just in time. Thank you for the information, on behalf of the Las Vegas police. You are entitled to a reward. Here's 1,000$. As for the freaks - you can rest assured. We are now getting ready to go on a punitive operation.}
 
-#Улики против Уоллиса
+#Г“Г«ГЁГЄГЁ ГЇГ°Г®ГІГЁГў Г“Г®Г«Г«ГЁГ±Г 
 {223}{}{Do you know that Hal Wallace is involved in dirty business? I have proof!}
 {224}{}{Hal Wallace?! This great man was involved in criminal activities? Do you understand that you are responsible for your words right now?}
 {225}{}{Here is a record of our conversation. He persuaded me to illegally snitch on the freaks!}
@@ -128,7 +128,7 @@
 {239}{}{I cannot say for sure. Perhaps he wanted set up Bob Neil and send him to prison. I have no idea why would he want that.}
 {240}{}{Right.}
 
-#Лаборатория Вегаса
+#Г‹Г ГЎГ®Г°Г ГІГ®Г°ГЁГї Г‚ГҐГЈГ Г±Г 
 {241}{}{About the drugs that flood Vegas.}
 {242}{}{Well, well, well! What do you have to tell?}
 {243}{}{I know who supplies drugs to the city. They are called "black caravan".}
@@ -162,7 +162,7 @@
 {267}{}{Unarmed.}
 {268}{}{I'll think about it, then come back.}
 
-#Один из королей
+#ГЋГ¤ГЁГ­ ГЁГ§ ГЄГ®Г°Г®Г«ГҐГ©
 {270}{}{Who is that guy behind the bars?}
 {271}{}{Petty thief. He was caught stealing a large sum of money. But hard labor will teach him the consequences of such a lifestyle.}
 {272}{}{Can I talk to him?}
