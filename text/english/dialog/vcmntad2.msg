@@ -11,7 +11,7 @@
 {116}{}{Hmm. Actually, it's not a bad idea. You see, one of our customers has debt of a really big sum of money, and now he hides from justice.}
 {117}{}{What's the name of this client?}
 {118}{}{How much does he owe the casino?}
-{119}{}{Why don't you chase him, but instead hanging around in the lobby?}
+{119}{}{Why don't you chase him, instead of hanging around in the lobby?}
 {120}{}{What'll I get if I bring him to you?}
 {121}{}{You know, sort it out without me.}
 {122}{}{That's enough! I want to buy off the debt of this guy!}
