@@ -1,7 +1,7 @@
 {100}{}{You see Oscar Davis.}
 {101}{}{You see Oscar Davis, chief of the police. So says the name badge on his chest.}
 
-#Начальные вопросы:
+#ГЌГ Г·Г Г«ГјГ­Г»ГҐ ГўГ®ГЇГ°Г®Г±Г»:
 {110}{}{So, citizen. I am listening.}
 {111}{}{I did nothing. I'm leaving.}
 {112}{}{Do you know that Hal Wallace was involved in dirty business?!}
@@ -13,7 +13,7 @@
 {118}{}{Regarding the problem with Sam Phillips.}
 {119}{}{I'm curious - why the mayor hired *me* as a private investigator?}
 
-#Мэр нанял чуза:
+#ГЊГЅГ° Г­Г Г­ГїГ« Г·ГіГ§Г :
 {120}{}{Private investigator? I didn't think there is such thing in the wasteland.}
 {121}{}{I think he doesn't trust you and thinks you're a piece of shit, not capable of doing a job well. But he recognized me as specialist!}
 {122}{}{I think the mayor doesn't trust you. Don't you think so?}
@@ -38,7 +38,7 @@
 {139}{}{Thanks for the info. Another question.}
 {140}{}{Thanks for the info. That's all.}
 
-#Про Уоллиса
+#ГЏГ°Г® Г“Г®Г«Г«ГЁГ±Г 
 {150}{}{You are aware of responsibility for what you've said?}
 {151}{}{Of course, he tried to convince me to set up the freaks... Er, I meant ghouls, with drugs. This conversation is recorded.}
 {152}{}{Of course. I have proof - here's a record made during the conversation, when he tried to push me to commit a crime against Bob Neil.}
@@ -63,7 +63,7 @@
 {168}{}{You're threatening me! Well, then *try* to take the evidence from me, cop!}
 {169}{}{Sorry, Mr. Davis. I did not immediately get the point. Here is the holodisk.}
 
-#Про копов-киллеров
+#ГЏГ°Г® ГЄГ®ГЇГ®Гў-ГЄГЁГ«Г«ГҐГ°Г®Гў
 {170}{}{[Mockingly] Tsk, tsk, tsk. You don't say? A killer cop?! That's new.}
 {171}{}{Whatever you say. Another question.}
 {172}{}{Well then, I'm sorry to bother you.}
@@ -78,7 +78,7 @@
 {181}{}{Dare to assault an unarmed person in front of everyone?! Well, go ahead! Do it! Show me what you got, you fat piece of shit in uniform!}
 {182}{}{Come on! I'm just kidding...}
 
-#Про выродков
+#ГЏГ°Г® ГўГ»Г°Г®Г¤ГЄГ®Гў
 {183}{}{Yes, there is such a problem. Damn degenerates!}
 {184}{}{I came to prove their innocence. I have evidence, that they have been set up.}
 {185}{}{I managed to force Larry Geller to confess. Here is the holodisk with recorded conversation.}
@@ -104,7 +104,7 @@
 {203}{}{Too bad.}
 {204}{}{I'm so glad to hear this, that I won't even ask, how you got this. Finally, we will end with this plague in the city. And citizens like you are usually being rewarded by more sonorous means. [hands you 2000$] Here's your payment.}
 
-#Про Сэма Филлипса:
+#ГЏГ°Г® Г‘ГЅГ¬Г  Г”ГЁГ«Г«ГЁГЇГ±Г :
 {205}{}{Another splinter on the body of the city. During the search we found a yellow substance, presumably a component for drugs. Although our experts have not yet determined the exact purpose of it.}
 {206}{}{Yes, this is clearly a component. Here, look. It is delivered to Phillips by a drug dealer from Salt Lake.}
 {207}{}{This is a emulsifier E30 - a dietary supplement. Nothing more.}
@@ -114,7 +114,7 @@
 {211}{}{Why are you so sure, citizen?}
 {212}{}{Erm, well I just know it. Isn't that enough?}
 {213}{}{Well I'm not sure.}
-{214}{}{Don't make me laugh. We will not run after Phillips just because someone out there has decided to complain on him. FACTS! We need facts!}
+{214}{}{Don't make me laugh. We will not run after Phillips just because someone out there has decided to file a complaint against him. FACTS! We need facts!}
 {215}{}{Okay.}
 {216}{}{Here is an emulsifier - Is this the substance that you had found? It's just a food supplement!}
 
@@ -132,8 +132,8 @@
 {227}{}{This evidence is enough, I suppose. We will keep your incognito. And Sam Phillips will be arrested soon. Thank you for your assistance to the investigation. You earned an increased reward. [gives 2000$]}
 {228}{}{Money is good.}
 
-#Поиск работы:
-{229}{}{You're not around here? Then we could make a deal.}
+#ГЏГ®ГЁГ±ГЄ Г°Г ГЎГ®ГІГ»:
+{229}{}{You're not from around here? Then we could make a deal.}
 {230}{}{I'm listening to your offer.}
 {231}{}{You know, I changed my mind. See you.}
 {232}{}{I have no suggestions for you. Also, I will say that it's generally difficult to find a job in the city.}
@@ -142,7 +142,7 @@
 {235}{}{We do have one unresolved matter, still without a final decision. The case of Sam Phillips, head of the "Hard Rock" cafe.}
 {236}{}{What did he do?}
 {237}{}{He is accused of producing and distributing a monstrous drug. We know this thanks to some circumstantial evidence, but I am fully convinced that it's true. Especially after we found a very dubious substance in his cafe.}
-{238}{}{You want me to investigate, on the whereabouts of his laboratory?}
+{238}{}{You want me to investigate on the whereabouts of his laboratory?}
 {239}{}{Basically, the laboratory won't last without its owner. We should deal with Sam Phillips himself.}
 {240}{}{So you're asking me to find evidence on him?}
 {241}{}{I don't care how, by this point, but we must stop this man! At any cost... Do you understand?}
@@ -151,7 +151,7 @@
 {244}{}{Very well. I'll be waiting for good news.}
 {245}{}{Well then, I'll go on my mission.}
 
-#Зона 51
+#Г‡Г®Г­Г  51
 {246}{}{Area 51? No, I don't know. But I can tell who possess such information ... If we can make a deal.}
 {247}{}{And how can we make a deal?}
 {248}{}{There's something I don't like about your wickedness. Forget it.}
@@ -171,8 +171,8 @@
 {261}{}{When you solve our problem with Phillips - then you get the desired coordinates.}
 {262}{}{Damn. Can't we make a deal another way? Too bad.}
 
-#Наркодела в городе
-{263}{}{It's pretty bad. There is a drug laboratory operating in the city, but we are unable to locate it. Some shady business. If you'll find anything out - tell us, and we will take action immediately.}
+#ГЌГ Г°ГЄГ®Г¤ГҐГ«Г  Гў ГЈГ®Г°Г®Г¤ГҐ
+{263}{}{It's pretty bad. There is a drug laboratory operating in the city, but we are unable to locate it. Some shady business. If you find anything out - tell us, and we will take action immediately.}
 {264}{}{No problem! The drug lab is done for.}
 {265}{}{Oh, this is good news! Great work, Mr. Davis!}
 {266}{}{I'm sorry to hear that, Mr. Davis. I hope you will figure it out.}
