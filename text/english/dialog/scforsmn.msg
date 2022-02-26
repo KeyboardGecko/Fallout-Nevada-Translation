@@ -149,7 +149,7 @@
 {244}{}{Draw! Damn, you're pretty good. I should be more careful.}
 {245}{}{Let's finish up and go our separate ways.}
 {246}{}{Read 'em and weep. What's yours is now mine. Go cry about your loss.}
-{247}{}{[Unbelieveably, you win] Fuck! Fine, take it! [he throws the healer's stuff on the table] Never fucking talk to me again!}
+{247}{}{[Unbelievably, you win] Fuck! Fine, take it! [he throws the healer's stuff on the table] Never fucking talk to me again!}
 
 #Female character
 {1234}{}{Ha-ha, what is this? You lost ace and queen! I'll kick your ass in the next hand.}

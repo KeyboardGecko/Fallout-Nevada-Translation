@@ -7,7 +7,7 @@
 {104}{}{You see Susie.}
 {105}{}{You see the girl from the Ted Bundy photo. She is found!}
 
-#Starting greetings replic:
+#Starting greetings replies:
 {106}{}{Yes? What do you want?}
 {107}{}{What can I get you?}
 {108}{}{Do you want to order something?}

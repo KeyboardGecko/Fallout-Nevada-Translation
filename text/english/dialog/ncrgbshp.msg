@@ -27,7 +27,7 @@
 {125}{}{How much will I earn for winning?}
 {126}{}{It depends on how much money the betting audience loses. Bids happen during the fight. After the staff gets their cut, we pass the remainder on to you.}
 {127}{}{Who will be my opponents?}
-{128}{}{To start off, let's see how you deal with the slaves. If the audience likes what you got... Well, we do have some professionals, but you'll still need to grow in order to fight them. Dont worry, they'll give you hell if you ever get in the ring with them!}
+{128}{}{To start off, let's see how you deal with the slaves. If the audience likes what you got... Well, we do have some professionals, but you'll still need to grow in order to fight them. Don't worry, they'll give you hell if you ever get in the ring with them!}
 {129}{}{Tempting offer!}
 {130}{}{Then get ready for a fight. Usually our serious fights are in the evening, at 21:00.}
 {131}{}{Can't wait!}

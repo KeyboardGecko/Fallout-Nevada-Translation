@@ -33,5 +33,5 @@
 {143}{}{Rather a slave. Brothers keep me locked up and not allow to talk with other men, except of "purebred" military. And it's hard to argue.}
 {144}{}{[Folds her hands and narrows eyes] Oh, he is my symbol of hope. Although my brothers no longer allow me to communicate with outsiders because of him, I am not satisfied with the local life. I want freedom and love. Robert is the man who gave me all this. But don't tell my brothers, they can't stand him.}
 
-#Women's replics
+#Women's replies
 {1102}{}{Well, hello, wanderer.}

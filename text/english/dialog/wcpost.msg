@@ -28,7 +28,7 @@
 {127}{}{Okay. Finally.}
 {128}{}{Bye.}
 {129}{}{How? Well... It's a serious place. The passage costs 300 bucks.}
-{130}{}{300? Why shoud I pay for the passage to a residential area?!}
+{130}{}{300? Why should I pay for the passage to a residential area?!}
 {131}{}{All right, here is the money.}
 {132}{}{Be careful out there... The locals do not favor the outsiders.}
 {133}{}{Bye!}
@@ -96,7 +96,7 @@
 {191}{}{[Shrugs indifferently] Some old man from the wasteland was trying to break through. Got punched in the face and kicked in the ass, then left. He is probably at the station right now, licking his wounds. There was the girl with him. She looked stupid.}
 {192}{}{Yeah.}
 
-#Women's replics
+#Women's replies
 {1137}{}{I traveled to Hawthorne and found interesting information about your settlement.}
 {1145}{}{What a surprise! Now turn around and go back into the Wasteland. This is a military garrison, we don't have any raiders here. Do you understand? Great. And if you'll insist, there's going to be one less impudent person.}
 {1158}{}{Because I found some important documents in Hawthorne that will be of interest to General.}

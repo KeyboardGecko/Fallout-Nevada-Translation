@@ -154,7 +154,7 @@
 {221}{}{Can you tell me the history of this place again?}
 
 #История поселения
-{230}{}{We lived far to the north-east, in the mountains. Our tribe survived there afer the Last Day.}
+{230}{}{We lived far to the north-east, in the mountains. Our tribe survived there after the Last Day.}
 {231}{}{How did you made such a long journey?}
 
 {232}{}{We came most of the way on a train, but the rails were not strong enough. It left its tracks on the borders of Nevada, near Salt Lake City.}

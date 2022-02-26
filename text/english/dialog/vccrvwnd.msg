@@ -44,7 +44,7 @@
 {144}{}{No, I don't understand. And don't want to understand.}
 {145}{}{Nevermind.}
 
-#Women's replics
+#Women's replies
 {1105}{}{Hey, friend! Would you mind buying a beer for a common worker?}
 {1110}{}{Friend, I'm so glad to see you! How is it going?}
 {1116}{}{Well, thank you. Was happy to see you.}

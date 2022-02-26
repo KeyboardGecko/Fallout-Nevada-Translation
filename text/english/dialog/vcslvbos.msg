@@ -98,7 +98,7 @@
 {185}{}{It could be taken over by anyone. Will you be able to make your bargain?  And my coin is *guaranteed*. Think about it.}
 {186}{}{So what?}
 
-#Women's replics
+#Women's replies
 {1115}{}{Looks like I got into the wrong place...}
 {1119}{}{Uh, understood...}
 {1122}{}{You have a big mouth, girl. Watch it.}

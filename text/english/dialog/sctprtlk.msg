@@ -43,7 +43,7 @@
 {137}{}{You seem like a master of wilderness survival. Could you share your secrets with me?}
 {138}{}{You're alone here, right? Or there's someone else hiding in the shadows?}
 {139}{}{I should go.}
-{140}{}{[He sighs] Silent River... Me brother, not by blood, but by soul. Only he and me hear the Midnight Watcher and walk the path of shaodws. He and me are the tips of the Midnight Watcher's blades. Me is skilled with any weapon that grants quick and silent death, but Cheyenne have no better scout than Silent River. He is quieter than the dead in the night... And now he is gone in the vast wasteland... }
+{140}{}{[He sighs] Silent River... Me brother, not by blood, but by soul. Only he and me hear the Midnight Watcher and walk the path of shadows. He and me are the tips of the Midnight Watcher's blades. Me is skilled with any weapon that grants quick and silent death, but Cheyenne have no better scout than Silent River. He is quieter than the dead in the night... And now he is gone in the vast wasteland... }
 {141}{}{What happened?}
 {142}{}{You're skilled? Can you teach me a few tricks?}
 {143}{}{I'm sorry to hear that. Let's talk about something else.}

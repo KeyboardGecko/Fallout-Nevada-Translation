@@ -28,7 +28,7 @@
 {129}{}{Don't worry about it.}
 {130}{}{You... You look friendly. Not like those gangsters around town. They give me the chills...}
 {131}{}{So, can you tell me what happened to the family?}
-{132}{}{[Billy quickly glances around the room, then looks up at you with a very unchild-like expression on his face] Yes... Yes, sir. Thank you, sir. This is exactly what I need.}
+{132}{}{[Billy quickly glances around the room, then looks up at you with a very un-childlike expression on his face] Yes... Yes, sir. Thank you, sir. This is exactly what I need.}
 {133}{}{Err, no thank you, sir. I've seen people like you before. I don't need your "something nice", unless it's... Something important to me.}
 {134}{}{They're okay, sir. They sometimes get colds because it's damp down there, but they always get better.}
 {135}{}{"Damp down there"? Are they living in a cave or something?}
@@ -67,7 +67,7 @@
 #Female version
 {1120}{}{I'm at your service, ma'am!}
 {1128}{}{[He narrows his eyes] Are you lying to me? I'd remember if they knew you and I don't think I ever saw you with them.}
-{1132}{}{[Billy quickly glances around the room, then looks up at you with a very unchild-like expression on his face] Yes... Yes, ma'am. Thank you, ma'am. This is exactly what I need.}
+{1132}{}{[Billy quickly glances around the room, then looks up at you with a very un-childlike expression on his face] Yes... Yes, ma'am. Thank you, ma'am. This is exactly what I need.}
 {1133}{}{Err, no thank you, ma'am. I've seen people like you before. I don't need your "something nice", unless it's... Something important to me.}
 {1134}{}{They're okay, ma'am. They sometimes get colds because it's damp down there, but they always get better.}
 {1136}{}{Oh no, ma'am! It's just the basement at the train station. It's very nice, ma'am!}

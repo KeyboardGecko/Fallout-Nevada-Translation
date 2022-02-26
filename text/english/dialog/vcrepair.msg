@@ -123,7 +123,7 @@
 {234}{}{[The job took over an hour, but the master has finished his job]}
 {235}{}{Great, this is what I needed.}
 
-{236}{}{[Disappointedly] That's a shame, not every day I get to see a piece like that. But, my rule is singular. No money - no work.}
+{236}{}{[Disappointed] That's a shame, not every day I get to see a piece like that. But, my rule is singular. No money - no work.}
 {237}{}{Actually, I'd like you to check out a different weapon.}
 {238}{}{Let's put this off, I have another question.}
 {239}{}{Goodbye.}

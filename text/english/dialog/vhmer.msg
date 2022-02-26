@@ -32,7 +32,7 @@
 
 {130}{}{Alright, on to business.}
 {131}{}{I'm listening.}
-{132}{}{As you probably know, there is a huge power plant near the Las Vegas, which, as unusual as it is, stayed almost intact after the Great War. I'm talking, of course, about the Hoover Dam. For our city it is a very important enterprise. Thanks to it, the Las Vegas is now what it is - a major strategic point on the map and an influental global player. Naturally, such an important object cannot be owned by a single party, be it the one person or an organization. So, the city made a decision to split the rights on controlling the plant between the representatives of the city elites. A system of shares - or quotas - was introduced, to turn the decision-making process into more transparent and responsible... Unfortunately, lately, the situation became more tense.}
+{132}{}{As you probably know, there is a huge power plant near the Las Vegas, which, as unusual as it is, stayed almost intact after the Great War. I'm talking, of course, about the Hoover Dam. For our city it is a very important enterprise. Thanks to it, the Las Vegas is now what it is - a major strategic point on the map and an influential global player. Naturally, such an important object cannot be owned by a single party, be it the one person or an organization. So, the city made a decision to split the rights on controlling the plant between the representatives of the city elites. A system of shares - or quotas - was introduced, to turn the decision-making process into more transparent and responsible... Unfortunately, lately, the situation became more tense.}
 {133}{}{What do you mean by "more tense"?}
 {134}{}{The working conditions on the plant are... Not the most pleasant. Such big enterprise as the Hoover Dam requires a lot of manpower to employ, including engineers and service personnel. This is a huge financial burden for the city, so the level of salaries for low-qualified workers leaves much to be desired. Furthermore, worn-out condition of equipment, increased radiation level, poor soundproofing and other problems led to a certain difficulties with... The hiring of staff. However, you'd better talk about it with Bob Neil himself - he is the chief engineer and head manager of the Hoover Dam.}
 {135}{}{Do you want me to help with searching the workforce for the power plant?}
@@ -44,7 +44,7 @@
 {141}{}{So you suspect that all this is being done to achieve some shady goal?}
 {142}{}{I assume that everything that happens, happens for a reason. Someone is taking advantage of it. And that's what you are going to investigate.}
 {143}{}{Why don't you assign the police on this?}
-{144}{}{The police is already trying to do everything possible, but its just not enough to handle everything altogether. With that said, they already have some leads. They think the group of the outcast ghouls - freaks - are involved, and also have some suspicions about another major entrepreneur in the Las Vegas - mr. Sam Phillips. More details on that can be provided by the police chief, Oscar Davis. I know him as honest and responsible officer - although, he is a little too serious when it comes to following protocols.}
+{144}{}{The police is already trying to do everything possible, but its just not enough to handle everything altogether. With that said, they already have some leads. They think the group of the outcast ghouls - freaks - are involved, and also have some suspicions about another major entrepreneur in the Las Vegas - Mr. Sam Phillips. More details on that can be provided by the police chief, Oscar Davis. I know him as honest and responsible officer - although, he is a little too serious when it comes to following protocols.}
 {145}{}{I see.}
 {146}{}{So, I want you to find out who is responsible for everything happening in the city. I'm asking you to search for evidence - documents, recordings, letters - anything that can justify your arguments.}
 {147}{}{Are you assuming that there is some limited circle of persons of interest?}
@@ -57,7 +57,7 @@
 {153}{}{Can I see any of it in advance?}
 {154}{}{Now that's a price worth working for. I'll take the job.}
 
-{155}{}{Very well. I'll be waiting for your report. Try not to take too long, and... Be careful. By the way, I see you have a Pip-Boy. You do know about the capabilities of this device, don't you? Particularly that it includes the fuctionality of recording conversations.}
+{155}{}{Very well. I'll be waiting for your report. Try not to take too long, and... Be careful. By the way, I see you have a Pip-Boy. You do know about the capabilities of this device, don't you? Particularly that it includes the functionality of recording conversations.}
 {156}{}{Yes, I'm familiar with my Pip-Boy and know how to use this function.}
 {157}{}{Honestly, I didn't know about it.}
 {158}{}{Then keep that in mind. I suppose the recordings could be used as evidence against some persons on their involvement in specific events.}
@@ -91,9 +91,9 @@
 
 {179}{}{Very well. [To the secretary] Marion, don't let anyone into my office, I'm holding an important meeting! Okay, I'm listening.}
 {180}{}{I suppose, I should begin by saying that our mysterious suspect has a major influence on the Las Vegas city police. Not long after I asked some questions in the department, I was met by one of the inspectors at the Clean City gates. He had an order to kill me. I have not been able to find out who or what made him do it, but obviously it was not his own initiative.}
-{181}{}{So, the police is involved. No surprise though - any social institute always includes thos who are dissatisfied with current state of things. Do you have some evidence, which could help to identify the person of interest? }
+{181}{}{So, the police is involved. No surprise though - any social institute always includes those who are dissatisfied with current state of things. Do you have some evidence, which could help to identify the person of interest? }
 {182}{}{I do. According to this document here, the police had been spending additional budget funds with the goal of prioritizing the investigations connected to drug cases. But, at the same time, the police already had its key suspects - the freaks and Sam Phillips.}
-{183}{}{[Mayor carefully studies Oscar Davis' receipt] Huh. The order to go overbudget is signed by Tom Parker. And it seems that he decided to take action using the chief of the police. "Prioritizing" the drug cases when the freaks and Sam Phillips are already accused... Knowing Davis, I am sure he took this matter very seriously - he wouldn't do anything without serious evidence on both ghouls and Sam. What have you been able to find out about Phillips?}
+{183}{}{[Mayor carefully studies Oscar Davis' receipt] Huh. The order to go over budget is signed by Tom Parker. And it seems that he decided to take action using the chief of the police. "Prioritizing" the drug cases when the freaks and Sam Phillips are already accused... Knowing Davis, I am sure he took this matter very seriously - he wouldn't do anything without serious evidence on both ghouls and Sam. What have you been able to find out about Phillips?}
 {184}{}{That he was accused of producing chems - it was reported to the police by anonymous source. During the search, the cops found some substance, which, allegedly, could be used for drug manufacturing.}
 {185}{}{Is he really involved in this?}
 {186}{}{I have the recording of conversation with Larry Geller, the leader of the ghouls. He believes that Phillips is operating within the law.}
@@ -101,7 +101,7 @@
 {188}{}{He has been detained. Although, no proof of his guilt has been found, so it seems like he is innocent.}
 {189}{}{I haven't found that out yet.}
 {190}{}{What are you doing here then?! Go and do your job!}
-{191}{}{As you wish, mr. mayor.}
+{191}{}{As you wish, Mr. mayor.}
 {192}{}{I think so... Yes... Is there, by chance, another Sam Phillips in the city?}
 {193}{}{I think so, although, I don't know who is responsible.}
 
@@ -137,7 +137,7 @@
 {221}{}{It's not Sam Phillips - he is not involved with drugs, nor with slavers. It's not Hal Wallace - no sense in writing yourself into a document as a buyer and be exposed if it leaks out. It's not Vortis, because he received the information about the freaks from someone else. It's definitely not Bob Neil - this mysterious someone has connections and influence in the Las Vegas Police Department. And Oscar Davis is also not the culprit, because he wouldn't wait for some evidence to deal with Sam Phillips and freaks. So it leaves us with...}
 {222}{}{Tom Parker. I have a document, signed by him, transferring 6% of the municipality's shares to the slavers' guild.}
 {223}{}{Tom Parker. Though I have no proof of him connected to the lab or the slavers.}
-{224}{}{[Takes the focument from you] Tom Parker. He is ambitious, that's for sure, but I don't understand what he wanted to achieve. If he would try to execute this transfer, it would've raised a lot of questions. And not only from me.}
+{224}{}{[Takes the document from you] Tom Parker. He is ambitious, that's for sure, but I don't understand what he wanted to achieve. If he would try to execute this transfer, it would've raised a lot of questions. And not only from me.}
 {225}{}{I suppose he came up with an explanation for this.}
 {226}{}{Let's say, he is our man. How the slavers and Parker are tied? What is Hal Wallace's role?}
 {227}{}{I think that Wallace was needed to take care of the freaks. Without involvement of the police or the slavers.}
@@ -153,14 +153,14 @@
 {237}{}{Knowing the work methods of Oscar Davis, Parker starts to campaign vigorously against drug problems and increases funding for the police, trying to get them to investigate cases he is interested in - cases involving freaks.}
 {238}{}{However, Davis doesn't rush to accuse the ghouls and demands a solid evidence. So, Parker makes a move.}
 {239}{}{He drags Hal Wallace into the game, planning to use him to take care of the matter, while staying clean himself. I suppose, they've already had some common business running - the lab supplied casino with drugs, while the casino ensured additional profits by selling, which, in turn, contributed more to the chaos in the city.}
-{240}{}{Together they make a new deal - Wallace helps to set up the freaks with producing chems, and in return he gets a promise to get his main competitor - mr. Sam Phillips - dealt with.}
+{240}{}{Together they make a new deal - Wallace helps to set up the freaks with producing chems, and in return he gets a promise to get his main competitor - Mr. Sam Phillips - dealt with.}
 {241}{}{Naturally, Tom Parker sees in it another opportunity to divert attention from himself - and his attention to freaks - and openly accuses Sam Phillips in involvement with chems. }
 {242}{}{Oscar Davis starts an investigation against Phillips. Wallace sets up the freaks by planting some real drugs to them.}
 {243}{}{The police deals with the freaks. The power plant is forced to buy slaves to keep itself running.}
 {244}{}{Parker gets an immense profits, both from the slave deal and the drug dealing in the city.}
 {245}{}{He could even turn Hal Wallace to look like a primary suspect, if there was something wrong.}
 {246}{}{True. But why was he trying to transfer the shares of the municipality to the slavers? And how would he explain it?}
-{247}{}{He would get a profit, and also inscreased his influence on the Dam - after all, the slavers' shares are his shares. I think the only thing that had been stopping him was the lack of explanation why to do so. But he would find that out eventually.}
+{247}{}{He would get a profit, and also increased his influence on the Dam - after all, the slavers' shares are his shares. I think the only thing that had been stopping him was the lack of explanation why to do so. But he would find that out eventually.}
 {248}{}{Maybe. Or maybe he could persuade me into signing it somehow, or even just forge my signature. Then I would look like I am involved in this. He could use the document as a leverage on me.}
 {249}{}{The one who desires more power is clearly the one who already has plenty.}
 {250}{}{Yes, that's what I said when we first met. I am sorry that I was right about that.}
@@ -168,7 +168,7 @@
 {252}{}{And because of this you understood that the one who is behind of this is influencing the police.}
 {253}{}{Yes. This was the first lead.}
 {254}{}{Well, you have performed your job admirably and did what no one else could. For the brilliant resolution of this case I express my personal gratitude to you. Thank you.}
-{255}{}{Thank you, mr. Williams.}
+{255}{}{Thank you, Mr. Williams.}
 {256}{}{I'm asking you to leave me the evidence you brought in - they will be used in prosecution. Also, I'd be grateful if you would help me to prepare the full report on this for the council.}
 {257}{}{Of course. Let's summarize the results again...}
 {258}{}{And here is your reward. Thank you, from the behalf of the entire Clean City!}

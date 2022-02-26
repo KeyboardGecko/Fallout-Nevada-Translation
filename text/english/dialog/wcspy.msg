@@ -69,7 +69,7 @@
 {165}{}{Wait, I'll compare it with what I managed to get before you.. Right... Hmm... It seems that this is exactly what I needed. Well, just as I promised, here's your money. Thank you for your assistance, without you I'd be stuck here for another week.}
 {166}{}{Bye.}
 
-#Women's replics
+#Women's replies
 {1110}{}{Looking for something, wanderer? Never mind, I was just asking.}
 {1127}{}{Oh, a fellow wastelander? This is interesting... You know, you don't look particularly distrustful. I think it would be possible to do joint business with you.}
 {1139}{}{Heh, say what you want, but you can't hide your true nature. I'm afraid I was wrong about you. Good luck, wanderer.}

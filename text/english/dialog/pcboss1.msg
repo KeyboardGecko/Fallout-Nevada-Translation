@@ -1,6 +1,6 @@
 {100}{}{You see a farmer.}
 {101}{}{You see a respected resident of Bridgeport, the head of a family.}
-{102}{}{My son is dead... This means war! From now on, any biker I see is a deadman.}
+{102}{}{My son is dead... This means war! From now on, any biker I see is a dead man.}
 {103}{}{Just give me a reason!}
 {104}{}{Hello.}
 

@@ -119,7 +119,7 @@
 
 {210}{}{Do you allow your guys to drink alcohol?}
 
-{211}{}{ItThis is strictly forbidden. Those who violate the order will face correctional labor.}
+{211}{}{It is strictly forbidden. Those who violate the order will face correctional labor.}
 {212}{}{So you have to know this then: Your Quartermaster at the station bought a whole case of alcohol from me! Can you imagine that?}
 {213}{}{A case of alcohol? I'll go and check that out immediately. But if he doesn't have it... You know what I do with false informants?}
 {214}{}{He had the stock. He tried to explain that it was for resale to caravaneers, but I didn't buy his crap. He is punished by couple of days of hard labor. Thank you for your help, we'll take it from here.}
@@ -141,7 +141,7 @@
 {222}{}{So, it started like this...}
 {223}{}{I... Apologize on behalf of the general staff of the Wind of War. Is that enough for you?}
 {224}{}{Well... NOPE! You think I'm an idiot!? On your knees! ON YOUR KNEES I SAY!}
-{225}{}{Chief, tell me... You are keepeng a blind eye to the faults of your people, aren't you?}
+{225}{}{Chief, tell me... You are keeping a blind eye to the faults of your people, aren't you?}
 {226}{}{An apology is enough. It's not every day you get to hear them from such important people.}
 {227}{}{This answer does not satisfy me, but I'll have to settle for it. Bye.}
 {228}{}{Exactly. It's a hard time for everyone. I need to deal with it.}
@@ -321,7 +321,7 @@
 {504}{}{The mutants are all dead. They won't be a problem anymore.}
 {505}{}{Our patrols are already confirmed that. Now we could fix the place up and find some usage for it... Oh, and here's your reward [hands you $2000].}
 {506}{}{Glad to help.}
-{507}{}{You cound not be so cheap at least for once...}
+{507}{}{You could not be so cheap at least for once...}
 ###################################################################
 #
 #  Female 

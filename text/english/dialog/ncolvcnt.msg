@@ -1,5 +1,5 @@
 {100}{}{You see Mr. Chase.}
-{101}{}{You see a distinguishly looking man. He eyes you like he's choosing a hat in a store.}
+{101}{}{You see a distinguished looking man. He eyes you like he's choosing a hat in a store.}
 {102}{}{Score: }
 
 ###################################################################
@@ -163,7 +163,7 @@
 {245}{}{He is? Hmm, that's a surprise, but I suppose it explains the workers' behavior. Nevertheless, the job stands. Someone else will take his place, and it's only more important we are aware of this new person's new deals.}
 {246}{}{There's no getting out of this job.}
 
-#Women's replics
+#Women's replies
 {1111}{}{Can I ask you some questions about this city?}
 {1113}{}{Sorry, I'm just here to admire the tables. Good luck.}
 {1119}{}{And I'm not in the mood for that. Good luck, then.}

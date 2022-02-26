@@ -59,7 +59,7 @@
 {186}{}{Ghoul? Here?!}
 {187}{}{What are you doing in here, freak?}
 
-#Women's replics
+#Women's replies
 {1127}{}{That's it, bitch, you're in trouble!}
 {1128}{}{I warned you, bitch!}
 {1129}{}{You think you're tough? We'll see about that!}

@@ -5,7 +5,7 @@
 {104}{}{Without Oliver, it'll be harsh times for the ranch. But we've prepared for this.}
 
 #Приобретение квеста
-{110}{}{I'm assuming this isn't the helpdesk. What do you do here?}
+{110}{}{I'm assuming this isn't the help desk. What do you do here?}
 {111}{}{Well then, I'll just leave.}
 {112}{}{I handle the daily administration duties, paperwork and other business that Mr. Luciano does not have time for. That means I handle all negotiations with our traders and vendors. Contracts, payments, everything. As you can imagine, that's a lot of work. And I would *really* like to get back to it.}
 {113}{}{What if I would help you? Maybe I'd make a great negotiator myself.}

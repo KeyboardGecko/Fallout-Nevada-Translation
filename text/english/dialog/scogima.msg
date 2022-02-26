@@ -333,7 +333,7 @@
 
 {540}{}{More children of the Devourer will come. We will break the cycle before it begins again. These lands have fed the Cheyenne for many years, but now it is time to leave them.}
 {541}{}{You're leaving? Why didn't you just do that before?}
-{542}{}{We have children, eldery, brahmin, and everything we must carry. We would have been noticed. But now, no one will stop us.}
+{542}{}{We have children, elderly, brahmin, and everything we must carry. We would have been noticed. But now, no one will stop us.}
 {543}{}{Where will you go now?}
 {544}{}{West, to where the sun drowns in a sea of tears. Our ancestors spoke of it.}
 {545}{}{Are you sure other children of the Devourer will come?}

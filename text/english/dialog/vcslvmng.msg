@@ -103,7 +103,7 @@
 
 {299}{}{A great deal!}
 
-#Women's replics
+#Women's replies
 {1207}{}{Oh, wow, what a warrior! Ha-ha! Come on, try it, I'm all yours!}
 {1213}{}{Hey, lads! There's an arrogant bitch here and she's asking for it!}
 {1267}{}{There will be no information, I changed my mind.}

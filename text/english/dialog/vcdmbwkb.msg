@@ -57,5 +57,5 @@
 {154}{}{[Rip off the bastard's throat]}
 {155}{}{[Resist]}
 
-#Women's replics
+#Women's replies
 {1133}{}{Tell me the goddamn password, you asshole! Tell me, before I get angry!}

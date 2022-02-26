@@ -36,7 +36,7 @@
 
 #ÏÎËÎÆÈÒÅËÜÍÛÅ ĞÅÏËÈÊÈ [ïîñëå îòâåòà 126]:
 {130}{}{What's he saying, precious? Ohhhh... Mister is very wise and very polite! Mister President likes Mister! Ah! If only all subordinates were like that, right, precious?!}
-{131}{}{Whay do you mean? You've been mistreated?}
+{131}{}{What do you mean? You've been mistreated?}
 {132}{}{Mr. President does not want to remember the past. It's a bad memory. But precious remembers how cruelly the president was treated last time! They made him cry in public! In front of all his subordinates! Mister has never seen such a pitiful sight!}
 
 #ÏÎËÎÆÈÒÅËÜÍÛÅ ĞÅÏËÈÊÈ, ïåğâàÿ ôğàçà, èñòîğèÿ [ïîñëå 132]:

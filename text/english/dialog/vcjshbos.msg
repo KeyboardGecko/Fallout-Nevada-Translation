@@ -51,7 +51,7 @@
 
 #Починка поезда
 {160}{}{Can you help fix this onboard computer?}
-{161}{}{I can't do anything for you while your citizenship is suspended. I'll need authorization from Peter Graves. If he gives his approvement, I'll do my best to help you.}
+{161}{}{I can't do anything for you while your citizenship is suspended. I'll need authorization from Peter Graves. If he gives his approval, I'll do my best to help you.}
 {162}{}{Understood.}
 {163}{}{Sure thing. Sergeant Graves gave the nod. Let me take a look at it.}
 {164}{}{Here you go.}

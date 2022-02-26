@@ -5,5 +5,5 @@
 {110}{}{Can't open it.}
 {111}{}{Use the console nearby.}
 {112}{}{No use.}
-{113}{}{You need a lighter to set the ultrathermit on fire.}
+{113}{}{You need a lighter to set the ultrathermite on fire.}
 {114}{}{You need a lighter.}

@@ -7,7 +7,7 @@
 {202}{}{Select a category.}
 {203}{}{[Exit]}
 
-{204}{}{Reports on "aliens" experimentations.}
+{204}{}{Reports on "aliens" experimentation.}
 {205}{}{Documentation on the gas protection system.}
 {206}{}{Documentation for the "Ghost F-31" project.}
 {207}{}{[Back]}

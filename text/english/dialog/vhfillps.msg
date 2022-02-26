@@ -6,7 +6,7 @@
 {112}{}{Sorry to bother you.}
 
 ####################################################################
-#              Б. Луи как джазмен
+#              ГЃ. Г‹ГіГЁ ГЄГ ГЄ Г¤Г¦Г Г§Г¬ГҐГ­
 ####################################################################
 
 {113}{}{I see you have an empty stage. Why?}
@@ -41,7 +41,7 @@
 {136}{}{Cafe owner is ready to audition Big Louie. All left is to tell the news to musician now.}
 
 ####################################################################
-#              Квест на поиск оправдания
+#              ГЉГўГҐГ±ГІ Г­Г  ГЇГ®ГЁГ±ГЄ Г®ГЇГ°Г ГўГ¤Г Г­ГЁГї
 ####################################################################
 
 {150}{}{You look upset. What happened?}
@@ -81,7 +81,7 @@
 {180}{}{Hmm...}
 
 ####################################################################
-#              Про колу - получение квеста
+#              ГЏГ°Г® ГЄГ®Г«Гі - ГЇГ®Г«ГіГ·ГҐГ­ГЁГҐ ГЄГўГҐГ±ГІГ 
 ####################################################################
 
 {200}{}{I'm an official courier of the Nuka-Cola factory in Salt Lake. Would you be interested in buying from us?}
@@ -97,7 +97,7 @@
 {207}{}{Er... No. Don't ask, why. I have my reasons... A few of them. But still don't ask!}
 {208}{}{I hope, you will change your mind.}
 
-{209}{}{I can't take a risk, especially after all this problems I went through. It's not about you, please understand, I'm just in time of uncertainty. I need to be completely sure in you merchandise. So bring your license, then we can make a deal.}
+{209}{}{I can't take a risk, especially after all the problems I went through. It's not about you, please understand, I'm just in time of uncertainty. I need to be completely sure in your merchandise. So bring your license, then we can make a deal.}
 {210}{}{Fine.}
 
 {211}{}{[Carefully studies the papers] Very good. [nods] Very. This is what I needed - confidence in my partner. We will cooperate with you.}
@@ -106,14 +106,14 @@
 {214}{}{I'll deal with this... Are you excited about our collaboration?}
 {215}{}{Excellent. Let's get strait to sealing the contract.}
 
-{216}{}{Very! Finally, we will be able to outdo this arrogants in Clean City.}
+{216}{}{Very! Finally, we will be able to outdo the arrogant jerks in Clean City.}
 {217}{}{Who?}
 {218}{}{If you have not noticed, the "Monte" casino has signed a contract with the same factory that you work with. It is our - and your - competitor. Funny, isn't it?}
 {219}{}{Funny that I'm working with my own competitors? Huh...}
 {220}{}{As long as the casino functions, you'll have to share with them the market in Vegas... Where was I? Oh yeah! I suggest signing the contract, partner!}
 {221}{}{Sure, partner!}
 
-{229}{}{Great deal. We'll work well together. Come tomorrow, I think we can set up a vending machine by that time. But first, take care of the availability of goods in stock. Have a nice day.}
+{229}{}{Great deal. We'll work well together. Come back tomorrow, I think we can set up a vending machine by that time. But first, take care of the availability of goods in stock. Have a nice day.}
 {230}{}{Sure! Have a nice day, Mr. Phillips!}
 
 #Female character
