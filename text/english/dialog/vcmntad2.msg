@@ -12,7 +12,7 @@
 {117}{}{What's the name of this client?}
 {118}{}{How much does he owe the casino?}
 {119}{}{Why don't you chase him, but instead hanging around in the lobby?}
-{120}{}{What'll be for me if I bring him to you?}
+{120}{}{What'll I get if I bring him to you?}
 {121}{}{You know, sort it out without me.}
 {122}{}{That's enough! I want to buy off the debt of this guy!}
 
