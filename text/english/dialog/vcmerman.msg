@@ -3,7 +3,7 @@
 {102}{}{I don't deal with such issues.}
 {103}{}{If you have complains, address them to that door knob over there.}
 
-{110}{}{[You see accounting clerk named Irvin. His name is written on his badge. He's busy with his routine work.]}
+{110}{}{[You see an accounting clerk named Irvin. His name is written on his badge. He's busy with his routine work.]}
 {111}{}{So you're Irvin, the one who gave in the police the thief Murphy?}
 {112}{}{[Leave]}
 
