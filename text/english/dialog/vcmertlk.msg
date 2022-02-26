@@ -10,12 +10,12 @@
 {115}{}{Still - be nice to clear at least something.}
 {116}{}{In that case we have nothing to talk about.}
 {117}{}{[Nervously sighs] My work is to develop and preserve all the cultural norms of the Clean City. My department assesses how the city should look and sound, but the main thing - how the locals should improve their intellectual abilities. It will be difficult for you to understand.}
-{118}{}{It seems you're of a bad opinion on people living outside the city.}
+{118}{}{It seems you have a bad opinion of people living outside the city.}
 {119}{}{What are you saying!? There are a lot of talented and knowledgeable people beyond the walls of the Clean City. Like me, for example.}
 {120}{}{The situation is clear. Perhaps now you'll be able to answer some questions?}
 {121}{}{Yes, I think this information is enough for my brain. See you.}
 
-{122}{}{[Slyly grinning] What are YOU saying?! I'm actually of good opinion on the inhabitants of the Wasteland. You just have to wash them, dress, give each one of them a book, teach them some good manners - and here you have an army of decent people. The question is - how long this decency will last?}
+{122}{}{[Slyly grinning] What are YOU saying?! I actually have a good opinion on the inhabitants of the Wasteland. You just have to wash them, dress them, give each one a book, teach them some good manners - and here you have an army of decent people. The question is - how long will this decency last?}
 {123}{}{I won't argue with you. Outside the walls there is really a heck of a pitiful and miserable life.}
 {124}{}{With such snobbery, nothing but discrimination can be expected from you.}
 {125}{}{I have every reason to believe that you have very little knowledge of the world, and that you fell victim of your own delusions. I am the direct proof of that.}
@@ -26,17 +26,17 @@
 {129}{}{Be careful, youngster! Do you have any idea how much work is invested in the reconstruction of this area?! For ten years we tried to establish a decent living here, with joined effort. And now any outcomer scum is capable of talking garbage here. But, in any case, I don't have the mood to prove anything to you. *You* come here and distract me from my work with your pointless conversations.}
 {130}{}{You don't look like a caravaneer, or a representative of "Nevada express". This conversation is already becoming pointless.}
 {131}{}{Perhaps, in this case, you can answer a few questions?}
-{132}{}{Did you really acquire such rich experience from your travels? How interesting... I would like to discuss with you the life of people in other cities. You don't mind, do you?}
+{132}{}{Did you really acquire such rich experience from your travels? How interesting... I would like to discuss the life of people in other cities with you. You don't mind, do you?}
 {133}{}{Oh, sure, with pleasure!}
 {134}{}{I don't have time for this right now. Perhaps, another time.}
 {135}{}{There can be no other time. But you've already decided, so let's leave it at that. Is that all you wanted?}
 {136}{}{No, I had more questions about the Clean City and City Hall.}
 {137}{}{Yes, it's time for me to go. Take care.}
-{138}{}{Excellent. Every day I'm having dinner at the casino across the street. Meet me there, so we can talk in more cultural atmosphere.}
+{138}{}{Excellent. Every day I have dinner at the casino across the street. Meet me there, so we can talk in a more cultured atmosphere.}
 {139}{}{I will remember that. And now - could you answer some more questions about the city?}
 {140}{}{See you.}
 
-{141}{}{Oh no, you won't fool me. You don't shine in erudition department, that's for sure.}
+{141}{}{Oh no, you don't fool me. You don't shine in the erudition department, that's for sure.}
 {142}{}{What arrogance... But maybe I'm little off sometimes. I didn't make a single step out of Clean City for ten years. Perhaps, some things changed during that time, but I highly doubt it. You are going to say that the life became better outside, aren't you?}
 {143}{}{Ten years - it's a period of Great depression. Ages. You know, things are going better in New Reno recently, and a number of new settlements rise around the federal highways... The world is changing, you should take a closer look.}
 {144}{}{Great depression... Now, stop. This is from history. Aren't you a little well-educated for a wastelander?}
@@ -46,7 +46,7 @@
 {148}{}{You proved the snob that outside the city walls exist some clever people.}
 {149}{}{Great, but I would like to ask a few questions, not answer them.}
 
-{150}{}{[Restrains the charity behind arrogant smile] Your curiosity is certainly worthy of respect, but I have no time for pointless talk.}
+{150}{}{[Restrains the charity behind an arrogant smile] Your curiosity is certainly worthy of respect, but I have no time for pointless talk.}
 {151}{}{With pleasure, but I have little time for small talk.}
 {152}{}{I'll pretend I didn't hear that, but other members of the Clean City would not. Many are proud to live here. Do you even understand, how much work has been invested in the reconstruction of this area?! For ten years we tried to establish a decent living here, with joined effort. It's hard for outcomers to understand, they think that the locals just had everything from the beginning.}
 {153}{}{Even if you have great experience, I would prefer to look into more reliable sources.}
@@ -72,7 +72,7 @@
 {172}{}{Of course. But only in the Clean City. We simply have no time for the whole Vegas. Therefore, outskirts are mired in poverty and crime.}
 {173}{}{The department of culture is responsible fo the program of cultural events, representation of the Clean City and its inhabitants, but most important of all - for education. Recently we even started selling the surviving pre-war books using vending machines. Just imagine a man reading a book outside of the Clean City. It's almost impossible, is it not?}
 {174}{}{I would prefer not to discuss the mayor with anyone, even with my acquaintances. But sometimes I just think - how the Council could choose a spineless and pliant old man to such an important post? I'm just afraid that personal interest will corrupt the mayor.}
-{175}{}{Really? What is that business, allow me to know?}
+{175}{}{Really? What profits? Would you mind explaining that to me?}
 {176}{}{I supply Nuka-Cola, on the agreement with the factory in the north. I can show the papers, if you don't believe me.}
 {177}{}{My private business bears an independent nature. I'm not even obliged to report to the Clean City.}
 {178}{}{It's confidential. I have special agreement with the mayor of the city.}

@@ -3,7 +3,7 @@
 {101}{}{You see an archivist. He is, probably, the most inconspicuous City Hall employee.}
 {102}{}{I lost my... Although, you wouldn't be interested in that.}
 
-#Ñëó÷àéíûå ïëàâàþùèå ôðàçêè
+#Ã‘Ã«Ã³Ã·Ã Ã©Ã­Ã»Ã¥ Ã¯Ã«Ã Ã¢Ã Ã¾Ã¹Ã¨Ã¥ Ã´Ã°Ã Ã§ÃªÃ¨
 {110}{}{Broke my pencil again...}
 {111}{}{When is the salary?}
 {112}{}{With the next paycheck I'll buy a bulletproof vest.}
@@ -69,7 +69,7 @@
 {235}{}{You son of a bitch! You think that they are faster than my bullet!?}
 {236}{}{Er... Honestly, I don't know... Until now, only City Hall employees had any interest for the archive, and all other citizens didn't care...}
 {237}{}{Hmm. How much are you being paid for this work?}
-{238}{}{Err… I'm afraid, I can't tell that either. Not much, really...}
+{238}{}{Errâ€¦ I'm afraid, I can't tell that either. Not much, really...}
 {239}{}{Then I'll pay 100 bucks for your trouble.}
 {240}{}{Then I'll pay 200 bucks for your trouble.}
 {241}{}{Then I'll pay 300 bucks for your trouble.}
@@ -96,7 +96,7 @@
 {260}{}{What friends?}
 {261}{}{Of course. But those dirty hippies, riding the wasteland on their bikes - they always fool young and silly girls like Anna.}
 {262}{}{It looks like we're talking about bikers...}
-{263}{}{I don't know much about them, and I don't want to. She loves these guys. It's, of course, not surprising - she's only fifteen. I usually looked for her in "Hard-Rock", but no one seen her there lately... Maybe they are hiding her from me? I don't think she could decide to run away from the city at her age.}
+{263}{}{I don't know much about them, and I don't want to. She loves these guys. It's, of course, not surprising - she's only fifteen. I usually look for her in "Hard-Rock", but no one has seen her there lately... Maybe they are hiding her from me? I don't think she could decide to run away from the city at her age.}
 {264}{}{You're, of course, somewhat cowardly, but I'll help you find her. Perhaps, I should start from that cafe...}
 {265}{}{It's too difficult, I'm not sure I can help.}
 

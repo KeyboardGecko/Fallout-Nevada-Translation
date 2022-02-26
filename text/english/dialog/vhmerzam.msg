@@ -2,7 +2,7 @@
 {101}{}{You see Tom Parker.}
 {102}{}{You see undersized mustachioed man with a demanding expression. This man is the deputy mayor.}
 
-#Начальные вопросы
+#ГЌГ Г·Г Г«ГјГ­Г»ГҐ ГўГ®ГЇГ°Г®Г±Г»
 {110}{}{Tom Parker, the deputy mayor. What do you want?}
 {111}{}{What do you want?}
 {112}{}{I'm looking for the coordinates of Area 51. Could you help me?}
@@ -10,7 +10,7 @@
 {114}{}{I demand an explanation about why you are sponsoring the case against Sam Phillips!}
 {115}{}{I guess I don't need anything.}
 
-#Выход из диалога
+#Г‚Г»ГµГ®Г¤ ГЁГ§ Г¤ГЁГ Г«Г®ГЈГ 
 {116}{}{Do you realize where you are? This is not a brothel, it's the mayor's office! I demand an explanation! What are you doing here?}
 {117}{}{Oh my! And what if I don't answer? Huh?}
 {118}{}{I'm here on business. I was hired by Mr. Williamson.}
@@ -21,7 +21,7 @@
 {123}{}{Archive is at the end of the hallway on this floor... Although it won't be any help to you. It's only for City Hall employees.}
 {124}{}{Wow, okay then.}
 {125}{}{Could you help with that?}
-{126}{}{Okay, citizen. Stop fooling around! You are not the first questionable fella that goes to City Hall for no reason. We don't need people like here. Get out. Now! Right now!}
+{126}{}{Okay, citizen. Stop fooling around! You are not the first questionable fella that goes to City Hall for no reason. We don't need people like you here. Get out. Now! Right now!}
 {127}{}{Uh, look at him! So what are you going to do now, huh?!}
 {128}{}{Okay, okay, I'll go peacefully...}
 {129}{}{Guards!!! Intruder in the office!!!}
@@ -30,7 +30,7 @@
 {132}{}{Hmm. In any case, I'll have to ask you to leave this office.}
 {133}{}{As you wish.}
 
-#По делу мафиозных разборок (допросы):
+#ГЏГ® Г¤ГҐГ«Гі Г¬Г ГґГЁГ®Г§Г­Г»Гµ Г°Г Г§ГЎГ®Г°Г®ГЄ (Г¤Г®ГЇГ°Г®Г±Г»):
 {134}{}{I earn enough, to keep afloat. And now, God dammit, I want an explanation why it's even a question.}
 {135}{}{Hey, big guy, chill the fuck out. I ask questions here in accordance with the power that Mr. Williamson gave me. So, you deny any involvement in the recent events in the city then?}
 {136}{}{I ask questions here!}
@@ -65,7 +65,7 @@
 {163}{}{Alright, Mr. Detective! Do not twist my words. I'm not trying to put an innocent behind bars, I am sponsoring the police to solve crimes, as I should. This is my direct duty as deputy mayor!}
 {164}{}{Well, let's close the issue for now.}
 
-#Зона 51
+#Г‡Г®Г­Г  51
 {165}{}{Area 51? I think such information should be in our archive. I am willing to take the trouble of $3000 to find it for you.}
 {166}{}{How much?! You think, I'm crazy?! Drop it at least to $1000! Otherwise I will leave and you won't get a penny.}
 {167}{}{Everything has a price, it is fair. Here is the money.}

@@ -5,14 +5,14 @@
 {104}{}{Do not flirt with me, I'm working.}
 {105}{}{I'm sorry, but I need to see your face.}
 
-#С'ар' диалога
+#Г‘'Г Г°' Г¤ГЁГ Г«Г®ГЈГ 
 {110}{}{Good afternoon. I'm Marion Keysker, the secretary of our mayor. How can I help you?}
 {111}{}{How can I help you?}
 {112}{}{I need to see the mayor.}
 {113}{}{I'm looking for the coordinates of Area 51. Is it possible that the City Hall has this information?}
 {114}{}{I don't think you can. Bye.}
 
-#Получение разрешения на аудиенцию с мэром
+#ГЏГ®Г«ГіГ·ГҐГ­ГЁГҐ Г°Г Г§Г°ГҐГёГҐГ­ГЁГї Г­Г  Г ГіГ¤ГЁГҐГ­Г¶ГЁГѕ Г± Г¬ГЅГ°Г®Г¬
 {115}{}{Do you have an appointment?}
 {116}{}{Err... Yes?}
 {117}{}{No. How do I make an appointment?}
@@ -45,9 +45,9 @@
 
 {143}{}{No need to go all sweet on me. Mr. Williamson is a very busy man. If you don't have an appointment, he won't accept you.}
 
-#Как записа'ься на прием?
+#ГЉГ ГЄ Г§Г ГЇГЁГ±Г 'ГјГ±Гї Г­Г  ГЇГ°ГЁГҐГ¬?
 {144}{}{Mr. Williamson is available only for particularly important cases. State the purpose of your visit.}
-{145}{}{I have an important information that is discrediting some of Mayor's subordinates.}
+{145}{}{I have important information that discredits some of the Mayor's subordinates.}
 {146}{}{I just want to talk with the mayor about the city.}
 {147}{}{I think you understand that is not important enough to bother the mayor.}
 {148}{}{I would like to get a job at mayor's office.}
@@ -60,7 +60,7 @@
 {155}{}{Oh, this changes things. I will tell about your visit to Mr. Williamson. What is your name?}
 {156}{}{I'm sure he'll be interested in a person that solved many of major crime cases.}
 
-#Зона 51
+#Г‡Г®Г­Г  51
 {200}{}{Hmm. Perhaps, there is such an information in our archives. But only the mayor's office employees can request an access.}
 {201}{}{So, I need to convince someone in the mayor's office to make an inquiry?}
 {202}{}{Oh, too bad.}
@@ -105,7 +105,7 @@
 {239}{}{Then you have to wait a little while I'll get to the archive.}
 {240}{}{Sure. I'm waiting.}
 
-#Проход к мэру -- намек про город
+#ГЏГ°Г®ГµГ®Г¤ ГЄ Г¬ГЅГ°Гі -- Г­Г Г¬ГҐГЄ ГЇГ°Г® ГЈГ®Г°Г®Г¤
 {242}{}{Oh no. I think the mayor needs someone intelligent enough for some detective work. You know, a lot of suspicious events occurred in the city recently! And the police doesn't do anything about it...}
 {243}{}{Yes, I've heard... Mr. Williamson may want to talk to you. I remember that he did mention it many times...}
 {244}{}{Then tell him that the detective is available. Perhaps, the offer still stands...}

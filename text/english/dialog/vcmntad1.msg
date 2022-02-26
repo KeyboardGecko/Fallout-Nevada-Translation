@@ -3,8 +3,8 @@
 {102}{}{*Error completing script!*}
 
 #Beginning of dialogue
-{110}{}{No! I ain't going nowhere! [covers his face with hands, like expecting a blow]}
-{111}{}{Calm down, I'm not here after you.}
+{110}{}{No! I ain't going nowhere! [covers his face with his arms, expecting a blow]}
+{111}{}{Calm down, I'm not after you.}
 {112}{}{Well, well! Hiding from someone, am I right?}
 {113}{}{As you wish, I'm leaving.}
 
@@ -43,10 +43,10 @@
 {140}{}{Yeah, that was about the worst decision in my life! And, looks like the last one... But the cards were so... I just couldn't help myself.}
 {141}{}{Adrenal gland. It's the gland above the kidneys that produces adrenaline and some other stuff. A very... Expensive thing.}
 {142}{}{I heard that it's survivable. But, I don't know... Most likely... I'll end up as a stiff.}
-{143}{}{Oh, don't you know?! You need it for adrenochrome. It's the most... Hellish drug in the history of mankind! It takes only a few drops of extract from this gland to just keel over. First you lose control over your own muscles, the body begins burn up. You're covered with a layer of sweat. And then the hallucinations come - your head will swell up like a watermelon... You gain about two hundred pounds in two hours, grow claws, bleeding warts... And then you notice about six huge, hairy tits swelling up on your back. You'll go blind, your body turns to wax, they'll have to put you in a wheelbarrow... And when you scream for help you sound like a raccoon... That's what I was told at least. I've never tried it myself.}
+{143}{}{Oh, don't you know?! You need it for adrenochrome. It's the most... Hellish drug in the history of mankind! It takes only a few drops of extract from this gland to just keel over. First you lose control over your own muscles, then your body begins to burn up. You're covered with a layer of sweat. And then the hallucinations come - your head will swell up like a watermelon... You gain about two hundred pounds in two hours, grow claws, bleeding warts... And then you notice about six huge, hairy tits swelling up on your back. You'll go blind, your body turns to wax, they'll have to put you in a wheelbarrow... And when you scream for help you sound like a raccoon... That's what I was told at least. I've never tried it myself.}
 {144}{}{The thug named David. He's downstairs right now, waiting for me near the exit.}
 {145}{}{Oh I don't know. I think I'll just stay here until I die of hunger. I'm not leaving the casino - David and the other bouncers will be waiting for me near the exit. They'll just butcher me in the nearest room as soon as they see me! Oh... Oh god!!!}
-{146}{}{I don't know what to do! The front door is watched, and the backdoor is locked! You can't slip while the guards are watching. There are no other ways out. The only thing left is to surrender to David.}
+{146}{}{I don't know what to do! The front door is watched, and the backdoor is locked! You can't slip by while the guards are watching. There are no other ways out. The only thing left is to surrender to David.}
 
 {150}{}{Oh... Whew, thank god it's you, I was scared for a moment.}
 {151}{}{Tell me what happened again.}
@@ -67,7 +67,7 @@
 {163}{}{Quit pissing yourself and get to David! I'll make sure you don't try and run.}
 {164}{}{I was just kidding, you can calm down.}
 
-{165}{}{It's going to be hard. The backdoor is always locked, and it's unlikely to break it down without causing any noise. If it was unlocked, I could quickly run outside. The cops wouldn't let anything happen to me... I hope.}
+{165}{}{It's going to be hard. The backdoor is always locked, and it's unlikely you'll break it down without causing any noise. If it was unlocked, I could quickly run outside. The cops wouldn't let anything happen to me... I hope.}
 {166}{}{Get ready, we're going! I took care of the door. Move! Move!}
 {167}{}{Wait here then.}
 {168}{}{There's another option.}
