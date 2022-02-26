@@ -4,7 +4,7 @@
 {103}{}{Please, don't come near me! I don't want any problems!}
 
 {110}{}{[At the sight of you approaching, a street peddler makes an effort to force a smile upon her tired tanned face] Hello! Sandwiches, hot, delicious!}
-{111}{}{How much is for one sandwich?}
+{111}{}{How much is it for one sandwich?}
 
 {112}{}{$35. I only accept cash.}
 {113}{}{Here is the money. Give me one.}
@@ -32,14 +32,14 @@
 {157}{}{Why's that?}
 {158}{}{In the Clean City you don't have to worry about security, order is maintained by the police. Besides, there are more people, and they are richer, hence more income. But that's not even the point. My father made a deal with the mayor's office to rebuild the farm. And now we have to pay our share. We have to put up with their inhuman conditions.}
 
-{159}{}{The deal? Tell me more. And what do these "inhuman conditions" mean?}
-{160}{}{Well... [sighs] My father owned a farm, but after he went broke he appealed to the City Hall for help. He was given a loan with the condition of repayment with interest. But the interest rate is just awful! And it increases with each day of the payment delay. But those chair warmers in the City Hall couldn't be more happy about it because, as one can say, now they own both: us and the farm.}
+{159}{}{A deal? Tell me more. And what do these "inhuman conditions" mean?}
+{160}{}{Well... [sighs] My father owned a farm, but after he went broke he appealed to the City Hall for help. He was given a loan with the condition of repayment with interest. But the interest rate is just awful! And it increases with each day the debt isn't repayed. But those chair warmers in the City Hall couldn't be more happy about it because, as you can see, now they own both: us and the farm.}
 
 {161}{}{What an unfair matter. Maybe someone in the City Hall would give you a pass? A grace period, for example.}
-{162}{}{It's unlikely. Do you know someone there? If you knew, you would understand. These jokers haven't crawled outside of the City for like a dozen of years. They don't know how hard it is to live in the wasteland. That's besides the fact that they don't care. They are already used to push people around.}
+{162}{}{It's unlikely. Do you know someone there? If you knew, you would understand. These jokers haven't crawled outside of the City for like a dozen of years. They don't know how hard it is to live in the wasteland. That's besides the fact that they don't care. They are already used to pushing people around.}
 {163}{}{What happened to the farm?}
-{164}{}{At first, we were raided by the rodents, then the actual raiders came, and then the hurricane happened. The barn was blown to pieces, not to mention the crops. We barely could collect a bag of maize back then. Now we need to restore everything, the buildings and the plantation.}
-{165}{}{How trading here will help you with the harvest there?}
+{164}{}{At first, we were raided by the rodents, then the actual raiders came, and then the hurricane happened. The barn was blown to pieces, not to mention the crops. We could barely collect a bag of maize back then. Now we need to restore everything, the buildings and the plantation.}
+{165}{}{How will trading here help you with the harvest there?}
 {166}{}{We have a big and strong family. While men are busy working in the wastelands, I'm sent here to trade. We need a lot of stuff. Sometimes it is possible to make a deal with the prospectors, but they are not quite pleasant people. They may cheat you.}
 
 {167}{}{Let's chat a bit more?}
@@ -56,7 +56,7 @@
 
 #Cart
 {180}{}{What a fancy cart you have.}
-{181}{}{Yep. Previously, such carts were used by the merchants selling hot dogs, and now it's mine. My brothers found it among the ruins of the old town, then repaired and repainted it. Quite a handy thing, if only not this damn wheel...}
+{181}{}{Yep. Previously, such carts were used by the merchants selling hot dogs, and now it's mine. My brothers found it among the ruins of the old town, then repaired and repainted it. Quite a handy thing, if not for this damn wheel...}
 {182}{}{Yeah, I have noticed that the cart isn't standing evenly. Maybe I could fix it.}
 {183}{}{Well, you can try. If you do fix it, I'll give you a sandwich. Just don't break it completely!}
 {184}{}{I'll try.}
