@@ -191,7 +191,7 @@
 {272}{}{Although the lab uses slaves as a labor and as a guinea pigs for testing new products, which itself could point at the connection to the slave guild, there are no names in the lab's records. But I think we can write the freaks off the list of suspects - I found the documents in the Slavertown, which contained the information that someone wants to set them up with drug making. I gave it to Oscar Davis.}
 
 #Addition to being denied detective work
-{273}{}{Why don you think I won't be able to handle it?}
+{273}{}{Why don't you think I'll be able to handle it?}
 {274}{}{Alright then.}
 
 {275}{}{This job will require a careful approach to many people. Careful, *delicate* approach.}
@@ -210,13 +210,13 @@
 
 #Vendor's Cart
 {300}{}{I'm here for a personal issue. An acquaintance of mine, a sandwich vendor, has a debt she's having trouble settling. Could you help?}
-{301}{}{As a fellow human being, I am very sorry about your friend. But she has obligations which needed to be followed. Before taking the loan she should have read the agreement.}
-{302}{}{But it's only thanks to the immense pays that she can't get any profits. Could the Clean City give her a few months? She could expand her business and provide more money to the budget.}
+{301}{}{As a fellow human being, I am very sorry about your friend. But she has obligations which need to be followed. Before taking the loan she should have read the agreement.}
+{302}{}{But it's only thanks to the immense payments that she can't get any profits. Could the Clean City give her a few months? She could expand her business and provide more money to the budget.}
 
 {303}{}{I'll be frank - it's not my responsibility. I can't spend my time convincing the city council to change the contract of some minor trader. She should put an application to the administration, so it could be processed according to the procedures.}
 {304}{}{Is that so? Well, I have a business of my own here - I'm selling Nuka-Cola. I could pledge some of my own product if the layoff won't bear any results.}
 {305}{}{I know about business, so I think I can convince your Council in profits from this, using real statistics.}
-{306}{}{It is way better to give the trader a postponement than to loose income from her taxes forever. I think I can convince your Council.}
+{306}{}{It is way better to give the trader a post-ponement than to lose income from her taxes forever. I think I can convince your Council.}
 {307}{}{Mr. Williams, I'm asking this as a personal request.}
 {308}{}{You could help with sorting this out with the Council as an experienced leader.}
 {309}{}{Well, looks like you can't be convinced. In that case, I'll be going.}
