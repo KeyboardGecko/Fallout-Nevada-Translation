@@ -3,7 +3,7 @@
 {102}{}{That's okay, you will see them soon.}
 {103}{}{Perhaps he'll come back when he gets his head straight.}
 
-#Первый разговор
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {110}{}{[You see a strange guy in yellow glasses and bright shirt; He frantically swings around with his flyswatter] Careful! The bats!! They are everywhere!!}
 {111}{}{[Go along] Damn!! So many of them!! Let's run to the cafe, they won't get us there!}
 {112}{}{Bats? There are no bats!}
@@ -38,7 +38,7 @@
 {136}{}{My name is }
 {137}{}{. Nice to meet you.}
 
-#Второй разговор
+#Г‚ГІГ®Г°Г®Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {150}{}{Oh, my head hurts... Huh? And who the hell are you?}
 {151}{}{You don't remember me?}
 {152}{}{I'm a bat. Tremble before me!}
@@ -66,20 +66,20 @@
 
 {172}{}{Tell me, what is a "psychedelic"?}
 {173}{}{I do not understand, Why do you like acting crazy?}
-{174}{}{Where did you get such a strong dope?}
+{174}{}{Where did you get such a strong dose?}
 {175}{}{Why would they need that?}
 {176}{}{I think, I'm not interested in that.}
 
 {180}{}{Ah, so you're a stranger here... Well, then you should know that it's a medication... With some side effects. The user experiences hallucinations that cannot be invented in any science fiction world. An amazing experience!}
 {181}{}{Why? To escape this damn reality! Just one drop - and you become happy and free! It's worth it... Unless you abuse it, of course.}
-{182}{}{It was some dealer... I don't remember, who exactly, there is so many of them lately, and there are always new faces in the business. Looks like the police of Clean City never rests.}
+{182}{}{It was some dealer... I don't remember, who exactly, there is so many of them lately, and there are always new faces in the business. Looks like the police of Clean City never rest.}
 {183}{}{First, not everyone likes to live beside crazy idiots. Second, the Clean City tries to establish a monopoly on everything. Perhaps, they are trying to take control of the laboratory, too...}
 {184}{}{The laboratory?}
 {185}{}{Oops... Yes, there is talk that such large stocks cannot remain from pre-war times, that there is some manufacturer. But that's just a rumor.}
 {186}{}{Right. That is all I wanted to know.}
 {187}{}{You learned about the existence of a laboratory somewhere on the outskirts of Vegas.}
 
-#Жен реплики
+#Г†ГҐГ­ Г°ГҐГЇГ«ГЁГЄГЁ
 {1127}{}{Ah? I'm okay! I'm okay! Erm... [suddenly straightens up, strikes a formal pose, smiles, and holds out his hand for a handshake] Welcome to Vegas, my friend! A great place to visit.}
 {1129}{}{Phew, I thought you were hallucinating!}
 {1135}{}{Shhh! The bats! A whole swarm. When they come together, they'll turn into a tornado, which will take us into the sky... Oh, this is bad, friend!}
