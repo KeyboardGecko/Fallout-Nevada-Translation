@@ -37,7 +37,7 @@
 {154}{}{Here it goes then. [He looks as if he's telling a bedtime story to the children] This is a tale of great people and their hard every day work.}
 {155}{}{[More]}
 {156}{}{Salt Lake City was built before the war. It was a big city by American standards. There were lots of people, trains moving up and down the railroad, factories blowing smoke. The city was bustling and constantly in motion.}
-#corbels?
+#corbels?..
 {157}{}{After a while, a small gambling area was set up, with not very expensive casinos and restaurants, which had big signs and shining corbels...}
 {158}{}{The city was by no means clean, for it was still an industrial center. It produced electricity, ran factories, mined salt and copper... There was even a military base with its own airfield in the north of the city.}
 {159}{}{And then...}
