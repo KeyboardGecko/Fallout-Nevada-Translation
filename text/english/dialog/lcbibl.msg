@@ -113,7 +113,7 @@
 {234}{}{Hmm... [Vernon takes a good look at the articles.] Ah! Denver Post, isn't it! Goodness, it's been more than 50 years and they are still readable! Alright, you can pick something from my library in exchange for this, something valuable.}
 {235}{}{I need a guide on surviving in the wilderness.}
 {236}{}{I'll give you the newspapers in exchange for the book on electronics.}
-{237}{}{Give me the manual of first aid - and the newspapers are yours.}
+{237}{}{Give me the first aid manual and the newspapers are yours.}
 {238}{}{How about some scientific books?}
 {239}{}{Do you have anything dealing with traps?}
 {240}{}{I'm interested in works about firearms.}
