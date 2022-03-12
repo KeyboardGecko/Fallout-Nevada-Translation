@@ -78,7 +78,7 @@
 {185}{}{There's another problem. We'll need to act at night, but the street is lit up by the lamps. A huge risk, if you count the cop. Something should be done about that.}
 {186}{}{What do I need to do?}
 {187}{}{Try and do something about that street light. Meanwhile, I'll keep an eye out on the situation and work out the finer details of the plan.}
-{188}{}{I like the way you're thinking! I'm in!}
+{188}{}{I like the way you're thinking! You son of a bitch, I'm in!}
 {189}{}{Great. See you in the evening.}
 {190}{}{Bye.}
 
