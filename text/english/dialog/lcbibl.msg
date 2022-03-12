@@ -83,7 +83,7 @@
 {204}{}{I happen to have a rare book on medicine - more specifically, on neurosurgery. Even if you don't practice medicine yourself, it will most likely be of interest to any professional doctor. I've never seen a more informational practical guide.}
 {205}{}{How much for the book?}
 {206}{}{Not interested.}
-{207}{}{You know, at this point of my life I don't value money as much as my own health. I have a heart condition and need a specific medication for it, which is nowhere to be found in the city. And I wasn't able to found it anywhere else.}
+{207}{}{You know, at this point of my life I don't value money as much as my own health. I have a heart condition and need a specific medication for it, which is nowhere to be found in the city. And I wasn't able to find anywhere else.}
 {208}{}{You say you need a cardiac medication? Alright, if I find some, I'll bring it to you.}
 {209}{}{You're in luck. I happen to have a vial of just the thing. Let's barter.}
 {210}{}{I have the heart medication you wanted. I'll give it to you in exchange for the book on neurosurgery.}
