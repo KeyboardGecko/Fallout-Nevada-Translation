@@ -10,7 +10,7 @@
 {112}{}{I need to see the guy.}
 {113}{}{Just popping in to say hi. See you later.}
 
-{120}{}{[He crackles with his knuckles] That's it, you asked for it.}
+{120}{}{[He cracks his knuckles] That's it, you asked for it.}
 {121}{}{Wait, wait, I'm sorry! It won't happen again!}
 {122}{}{Wait, I just want to see the guy!}
 {123}{}{Bring it on, you meat sack!}
@@ -35,6 +35,6 @@
 {137}{}{You should think about being nicer to me. You don't have daddy Gerlach watching out for you anymore.}
 {138}{}{Fine, but I'll be back.}
 
-#Женские реплики
+#Г†ГҐГ­Г±ГЄГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {1127}{}{Okay, okay, I get it.}
 {1129}{}{Come and get it.}
