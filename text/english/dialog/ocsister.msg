@@ -2,14 +2,14 @@
 {101}{}{You see a very attractive girl. She seems bothered by something.}
 {102}{}{You see a very attractive girl.}
 
-#Если погублен ее брата:
+#Г…Г±Г«ГЁ ГЇГ®ГЈГіГЎГ«ГҐГ­ ГҐГҐ ГЎГ°Г ГІГ :
 {103}{}{You heartless bastard! How could you?!}
 {104}{}{Please, help! They'll kill him!!!}
 {105}{}{My brother... Why...?}
 
 #################################################
 #
-#  Старт диалога и вопросы
+#  Г‘ГІГ Г°ГІ Г¤ГЁГ Г«Г®ГЈГ  ГЁ ГўГ®ГЇГ°Г®Г±Г»
 #
 #################################################
 
@@ -19,7 +19,7 @@
 
 {112}{}{What are you going to do now?}
 {113}{}{Tell me about yourself and your brother.}
-{114}{}{Why everyone is so angry at your brother?}
+{114}{}{Why is everyone so angry at your brother?}
 {115}{}{How can we free your brother?}
 {116}{}{I'm going to need more than a "thank you" for my help.}
 {117}{}{You don't think I did this for free, do you?}
@@ -33,7 +33,7 @@
 
 #################################################
 #
-#  Ответы на вопросы
+#  ГЋГІГўГҐГІГ» Г­Г  ГўГ®ГЇГ°Г®Г±Г»
 #
 #################################################
 
@@ -53,7 +53,7 @@
 
 #################################################
 #
-#  Цена за вознаграждение
+#  Г–ГҐГ­Г  Г§Г  ГўГ®Г§Г­Г ГЈГ°Г Г¦Г¤ГҐГ­ГЁГҐ
 #
 #################################################
 
@@ -65,7 +65,7 @@
 {204}{}{Show me the damn stash! I want everything in there!}
 {205}{}{Susie said the stash is somewhere around here.}
 
-#Плавающие фразы для таймера, когда брат мертв (любым способом)
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГґГ°Г Г§Г» Г¤Г«Гї ГІГ Г©Г¬ГҐГ°Г , ГЄГ®ГЈГ¤Г  ГЎГ°Г ГІ Г¬ГҐГ°ГІГў (Г«ГѕГЎГ»Г¬ Г±ГЇГ®Г±Г®ГЎГ®Г¬)
 {300}{}{::cries::}
 {301}{}{::sighs::}
 {302}{}{Ohhh...}
