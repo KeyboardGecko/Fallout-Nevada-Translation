@@ -21,7 +21,7 @@
 {124}{}{[Draws in the sand] Here is the Black Rock, and there's a community of Gerlach. As for me, I prefer the desert than to live there.}
 
 #Ïðî èãóàí
-{125}{}{Iguanas - desert lizards. Crawling here and there. You catch them and put them on fire. Nothing more to do.}
+{125}{}{Iguanas - desert lizards. Crawling here and there. You catch them and put them on fire. Nothing more to it.}
 {126}{}{Can you make some iguanas for me?}
 {127}{}{Well, yes. And what will you give me for it?}
 {128}{}{Actually, I don't know... Let's see what we can trade.}
