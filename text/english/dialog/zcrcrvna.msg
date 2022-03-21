@@ -61,7 +61,7 @@
 {182}{}{Okay. Another question.}
 {183}{}{Forget it then. Bye.}
 
-{184}{}{And if more detail - where you can go hang out, for example?}
+{184}{}{Let me be more specific - where can you go hang out, for example?}
 {185}{}{Listen, I don't stay here for long myself, and I'm in no mood for parties after the road. I'm tired. You know, there is one caravan merchant around, retired, so to speak. His name is Ricky - The Musher. He stayed on the third floor in "Rainbow", it's across the street of "El Dorado". Go to him, buy him a drink, and he will tell you everything about the city. He knows a lot, believe me.}
 {186}{}{Okay, but I have some other questions.}
 {187}{}{I'll go to him then. Bye.}
@@ -72,7 +72,7 @@
 {191}{}{Forget it. Another question.}
 {192}{}{Fine, forget it.}
 
-{193}{}{No, he always travels. They say, he looks for a place to settle down with people like him. Last time I have seen him on his way to Hub. It's very far, don't even ask, where is it.}
+{193}{}{No, he always travels. They say he looks for a place to settle down with people like him. Last time I saw him, he was on his way to Hub. It's very far, don't even ask where it is.}
 {194}{}{Right. Another question.}
 {195}{}{Well fine. I think, I'll go now.}
 
