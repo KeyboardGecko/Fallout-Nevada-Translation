@@ -22,7 +22,7 @@
 {110}{}{Well, hello.}
 {111}{}{Yes?}
 {112}{}{Oh, a client! How can I help?}
-{113}{}{Did you came to talk business? Or to just waste my time?}
+{113}{}{Did you come to talk business? Or to just waste my time?}
 {114}{}{I'm listening... Hmm, who knows, maybe you'll say something useful.}
 {115}{}{Can't wait for you to tell me something nice. Like something about free money, for example. Ha-ha!}
 {116}{}{Hey, I'm busy. Make it fast.}
