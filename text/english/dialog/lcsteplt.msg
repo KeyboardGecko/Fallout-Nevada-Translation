@@ -3,13 +3,13 @@
 {102}{}{You see a lonely one-eyed resident of the slums.}
 {103}{}{You see a lone and mysterious Stapleton... Though he mostly resembles a typical beggar.}
 
-#Общие фразы - Common description
+#ГЋГЎГ№ГЁГҐ ГґГ°Г Г§Г» - Common description
 {110}{}{[The man you see is of a strong build, with an ugly face, that is missing an eye] That's my home, I live here. Are you sure you came to the right place?}
 {111}{}{Well, usually nobody stops by here...}
 {112}{}{Okay, I'm leaving.}
 {113}{}{I see...}
 
-#Кто таков - Who are you
+#ГЉГІГ® ГІГ ГЄГ®Гў - Who are you
 {120}{}{May I ask who I am talking to?}
 {121}{}{Why'd you need to know? Usually, everybody just turn away from me. And if they do want to get acquainted, it spells trouble. Better just go do your thing.}
 {122}{}{But still. Your name is not a secret, is it?}
@@ -31,19 +31,19 @@
 {136}{}{Sure. Later... Wanderer.}
 {137}{}{Bye.}
 
-#Про башню - about the tower
+#ГЏГ°Г® ГЎГ ГёГ­Гѕ - about the tower
 {150}{}{What is this tower over there?}
 {151}{}{A water tower made by pre-war company "Rain Soft". There's a giant tank inside, where artesian water was gathered by submerged pump, to then be dispersed by pressure system to clients, using water pipeline.}
 {152}{}{Is it usable now?}
 {153}{}{No. All the water was depleted before the Great War. There are lots of people willing to run it, but so far no one succeeded.}
 {154}{}{What's stopping them?}
-{155}{}{The pump turbine, which pumps the water from the underground, requires a new cleaning filter. No one knows where to get it. So, this gigantic towers stands still and useless. But even if filter would be found, one would have to spend a lot of time to set everything up. Even more than that...}
+{155}{}{The pump turbine, which pumps the water up from underground, requires a new cleaning filter. No one knows where to get it. So, that gigantic tower stands still and useless. But even if a filter could be found, one would have to spend a lot of time to set everything up. Even more than that...}
 {156}{}{More than what?}
-{157}{}{I'm afraid to imagine the storm rising in a city about who has the right to run the tower. Everyone needs clean water - people, Nuka-cola facility, various cunning businessmen... Every resident.}
+{157}{}{I'm afraid to imagine a storm rising in the city to determine who has the right to run the tower. Everyone needs clean water - people, Nuka-cola facility, various cunning businessmen... Every resident.}
 {158}{}{A tough decision for sure. So, where could I find the part?}
-{159}{}{[Shrugs] I know Las Vegas has a dam built on Colorado river. I don't know how it functions, but there are plenty of clean water there. Even then, if they had the filter, caravaneers would have delivered it already.}
+{159}{}{[Shrugs] I know Las Vegas has a dam built on the Colorado river. I don't know how it functions, but there is plenty of clean water there. Even then, if they had the filter, caravaneers would have delivered it already.}
 
-#Про собак - about the dogs
+#ГЏГ°Г® Г±Г®ГЎГ ГЄ - about the dogs
 {160}{}{How's dog meat?}
 {161}{}{Well... Better than tough gecko meat or stinky molerats.}
 {162}{}{And their owners don't mind?}
@@ -58,7 +58,7 @@
 {171}{}{Well, if Sheriff himself encourages dog-eating, then the situation in city is really crappy. Bye.}
 {172}{}{Okay, I believe.}
 
-#Квест на собак - Dog quest
+#ГЉГўГҐГ±ГІ Г­Г  Г±Г®ГЎГ ГЄ - Dog quest
 {180}{}{All dogs in the area are dead.}
 {181}{}{What, really? Nicely done! Hm... Guess you had to spend some ammo, eh? Here, I've got some spare gunpowder. It's all I can pay with. Now I can sleep at night. Really glad you helped.}
 {182}{}{Take care then.}
@@ -77,7 +77,7 @@
 {193}{}{The house reeks with dog meat.}
 {194}{}{And how should I get it?}
 
-#Починка поезда - repairing the train
+#ГЏГ®Г·ГЁГ­ГЄГ  ГЇГ®ГҐГ§Г¤Г  - repairing the train
 {200}{}{You worked at the factory. Can you also handle the train computer systems?}
 {201}{}{[Looks back at the door, then he gets up, blocking the window with his back] Where did you get that? From the train depot?}
 {202}{}{Well... Yes.}

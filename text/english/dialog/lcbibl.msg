@@ -2,7 +2,7 @@
 {101}{}{You see Vernon, an old city dweller and an opinionated bookworm.}
 {102}{}{I may be old, but I still have some life in me!}
 
-#Диалог про Диогена:
+#Г„ГЁГ Г«Г®ГЈ ГЇГ°Г® Г„ГЁГ®ГЈГҐГ­Г :
 {119}{}{Still looking for answers? Well, I may have some for you.}
 
 {120}{}{Welcome to my humble dwelling!}
@@ -29,7 +29,7 @@
 {141}{}{An excellent conclusion! I see your deduction skills are unmatched.}
 {142}{}{Quite so! It was a pleasure arguing with you. Goodbye!}
 
-#Диалог про историю города:
+#Г„ГЁГ Г«Г®ГЈ ГЇГ°Г® ГЁГ±ГІГ®Г°ГЁГѕ ГЈГ®Г°Г®Г¤Г :
 {150}{}{You seem way more intelligent than other people in this city. Perhaps you know the history of the place?}
 {151}{}{I sure do. I'll be happy to tell you about the city and the history of its establishment. If you have time, of course, as it is quite a long story.}
 {152}{}{Please, tell me about it.}
@@ -37,6 +37,7 @@
 {154}{}{Here it goes then. [He looks as if he's telling a bedtime story to the children] This is a tale of great people and their hard every day work.}
 {155}{}{[More]}
 {156}{}{Salt Lake City was built before the war. It was a big city by American standards. There were lots of people, trains moving up and down the railroad, factories blowing smoke. The city was bustling and constantly in motion.}
+#corbels?..
 {157}{}{After a while, a small gambling area was set up, with not very expensive casinos and restaurants, which had big signs and shining corbels...}
 {158}{}{The city was by no means clean, for it was still an industrial center. It produced electricity, ran factories, mined salt and copper... There was even a military base with its own airfield in the north of the city.}
 {159}{}{And then...}
@@ -54,14 +55,14 @@
 {171}{}{Oh well. It is a pity, because I'm hungry.}
 {172}{}{Goodbye.}
 
-#Прово
+#ГЏГ°Г®ГўГ®
 {180}{}{Do you know anything about Provo's population?}
 {181}{}{Oh yes. It's an old story. The inhabitants of Provo were like the Ku Klux Klan from before the war. At first, the Sheriff used their bigotry and extremism for his own cause. He employed them to deal with certain undesirables, and when things improved he got rid of them. Since then, those rednecks hate the city and its citizens. They consider us crooks. After a while, they turned to brigandage, with criminals of all sorts joining their ranks.}
 {182}{}{The Sheriff asked me to deal with those criminals...}
 {183}{}{Oh? Well, it's no surprise. The rednecks has already robbed several caravans and even tried to sabotage the city. But the Sheriff doesn't want to openly wage war against them. You see, nobody knows much about Provo. There are probably many traps scattered around the place, waiting for an unwary target to set them off. The tactical situation is against the Sheriff, that's for sure. Anyway, if you decide to venture into the area, be on your guard and pay full attention to your surroundings.}
 {184}{}{Understood.}
 
-#Библиотека
+#ГЃГЁГЎГ«ГЁГ®ГІГҐГЄГ 
 {190}{}{I haven't seen such a large collection of books anywhere else. Where do the books in your library come from?}
 {191}{}{Well, I gathered these books from around the ruins with my own hands, believe it or not.}
 {192}{}{What a great example of selfless devotion to culture and education! You're a remarkable person.}
@@ -73,7 +74,7 @@
 {198}{}{It was a task given by our Mormon community. The Salt Lake City Public Library was destroyed during the nuclear attack. The fires that followed burned down many of the private libraries as well. The Mormons decided it was important to preserve the surviving remains of the pre-war wisdom. Nowadays, the main bulk of the archives is kept within the Mormon Church, and the books you see here are a private collection, for internal use only, so to speak.}
 {199}{}{I see.}
 
-#Продажа книжек
+#ГЏГ°Г®Г¤Г Г¦Г  ГЄГ­ГЁГ¦ГҐГЄ
 {200}{}{Do you have any books or magazines for sale?}
 {201}{}{Yes, I may have some, if you're interested.}
 {202}{}{Tell me more.}
@@ -82,7 +83,7 @@
 {204}{}{I happen to have a rare book on medicine - more specifically, on neurosurgery. Even if you don't practice medicine yourself, it will most likely be of interest to any professional doctor. I've never seen a more informational practical guide.}
 {205}{}{How much for the book?}
 {206}{}{Not interested.}
-{207}{}{You know, at this point of my life I don't value money as much as my own health. I have a heart condition and need a specific medication for it, which is nowhere to be found in the city. And I wasn't able to found it anywhere else.}
+{207}{}{You know, at this point of my life I don't value money as much as my own health. I have a heart condition and need a specific medication for it, which is nowhere to be found in the city. And I wasn't able to find anywhere else.}
 {208}{}{You say you need a cardiac medication? Alright, if I find some, I'll bring it to you.}
 {209}{}{You're in luck. I happen to have a vial of just the thing. Let's barter.}
 {210}{}{I have the heart medication you wanted. I'll give it to you in exchange for the book on neurosurgery.}
@@ -112,7 +113,7 @@
 {234}{}{Hmm... [Vernon takes a good look at the articles.] Ah! Denver Post, isn't it! Goodness, it's been more than 50 years and they are still readable! Alright, you can pick something from my library in exchange for this, something valuable.}
 {235}{}{I need a guide on surviving in the wilderness.}
 {236}{}{I'll give you the newspapers in exchange for the book on electronics.}
-{237}{}{Give me the manual of first aid - and the newspapers are yours.}
+{237}{}{Give me the first aid manual and the newspapers are yours.}
 {238}{}{How about some scientific books?}
 {239}{}{Do you have anything dealing with traps?}
 {240}{}{I'm interested in works about firearms.}
@@ -158,7 +159,7 @@
 {274}{}{Thanks for the lesson. No questions. I have to go - to find ways to use the newly acquired knowledge.}
 {275}{}{I'm not exactly sure that I can teach you anything you don't already know.}
 
-#Случайные фразки:
+#Г‘Г«ГіГ·Г Г©Г­Г»ГҐ ГґГ°Г Г§ГЄГЁ:
 {300}{}{Youth these days...}
 {301}{}{No, that's not it...}
 {302}{}{No, really, this comedian should've been hanged at once.}

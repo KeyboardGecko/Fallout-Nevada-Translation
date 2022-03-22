@@ -49,16 +49,16 @@
 
 #About radiation in the city
 {154}{}{How can you live in such a humid and smelly climate? Perhaps visitors have respiratory problems?}
-{155}{}{That's right. One need to get used to to local conditions. But the body adapts over time. Most importantly, do not stick your nose where it doesn't belong.}
-{156}{}{And where it does not?}
-{157}{}{In the North there is a large radioactive area, a real cemetery. That was the part of the Salt Lake city agglomeration on which a nuclear bombs were dropped during the war. Periodically, rains wash out the radioactive dirt into the Great Salt Lake. Fortunately, we are lucky with the climate.}
+{155}{}{That's right. One does need to get used to to local conditions. But the body adapts over time. Most importantly, do not stick your nose where it doesn't belong.}
+{156}{}{And where doesn't it belong?}
+{157}{}{In the North there is a large radioactive area, a real cemetery. That was the part of the Salt Lake City agglomeration on which a nuclear bombs were dropped during the war. Periodically, rains wash out the radioactive dirt into the Great Salt Lake. Fortunately, we are lucky with the climate.}
 {158}{}{How so?}
-{159}{}{Our landscape prevents most of the dangers. There are no harsh winds like in the deserts, and no fumes from heat. In addition, in local conditions, one plant has mutated. The water lily. It grows on the banks of the Great Salt Lake. In other cities it is just a plant, but this one gives you a special kind of nutritious nuts.}
+{159}{}{Our landscape prevents most of the dangers. There are no harsh winds like in the deserts, and no fumes from heat. In addition, in local conditions, one plant has mutated. The water lily. It grows on the banks of the Great Salt Lake. In other cities it is just a plant, but this one gives you a special kind of nutritious nut.}
 {160}{}{Oh, that's why on the way here I saw people constantly chewing something...}
 {161}{}{These are Vocas nuts. They are very dense, you have to chew them hard, otherwise the effect will be small.}
 {162}{}{What is the effect, exactly?}
 {163}{}{These nuts remove radioactive elements from the body. Of course, this does not happen immediately. Radiation is excreted with sweat and urine during the day. The effect is not very strong, but if you use Vocas regularly, the exposure level will come back to normal... More or less.}
-{164}{}{Sounds like a very useful plant. Where to find it?}
+{164}{}{Sounds like a very useful plant. Where can I find them?}
 {165}{}{You can buy nuts from me or in the "Tin angel". And if you want to collect them yourself, I suggest you to wander through uninhabited areas with a lot of dirty water. Vocas grows in rather unpleasant conditions. Just keep in mind that it ripens twice a year - in spring and fall. At those times of the year there are buckets of them lying on shelves.}
 {166}{}{Okay. Thank you for telling me this.}
 {167}{}{Okay. Maybe you can clarify something on the subject?}
@@ -78,7 +78,7 @@
 {179}{}{Together with the pharmacist you have developed a drug for the prevention of radiation sickness. This will be very useful for the entire city.}
 
 #About the current sanitary conditions
-{180}{}{About the sanitary conditions in the city. What are they now, can you tell?}
+{180}{}{About the sanitary conditions in the city, can you tell me what they are now?}
 {181}{}{Now it's calm. The pestilence seems to be over, but it is too early to draw final conclusions. People are less likely to get sick and suffer from intestinal infections. I hope it will continue like this.}
 {182}{}{Terrible. The pestilence is all over the city. People die from intestinal diseases and there is nothing to do to help them. My supplies are meager and not everyone can afford to buy them. I don't know for how long it's going to last.}
 {183}{}{Everything is just as it used to be. There are still pockets of intestinal diseases in the city, but so far there have been very few deaths.}
@@ -106,7 +106,7 @@
 {200}{}{Do you make medicaments?}
 {201}{}{I can make healing powders, antidotes, stimulants and the "blood-purifier". But I need your own components, for mine are scarce. So, what do you need?}
 {202}{}{Antidote.}
-{203}{}{Stimulator.}
+{203}{}{Stimpak.}
 {204}{}{"Blood-purifier".}
 {205}{}{Healing powder.}
 
@@ -114,7 +114,7 @@
 {210}{}{Nothing. Let's go back.}
 
 {211}{}{I'll make it if you bring me the tail of a radscorpion. It will cost }
-{212}{}{I'll make it if you bring me an empty Great Salt Lake, a Xander root and a Broc flower. It will cost }
+{212}{}{I'll make it if you bring me an empty syringe, a Xander root and a Broc flower. It will cost }
 {213}{}{I'll make it if you bring me a Xander root, a Broc flower and two handfuls of nightshade berries. It will cost }
 {214}{}{I'll make it if you bring me a Xander root and a Broc flower. It will cost }
 
@@ -151,7 +151,7 @@
 {249}{}{Not now, I have other things to do.}
 
 {250}{}{Hey, that's my stuff!}
-{251}{}{But I acquired these things in an honest way. Therefore, if you want them, you have to pay.}
+{251}{}{But I acquired these things in an honest way. So if you want them, you have to pay.}
 {252}{}{Grr...}
 
 #Artesian water filter, addition
@@ -166,7 +166,7 @@
 {265}{}{I feel feverish and the cough is killing me... Is there any cure for such disease?}
 {266}{}{Let me examine you... This is an infection. It can be handled quite well with nightshade berries mixed with alcohol. But that treatment is still much less effective than the properly produced medicine based on the same berries. You can buy the latter from me, it's called "Blood-purifier"... If it's still available.}
 {267}{}{So let's see if you have something effective available for sale.}
-{268}{}{Oh, thanks for the tip! When I will set up a camp in the Wasteland and feel sick, there will be a chance for me to get cured on the spot, near the campfire.}
+{268}{}{Oh, thanks for the tip! Now when I set up a camp in the Wasteland and feel sick, there will be a chance for me to get cured on the spot, near the campfire.}
 {269}{}{Pharmacist taught you to treat the infection at the campfire with wild plants and alcohol.}
 
 #Treatment
@@ -194,7 +194,7 @@
 {295}{}{I can't say. Goodbye.}
 {296}{}{Oh my God! I hope you are not going to carry out the contract?}
 {297}{}{Why?}
-{298}{}{If the factory restores the automation, it will be bad for everyone, except a handful of the lead managers of this company! Now there is a lot being done manually. But if the conveyors start to work without human involvement, many workers will be kicked out on the street. In addition, it would greatly increase the factory's production rate, which will cause it to pollute the city with its waste even more.}
+{298}{}{If the factory restores the automation it will be bad for everyone, except a handful of the lead managers of the company! Now there is a lot being done manually. But if the conveyors start to work without human involvement, many workers will be kicked out on the street. In addition, it would greatly increase the factory's production rate, which will cause it to pollute the city with its waste even more.}
 {299}{}{Hmm. What a strange irony - it's bad for the city without the factory, and isn't good with it either. So, what are you proposing?}
 {300}{}{Give me that controller, I will destroy it. And in return I'll pay 350 bucks, I can't offer more. But you will do a good deed! And as for the factory, it won't make the situation WORSE for them.}
 {301}{}{Okay then, take this device. Even if it's less money, I will save on the associated costs and would feel better doing good.}
