@@ -9,9 +9,9 @@
 #Ñîëò-Âåãàñ:
 {104}{}{You see a man with unwashed head. The badge on the shoulder reads: "Salt Lake - Las Vegas"}
 #Ñîëò-Ðèíî:
-{105}{}{You see a man, covered in road dust. The badge on the shoulder reads: "Salt Lake - New Reno"}
+{105}{}{You see a man covered in road dust. The badge on the shoulder reads: "Salt Lake - New Reno"}
 #Ðèíî-Âåãàñ:
-{106}{}{You see a man, heavily tanned. The badge on the shoulder reads: "Las Vegas - New Reno"}
+{106}{}{You see a heavily tanned man. The badge on the shoulder reads: "Las Vegas - New Reno"}
 #Âåòåð Âîéíû:
 {107}{}{You see a tired man. The emblem on the shoulder identifies him as a master of the caravan.}
 
@@ -21,14 +21,14 @@
 
 {110}{}{Well, hello.}
 {111}{}{Yes?}
-{112}{}{Oh, a client!? How can I help?}
-{113}{}{Did you came to talk business? Or just to waste my time?}
-{114}{}{I'm listening... Hmm, who knows, maybe you have something useful to say?}
-{115}{}{Can't wait you to tell me something nice. Like for example, something about free money. Ha-ha!}
-{116}{}{Hey, I'm busy. So make it fast.}
-{117}{}{[Sighs] Well, ok! Ask your stupid question already!}
+{112}{}{Oh, a client! How can I help?}
+{113}{}{Did you came to talk business? Or to just waste my time?}
+{114}{}{I'm listening... Hmm, who knows, maybe you'll say something useful.}
+{115}{}{Can't wait you to tell me something nice. Like something about free mone, for example. Ha-ha!}
+{116}{}{Hey, I'm busy. Make it fast.}
+{117}{}{[Sighs] Well, okay! Ask your stupid question!}
 {118}{}{Hello. What do you want?}
-{119}{}{Hello. Wanna make 10 bucks? We don't have anybody to replace a brahmin... HA-HA-HA!!!}
+{119}{}{Hello. Wanna make 10 bucks? We need someone in place of a Brahmin... HA-HA-HA!!!}
 {120}{}{Oh! Just when we need free labor! You're just in time!... HA-HA-HA!!!}
 
 ###############################################################
@@ -38,20 +38,20 @@
 {150}{}{I wanted to ask something about this city.}
 
 #Îòâåòû äëÿ êàæäîãî ãîðîäà:
-{151}{}{Well there is not much to say? Nothing special. Not the best city in these parts.}
+{151}{}{What's there to say? It's nothing special. Not the best city around these parts.}
 
-{152}{}{New Reno. City on a par with hell. There is even similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Because even the Wasteland is safer then this!}
-{153}{}{New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. Shortly speaking, you have to be careful here. The times city is having now are not the best. That's for sure.}
-{154}{}{New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can find big trouble on your ass. Easy!}
+{152}{}{New Reno. City on a par with hell. There is even a similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Even the Wasteland is safer then this!}
+{153}{}{New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. In short, you have to be careful here. Now's not the best time to be in this city, that's for sure.}
+{154}{}{New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can easily get a lot of trouble on your ass.}
 
 {160}{}{Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade.}
 {161}{}{Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade... Except there is some strange business going on in it. Anyway, that's not our problem for now.}
 
-{170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of a knife in the back.}
-{171}{}{Salt Lake. Dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of a knife in the back - and you can make a fine trade.}
-{172}{}{Salt Lake. The city may be a little dirty, but if not for my work, it would be where I chose to settle down. You can't find a better place to live in the whole region. Everyone has a job and ways to make a living, without worrying about a knife in the back. Good place.}
+{170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least here you don't have to be afraid to be stabbed in the back.}
+{171}{}{Salt Lake. A dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid to be stabbed in the back - and you can make a fine trade.}
+{172}{}{Salt Lake. The city may be a little dirty, but if not for my work, it would be where I chose to settle down. You can't find a better place to live in the whole region. Everyone has a job and ways to make a living, without worrying about being stabbed in the back. A good place.}
 
-{175}{}{Wind of War - it's a military settlement. These are people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
+{175}{}{Wind of War. It's a military settlement. These are people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
 
 {179}{}{Fine, let's go back a little.}
 
@@ -61,120 +61,120 @@
 {182}{}{Okay. Another question.}
 {183}{}{Forget it then. Bye.}
 
-{184}{}{Let me be more specific - where can you go hang out, for example?}
-{185}{}{Listen, I don't stay here for long myself, and I'm in no mood for parties after the road. I'm tired. You know, there is one caravan merchant around, retired, so to speak. His name is Ricky - The Musher. He stayed on the third floor in "Rainbow", it's across the street of "El Dorado". Go to him, buy him a drink, and he will tell you everything about the city. He knows a lot, believe me.}
-{186}{}{Okay, but I have some other questions.}
+{184}{}{Let me be more specific - where can you go hang out around here, for example?}
+{185}{}{Look, I won't stay for long and I'm in no mood to party after the road - I'm tired. There is one caravan merchant you can ask about all of this. He's... retired, so to speak. His name is Ricky, Ricky The Musher. He rents a room on the third floor at "Rainbow", it's across the street from "El Dorado". Get him something to drink and he'll tell you everything about the city. He knows it better than anyone, believe me.}
+{186}{}{Okay, but I have other questions.}
 {187}{}{I'll go to him then. Bye.}
 
-{188}{}{Listen, did you happened to know a caravan merchant that... Well he looks like a dead man. He has burned skin, and his teeth are exposed...}
-{189}{}{Ho-ho! You mean Harold?!! I haven't seen him in a long time. A good guy. Caravan merchants always loved him. Even half-dead, he is very entertaining.}
+{188}{}{Did you happen to know a caravan merchant that... Well... looks like a dead man? He has a burned skin, and his teeth are exposed...}
+{189}{}{Ha! You mean Harold?!! I haven't seen him in a long time. He's a good guy, caravan merchants love him. Even half-dead, he is very entertaining.}
 {190}{}{Does he come here often?}
 {191}{}{Forget it. Another question.}
 {192}{}{Fine, forget it.}
 
-{193}{}{No, he always travels. They say he looks for a place to settle down with people like him. Last time I saw him, he was on his way to Hub. It's very far, don't even ask where it is.}
+{193}{}{No, he always on the road. They say he's looking for a place to settle down with people like him. Last time I saw him, he was on his way to Hub. It's very far, don't even ask where it is.}
 {194}{}{Right. Another question.}
 {195}{}{Well fine. I think, I'll go now.}
 
 #Âîïðîñû ïðî ñòîÿíêó áàéêåðîâ:
-{196}{}{Do bikers ever come around here? Perhaps, you have seen them?}
-{197}{}{They do come here, but rarely, never staying for long. They hang out at the bar, beat someone up, then leave in the morning. It's easier to meet them on the caravan routes, they like to race on their loud piles of metal there. Really impressive sights, by the way.}
-{198}{}{Do you know if they have some regular place to camp? Where they can always be found, if someone needed to?}
-{199}{}{If you would be a stranger, I would say I don't know. Bikers don't want everyone to know about their base. But since it's you asking, I will show it on your map...}
+{196}{}{Do bikers ever come around here? Have you seen them?}
+{197}{}{They do come here, but rarely. Never stay for long. They hang out in the bar, beat someone up, then leave in the morning. It's easier to meet them around the caravan routes, they like to race on their loud piles of metal there. A real spectacle, by the way.}
+{198}{}{Do you know if they have some regular place to stay? Where they can always be found, if someone needs them?}
+{199}{}{If you were a stranger, I'd say that I don't know. Bikers don't want everyone to know about their hideout. But since it's you, I can mark it on your map.}
 {200}{}{Show me.}
-{201}{}{I don't know. Perhaps, someone else knows, someone who uses other trading routes.}
+{201}{}{I don't know. Perhaps, someone else knows, someone who walks other trading routes.}
 {202}{}{Another question then.}
-{203}{}{Right here. This is the old ruins, their camp is somewhere on the outskirts, away from the road.}
-{204}{}{Thank you! But I have questions left.}
+{203}{}{Right here. These are old ruins, their camp is somewhere on the outskirts, off the road.}
+{204}{}{Thank you! But I have some questions left.}
 {205}{}{Thanks, that is all, I needed.}
-{206}{}{Even if I knew - I wouldn't tell. Not to just anyone, at least. I don't want any problems with them later.}
+{206}{}{Even if I knew - I wouldn't tell. Not to just anyone, at least. I don't want any problems with these guys later.}
 
 {207}{}{Yes! What a surprise. It's a waitress from the "Hard-Rock" cafe. She's a nice girl.}
 
 #Âîïðîñû ïî ãîðîä -- Âåòåð Âîéíû:
 {210}{}{What are you doing here then? Why don't you leave?}
-{211}{}{Well, they are not generally bloodthirsty. In the west wing of the station there is a doctor, merchant and a mechanic. It's their people. They are very useful, but charge high prices for their service. We, of course, need a mechanic, most of all. It can be hard without him. Although, he is often busy with his rotor friend in the garage.}
-{212}{}{Er... "rotor friend"? What the heck is that?}
-{213}{}{I don't know myself. But sometimes you can hear some buzzing and roaring from the garage, like sound of a running engine. They say, he is making a plane. Ha! If it is true, then it will be major news for our region!}
+{211}{}{Well, it's not that they're particularly bloodthirsty. In the west wing of the station there's a doctor, a trader, and a mechanic. They can be of use, but they charge rather high prices for their services. We, of course, mostly need the mechanic. Can't do much without him. Although, he's often busy with his rotor friend in the garage.}
+{212}{}{Uhh... "rotor friend"? What the heck is that?}
+{213}{}{I don't know exactly. But sometimes you can hear some buzzing and roaring near the garage, similar to the sound of a running engine. Some say he is making a plane. Ha! If this is true, it's gonna be major news around here!}
 {214}{}{Hmm. Very, very interesting! Another question.}
 {215}{}{Very interesting, but I have to go.}
 
 #Âîïðîñû ïðî "Ñêîðîñòíîãî ßñòðåáà" -- Âåòåð Âîéíû è Âåãàñ:
-{216}{}{Have you heard anything about "Speed Hawk"? They say the guys were attacked by the raiders...}
-{217}{}{I did. Everyone here already knows this story. Bad luck - to lose the merchandise and their people. Also they themselves scattered around. There was one of them somewhere here, looking for his people.}
-{218}{}{There is one of them here? I should look for him...}
-{219}{}{Have you seen anyone of the survivors from the "Speed Hawk"?}
-{220}{}{I've seen one. The poor guy was wandering somewhere around here. But I think, he already left to Vegas. But you can ask people here, you may learn something.}
-{221}{}{Right.}
-{222}{}{Have you heard what happened to "Speed Hawk"?}
-{223}{}{Yes, the guys were unlucky. It's a shame, it was a good caravan. I don't think they will find the rest of the guys. If they are lost, it means no one survived. Otherwise they would reach Vegas already.}
+{216}{}{Have you heard anything about the "Speed Hawk"? Some say the guys were attacked by the raiders...}
+{217}{}{I did. Everyone here already knows this story. To lose both product and people at the same time is bad luck. Also, they themselves are scattered around. I saw one of them recently, looking for his own.}
+{218}{}{One of them is here? I should go look for him...}
+{219}{}{Have you seen any survivors of the "Speed Hawk"?}
+{220}{}{I saw one. The poor guy was wandering around. I think he's gone to Vegas by now. But you can ask people here, maybe you'll learn something.}
+{221}{}{Right. Thanks.}
+{222}{}{Have you heard about what happened to "Speed Hawk"?}
+{223}{}{Yes, the boys got extremely unlucky. A shame, it was a good caravan. I don't think they'll find the rest of the guys. If they didn't show up by now, that means none of them survived. Otherwise they would have made it to Vegas by now.}
 {224}{}{Yeah, sad story.}
 
 #Âîïðîñû ïðî Ëûñîãî Ìàêñîíà -- Âåãàñ:
 {225}{}{Remind me, were you accompanied from New Reno to Vegas by a bald weirdo with a scar on his neck?}
 {226}{}{No, nothing like this. I would remember.}
 {227}{}{Damn, no luck.}
-{228}{}{Wait a minute, I think, I've seen someone like this with another caravan. Ask around, you may find something about it.}
+{228}{}{Wait a minute! I think I've seen someone matching this description with another caravan. Ask around, maybe you'll learn something.}
 {229}{}{Okay!}
-{230}{}{Wait a minute! There was a fella. I do not know his name, but he was with us from New Reno to Vegas, and was also bald. Where is he now I do not know. Probably having a good time in Clean City.}
+{230}{}{Wait a minute! There was one fella. I do not know his name, but he traveled with us all the way from New Reno to Vegas... And he was definitely bald. But I do not know where he went after that. Probably he's having a good time in Clean City.}
 {231}{}{Hmm, thanks! I should look for him there...}
 
 #Âîïðîñû ïðî àðòåçèàíñêèé ÷èï -- Ñîëò-Ëåéê:
 {232}{}{Do you know, where to get a filter for artesian tower in Salt Lake?}
-{233}{}{If I knew, I would be already bathing myself in gold.}
+{233}{}{If I knew, I would be bathing in gold.}
 {234}{}{Wow, okay.}
 
 #Âîïðîñû ïðî ãîðîä âöåëîì -- Ñîëò-Ëåéê:
 {235}{}{Is there any place here where you can go to relax?}
-{236}{}{First have a look at the "Tin Angel". It's always fun there, very nice place. There is also a hotel, where you can rest, and even a trading hall across the street. There are two merchants there, one sells guns, and the other - all kinds of junk.}
-{237}{}{What makes the city work anyway?}
-{238}{}{The most important thing is the Nuka-Cola factory. If you want to start your own business, and sell this stuff in the Wasteland, then go straight there. It's to the east from the city center. But, in general, there is not much to do around here, not many options... And yes, Vocas nuts grow here too, very nutritious. There are whole plantations just outside the city.}
-{239}{}{And what is the social situation in the city?}
-{240}{}{They have a Sheriff's office. The way I see it, they manage to keep the scum away. At least it's a lot safer here than in New Reno.}
-{241}{}{Right. That would be all.}
-{242}{}{Wait, there is another place here to avoid. Just a friendly warning, because I see - you are a good person, you help our people. We always value that.}
-{243}{}{Huh, tell me.}
-{244}{}{Provo - a district to the south of the Salt Lake. We always stay away from it, because all of the scums, that were kicked out by the sheriff, gathered there. Thieves, murderers, maniacs - the whole package. Do not go there.}
-{245}{}{Okay!}
+{236}{}{First, the Tin Angel. A very nice place, always fun to visit. There's also an inn where you can rest, and even a trading post across the street. There are two vendors there, one selling weapons and the other all kinds of junk.}
+{237}{}{What makes the city run?}
+{238}{}{The most important thing around here is the Nuka-Cola factory. If you want to start your own business and sell this stuff around the Wasteland, go straight there. It's to the east from the city center. But in general there is not much to do, not many options... Ah, yes, also people grow Vocas nuts. They are very nutritious. You can find whole plantations just outside the city.}
+{239}{}{What about the social situation in the city?}
+{240}{}{They have a Sheriff's office. As you can see, they manage to keep the scum away. At least it's a lot safer here than in New Reno.}
+{241}{}{Okay. That would be all.}
+{242}{}{Wait, there is one more place around here you should know about. Just a friendly warning, because I see that you are a good person, helping people. We appreciate such things.}
+{243}{}{Huh, okay. Tell me.}
+{244}{}{Provo. It's a district to the south of the Salt Lake. We steer clear of it because all the criminals that the Sheriff kicked out are probably gathered there. Thieves, murderers, maniacs - the whole package. Do not go there.}
+{245}{}{Okay.}
 
 {246}{}{Do you know anything about a place called Provo?}
-{247}{}{I do. If I didn't, I would be dead a long time ago, because this district lies right on the trading route. All kinds of scum live there, people that have been kicked out by the sheriff. Dangerous bunch, stay away from that region.}
+{247}{}{I do. If I didn't, I would be dead for a long time already, because most of the trading routes go right through this district. All kinds of scum are gathered there. There are people that have been kicked out by the Sheriff. A dangerous bunch. Stay away from that region.}
 {248}{}{Got it.}
 
 ###############################################################
 #       Ðàññïðîñû ïðî Ïóñòîøü
 ###############################################################
 
-{290}{}{What kind of raiders are bothering you on the way?}
-{291}{}{Well, first, in Provo region, the raids and ambushes on caravans have become more frequent. They say all kinds of criminals from Salt Lake City gather there. Also, you might meet some crazy locals that forgot how to live peacefully. Watch out for them too.}
-{292}{}{More?}
-{293}{}{Another tough gang is making raids between Vegas and Salt Lake City, around the spot where the road turns to the west. The Bloom brothers are running the gang. There aren't many of them, but they are real killers, very well armed and very experienced. Nobody really knows where they came from. Rumors say it's ex-soldiers from Wind of War who have taken a path of robbing and raiding. It must be them, otherwise it's impossible to explain their top-notch equipment and an excellent understanding of how to fight.}
+{290}{}{What kind of raiders are bothering you on the road?}
+{291}{}{Well, for one thing, there's been an increase in raids and ambushes on caravans in the Provo area. They say all kinds of criminals from Salt Lake City congregate there. In addition, you may encounter crazy locals who have forgotten how to live peacefully. Be careful with them as well.}
+{292}{}{Anything else?}
+{293}{}{Another tough gang raids between Vegas and Salt Lake City, about where the road turns west. The Bloom Brothers gang. There aren't many of them, but they are real killers, very well armed and very experienced. No one really knows where they came from. Rumor has it that they are former soldiers from Wind of War, who turned to plundering and raiding. It must be true, otherwise it is impossible to explain their top-notch equipment and excellent understanding of how to fight.}
 
-{294}{}{On the outskirts of Reno and Vegas there is always some small gangs waiting for you. The most famous ones are the Windmill people, the Caverners, the Sanders, the Bighorns and the Scorpions. Besides, to the south of highway there is a tribe of savages, they sometimes come down from the mountains to hunt people. Luckily, they don't have the guts to attack caravans, which can't be said about lone travelers.}
+{294}{}{Around the outskirts of Reno and Vegas there is always some small gang waiting for you. The most famous ones are the Windmill people, the Caverners, the Sanders, the Bighorns and the Scorpions. Besides, to the south of highway there is a tribe of savages. Sometimes they come down from the mountains to hunt people. Luckily, they don't have the guts to attack caravans, which can't be said about lone travelers.}
 {295}{}{Savages?}
-{296}{}{They are called Coyotes tribe, even though nobody know anything about them. We know for sure, that they are cannibals and that they are using weapons custom-made from the old farming technologies. They live high in the mountains, so nobody goes there. Some rare lucky ones happened to see roadblocks and abandoned camps of those animals. That is all that is known. Nobody cares about them, besides, maybe, the slavers.}
+{296}{}{They are called Coyotes, even though nobody know anything about them. We know for sure that they are cannibals and that they are using custom weapons made from the old agricultural tech. They live high in the mountains, so nobody goes there. Some were lucky to stumble upon abandoned camps of those animals. That is all that is known. Nobody cares about them, besides, maybe, the slavers.}
 
 {300}{}{Tell me, how is it out there - in the Wasteland?}
-{301}{}{It is harsh. We are forced to travel on the pre-war highways, because it's faster and more comfortable then to walk through the desert. But the raiders know about this, that's why when we are approaching gas stations and small settlements we are always on alert.}
+{301}{}{It is harsh. We are forced to travel on pre-war highways because it is faster and more convenient than walking across the desert. But the raiders know this too, so we are always on guard when approaching gas stations and small settlements.}
 {302}{}{Between which cities do you trade?}
-{303}{}{So, most travelers are using that highways? I will have to remember that. Bye.}
+{303}{}{So, most travelers are using that highways? I will remember that. Bye.}
 
 {304}{}{What settlements have you seen on your travels?}
 {305}{}{Right. That is all, I wanted.}
 
 {306}{}{I trade between New Reno and Salt Lake.}
 {307}{}{I trade between New Reno and Las Vegas.}
-{308}{}{I trade between New Reno and Las Vegas. And here, in the Wind of War, we have a temporary stop.}
+{308}{}{I trade between New Reno and Las Vegas. And here, in the Wind of War, we have a temporary stopover.}
 {309}{}{I trade between Las Vegas and Salt Lake.}
 
 {310}{}{Can you show me, where is the second city?}
-{311}{}{[Caravan merchant indicates location of final destination point of their caravan on the world map] Here.}
-{312}{}{Thanks! But I have another question.}
-{313}{}{Thanks! That's exactly, what I needed.}
+{311}{}{[Caravan merchant marks the final destination point of their caravan on the map] Here.}
+{312}{}{Thanks! I have another question.}
+{313}{}{Thanks! That's exactly what I needed.}
 
 {314}{}{That New Reno. Can you show it on the map?}
 {315}{}{I'm interested in Salt Lake. Can you show it on the map?}
-{316}{}{Las Vegas? Very interesting, Can you show it on the map?}
+{316}{}{Las Vegas? Very interesting. Can you show it on the map?}
 
 {317}{}{The location of New Reno have been marked on your Pip-Boy.}
 {318}{}{The location of Salt Lake City have been marked on your Pip-Boy.}
@@ -187,22 +187,22 @@
 
 {324}{}{Almost all of population is living in cities, not in a desert. Besides caravans and raiders you can rarely meet anyone else on the road.}
 
-{325}{}{On my way you can't find anyone, except some tribe natives.}
-{326}{}{Tell me, what tribe?}
-{327}{}{Indian tribe. Good people, if you don't mind excessive distrust to outsiders. You can trade a lot of food off them. But honestly, many are afraid to come to them, because the Big Louie gang is also settled there.}
+{325}{}{On that way you won't find anyone except for some native tribe.}
+{326}{}{What tribe?}
+{327}{}{Indian tribe. Good people, if you don't mind some excessive distrust to outsiders. You can trade a lot of food off them. But honestly, many are afraid to come to them, because the Big Louie's gang is also settled there.}
 {328}{}{Can you show the location on the map?}
 {329}{}{The location of Lovelock have been marked on your Pip-Boy.}
 {330}{}{[Caravan merchant indicates the location of the settlement Lovelock on the world map, waypoint on his caravan route] Right here.}
 
-{331}{}{This is a pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides, there is a waypoint in the middle, where you can rest and get some food.}
+{331}{}{This is a pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides, there is a waypoint where you can rest and get some food.}
 {332}{}{What waypoint?}
-{333}{}{This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides there is Wind of War on the way, where you can rest from the road.}
-{334}{}{Wind of War? A military town. Soldiers are in charge there. To be frank, not the best place for a stop, the locals can be a pain in the ass sometimes. But still, it's better to rest there, than to risk it in the desert.}
-{335}{}{Can you show me where is it?}
-{336}{}{The location of Wind of War, the settlement, located in the middle of a trading route, have been marked on your Pip-Boy.}
-{337}{}{[Caravan merchant indicates the location of the Wind of War on the world map, a waypoint in the middle his trading route] Here.}
+{333}{}{This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides there is Wind of War on the way. You can rest there.}
+{334}{}{Wind of War? A military town. Soldiers are in charge. Honestly, not the best place to camp - the locals can be a pain in the ass sometimes. Still, it's better to rest there than to venture out into the desert.}
+{335}{}{Can you show me where it's located?}
+{336}{}{The location of Wind of War have been marked on your Pip-Boy.}
+{337}{}{[Caravan merchant marks the location of the Wind of War settlement on the world map, a waypoint on his trading route] Here.}
 {338}{}{This is a pretty active trading route because Las Vegas and Reno established a good trading relationship. You can even meet the local population on that route.}
-{339}{}{This is a pretty boring trading route. When approaching Salt Lake you have to be careful, because of the acid geckos. But in comparison with other routes it's the safest one. The main problem is, perhaps, the slavers. But raiders are seen very rarely.}
+{339}{}{This is a pretty boring trading route. You should be careful around Salt Lake, watch out for acid geckos. But in comparison with other routes, it's the safest one. The main problem is, perhaps, the slavers. But raiders are rarely around there.}
 
 ###############################################################
 #       Ðàññïðîñû, êóäà ïóòü äåðæàò
@@ -254,25 +254,25 @@
 
 {407}{}{Admirable. But what this has to do with us? We have a totally different route, we run between Vegas and Salt Lake.}
 {408}{}{}
-{409}{}{You're out of your mind! How are we going to transfer cola from Salt Lake to such far region?! We don't know those parts anyway, none of us been there before.}
+{409}{}{You're out of your mind! How are we going to transfer cola from Salt Lake to such a far region?! We don't know those parts anyway, none of us have been there before.}
 {410}{}{To be honest, it's not a bad idea. Tell me only one thing, who will supply us? Resellers are too expensive - you will lose all customers with such prices, believe me.}
-{411}{}{There is a caravan from Salt Lake. Everything has been set with them. Straight delivery from Salt Lake and you will transfer the merchandise from Vegas to Wind of War.}
+{411}{}{There is a caravan from Salt Lake. Everything has been set. Straight delivery line from Salt Lake. You will transfer the merchandise from Vegas to Wind of War.}
 {412}{}{Can't you transfer it from Salt Lake yourself?}
-{413}{}{No, the journey is too long. But we can take it from someone in Vegas, and then, on our way to Reno, we can stop at Wind of War. That would be the best.}
-{414}{}{This means, I have to arrange the supply from Salt Lake to Vegas first? Oh my, this is going to be tough.}
-{415}{}{Excellent! I like the terms. Who will pay us?}
+{413}{}{No, the journey would be too long. But we can take it from someone in Vegas, and then make a stop at Wind of War on our way to Reno. That would be the best option.}
+{414}{}{Does this mean I have to arrange the supply from Salt Lake to Vegas first? Oh my, this is going to be tough.}
+{415}{}{Excellent! I like these terms. Who will pay us?}
 {416}{}{A merchant in Wind of War, the one you will be supplying.}
-{417}{}{Okay. And you... Ehmm, you're saying, that you're an official representative? Can I see the papers?}
+{417}{}{Okay. And... Ehmm, you're saying, that you're an official representative, am I right? Can I see the papers?}
 {418}{}{No problem! Here's the license. Sighed and sealed. Everything is in order.}
 {419}{}{I don't have them on me.}
 {420}{}{Okay! We can move out right now.}
 {421}{}{Great! Let me tell you the details, and you're on your own after that...}
-{422}{}{Well, prove, that you can be trusted, and we will make a deal. I can't risk here.}
-{423}{}{Is this so important?! Damn, fine, I'll go look for that paper...}
-{424}{}{On the other hand, screw the formalities. [mumbles to himself] Why should we care... [speaks to you] I agree.}
+{422}{}{Well, prove that you can be trusted, and we will make a deal. I can't take a risk here.}
+{423}{}{Is this so important?! Damn, fine. I'll go look for that paper...}
+{424}{}{On the other hand, screw the formalities. [mumbles] Why should we care... I agree.}
 {425}{}{Good! Let me tell you the details, and you're on your own after that...}
 
-{426}{}{You have successfully set Nuka-Cola trading route to Wind of War. The only thing left is to seal the deal with the intendant.}
+{426}{}{You have successfully set a Nuka-Cola trading route to Wind of War. The only thing left is to seal the deal with the intendant.}
 
 ###############################################################
 #       Ïðîäàæà ÿäåð-êîëû â Âåãàñå
@@ -281,8 +281,8 @@
 {450}{}{I'm establishing a Nuka-Cola trading spot in Vegas, and I need a supplier. Will you take the job?}
 {451}{}{Because a caravan is needed, the one that could transfer cola straight to Vegas to another caravan, which would transfer it further to Wind of War. You get the point?}
 
-{452}{}{Our own delivery line? Great idea, if you have a client there. Besides we are moving on that route anyway.}
-{453}{}{Our own delivery line? Hmm! Good idea, if you have a client there. But we have another route planned. On unknown route and so far... No. No, guys won't accept such deal.}
+{452}{}{Our own delivery line? A great idea, if you have a client there. Besides, we are moving on that route anyway.}
+{453}{}{Our own delivery line? Hmm! A good idea, if you have a client there. But we have another route planned. To set out on an unknown path, and quite a long one... No. My guys won't agree to that.}
 {454}{}{Too bad. Another question.}
 {455}{}{Too bad. I'll go look for someone else.}
 
@@ -327,17 +327,17 @@
 ###############################################################
 
 {500}{}{I want to order a delivery to another city.}
-{501}{}{Good idea! But, we are moving only on our own route. And, of course, we will charge our percentage for the job.}
+{501}{}{Good idea! But we will move only on our route. And, of course, we will charge a percentage for the job.}
 {502}{}{How much?}
 
-{503}{}{ percent from the overall amount. Yes, by the way, how much do you have in the warehouse? I don't want to deliver small shipments - more complications, than profit. If you want to trade, let's load the full wagons!}
-{504}{}{What?! 15% - or I'll find another caravan.}
-{505}{}{You transfer 1000 bottles.}
-{506}{}{You transfer 750 bottles.}
-{507}{}{You transfer 500 bottles.}
-{508}{}{You transfer 300 bottles.}
-{509}{}{You transfer 200 bottles.}
-{510}{}{You transfer 100 bottles.}
+{503}{}{ percent from the overall amount. By the way, how much do you have in the warehouse? I don't want to bother with small shipments - more complications than profit. If you want to trade, let's load full wagons!}
+{504}{}{How much?! 15%, or I'll find another caravan.}
+{505}{}{Transfer 1000 bottles.}
+{506}{}{Transfer 750 bottles.}
+{507}{}{Transfer 500 bottles.}
+{508}{}{Transfer 300 bottles.}
+{509}{}{Transfer 200 bottles.}
+{510}{}{Transfer 100 bottles.}
 {511}{}{I will think about it.}
 
 {512}{}{Good. Where are we taking it?}
@@ -345,27 +345,27 @@
 {514}{}{"Silver" restaurant in New Reno.}
 {515}{}{"Hard Rock" cafe in Vegas.}
 {516}{}{Trading store in Wind of War.}
-{517}{}{Nowhere yet. I still have to make a deal with the buyer.}
+{517}{}{Nowhere. I still have to make a deal with the buyer.}
 
 {518}{}{No problem. We will deliver the stuff and take }
-{519}{}{ percent from the total amount of bottles. I hope this is not our last deal.}
+{519}{}{ percent from the total amount of sold bottles. I hope this is not our last deal.}
 {520}{}{Good, start working!}
 
-{521}{}{Hey, we are taking another route. I don't think that our team would want to move in completely unknown direction. Ask those, who is heading in Reno.}
+{521}{}{Hey, we are taking another route. I don't think our team wants to go in a completely unknown direction. Ask those who are going to Reno.}
 {522}{}{Ok, maybe you can take the Cola to another city then?}
-{523}{}{Then I don't need your service. Bye.}
-{524}{}{Hey, we are taking another route. I don't think that our team will want to move in completely unknown direction. Ask those, who is heading in Vegas.}
+{523}{}{Then I don't need your services. Bye.}
+{524}{}{Hey, we are taking another route. I don't think our team wants to go in a completely unknown direction. Ask those who are going to Vegas.}
 
 {525}{}{ or nothing! No decent caravan is gonna work to less.}
 {526}{}{Damn, I wouldn't want to lose such a deal... Fine! }
 {527}{}{ percent - and we're in business. This is our final price.}
 
 #Female character:
-{1150}{}{I wanted to ask something about this city.}
-{1228}{}{Wait a minute, I think I've seen someone like this, with another caravan. Ask around, you may find something about it.}
+{1150}{}{I want to ask about this city.}
+{1228}{}{Wait a minute! I think I've seen someone matching this description with another caravan. Ask around, maybe you'll learn something.}
 {1305}{}{Right. That is all I wanted.}
 {1323}{}{I think that is everything I wanted to ask.}
-{1353}{}{Right, but I would like to ask something about the city.}
-{1462}{}{Hmm. You know, actually you're right. Why do I care, the merchandise is merchandise and the buyer is ready on the spot. Go on, tell me the details.}
-{1409}{}{You're out of your mind! How are we going to transfer Cola from Salt Lake to such far region?! We don't know those parts anyway, none of us been there before.}
-{1486}{}{Wow, gal, we are taking a different route, we never been in those parts. Sorry.}
+{1353}{}{Right, but I would like to ask about the city.}
+{1462}{}{Hmm. You know, actually you're right. Why do I care, the merchandise is merchandise and the buyer is right here on the spot. Go on, tell me the details.}
+{1409}{}{You're out of your mind! How are we going to transfer Cola from Salt Lake to a region this far?! We don't know those parts anyway, none of us have been there before.}
+{1486}{}{Wow, gal, we are taking a different route, we've never been to those parts. Sorry.}
