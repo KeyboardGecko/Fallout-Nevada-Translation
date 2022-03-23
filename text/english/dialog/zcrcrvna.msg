@@ -28,7 +28,7 @@
 {116}{}{Hey, I'm busy. Make it fast.}
 {117}{}{[Sighs] Well, okay! Ask your stupid question!}
 {118}{}{Hello. What do you want?}
-{119}{}{Hello. Wanna make 10 bucks? We need someone in place of a Brahmin... HA-HA-HA!!!}
+{119}{}{Hello. Wanna make 10 bucks? We need someone to replace a Brahmin... HA-HA-HA!!!}
 {120}{}{Oh! Just when we need free labor! You're just in time!... HA-HA-HA!!!}
 
 ###############################################################
@@ -40,23 +40,23 @@
 #Îòâåòû äëÿ êàæäîãî ãîðîäà:
 {151}{}{What's there to say? It's nothing special. Not the best city around these parts.}
 
-{152}{}{New Reno. City on a par with hell. There is even a similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Even the Wasteland is safer then this!}
+{152}{}{New Reno. City on a par with hell. There is even a similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Even the Wasteland is safer than this!}
 {153}{}{New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. In short, you have to be careful here. Now's not the best time to be in this city, that's for sure.}
 {154}{}{New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can easily get a lot of trouble on your ass.}
 
-{160}{}{Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade.}
-{161}{}{Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade... Except there is some strange business going on in it. Anyway, that's not our problem for now.}
+{160}{}{Las Vegas. The city that is always lively and much safer than the rest. A great place to relax and do some trading.}
+{161}{}{Las Vegas. The city that is always lively and much safer than the rest. A great place to relax and do some trading... Except there are some stranger things going on. Anyway, that's not our problem.}
 
-{170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least here you don't have to be afraid to be stabbed in the back.}
-{171}{}{Salt Lake. A dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid to be stabbed in the back - and you can make a fine trade.}
-{172}{}{Salt Lake. The city may be a little dirty, but if not for my work, it would be where I chose to settle down. You can't find a better place to live in the whole region. Everyone has a job and ways to make a living, without worrying about being stabbed in the back. A good place.}
+{170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least you don't have to be afraid of being stabbed in the back.}
+{171}{}{Salt Lake. Dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of being stabbed in the back - and you can make a fine trade.}
+{172}{}{Salt Lake. The city may be a little dirty, but if not for my work, it would be where I'd settle down. You won't find a better place to live in the whole region. Everyone has a job and way to make a living, without worrying about being stabbed in the back. A good place.}
 
-{175}{}{Wind of War. It's a military settlement. These are people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
+{175}{}{Wind of War. A military settlement. These are the people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
 
 {179}{}{Fine, let's go back a little.}
 
 #Âîïðîñû ïðî ãîðîä -- Ðèíî:
-{180}{}{Have you seen this girl from the photograph?}
+{180}{}{Have you met a girl from this photograph?}
 {181}{}{[Studies the photograph] Cute... No, I don't think so.}
 {182}{}{Okay. Another question.}
 {183}{}{Forget it then. Bye.}
@@ -77,10 +77,10 @@
 {195}{}{Well fine. I think, I'll go now.}
 
 #Âîïðîñû ïðî ñòîÿíêó áàéêåðîâ:
-{196}{}{Do bikers ever come around here? Have you seen them?}
-{197}{}{They do come here, but rarely. Never stay for long. They hang out in the bar, beat someone up, then leave in the morning. It's easier to meet them around the caravan routes, they like to race on their loud piles of metal there. A real spectacle, by the way.}
+{196}{}{Do bikers ever come around here? Have you met them?}
+{197}{}{They do come here, but rarely. Never stay for long. They usually hang out in the bar, beat someone up, then leave in the morning. It's easier to meet them around the caravan routes, where they like to race their loud piles of metal. A real spectacle, by the way.}
 {198}{}{Do you know if they have some regular place to stay? Where they can always be found, if someone needs them?}
-{199}{}{If you were a stranger, I'd say that I don't know. Bikers don't want everyone to know about their hideout. But since it's you, I can mark it on your map.}
+{199}{}{If you were a stranger, I'd say that I don't know. Bikers don't want everyone to learn about their hideout. But since it's you, I can mark it on your map.}
 {200}{}{Show me.}
 {201}{}{I don't know. Perhaps, someone else knows, someone who walks other trading routes.}
 {202}{}{Another question then.}
@@ -100,8 +100,8 @@
 {215}{}{Very interesting, but I have to go.}
 
 #Âîïðîñû ïðî "Ñêîðîñòíîãî ßñòðåáà" -- Âåòåð Âîéíû è Âåãàñ:
-{216}{}{Have you heard anything about the "Speed Hawk"? Some say the guys were attacked by the raiders...}
-{217}{}{I did. Everyone here already knows this story. To lose both product and people at the same time is bad luck. Also, they themselves are scattered around. I saw one of them recently, looking for his own.}
+{216}{}{Have you heard anything about the "Speed Hawk"? Some say the guys were attacked by raiders...}
+{217}{}{I did. Everyone here have already heard this story. To lose both product and people at the same time is bad luck. Those who's left must be scattered around. I saw one of them recently, looking for his own.}
 {218}{}{One of them is here? I should go look for him...}
 {219}{}{Have you seen any survivors of the "Speed Hawk"?}
 {220}{}{I saw one. The poor guy was wandering around. I think he's gone to Vegas by now. But you can ask people here, maybe you'll learn something.}
@@ -132,7 +132,7 @@
 {239}{}{What about the social situation in the city?}
 {240}{}{They have a Sheriff's office. As you can see, they manage to keep the scum away. At least it's a lot safer here than in New Reno.}
 {241}{}{Okay. That would be all.}
-{242}{}{Wait, there is one more place around here you should know about. Just a friendly warning, because I see that you are a good person, helping people. We appreciate such things.}
+{242}{}{Wait, there is one more place around here you should know about. Just a friendly warning, because I see that you are a good person who helps people. We appreciate such things.}
 {243}{}{Huh, okay. Tell me.}
 {244}{}{Provo. It's a district to the south of the Salt Lake. We steer clear of it because all the criminals that the Sheriff kicked out are probably gathered there. Thieves, murderers, maniacs - the whole package. Do not go there.}
 {245}{}{Okay.}
@@ -210,10 +210,10 @@
 
 {340}{}{Where are you heading?}
 
-{341}{}{See this badge? Next time read it more carefully... We are heading to New Reno, to trade with the local dealers, and then we will hang out at the "El Dorado", hell yeah!}
+{341}{}{See this badge? Next time read it more carefully... We are heading to New Reno, to trade with the local dealers, and then we will hang out at the "El Dorado". Hell yeah!}
 {342}{}{See this badge? Next time read it more carefully... We are heading to Salt Lake, to restock on merchandise, then back here, to sell it.}
 {343}{}{See this badge? Next time read it more carefully... We are heading to Las Vegas, to restock on merchandise, then back here, to sell it.}
-{344}{}{See this badge? Next time read it more carefully... We are heading to New Reno, to trade with the local dealers, and then we will hang out at the "El Dorado", hell yeah!}
+{344}{}{See this badge? Next time read it more carefully... We are heading to New Reno, to trade with the local dealers, and then we will hang out at the "El Dorado". Hell yeah!}
 {345}{}{Nowhere for now. We will stay here for a couple of days, to rest. Then we'll head out to Vegas, to restock on merchandise.}
 {346}{}{See this badge? Next time just read it more carefully... We are heading to Las Vegas, to trade. In Vegas there is still some good equipment left and the water is clean there, and Salt Lake has less food problems and, of course, Cola!}
 {347}{}{See this badge? Next time just read it more carefully... We are heading to Salt Lake, to trade. In Vegas there is still some good equipment left and the water is clean there, and Salt Lake has less food problems and, of course, Cola!}
@@ -232,9 +232,9 @@
 {362}{}{Great. You can handle this without me from now on.}
 {363}{}{I would be interested, if not for your reputation.}
 {364}{}{[Leave]}
-{365}{}{Honestly speaking, even in this difficult time for us, this contact doesn't looks serious. We will have to go too far, and the payoff is not that much. It may even cost us. Too risky.}
+{365}{}{Honestly speaking, even in this difficult time for us, this contact doesn't looks serious. We will have to go too far, and the pay is not that good. It may even cost us extra in the end. Too risky.}
 {366}{}{I can promise you a good deal. My reputation among caravan merchants will back that up.}
-{367}{}{It's a shame I'm not a caravan merchant, because losing a good caravan route is just stupid.}
+{367}{}{It's a shame I'm not a caravan merchant, because losing a good caravan route is just plain stupid.}
 {368}{}{Either you risk it, or someone else will. Your call.}
 {369}{}{You won't pull that trick on me.}
 
@@ -244,21 +244,21 @@
 
 {400}{}{The wind of War is ready to trade cola, but I need a supplier. Are you up for it?}
 
-{401}{}{Ha! Are you out of your mind?! You want our guys to be involved with that scum?! More likely a radscorpion will bite off its tail, than you'll see one of us working for those bloodsuckers.}
+{401}{}{Ha! Are you out of your mind?! You want our guys to get involved with that scum?! More likely a radscorpion will bite off its tail than you'll see one of us working for those bloodsuckers.}
 {402}{}{As you wish, but I have another question.}
 {403}{}{Wow, I see you have tense relations with them. I will do without you then.}
 
 {404}{}{Wind of War? No, we take a different route.}
-{405}{}{Shame, but I have another question.}
-{406}{}{Ok, have it your way.}
+{405}{}{A shame. I have another question.}
+{406}{}{Okay, have it your way.}
 
-{407}{}{Admirable. But what this has to do with us? We have a totally different route, we run between Vegas and Salt Lake.}
+{407}{}{Admirable. But what does this have to do with us? We walk a totally different route, between Vegas and Salt Lake.}
 {408}{}{}
 {409}{}{You're out of your mind! How are we going to transfer cola from Salt Lake to such a far region?! We don't know those parts anyway, none of us have been there before.}
-{410}{}{To be honest, it's not a bad idea. Tell me only one thing, who will supply us? Resellers are too expensive - you will lose all customers with such prices, believe me.}
-{411}{}{There is a caravan from Salt Lake. Everything has been set. Straight delivery line from Salt Lake. You will transfer the merchandise from Vegas to Wind of War.}
+{410}{}{To be honest, it's not a bad idea. Tell me though, who will supply us? Resellers are too expensive - you will lose all customers with such prices, believe me.}
+{411}{}{There is a caravan from Salt Lake. Everything is set. Straight delivery line from Salt Lake. You will transfer the merchandise from Vegas to Wind of War.}
 {412}{}{Can't you transfer it from Salt Lake yourself?}
-{413}{}{No, the journey would be too long. But we can take it from someone in Vegas, and then make a stop at Wind of War on our way to Reno. That would be the best option.}
+{413}{}{No, the journey would be too long. But we can take it from someone in Vegas and then make a stop at Wind of War on our way to Reno. That would be the best option.}
 {414}{}{Does this mean I have to arrange the supply from Salt Lake to Vegas first? Oh my, this is going to be tough.}
 {415}{}{Excellent! I like these terms. Who will pay us?}
 {416}{}{A merchant in Wind of War, the one you will be supplying.}
@@ -279,29 +279,29 @@
 ###############################################################
 
 {450}{}{I'm establishing a Nuka-Cola trading spot in Vegas, and I need a supplier. Will you take the job?}
-{451}{}{Because a caravan is needed, the one that could transfer cola straight to Vegas to another caravan, which would transfer it further to Wind of War. You get the point?}
+{451}{}{Because a caravan is needed, the one that could transfer cola straight to Vegas, to another caravan, which would transfer it further to Wind of War. Get it?}
 
 {452}{}{Our own delivery line? A great idea, if you have a client there. Besides, we are moving on that route anyway.}
 {453}{}{Our own delivery line? Hmm! A good idea, if you have a client there. But we have another route planned. To set out on an unknown path, and quite a long one... No. My guys won't agree to that.}
 {454}{}{Too bad. Another question.}
 {455}{}{Too bad. I'll go look for someone else.}
 
-{456}{}{Yes, there is a trading spot, and not a bad one. So? Will you take the job?}
-{457}{}{Great idea! Go on, tell me the details, to whom we are taking the merchandise?}
+{456}{}{Yes, there is a good chance to make some profit. So? Will you take the job?}
+{457}{}{Great idea! Go on, tell me the details, where are we taking the merchandise?}
 {458}{}{Here's how it goes...}
-{459}{}{Great idea, it's just that, err, do you have the papers for it? Can I have a look?}
+{459}{}{Great idea, it's just that, err, do you have the papers? Can I have a look?}
 {460}{}{You can. Here's the license.}
 {461}{}{The license is not on me right now. Is this so important?}
-{462}{}{Hmm. You know, you're right. Why do I care, the merchandise is merchandise and the buyer is ready on the spot. Go on, tell me the details.}
+{462}{}{Hmm. You know, you're right. Why do I care, the merchandise is merchandise and the buyer is right there on the spot. Go on, tell me the details.}
 {463}{}{Okay, now listen...}
-{464}{}{The guys must be sure there won't be any set-ups, do you understand? So, prove it first, that you can be trusted, then we can have a deal.}
+{464}{}{The guys must be sure there won't be any set-ups, do you understand? Prove that you can be trusted first, then we can talk about a deal.}
 {465}{}{Oh, what the hell! Even the money doesn't convince him! Urgh, fine, we'll see what we can do here.}
-{466}{}{Now that's is a deal! The papers are fine, and the business is thought through! Go on, tell me the details, I'm ready to collaborate.}
+{466}{}{Now that's is a deal! The papers are fine and the business is thought through! Go on, tell me the details, I'm ready to collaborate.}
 {467}{}{Okay, now here's how it goes...}
 {468}{}{You organized your own supply line of Nuka-Cola to Las Vegas! The only thing left is to seal the deal with the buyer.}
 
-{469}{}{Sounds tempting. But I will risk only when we discuss the details with the Cola factory and get the guarantees, that you won't set us up. Then I won't even need your license. So, I'll meet you in Salt Lake - then we talk business.}
-{470}{}{Hmm. Well, as you wish. But I have a question.}
+{469}{}{Sounds tempting. But I will consider it only after we discuss the details with the Cola factory and get the guarantee that you won't set us up. Then I won't even need your license. So, I'll meet you in Salt Lake - then we talk business.}
+{470}{}{Hmm. As you wish. But I still have some questions.}
 {471}{}{Okay. Be seeing you in Salt Lake then.}
 
 ###############################################################
