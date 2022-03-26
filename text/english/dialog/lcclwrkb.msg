@@ -3,8 +3,8 @@
 {102}{}{Praise to you! Don't stir from the right path.}
 {103}{}{Oh God... You are still here...}
 
-#Первый диалог
-{110}{}{Just as I were going to swallow the first spoon of my soup, the flies flew in. You know, it's pretty unpleasant, but you have to deal with it.}
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
+{110}{}{Just as I was going to swallow the first spoon of my soup, the flies flew in. You know, it's pretty unpleasant, but you have to deal with it.}
 {111}{}{Hello. Such a good day today, isn't it?}
 {112}{}{Fine, eat, I won't bother you.}
 {113}{}{Right. I better go get some fresh air outside.}
@@ -22,7 +22,7 @@
 {122}{}{[Looks around] Uh, listen, I don't want to talk about anyone, I'm a peaceful man!}
 {123}{}{Fine, as you wish.}
 {124}{}{Where are you looking at? It was the white guy standing near the lockers, wasn't it?}
-{125}{}{Simon... Uh, don't ask me about him... I don't want to talk about it... Nor bad, nor good.}
+{125}{}{Simon... Uh, don't ask me about him... I don't want to talk about it... Neither bad, nor good.}
 {126}{}{I can help you get rid of him, if you want.}
 {127}{}{I can help you get rid of him, if you'll tell me, who stole the keys from the administrator.}
 {128}{}{Oh Lord! I'm a peaceful man, Leave me alone! Simon is a scumbag for sure, I would appreciate him to be somewhere else, but I won't be carrying bloodshed on my soul. Plus, I don't have anything to pay anyway.}
@@ -77,7 +77,7 @@
 {175}{}{Umm... You're not serious, aren't you?.. Heh... I mean, how can you sense the thief...}
 {176}{}{[Stare at him seriously]}
 
-#Плавающие издевки от товарищей в столовой
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГЁГ§Г¤ГҐГўГЄГЁ Г®ГІ ГІГ®ГўГ Г°ГЁГ№ГҐГ© Гў Г±ГІГ®Г«Г®ГўГ®Г©
 {180}{}{Hey, old man, want some... *milk*? Ha-ha!}
 {181}{}{Tom stares again. Don't look away, dumbass!}
 {182}{}{Don't call you a nigger? Sorry, I can't!}
