@@ -11,7 +11,7 @@
 {112}{}{Do you know that this black man in the dining room wants to kill you?}
 {113}{}{Then I'm not going to bother you.}
 
-{114}{}{Fuck me gecko! Yes, I have already gutted all the drawers and pockets! I have NO fucking keys and never had!}
+{114}{}{Fuck me gecko! Yes, I have already turned out all my drawers my pockets! I have NO fucking keys and never had!}
 {115}{}{What? Again? Can I have a break from all these stupid questions?}
 {116}{}{[Simon listens to the story with his mouth agape] That son of a bitch! This nigga's too tricky! You know what I gonna do now? Oh, no, I'm not going to punch him in the face! He tried to outsmart me, so now I will outsmart him.}
 {117}{}{What do you have in mind?}
@@ -29,7 +29,7 @@
 {128}{}{That's right! Well, let's split up, as if we never met. Take care.}
 {129}{}{Don't come near me until you solve the problem.}
 
-#Женские реплики
+#Г†ГҐГ­Г±ГЄГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {1110}{}{Stranger? What's the matter? I'm trying to take a break from all those idiots in the factory. I really don't want to talk.}
 {1121}{}{That's great. Waiting for the news, partner!}
 {1126}{}{I ratted the negro out, as we agreed. Now he is fired.}
