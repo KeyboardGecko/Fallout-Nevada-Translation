@@ -3,7 +3,7 @@
 {102}{}{Help! Crazies are here!!!}
 {103}{}{Thanks for the help}
 
-#Диалог до получения квеста
+#Г„ГЁГ Г«Г®ГЈ Г¤Г® ГЇГ®Г«ГіГ·ГҐГ­ГЁГї ГЄГўГҐГ±ГІГ 
 {110}{}{Yes, what?}
 {111}{}{Can I go inside?}
 {112}{}{Nothing.}
@@ -16,23 +16,23 @@
 {117}{}{That so? I think I would know about it.}
 {118}{}{Oh, well, at least someone noticed! There are so many men at this factory, and not one can help an old woman... And recently I've been even robbed, you know? They took my bunch of keys right from under my nose!}
 {119}{}{How did this happened?}
-{120}{}{This is stupid. The keys are not money, why did they steal it?}
+{120}{}{This is stupid. Keys are not money, why would someone steal them?}
 {121}{}{You suspect anyone?}
 {122}{}{Sorry. And now I have to go. Goodbye.}
 
 {123}{}{I want to ask about those keys that have been stolen.}
-{124}{}{I don't know, what those thieves wanted, but hardly it will do any good for them.}
+{124}{}{I don't know what those thieves wanted, but it will do them hardly any good.}
 {125}{}{I see. Well, I gotta go.}
 {126}{}{If you want, I can look for the thief.}
-{127}{}{I had a whole crowd of workers here. Usual gathering, accounting and similar administrative work. That day my bundle of keys went missing. This could be done by anyone.}
-{128}{}{I don't know. At the plant is generally difficult to steal something, crowds of people everywhere, it's easily to get caught. And those keys are nothing important. Whatever the thief expected, he won't get it.}
+{127}{}{I had a whole crowd of workers here the day my bundle of keys went missing. Usual gathering, accounting and administrative workers. Anyone could have done it.}
+{128}{}{I don't know. It's generally difficult to steal something at this plant, crowds of people everywhere, it's easy to get caught. And those keys are nothing important. Whatever the thief expected, he won't get it.}
 {129}{}{There was a whole crowd. It's probably someone new, others would have realized that my keys won't get them anything valuable.}
 {130}{}{How can you be sure that you simply have not lost them?}
 {131}{}{I am an old woman, but my memory is still good!}
-{132}{}{I'd be very grateful to you. Ask workers around, preferably during lunch when they are going in the dining room. But nobody will confess!}
+{132}{}{I'd be very grateful to you. Ask around, preferably during lunch when the workers are in the dining hall. But don't expect anybody to confess!}
 {133}{}{I'll still try to get to the bottom of this. I won't tolerate scum that steal from women!}
 
-#Завершение квеста
+#Г‡Г ГўГҐГ°ГёГҐГ­ГЁГҐ ГЄГўГҐГ±ГІГ 
 {150}{}{Your keys were found.}
 {151}{}{Really?! That's great! Where are they?}
 {152}{}{I have the keys. I accidentally found them in the toilet - someone decided to hide them there.}
