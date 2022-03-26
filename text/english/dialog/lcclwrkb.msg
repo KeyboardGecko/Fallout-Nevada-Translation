@@ -4,7 +4,7 @@
 {103}{}{Oh God... You are still here...}
 
 #Ïåðâûé äèàëîã
-{110}{}{Just as I was going to swallow the first spoon of my soup, the flies flew in. You know, it's pretty unpleasant, but you have to deal with it.}
+{110}{}{Just as I was going to swallow the first spoon of my soup, a fly flew in. You know, it's pretty unpleasant, but you have to deal with it.}
 {111}{}{Hello. Such a good day today, isn't it?}
 {112}{}{Fine, eat, I won't bother you.}
 {113}{}{Right. I better go get some fresh air outside.}
@@ -33,28 +33,28 @@
 {133}{}{Damn coward, I don't even want to talk to you.}
 {134}{}{[Thinks a while, looking around] Listen, let's step into somewhere more private, okay?}
 {135}{}{Sure, I'm listening...}
-{136}{}{[Whispers] Please understand. That Simon - he's an arrogant bastard. He will slice anyone, who his complexion and position allows to. He's a very cruel man. God forbids such people to get high in power!}
+{136}{}{[Whispers] Please understand. That Simon - he's an arrogant bastard. He will slice anyone his complexion and position allows him to. He's a very cruel man. God forbids people like that gaining such power!}
 {137}{}{Sure. And that's why I want to help.}
 {138}{}{I hear, but this doesn't matter to me.}
-{139}{}{And I have a great plan, but peaceful. [sights] I stole the keys from the administrator and hid it in the toilet. Yes, it was really me.}
+{139}{}{And I have a great plan, but peaceful. [sighs] I stole the keys from the administrator and hid them in the toilet. Yes, it was really me.}
 {140}{}{Hmm, continue.}
-{141}{}{I thought that will create some panic in the factory, and when the investigation starts, I would plant them to Simon. But, this turned out to be higher than my principles. I can't frame a person, even such an animal as Simon. Besides, this is very risky in my position.}
+{141}{}{I thought that will create some panic in the factory, and when the investigation started, I would plant them on Simon. But, this went against my principles. I can't frame a person, even an animal like Simon. Besides, it would be very risky in my position.}
 {142}{}{Well well...}
-{143}{}{Now I don't know what to do. I thought to confess and return the keys, but then they will fire me. And I can't lie, as you can see...}
-{144}{}{Well, Tom, listen: sit quietly, keep shut, I will think of something.}
-{145}{}{Ha, confessed it yourself! That's it, wait for my decision and mercy, so I don't tell about you.}
+{143}{}{Now I don't know what to do. I thought about confessing and returning the keys, but then they would fire me. And, as you can see, I can't lie...}
+{144}{}{Well, Tom, listen: Sit still, keep quiet, and I will think of something.}
+{145}{}{Ha, confessed it yourself! That's it, wait for my decision and mercy, so I don't tell on you.}
 {146}{}{May the God bless you!}
-{147}{}{Er, fine. Now we must say to each other farewell.}
-{148}{}{Yes, I deserve it, it seems... Please - think about it, think about it good.}
-{149}{}{As I decide - that's how it will be. Now get away from me.}
+{147}{}{Er, fine. Now we must say farewell to each other.}
+{148}{}{Yes, it seems I deserve it... Please - think about it, think about it good.}
+{149}{}{Whatever I decide - that's how it will be. Now get away from me.}
 
 {150}{}{About Simon...}
 {151}{}{What about him?}
-{152}{}{He's dead. And don't ask, how it happened - it's not important.}
+{152}{}{He's dead. And don't ask how it happened - it's not important.}
 {153}{}{Rejoice - he got fired! For... The key theft. Who would have thought, right?}
 {154}{}{I wanted to ask something, but forget it.}
-{155}{}{Oh, God, what have you done! it seems nothing in this world can be solved peacefully. Now his death is on me! Oh, God...}
-{156}{}{Hey old man, shut your mouth. I helped you - solved the problem. Have some respect. And give me something. Such things don't cost a sandwich!}
+{155}{}{Oh, God, what have you done! It seems nothing in this world can be solved peacefully. Now his death is on me! Oh, God...}
+{156}{}{Hey old man, shut your mouth. I helped you solve the problem. Have some respect. And give me something. These things don't cost a sandwich!}
 {157}{}{How can I? I'm a simple worker. I don't make much money. I can only give you my gas suit. You can sell it.}
 {158}{}{Give me the suit. Better, than nothing.}
 {159}{}{Here. And no more shit alright? I'm pissed of already. Enough is enough!}
@@ -67,13 +67,13 @@
 {166}{}{Bye. And don't leave anyone bully you again.}
 
 {167}{}{Tom, someone stole the keys from the administrator, and I'm going to find the thief. Whoever did this - he won't get away. You don't want the suspicion to fall on you, right?}
-{168}{}{About Simon. I will help you to get rid of him, if you tell me, who stole the keys.}
+{168}{}{About Simon. I will help you to get rid of him, if you tell me who stole the keys.}
 {169}{}{Cold sweat, wide pupils, increased heart rate... My detective experience tells me that you are hiding something.}
-{170}{}{You're not a good liar, Tom. I see, you know more, than you tell.}
+{170}{}{You're not a good liar, Tom. I see you know more than you're telling me.}
 {171}{}{[In shock] Private detective? Is this a thing in our times? Wow...}
 {172}{}{For me it's just hobby, not my duty...}
-{173}{}{I have the keys. Remind me, what you wanted to do with them?}
-{174}{}{*smell* I can sense a thief from a mile away! [take a deep breath] YES, IT IS YOU!}
+{173}{}{I have the keys. Remind me what you wanted to do with them?}
+{174}{}{*smell* I can sense a thief from a mile away! [take a deep breath] YES, IT'S YOU!}
 {175}{}{Umm... You're not serious, aren't you?.. Heh... I mean, how can you sense the thief...}
 {176}{}{[Stare at him seriously]}
 
