@@ -15,7 +15,7 @@
 {118}{}{I'm so glad to see a friendly face...}
 
 #Receiving quest
-{119}{}{Misfortune struck me. My husband passed away, and then it turned out that he had debts to the casino. Now I would either be evicted or sold into slavery.}
+{119}{}{Misfortune struck me. My husband passed away, and then it turned out that he had debts to the casino. Now I'll either be evicted or sold into slavery.}
 {120}{}{Sorry, but who are you?}
 {121}{}{If these are your husband's debts, why are you being punished for them?}
 {122}{}{How did your husband die?}
