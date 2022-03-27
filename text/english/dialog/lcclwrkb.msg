@@ -14,7 +14,7 @@
 {116}{}{Nice to meet you. Maybe we will talk next time.}
 
 {117}{}{Why are they treating you like this, Tom?}
-{118}{}{Everybody treats me like that. Blacks and whites. Maybe it's something about my character thet triggers them... But it's not a big deal, they're just fooling around, they don't mean any harm. Although, of course, there are some who will break your face if you won't be careful. Fortunately, there aren't many left around.}
+{118}{}{Everybody treats me like that. Blacks and whites. Maybe it's something about my character that triggers them... But it's not a big deal, they're just fooling around, they don't mean any harm. Of course, there are those who would break your face if you aren't careful. Fortunately, there aren't many left around.}
 {119}{}{Not many? But there are some, aren't there?}
 {120}{}{Too bad, Tom. I have to go now.}
 {121}{}{I'd laugh at you, too, but I don't have time. Breathe for now.}
@@ -42,7 +42,7 @@
 {142}{}{Well...}
 {143}{}{Now I don't know what to do. I thought about confessing and giving the keys back, but then they'd fire me. And I can't lie, as you can see...}
 {144}{}{All right, Tom, listen: sit tight, keep quiet, and I'll think of something.}
-{145}{}{Ha, now you've confessed it yourself! That's it, wait for my decision and mercy and pray that I wouldn't rat on you.}
+{145}{}{Ha, now you've confessed it yourself! That's it, wait for my decision and mercy and pray I don't rat you out.}
 {146}{}{May the God bless you!}
 {147}{}{Great. Now it's time to say goodbye to each other.}
 {148}{}{Yes, I guess I deserve it... Please think about it, think about it very carefully.}
