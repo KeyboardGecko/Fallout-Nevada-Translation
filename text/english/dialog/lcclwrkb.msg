@@ -14,12 +14,12 @@
 {116}{}{Nice to meet you. Maybe we will talk next time.}
 
 {117}{}{Why are they treating you like this, Tom?}
-{118}{}{Everybody treats me like that. Blacks and whites. Maybe it's something with my character. But don't mind them - they're just fooling around, they don't mean any harm. Although, of course, there are some who will break your face if you let them. Fortunately, there aren't many of them left around.}
-{119}{}{Not many? But there are, aren't there?}
+{118}{}{Everybody treats me like that. Blacks and whites. Maybe it's something about my character thet triggers them... But it's not a big deal, they're just fooling around, they don't mean any harm. Although, of course, there are some who will break your face if you won't be careful. Fortunately, there aren't many left around.}
+{119}{}{Not many? But there are some, aren't there?}
 {120}{}{Too bad, Tom. I have to go now.}
 {121}{}{I'd laugh at you, too, but I don't have time. Breathe for now.}
 
-{122}{}{[Looks around] Look, I don't want to speak ill of anyone, I'm a peaceful man!}
+{122}{}{[He warily looks around] Look, I don't want to speak ill of anyone, I'm a peaceful man!}
 {123}{}{All right, suit yourself.}
 {124}{}{What were you looking at? That white guy over there by the lockers, right?}
 {125}{}{Simon... Uh, don't, err... I don't want to talk about him... Neither bad nor good.}
