@@ -54,7 +54,7 @@
 {147}{}{Greed.}
 {148}{}{Pride.}
 {149}{}{Betrayal.}
-{150}{}{The proximity of having the belly button.}
+{150}{}{The size of the belly button.}
 {151}{}{Well, they're all pretty bad in their own way.}
 
 {154}{}{How can I help you?}
