@@ -219,7 +219,7 @@
 {290}{}{What is this message, anyway?}
 {291}{}{I wish you the best. Good luck.}
 {292}{}{Yeah, bye.}
-{293}{}{[He reads the message] Hmm. The Community offers me to return to Salt Lake City. But I can't! The people of Reno need me more now than ever. I have to stay.}
+{293}{}{[He reads the message] Hmm. The Community wants me to return to Salt Lake City. But I can't! The people of Reno need me now more than ever. I have to stay.}
 {294}{}{That's very honorable of you. Well, good luck.}
 {295}{}{If you say so. As for me, it's time to move on. Goodbye.}
 
