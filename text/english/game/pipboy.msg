@@ -1289,8 +1289,8 @@
 {20010}{}{today is your lucky day, gentlemen! Uncle Joe and}
 {20011}{}{the "Nevada Express" will protect your sorry ass from}
 {20012}{}{harassment of humans and non-humans of all shades}
-{20013}{}{and colors! Have spare 1000 bucks? Just enough!}
-{20014}{}{(In addition, we are always ready to negotiate!)}
+{20013}{}{and colors! Have a spare 1000 bucks? Just enough!}
+{20014}{}{(And remember, we're always ready to make a deal!)}
 {20015}{}{}
 {20016}{}{1. Who are you guys? What the hell is a stagecoach?}
 {20017}{}{}
