@@ -73,7 +73,7 @@
 {280}{}{I'm looking for a place to earn a few bucks. Mind pointing me in the right direction?}
 {281}{}{Hmm... You're new in town, right? No friends, no connections... I doubt you have much chance. Unless... }
 {282}{}{Unless?}
-{283}{}{Well, I'd suggest finding a common interest with a few... Influential people. [he looks around the room] Take that gentleman by the pool table, for example. Regular client. Respectable man! Always has money and always orders expensive drinks. I don't know who he works for, but those are the types of people you should look for meeting.}
+{283}{}{Well, I'd suggest finding a common interest with a few... Influential people. [he looks around the room] Take that gentleman by the pool table, for example. Regular client. Respectable man! Always has money and always orders expensive drinks. I don't know who he works for, but those are the types of people you should look for a meeting with.}
 {284}{}{Thanks for the tip.}
 {285}{}{Of course, any time... I hope you won't forget about me? [he smiles and winks]}
 {286}{}{Oh yeah, here's a fiver. Thanks.}
