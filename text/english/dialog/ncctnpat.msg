@@ -17,7 +17,7 @@
 {122}{}{Well, usually I'm very polite, but sometimes I'm getting tired of it... Are you really interested why I'm like this? Alright, I'll tell you, it's not a big secret. All thanks to my grandma, god bless her. Built herself up to be a prim and proper lady, dressed like she robbed a museum. Lace, junk around her neck... Quite the eckza... Exalted lady. And I had to live with it. Even had this thing around my neck. You know why?}
 {123}{}{I hope it's not because you were... Too close. Why?}
 {124}{}{I'm almost yawning. I hope anything interesting is coming up.}
-{125}{}{Apple pie! The way she cooked it... I wouldn't drink for a week, if only I could taste it again. But this world is not for grandmothers like her. When times were tough, she went into pies herself, fifteen bucks a pop. All I was left with was her pendant... But even that I lost it somewhere in the slums. It was a pretty... exquisite thing.}
+{125}{}{Apple pie! The way she cooked it... I wouldn't drink for a week, if only I could taste it again. But this world is not for grandmothers like her. When times were tough, she went into pies herself, fifteen bucks a pop. All I was left with was her pendant... But even that I lost somewhere in the slums. It was a pretty... exquisite thing.}
 {126}{}{What a story...}
 {127}{}{You didn't make those pies, did you? Just kidding.}
 {128}{}{That's not funny! I really loved her. In a good way. But this damn swill from the bar that's swirling in my stomach every day - it's poisoning my life. Gran supported me, helped me to cope, slapped my wrist when I drank too much. But then I lost the pendant...}
