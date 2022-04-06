@@ -3,7 +3,7 @@
 
 ###############################################################################
 #
-#           Начало диалога
+#           ГЌГ Г·Г Г«Г® Г¤ГЁГ Г«Г®ГЈГ 
 #
 ###############################################################################
 
@@ -16,8 +16,8 @@
 {114}{}{Nothing.}
 {115}{}{Alright, forget it.}
 
-#Первый разговор
-{120}{}{[Entering a dim-lit room, you see its dirty-faced goggles-wearing inhabitant. He looks busy and tired at the same time. He stops working when noticing you] Huh? Are you a customer, or just lost? You'll never know who's going to wander in here... But hey, maybe I'm lucky this time. What can I do for ya?}
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
+{120}{}{[Entering a dimly lit room, you see its dirty-faced goggles-wearing inhabitant. He looks busy and tired at the same time. He stops working when noticing you] Huh? Are you a customer, or just lost? You'll never know who's going to wander in here... But hey, maybe I'm lucky this time. What can I do for ya?}
 {121}{}{Hi. May I ask who I stumbled upon in these slums?}
 {122}{}{Frank Cochran, at your service. I'm mechanic and electrician, and also a little bit of a gunsmith. I often have to deal with just about anything that has something to do with repairing. As for slums - no offense taken, I like it that way. If I had more trust in people, I would've already moved somewhere closer to the central streets.}
 {123}{}{I see. So if I need something repaired, I can talk to you?}
@@ -28,24 +28,24 @@
 
 ###############################################################################
 #
-#           Вопросы и ответы
+#           Г‚Г®ГЇГ°Г®Г±Г» ГЁ Г®ГІГўГҐГІГ»
 #
 ###############################################################################
 
 {129}{}{Do you know where can I find pre-war vault technology around here?}
 {130}{}{I'm not saying I'm glad to see you, but still, I have someone to talk to.}
 
-#Про Теда Банди
+#ГЏГ°Г® Г’ГҐГ¤Г  ГЃГ Г­Г¤ГЁ
 {131}{}{Isn't it dangerous, living alone out here?}
 {132}{}{Of course not. Central streets are more dangerous. In Reno, the less time you spend with others, the safer you'll be. Also, sometimes other people, who don't appreciate crowds, come to live out here too. There was one guy, Ted, just a little while ago. Kept to himself, didn't talk much - my kind of guy. Hasn't been around in a while, though. Don't know why.}
 {133}{}{Ted, huh? I'll have to remember that.}
 
-#Про охрану в подвале
+#ГЏГ°Г® Г®ГµГ°Г Г­Гі Гў ГЇГ®Г¤ГўГ Г«ГҐ
 {134}{}{You have some weird neighbors in the basement, do you know that?}
 {135}{}{Yeah, they showed up recently. Know nothing about them, and don't really want to. They are sitting there quietly, not bothering me, and I'm pretty much okay with that. I have a feeling that they are guarding something in there.}
 {136}{}{I see.}
 
-#Термит
+#Г’ГҐГ°Г¬ГЁГІ
 {140}{}{I have to open an, uh, abandoned safe. Can you help me?}
 {141}{}{Don't know nothing about safe cracking. Plenty of thieves in Reno, if you want to ask about that. But I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
 {142}{}{Tell me about this thermite.}
@@ -56,16 +56,16 @@
 {147}{}{[He squints at you for a second, then shrugs] Actually, I've got another. I was keeping it for a rainy day, but eh, what the hell. I know you mean business, so I'll sell it to you.}
 {148}{}{Yup, that's it. I didn't make it myself, you know. Once it's gone, it's gone.}
 
-#Волт-Тек
+#Г‚Г®Г«ГІ-Г’ГҐГЄ
 {149}{}{Like the pre-war bomb shelters? We've got two in Reno. One under the town hall, which Thompson's using as his headquarters, and one under the city park, near the old bowling alley. Stryker's got it locked up, though.}
 
 ###############################################################################
 #
-#           Пресс для снаряжения патронов
+#           ГЏГ°ГҐГ±Г± Г¤Г«Гї Г±Г­Г Г°ГїГ¦ГҐГ­ГЁГї ГЇГ ГІГ°Г®Г­Г®Гў
 #
 ###############################################################################
 
-#Пресс патронов
+#ГЏГ°ГҐГ±Г± ГЇГ ГІГ°Г®Г­Г®Гў
 {150}{}{Can you make ammunition?}
 {151}{}{Nah, I don't do that. It's not hard though, but you'd need an ammo press.}
 {152}{}{Can you make me an ammo press then? I'll pay.}
@@ -91,7 +91,7 @@
 {174}{}{Wait here, I'll be back with the money.}
 {175}{}{I don't have the cash on me, but maybe you'll be interested in this super tool kit?}
 
-#Обновление пресса патронов
+#ГЋГЎГ­Г®ГўГ«ГҐГ­ГЁГҐ ГЇГ°ГҐГ±Г±Г  ГЇГ ГІГ°Г®Г­Г®Гў
 {180}{}{I can't make some calibers with this ammo press.}
 {181}{}{Yeah, you can't have it all with just one of those. But now that I think about it, I can improve it for you.}
 {182}{}{Improve it? How?}
@@ -102,14 +102,14 @@
 {187}{}{Done! Always good to see a masterpiece come together.}
 {188}{}{Thanks!}
 
-#Починка бортового компьютера
+#ГЏГ®Г·ГЁГ­ГЄГ  ГЎГ®Г°ГІГ®ГўГ®ГЈГ® ГЄГ®Г¬ГЇГјГѕГІГҐГ°Г 
 {190}{}{Can you fix this on-board computer?}
 {191}{}{[He picks up the computer, looking at it as if he had never seen anything like it before. He twirls it in his hands for a while, runs his finger thoughtfully over the dusty circuit board, inhales the smell of capacitors, and then scratches the back of his head] Yeah, I can do that. Why not? Looks like some parts are missing. Not a big problem though. I could look into it for a buck. 2000 will do just fine.}
 {192}{}{Here's the money, but be careful. It can't be replaced and I *really* need it to work. No second chances.}
 {193}{}{I'll think about it.}
 {194}{}{You found a way to repair the train in Salt Lake City.}
 
-#Починка кия Бертолини
+#ГЏГ®Г·ГЁГ­ГЄГ  ГЄГЁГї ГЃГҐГ°ГІГ®Г«ГЁГ­ГЁ
 {195}{}{I, uh, broke my favorite pool cue. Can it be repaired?}
 {196}{}{Yeah, no problem. It's easy enough to assemble. You have to make the metal joint and cut the cue to shape. The hardest part is the balance. You have to consider the right weight, length, and bend. Lucky for you, I used to be a pretty good pool player, even played with Mr. Chase once or twice, and he's a real master of the game. I hope my skills aren't that rusty yet. I'll fix it for 200 bucks.}
 {197}{}{It's a deal. Here's the money and the cue.}
@@ -118,11 +118,11 @@
 
 ###############################################################################
 #
-#           Заказы на ремонт
+#           Г‡Г ГЄГ Г§Г» Г­Г  Г°ГҐГ¬Г®Г­ГІ
 #
 ###############################################################################
 
-#Имитаторы монет для автоматов ядер-колы
+#Г€Г¬ГЁГІГ ГІГ®Г°Г» Г¬Г®Г­ГҐГІ Г¤Г«Гї Г ГўГІГ®Г¬Г ГІГ®Гў ГїГ¤ГҐГ°-ГЄГ®Г«Г»
 {200}{}{I need metal plates the size and shape of coins.}
 {201}{}{Easy. How many?}
 {202}{}{500}
@@ -139,7 +139,7 @@
 {212}{}{Well, at least it's something.}
 {213}{}{ bucks.}
 
-#Шайенский водосборник
+#ГГ Г©ГҐГ­Г±ГЄГЁГ© ГўГ®Г¤Г®Г±ГЎГ®Г°Г­ГЁГЄ
 {220}{}{Can you fix the Cheyenne's water tank in Lovelock?}
 
 {221}{}{Fuck me sideways! Are you serious? You'll have to try very, very hard to motivate me. I'm a great mechanic after all, I've fixed half this city. I don't need to bust my ass hiking up the mountain to patch up some dirty rainwater collector for a bunch of savages.}
@@ -158,7 +158,7 @@
 {234}{}{You're busting my balls here!}
 {235}{}{Keep dreaming.}
 
-#Предохранитель для насоса в Джерлаке
+#ГЏГ°ГҐГ¤Г®ГµГ°Г Г­ГЁГІГҐГ«Гј Г¤Г«Гї Г­Г Г±Г®Г±Г  Гў Г„Г¦ГҐГ°Г«Г ГЄГҐ
 {240}{}{I need a fuse for a water pump.}
 {241}{}{Easy. Got one tucked away in my stash. [He squints] It's yours for 300 bucks.}
 {242}{}{Are you out of your mind?! So much money for such a little thing?}
@@ -186,7 +186,7 @@
 {262}{}{Ha! I don't fucking think so. You'll never find my stash without me.}
 {263}{}{Hmm...}
 
-#Апгрейд пикапа:
+#ГЂГЇГЈГ°ГҐГ©Г¤ ГЇГЁГЄГ ГЇГ :
 {270}{}{Have you ever worked on a functional car?}
 {271}{}{Like every mechanic, I worked on cars. And by that I mean disassembled a lot of them understanding nothing about how they work. Also, It's almost impossible to find parts in a working condition.}
 {272}{}{Do you have any of that parts?}
@@ -213,18 +213,18 @@
 
 {289}{}{Now your car's fuel consumption will be much more effective than before!}
 
-#Часть от машины
+#Г—Г Г±ГІГј Г®ГІ Г¬Г ГёГЁГ­Г»
 {290}{}{What can you tell me about this part?}
 {291}{}{Hmm... That's a fuel controller. Used in car engines. It's irreplaceable, car won't start without it. Y'know, a caravan merchant from Wind of War was asking about this part a while ago. You might be able to do something with it there.}
 {292}{}{Wind of War? I should remember that.}
 
 ###############################################################################
 #
-#           Улучшения
+#           Г“Г«ГіГ·ГёГҐГ­ГЁГї
 #
 ###############################################################################
 
-#Апгрейд оружия
+#ГЂГЇГЈГ°ГҐГ©Г¤ Г®Г°ГіГ¦ГЁГї
 {300}{}{[He scratches his unshaven cheek] Eh. I'm not good with just any weapon, but when it comes to standard stuff - pistols, rifles, shotguns - it's all pretty straightforward to me. Don't expect much though.}
 
 {301}{}{[Show magnum revolver]}
@@ -265,7 +265,7 @@
 {335}{}{[Show "Savage"]}
 {336}{}{[Show Nelson's broken shotgun]}
 
-#Динамит
+#Г„ГЁГ­Г Г¬ГЁГІ
 {350}{}{Do you work with explosives?}
 {351}{}{I can do some basic work. What do you have in mind?}
 {352}{}{Can you dismantle a bundle of dynamite into separate sticks?}
@@ -277,7 +277,7 @@
 {358}{}{Sure. I'll need 5 sticks and }
 {359}{}{ bucks.}
 
-#Апгрейд брони
+#ГЂГЇГЈГ°ГҐГ©Г¤ ГЎГ°Г®Г­ГЁ
 {400}{}{Sure. I whip up a lot of armor for caravan merchants. I've only worked with leather, but I wouldn't mind trying something else. Just bring it to me and let's see what I can do.}
 {401}{}{I'll think about it.}
 {402}{}{I'd like to show you another set of armor.}
