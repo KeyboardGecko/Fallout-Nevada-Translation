@@ -14,7 +14,7 @@
 {118}{}{You're not much fun to talk to.}
 {119}{}{Mm-hmm. Yeah. You too.}
 
-#ÊQuest about missing prospectors
+#ÃŠQuest about missing prospectors
 {150}{}{Someone told me a prospector from Reno is hiding in Black Rock. Do you know anything about that?}
 {151}{}{Er... Well, there's people here from all over Nevada. Why?}
 {152}{}{No reason... It just so happens I have something from Mr. Wright.}
@@ -49,7 +49,7 @@
 {176}{}{Because that's what he fucking does! He's a gangster, like every other boss in Reno! He'd make an example of me. Honestly, I can't even blame him - I messed up, and my family already owes him a lot of money.}
 {177}{}{Wright didn't want the competition. Every boss in Reno is fighting for more territory and influence.}
 {178}{}{Tell me more about these explosives.}
-{179}{}{Wright wanted five crates of C-4. Hawthorne's the only likely place to have it, but we couldn't get past the defense systems. Robert wanted to repair a robot to take out the mines, but, in any case, you can't sneak past the turrets with those crates in hands. We figured the warehouse would have a car or something, but we didn't even have a plan for getting the C-4 to the mines. God, what a stupid plan that was.}
+{179}{}{Wright wanted five crates of C-4. Hawthorne's the only likely place to have it, but we couldn't get past the defense systems. Robert wanted to repair a robot to take out the mines, but, in any case, you can't sneak past the turrets with those crates in hand. We figured the warehouse would have a car or something, but we didn't even have a plan for getting the C-4 to the mines. God, what a stupid plan that was.}
 {180}{}{You know what I think about all of this?}
 {181}{}{What?}
 {182}{}{I'll just kill you and tell Wright the job is done. What do you think?}
