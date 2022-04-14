@@ -1707,21 +1707,21 @@
 {169000}{}{Wall}
 {169100}{}{Wall}
 {169200}{}{Closet}
-{169201}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169201}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {169300}{}{Closet}
-{169301}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169301}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {169400}{}{Closet}
-{169401}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169401}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {169500}{}{Closet}
-{169501}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169501}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {169600}{}{Closet}
-{169601}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169601}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {169700}{}{Closet}
-{169701}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169701}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {169800}{}{Closet}
-{169801}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169801}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {169900}{}{Closet}
-{169901}{}{It's big and dark closet. Inside could fit a squad of Yakuza.}
+{169901}{}{It's big and dark closet.  A squad of Yakuza could fit inside.}
 {170000}{}{Truck}
 {170001}{}{This long-range truck of "Nuka-Cola" company no longer works.}
 {170100}{}{Truck}
