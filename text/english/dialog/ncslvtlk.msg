@@ -72,7 +72,7 @@
 {180}{}{So, what's troubling you?}
 {181}{}{Just blowing off steam after a long day.}
 {182}{}{Oh, I know the feeling - having to make a choice... Between what and what this time?}
-{183}{}{Between hunger with an honest face and a selfish satiety. You see, I have a dog, but it became hard to feed her, and now she had a litter of puppies. My wife went on a rant that I was doing nothing and we needed to feed them and the earnings weren't very good... I had to smash their heads in with a sledgehammer. My hands are still shaking from the memories... }
+{183}{}{Between hunger with an honest face and selfish satiety. You see, I have a dog, but it became hard to feed her, and now she had a litter of puppies. My wife went on a rant that I was doing nothing and we needed to feed them and the earnings weren't very good... I had to smash their heads in with a sledgehammer. My hands are still shaking from the memories... }
 {184}{}{I thought Reno was full of tough people who wouldn't worry about pups.}
 {185}{}{Ha! Wastelanders... This might be a tough city, but each man has his own complicated story. If you still haven't understood that, you will, eventually.}
 {186}{}{Hm. I'll need to think about this.}
