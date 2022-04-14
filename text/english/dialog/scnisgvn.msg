@@ -1,7 +1,7 @@
 {100}{}{You see Niskigvan the Ruffled Feathers.}
 {101}{}{You see a tanned middle-aged Native American with a stoned look in his eyes.}
 
-#Плавающие сообщения
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ Г±Г®Г®ГЎГ№ГҐГ­ГЁГї
 {110}{}{Now that was unnecessary... }
 {111}{}{Sorry, maybe later... }
 
@@ -38,7 +38,7 @@
 
 #########################################################
 #
-#                 Начало диалога
+#                 ГЌГ Г·Г Г«Г® Г¤ГЁГ Г«Г®ГЈГ 
 #
 #########################################################
 
@@ -54,7 +54,7 @@
 
 #########################################################
 #
-#                    Лечение героя
+#                    Г‹ГҐГ·ГҐГ­ГЁГҐ ГЈГҐГ°Г®Гї
 #
 #########################################################
 
@@ -82,12 +82,12 @@
 
 #########################################################
 #
-#          Производство медикаментов и
-#          получение достижения "Знахарь"
+#          ГЏГ°Г®ГЁГ§ГўГ®Г¤Г±ГІГўГ® Г¬ГҐГ¤ГЁГЄГ Г¬ГҐГ­ГІГ®Гў ГЁ
+#          ГЇГ®Г«ГіГ·ГҐГ­ГЁГҐ Г¤Г®Г±ГІГЁГ¦ГҐГ­ГЁГї "Г‡Г­Г ГµГ Г°Гј"
 #
 #########################################################
 
-#Производство
+#ГЏГ°Г®ГЁГ§ГўГ®Г¤Г±ГІГўГ®
 {300}{}{We can't share what little we have, outsider. But I can mix some medicine for you if you bring me the components.}
 {301}{}{What do you need to make healing powder?}
 {302}{}{What do you need to make an antidote?}
@@ -110,7 +110,7 @@
 {315}{}{Can you make medicine for an infection?}
 {316}{}{[He raises his eyebrows] That's a complicated task, outsider. I'll need xander root, a broc flower, two bunches of nightshade berries and 250 of your dollars.}
 
-#Достижение Знахарь
+#Г„Г®Г±ГІГЁГ¦ГҐГ­ГЁГҐ Г‡Г­Г ГµГ Г°Гј
 {350}{}{I will never forget what you did for Makkon. No reward would be enough, but I'd be honored to teach you everything I know.}
 {351}{}{You've done so much for our tribe. I'd be honored to teach you everything I know. May it be of help in your journey.}
 {352}{}{Can you teach me how to make herbal medicine?}
@@ -123,14 +123,14 @@
 
 #########################################################
 #
-#          Расспросы о радиостанции
+#          ГђГ Г±Г±ГЇГ°Г®Г±Г» Г® Г°Г Г¤ГЁГ®Г±ГІГ Г­Г¶ГЁГЁ
 #
 #########################################################
 
 {360}{}{Radio?... No, I do not know.}
 {361}{}{You're lying! Take me to it! Now!}
 {362}{}{Another question then.}
-{363}{}{Fine. I’ll come back.}
+{363}{}{Fine. IвЂ™ll come back.}
 
 {364}{}{You're in the land of our ancestors, in my house... And you dare to threaten me! May the wrath of the Ruler of Life be upon you!}
 {365}{}{Have it your way. I'll go through your villagers one by one until somebody shows me where it is. You'll have plenty of people giving your "place of healing" its proper respect then.}
@@ -144,11 +144,11 @@
 
 #########################################################
 #
-#          Расспросы о врачебном опыте
+#          ГђГ Г±Г±ГЇГ°Г®Г±Г» Г® ГўГ°Г Г·ГҐГЎГ­Г®Г¬ Г®ГЇГ»ГІГҐ
 #
 #########################################################
 
-#Обмен врачебным опытом
+#ГЋГЎГ¬ГҐГ­ ГўГ°Г Г·ГҐГЎГ­Г»Г¬ Г®ГЇГ»ГІГ®Г¬
 {400}{}{Yes. The Ruler of Life gives us food and water. By living in harmony with our environment and being aware of the gifts we are given, we have everything we need to survive.}
 {401}{}{You can't possibly treat advanced diseases and injuries with herbs and water.}
 {402}{}{Couldn you do more if you had better tools?}
@@ -179,7 +179,7 @@
 {423}{}{I'll keep that in mind. What else do you use?}
 
 {424}{}{Broc flowers and other plant life.}
-{425}{}{Spicy, but miraculous taste of potion relieves the heat of the body and speeds its recovery.}
+{425}{}{Spicy taste, but a miraculous potion that relieves the heat of the body and speeds its recovery.}
 {426}{}{You mean it can break a fever? It sounds like these plants have antibiotic properties. What about your other medicine?}
 
 {427}{}{Mushrooms, which hide from the eye of the seeker in the dark corners of the wasteland.}
@@ -214,7 +214,7 @@
 
 #########################################################
 #
-#          Принадлежности лекаря
+#          ГЏГ°ГЁГ­Г Г¤Г«ГҐГ¦Г­Г®Г±ГІГЁ Г«ГҐГЄГ Г°Гї
 #
 #########################################################
 
@@ -232,7 +232,7 @@
 
 {469}{}{It's hard to collect herbs and roots without my backpack. All of my instruments were also in it.}
 {470}{}{What happened?}
-{471}{}{Let’s talk about something else.}
+{471}{}{LetвЂ™s talk about something else.}
 {472}{}{I won't make you dwell on it. I'll leave you alone.}
 
 {473}{}{One of the raiders took it when I was away from the village. It will be a long time before we can spare the leather for a new one... And it will take even more to replace the tools I had. Healing is going to be difficult for some time.}
@@ -258,7 +258,7 @@
 
 #########################################################
 #
-#          После отказа в лечении Маконса
+#          ГЏГ®Г±Г«ГҐ Г®ГІГЄГ Г§Г  Гў Г«ГҐГ·ГҐГ­ГЁГЁ ГЊГ ГЄГ®Г­Г±Г 
 #
 #########################################################
 
@@ -288,7 +288,7 @@
 
 #########################################################
 #
-#          Перед лечением Маконса
+#          ГЏГҐГ°ГҐГ¤ Г«ГҐГ·ГҐГ­ГЁГҐГ¬ ГЊГ ГЄГ®Г­Г±Г 
 #
 #########################################################
 
@@ -304,14 +304,14 @@
 {557}{}{I'd like to help you with treating that injured boy. Your chief gave me permission.}
 
 {558}{}{You're serious? You want to help?! This is a rarity in our times. [he pauses, then his brows furrow] I would be glad if you cured the boy, but even my skill is not enough here... Are you sure you will be able to handle it?}
-{559}{}{Yes, I’m sure.}
+{559}{}{Yes, IвЂ™m sure.}
 {560}{}{Then I would like to test your skills first. I have never seen you work before. Shall we begin?}
 {561}{}{No problem. Let's get started.}
-{562}{}{I’m a little tired right now. Maybe later?}
+{562}{}{IвЂ™m a little tired right now. Maybe later?}
 
 #########################################################
 #
-#          Тест героя перед лечением Маконса
+#          Г’ГҐГ±ГІ ГЈГҐГ°Г®Гї ГЇГҐГ°ГҐГ¤ Г«ГҐГ·ГҐГ­ГЁГҐГ¬ ГЊГ ГЄГ®Г­Г±Г 
 #
 #########################################################
 
@@ -367,7 +367,7 @@
 {665}{}{Now what?}
 {666}{}{[Continue]}
 
-#Оценка знаний (теоретическая подготовка)
+#ГЋГ¶ГҐГ­ГЄГ  Г§Г­Г Г­ГЁГ© (ГІГҐГ®Г°ГҐГІГЁГ·ГҐГ±ГЄГ Гї ГЇГ®Г¤ГЈГ®ГІГ®ГўГЄГ )
 {667}{}{That is all. [he smiles and his eyes glint with excitement] Your knowledge of healing is incredible, outsider! Perhaps it's you who should be testing me! I think together we have enough wisdom to treat Makkon.}
 {668}{}{That is all. [he smiles] You know much about healing, outsider. I know I can trust you.}
 {669}{}{That is all. [he frowns] Makkon's condition is very complicated, outsider, and I don't think you have the knowledge to treat it correctly. But perhaps you have skills in other areas.}
@@ -382,7 +382,7 @@
 {677}{}{Hmm. Now, I will check the stamina of your heart. The operation may take several hours and it will be exhausting. Do some sit-ups, then I will check the speed of your beating heart.}
 {678}{}{Fine, let's do this. [start doing sit-ups]}
 
-#Оценка умений и способностей (практическая подготовка)
+#ГЋГ¶ГҐГ­ГЄГ  ГіГ¬ГҐГ­ГЁГ© ГЁ Г±ГЇГ®Г±Г®ГЎГ­Г®Г±ГІГҐГ© (ГЇГ°Г ГЄГІГЁГ·ГҐГ±ГЄГ Гї ГЇГ®Г¤ГЈГ®ГІГ®ГўГЄГ )
 {679}{}{[After a few minutes, Niskigvan grabs your wrist and measures your heart rate] Hmm... You are remarkably fit and talented, outsider! You are making the old man jealous!}
 {680}{}{[After a few minutes, Niskigvan grabs your wrist and measures your heart rate] Hmm... Yes, this should be enough. You are strong and skilled enough for this surgery, outsider.}
 {681}{}{[After a few minutes, Niskigvan grabs your wrist and measures your heart rate] Hmm... I am not sure you have the strength for this operation, outsider. I don't know if it will be enough with both of us.}
@@ -392,7 +392,7 @@
 {684}{}{[The mouse runs from you without even trying to eat the food from your hands] Hmm... I think there are evil spirits within you. Poison, sickness, or even something darker. Anyway, I'm ready to make my decision.}
 {685}{}{[The mouse cautiously sniffs at the seed in your hands, then starts to eat] An animal cannot be tricked! I'm ready to make my decision!}
 
-#Итоговая оценка (по сумме теории/практики и с учетом проверки мышью)
+#Г€ГІГ®ГЈГ®ГўГ Гї Г®Г¶ГҐГ­ГЄГ  (ГЇГ® Г±ГіГ¬Г¬ГҐ ГІГҐГ®Г°ГЁГЁ/ГЇГ°Г ГЄГІГЁГЄГЁ ГЁ Г± ГіГ·ГҐГІГ®Г¬ ГЇГ°Г®ГўГҐГ°ГЄГЁ Г¬Г»ГёГјГѕ)
 {686}{}{I had no idea the Heavenly Mother granted such blessings to the people of the city! I will be honored to assist you during the operation.}
 {687}{}{You did well, outsider! I have no doubts now. Together we should be able to heal Makkon.}
 {688}{}{I believe I can trust you, outsider. You will be able to assist me in the operation.}
@@ -402,7 +402,7 @@
 
 {692}{}{Anything else?}
 {693}{}{Remember - the time will not wait for you, outsider. A few more months without treatment and the boy will die. Rest for now. When you're ready to discuss the operation, come to me.}
-{694}{}{That’s it! I’m leaving.}
+{694}{}{ThatвЂ™s it! IвЂ™m leaving.}
 {695}{}{[Exit.]}
 
 {696}{}{For passing the test with flying colors, you earn }
@@ -412,7 +412,7 @@
 
 #########################################################
 #
-#          Обсуждение лечения Маконса
+#          ГЋГЎГ±ГіГ¦Г¤ГҐГ­ГЁГҐ Г«ГҐГ·ГҐГ­ГЁГї ГЊГ ГЄГ®Г­Г±Г 
 #
 #########################################################
 
@@ -436,12 +436,12 @@
 {717}{}{I'll be back.}
 
 {718}{}{About Makkon - what do we need?}
-{719}{}{Don’t forget anything. We need: }
+{719}{}{DonвЂ™t forget anything. We need: }
 {720}{}{Right.}
 
 #########################################################
 #
-#          Операция
+#          ГЋГЇГҐГ°Г Г¶ГЁГї
 #
 #########################################################
 
@@ -505,7 +505,7 @@
 {864}{}{I have a straight razor.}
 {865}{}{Knives for surgery? Barbaric! Use this scalpel. It's designed specifically for this purpose.}
 
-#Сообщения в консоль после операции:
+#Г‘Г®Г®ГЎГ№ГҐГ­ГЁГї Гў ГЄГ®Г­Г±Г®Г«Гј ГЇГ®Г±Г«ГҐ Г®ГЇГҐГ°Г Г¶ГЁГЁ:
 {850}{}{You earn 1000 experience points for assisting Niskigvan in treating Makkon's crippling injuries. You and Niskigvan both learned something new.}
 {851}{}{You earn 2000 experience points for helping Niskigvan treat Makkon's crippling injuries. You and Niskigvan both learned something new.}
 {852}{}{You earn 3000 experience points for treating Makkon's crippling injuries. You and Niskigvan both learned something new.}
@@ -513,23 +513,23 @@
 
 #########################################################
 #
-#          Устаревшая часть диалога (not used, old version)
+#          Г“Г±ГІГ Г°ГҐГўГёГ Гї Г·Г Г±ГІГј Г¤ГЁГ Г«Г®ГЈГ  (not used, old version)
 #
 #########################################################
 
-{2146}{}{Я направляюсь на базу рейдеров по заказу Огимы Черного Облака. Можете что-нибудь посоветовать?}
-{2149}{}{Вы можете сделать сильный яд? На базе рейдеров есть бак с питьевой водой. Если отравить им воду... }
+{2146}{}{Гџ Г­Г ГЇГ°Г ГўГ«ГїГѕГ±Гј Г­Г  ГЎГ Г§Гі Г°ГҐГ©Г¤ГҐГ°Г®Гў ГЇГ® Г§Г ГЄГ Г§Гі ГЋГЈГЁГ¬Г» Г—ГҐГ°Г­Г®ГЈГ® ГЋГЎГ«Г ГЄГ . ГЊГ®Г¦ГҐГІГҐ Г·ГІГ®-Г­ГЁГЎГіГ¤Гј ГЇГ®Г±Г®ГўГҐГІГ®ГўГ ГІГј?}
+{2149}{}{Г‚Г» Г¬Г®Г¦ГҐГІГҐ Г±Г¤ГҐГ«Г ГІГј Г±ГЁГ«ГјГ­Г»Г© ГїГ¤? ГЌГ  ГЎГ Г§ГҐ Г°ГҐГ©Г¤ГҐГ°Г®Гў ГҐГ±ГІГј ГЎГ ГЄ Г± ГЇГЁГІГјГҐГўГ®Г© ГўГ®Г¤Г®Г©. Г…Г±Г«ГЁ Г®ГІГ°Г ГўГЁГІГј ГЁГ¬ ГўГ®Г¤Гі... }
 
-#Про отравление воды рейдерам
-{2178}{}{Небесная Мать не для того наградила меня даром знахаря! Я лечу, а не гублю людей. Ну, и если честно... Я просто не умею делать никакого яда. Если вы готовы взять на себя такую ношу - вам прямая дорога в город Нью-Рино.}
-{2179}{}{А это где?}
-{2180}{}{Там делают яд? А кто именно?}
-{2181}{}{А вы откуда знаете про Рино?}
-{2182}{}{Ясно. Еще вопрос.}
-{2183}{}{Это бесовский город недалеко на юго-западе. Лучше там не появляться. Но с другой стороны, в округе ничего столь же большого нет. Я отмечу его вам на карте, но предупреждаю - будьте там осторожны и не заходите в глухие кварталы.}
-{2184}{}{Я не помню имен. И едва ли у них есть имена. Поспрашивайте в городских заведениях. Такие слова как "я хочу отравить" или "мне нужно убить человека" в Нью-Рино слышатся чаще, чем приветствия.}
-{2185}{}{Никто из нашего племени не прошел столько дорог и не встретил стольких людей, чтобы сравниться в этом со мной. Это долго объяснять - история шайеннов насчитывает много лет. Приходилось о многом заботиться, и наши боги вели меня... Видите тот оросительный водосборник напротив хижины Огимы? Он сделан не без помощи чудесных технологий Нью-Рино.}
-{2186}{}{Ясно. Ну, мне пора к рейдерам.}
+#ГЏГ°Г® Г®ГІГ°Г ГўГ«ГҐГ­ГЁГҐ ГўГ®Г¤Г» Г°ГҐГ©Г¤ГҐГ°Г Г¬
+{2178}{}{ГЌГҐГЎГҐГ±Г­Г Гї ГЊГ ГІГј Г­ГҐ Г¤Г«Гї ГІГ®ГЈГ® Г­Г ГЈГ°Г Г¤ГЁГ«Г  Г¬ГҐГ­Гї Г¤Г Г°Г®Г¬ Г§Г­Г ГµГ Г°Гї! Гџ Г«ГҐГ·Гі, Г  Г­ГҐ ГЈГіГЎГ«Гѕ Г«ГѕГ¤ГҐГ©. ГЌГі, ГЁ ГҐГ±Г«ГЁ Г·ГҐГ±ГІГ­Г®... Гџ ГЇГ°Г®Г±ГІГ® Г­ГҐ ГіГ¬ГҐГѕ Г¤ГҐГ«Г ГІГј Г­ГЁГЄГ ГЄГ®ГЈГ® ГїГ¤Г . Г…Г±Г«ГЁ ГўГ» ГЈГ®ГІГ®ГўГ» ГўГ§ГїГІГј Г­Г  Г±ГҐГЎГї ГІГ ГЄГіГѕ Г­Г®ГёГі - ГўГ Г¬ ГЇГ°ГїГ¬Г Гї Г¤Г®Г°Г®ГЈГ  Гў ГЈГ®Г°Г®Г¤ ГЌГјГѕ-ГђГЁГ­Г®.}
+{2179}{}{ГЂ ГЅГІГ® ГЈГ¤ГҐ?}
+{2180}{}{Г’Г Г¬ Г¤ГҐГ«Г ГѕГІ ГїГ¤? ГЂ ГЄГІГ® ГЁГ¬ГҐГ­Г­Г®?}
+{2181}{}{ГЂ ГўГ» Г®ГІГЄГіГ¤Г  Г§Г­Г ГҐГІГҐ ГЇГ°Г® ГђГЁГ­Г®?}
+{2182}{}{ГџГ±Г­Г®. Г…Г№ГҐ ГўГ®ГЇГ°Г®Г±.}
+{2183}{}{ГќГІГ® ГЎГҐГ±Г®ГўГ±ГЄГЁГ© ГЈГ®Г°Г®Г¤ Г­ГҐГ¤Г Г«ГҐГЄГ® Г­Г  ГѕГЈГ®-Г§Г ГЇГ Г¤ГҐ. Г‹ГіГ·ГёГҐ ГІГ Г¬ Г­ГҐ ГЇГ®ГїГўГ«ГїГІГјГ±Гї. ГЌГ® Г± Г¤Г°ГіГЈГ®Г© Г±ГІГ®Г°Г®Г­Г», Гў Г®ГЄГ°ГіГЈГҐ Г­ГЁГ·ГҐГЈГ® Г±ГІГ®Г«Гј Г¦ГҐ ГЎГ®Г«ГјГёГ®ГЈГ® Г­ГҐГІ. Гџ Г®ГІГ¬ГҐГ·Гі ГҐГЈГ® ГўГ Г¬ Г­Г  ГЄГ Г°ГІГҐ, Г­Г® ГЇГ°ГҐГ¤ГіГЇГ°ГҐГ¦Г¤Г Гѕ - ГЎГіГ¤ГјГІГҐ ГІГ Г¬ Г®Г±ГІГ®Г°Г®Г¦Г­Г» ГЁ Г­ГҐ Г§Г ГµГ®Г¤ГЁГІГҐ Гў ГЈГ«ГіГµГЁГҐ ГЄГўГ Г°ГІГ Г«Г».}
+{2184}{}{Гџ Г­ГҐ ГЇГ®Г¬Г­Гѕ ГЁГ¬ГҐГ­. Г€ ГҐГ¤ГўГ  Г«ГЁ Гі Г­ГЁГµ ГҐГ±ГІГј ГЁГ¬ГҐГ­Г . ГЏГ®Г±ГЇГ°Г ГёГЁГўГ Г©ГІГҐ Гў ГЈГ®Г°Г®Г¤Г±ГЄГЁГµ Г§Г ГўГҐГ¤ГҐГ­ГЁГїГµ. Г’Г ГЄГЁГҐ Г±Г«Г®ГўГ  ГЄГ ГЄ "Гї ГµГ®Г·Гі Г®ГІГ°Г ГўГЁГІГј" ГЁГ«ГЁ "Г¬Г­ГҐ Г­ГіГ¦Г­Г® ГіГЎГЁГІГј Г·ГҐГ«Г®ГўГҐГЄГ " Гў ГЌГјГѕ-ГђГЁГ­Г® Г±Г«Г»ГёГ ГІГ±Гї Г·Г Г№ГҐ, Г·ГҐГ¬ ГЇГ°ГЁГўГҐГІГ±ГІГўГЁГї.}
+{2185}{}{ГЌГЁГЄГІГ® ГЁГ§ Г­Г ГёГҐГЈГ® ГЇГ«ГҐГ¬ГҐГ­ГЁ Г­ГҐ ГЇГ°Г®ГёГҐГ« Г±ГІГ®Г«ГјГЄГ® Г¤Г®Г°Г®ГЈ ГЁ Г­ГҐ ГўГ±ГІГ°ГҐГІГЁГ« Г±ГІГ®Г«ГјГЄГЁГµ Г«ГѕГ¤ГҐГ©, Г·ГІГ®ГЎГ» Г±Г°Г ГўГ­ГЁГІГјГ±Гї Гў ГЅГІГ®Г¬ Г±Г® Г¬Г­Г®Г©. ГќГІГ® Г¤Г®Г«ГЈГ® Г®ГЎГєГїГ±Г­ГїГІГј - ГЁГ±ГІГ®Г°ГЁГї ГёГ Г©ГҐГ­Г­Г®Гў Г­Г Г±Г·ГЁГІГ»ГўГ ГҐГІ Г¬Г­Г®ГЈГ® Г«ГҐГІ. ГЏГ°ГЁГµГ®Г¤ГЁГ«Г®Г±Гј Г® Г¬Г­Г®ГЈГ®Г¬ Г§Г ГЎГ®ГІГЁГІГјГ±Гї, ГЁ Г­Г ГёГЁ ГЎГ®ГЈГЁ ГўГҐГ«ГЁ Г¬ГҐГ­Гї... Г‚ГЁГ¤ГЁГІГҐ ГІГ®ГІ Г®Г°Г®Г±ГЁГІГҐГ«ГјГ­Г»Г© ГўГ®Г¤Г®Г±ГЎГ®Г°Г­ГЁГЄ Г­Г ГЇГ°Г®ГІГЁГў ГµГЁГ¦ГЁГ­Г» ГЋГЈГЁГ¬Г»? ГЋГ­ Г±Г¤ГҐГ«Г Г­ Г­ГҐ ГЎГҐГ§ ГЇГ®Г¬Г®Г№ГЁ Г·ГіГ¤ГҐГ±Г­Г»Гµ ГІГҐГµГ­Г®Г«Г®ГЈГЁГ© ГЌГјГѕ-ГђГЁГ­Г®.}
+{2186}{}{ГџГ±Г­Г®. ГЌГі, Г¬Г­ГҐ ГЇГ®Г°Г  ГЄ Г°ГҐГ©Г¤ГҐГ°Г Г¬.}
 
 #########################################################
 #
@@ -549,8 +549,8 @@
 {1507}{}{[He leans forward, looking into your eyes] Is outsider's heart weights with grief like mine?}
 {1509}{}{And she wants only to help, without asking anything in return?}
 {1557}{}{I'd like to help that injured boy. Your chief gave me permission.}
-{1559}{}{I’m sure.}
-{1562}{}{I’m a little tired right now. Maybe later?}
+{1559}{}{IвЂ™m sure.}
+{1562}{}{IвЂ™m a little tired right now. Maybe later?}
 {1704}{}{Yes, the boy needs anesthesia. Pre-war chems would be best, but if you don't trust them, we can use alcohol or herbs.}
 {1800}{}{I'm ready to perform the operation on Makkon.}
 {1802}{}{Right here.}
