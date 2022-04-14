@@ -38,8 +38,8 @@
 {39}{}{Private detective}
 {40}{}{Childkiller}
 {41}{}{Cheyenne raider}
-{42}{}{Grave robber}
-{43}{}{Grave robber / Steal }
+{42}{}{Grave Digger}
+{43}{}{Grave Digger / Steal }
 {44}{}{Caravans: Praised / Barter }
 {45}{}{Karma 250 / Charisma 9 / Speech }
 {46}{}{Sex appeal / Charisma }
