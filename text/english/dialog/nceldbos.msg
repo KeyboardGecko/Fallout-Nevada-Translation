@@ -6,18 +6,18 @@
 
 ##########################################################################
 #
-#                      Разное
+#                      ГђГ Г§Г­Г®ГҐ
 #
 ##########################################################################
 
-#Когда мертв Томпсон
+#ГЉГ®ГЈГ¤Г  Г¬ГҐГ°ГІГў Г’Г®Г¬ГЇГ±Г®Г­
 {105}{}{Wait, stop! Wasn't it you who has been seen next to Mr. Thompson when he was killed? You'd better not stay here for long - I don't need you causing more problems. Guards, show this nuisance the door!}
 {106}{}{[Walk away peacefully.]}
 {107}{}{[Resist.]}
 {108}{}{This appointment is over.}
 {109}{}{This appointment is over - as is our partnership.}
 
-#Начало разговора
+#ГЌГ Г·Г Г«Г® Г°Г Г§ГЈГ®ГўГ®Г°Г 
 {110}{}{What do you need in my office?}
 {111}{}{I haven't seen ghouls in this casino for a long time... Wait a minute. Ha! I took you for a ghoul... Hmm, but don't think I'll apologize.}
 {112}{}{I've heard about you from Thompson's men. His friends are my friends. How can I help?}
@@ -30,17 +30,17 @@
 {118}{}{It's just a deceptive maneuver. I will prove my worth.}
 {119}{}{Is it wrong to just talk to your competitor? Okay.}
 
-#Про колу
+#ГЏГ°Г® ГЄГ®Г«Гі
 {120}{}{I have a proposal. We could arrange a mutually beneficial deal, regarding the sale of Nuka-Cola... }
 {121}{}{The offer is tempting, but my bar only serves alcohol drinks. No one will buy Cola here. If we were some sort of a cafe, I would probably agree.}
 {122}{}{Ah, got it.}
 
-#Кловер
+#ГЉГ«Г®ГўГҐГ°
 {123}{}{Boss, I know a lady who's forced to pay her debts to the casino after the death of her husband. Could you help to resolve this issue?}
 {124}{}{I've heard this story... Mrs. Clover, correct? As a courtesy to you, I am willing to forgive these debts - moreover, the total sum is not much for this casino. Inform the administrator about my wish.}
 {125}{}{Thank you, Mr. Bertolini!}
 
-#Про враждебность Томпсона
+#ГЏГ°Г® ГўГ°Г Г¦Г¤ГҐГЎГ­Г®Г±ГІГј Г’Г®Г¬ГЇГ±Г®Г­Г 
 {130}{}{I heard rumors that you've offended Mr. Thompson. What can you say about this?}
 {131}{}{He was asking for it!}
 {132}{}{I'm not going to make excuses. The matter is between him and me only.}
@@ -54,7 +54,7 @@
 {138}{}{What kind of masquerade is this?}
 {139}{}{Come, sit down. Do you need something?}
 
-#Попытка напроситься на работу
+#ГЏГ®ГЇГ»ГІГЄГ  Г­Г ГЇГ°Г®Г±ГЁГІГјГ±Гї Г­Г  Г°Г ГЎГ®ГІГі
 {140}{}{Mr. Bertolini, I want to work for you.}
 {141}{}{Work... What do you mean?}
 {142}{}{I need a *real* job. Not like a croupier or janitor. I can do better, you see.}
@@ -84,7 +84,7 @@
 {163}{}{Payment will be received upon the job's completion. But act quietly, so no one from Oliver's commune would suspect anything.}
 {164}{}{Understood.}
 
-#Посылка из Вегаса
+#ГЏГ®Г±Г»Г«ГЄГ  ГЁГ§ Г‚ГҐГЈГ Г±Г 
 {165}{}{I have a package for you from Vegas.}
 {166}{}{I've been waiting for it. What's the matter?}
 {167}{}{I'm having difficulties... }
@@ -104,11 +104,11 @@
 
 ##########################################################################
 #
-#                      Квесты
+#                      ГЉГўГҐГ±ГІГ»
 #
 ##########################################################################
 
-#Первый квест
+#ГЏГҐГ°ГўГ»Г© ГЄГўГҐГ±ГІ
 {180}{}{I'm here to talk about my task.}
 {181}{}{Did you meet the contact?}
 {182}{}{Yes, I met him at Oliver's ranch.}
@@ -143,11 +143,11 @@
 {210}{}{Do you wish for... Luciano's death?}
 {211}{}{May I ask another question?}
 
-{212}{}{It happened around six years ago. Local businessmen could not get along with each other because they were busy competing for the spheres of influence. This, together with a rapidly growing population and lack of resources led many to ruin: poverty in homes, bandits in the streets, sabotage within businesses, clans killing each other. All this abruptly came to an end when the "big daddy" of the wasteland came with his team, as he was told to "carry out some order", but ended up outsmarting everyone. There has been a relative peace in the town ever since.}
+{212}{}{It happened around six years ago. Local businessmen could not get along with each other because they were busy competing for the spheres of influence. This, together with a rapidly growing population and lack of resources led many to ruin: poverty in homes, bandits in the streets, sabotage within businesses, clans killing each other. All this abruptly came to an end when the "big daddy" of the wasteland came with his team, as he was told to "create some order", but ended up outsmarting everyone. There has been a relative peace in the town ever since.}
 {213}{}{It's a long conversation. Let's just say we have different views on how the town should develop. I like the ideas of Mr. Thompson. Oliver's opinions are radically opposite.}
 {214}{}{Good question. Probably the overall situation in the town, and... How should I put it... This old man's stubbornness. I can not dissuade Oliver from his ideas, but they directly contradict my point of view on this town's future.}
-{215}{}{No way! The death of this man would only ruin his ranch. There won't be any workers, slaves, its resources will be ravaged. I have another idea, but it's still too early for you to hear it.}
-{216}{}{Occasionally, Luciano ships food to the Silver Legacy's restaurant. I need you to undermine his reputation when he'll do it next time. Go to the restaurant, wait for the convoy and sabotage the deal. How you'll do it - I don't know and don't want to know. But it must be done so that it looked like a an oversight from Luciano's men.}
+{215}{}{No way! The death of this man would only ruin his ranch. There won't be any workers or slaves, its resources will be ravaged. I have another idea, but it's still too early for you to hear it.}
+{216}{}{Occasionally, Luciano ships food to the Silver Legacy's restaurant. I need you to undermine his reputation the next time he delivers. Go to the restaurant, wait for the convoy and sabotage the deal. How you'll do it - I don't know and don't want to know. But it must be done so that it looked like a an oversight from Luciano's men.}
 {217}{}{I'm on my way.}
 {218}{}{Can I learn more about the situation that has caused tension with Luciano?}
 {219}{}{Did you manage to do what I asked?}
@@ -186,7 +186,7 @@
 {250}{}{Office hours are done for today. Come back after eight in the morning.}
 {251}{}{A thief! Guards! A thief!}
 
-#Квест на диверсию на ранчо
+#ГЉГўГҐГ±ГІ Г­Г  Г¤ГЁГўГҐГ°Г±ГЁГѕ Г­Г  Г°Г Г­Г·Г®
 {252}{}{All of a sudden, a fire broke out in the Luciano's food warehouse. A large part of the goods have been destroyed. }
 {253}{}{The ranch had a *incidental* cattle plague, soon after my *coincidental* visit there. }
 {254}{}{I did not count on this; and you knew about it. Now Oliver won't be able to be pushed to an agreement and we won't solve our disputes with minimal bloodshed. After this news, our cooperation has come to an end. Get out of my casino.}
@@ -207,7 +207,7 @@
 {267}{}{And that's not everything. }
 {268}{}{In addition, all of the slaves *accidentally* triggered their shock collars. The ranch was left without any slave labor. }
 
-#Квест на Хьюи
+#ГЉГўГҐГ±ГІ Г­Г  Г•ГјГѕГЁ
 {270}{}{I see that you and Huey have returned. How did it go?}
 {271}{}{I made Huey shoot a snitch. He himself wouldn't be able to do so.}
 {272}{}{I had to personally deal with the informer. Huey just stood aside and bellowed like a child.}
@@ -235,7 +235,7 @@
 {292}{}{You gain }
 {293}{}{ experience for achieving the status of consigliere.}
 
-#Крыша для концерта в Коттон-клубе
+#ГЉГ°Г»ГёГ  Г¤Г«Гї ГЄГ®Г­Г¶ГҐГ°ГІГ  Гў ГЉГ®ГІГІГ®Г­-ГЄГ«ГіГЎГҐ
 {300}{}{I represent the "Cotton" Club. We'd like to negotiate a deal about protection during a concert.}
 {301}{}{Good idea; I've been planning such a deal for a long time. After all, we are neighbors. Tell the owner of the club that I am willing to contribute to the concert's security, but with the condition of sharing revenue for each day of it. 35% of the revenue should be delivered to my desk in cash.}
 {302}{}{We agree to these terms.}
@@ -270,7 +270,7 @@
 
 ###################################################################
 #
-#   Разводка на секс
+#   ГђГ Г§ГўГ®Г¤ГЄГ  Г­Г  Г±ГҐГЄГ±
 #
 ###################################################################
 
@@ -281,7 +281,7 @@
 {314}{}{My rose doesn't bloom for just anyone - and surely not for street rags.}
 {315}{}{Methinks I've started with the wrong topic. Excuse me; I need a restroom.}
 
-#-типаж: куртизанка
+#-ГІГЁГЇГ Г¦: ГЄГіГ°ГІГЁГ§Г Г­ГЄГ 
 {316}{}{Many have claimed the same. Some lied, while others were genuinely convinced that they themselves make their own life decisions... What do you count on - to remain innocent and undamaged in this town?}
 {317}{}{Why not? I'm counting on finding someone who I'll like. I have all the chances to choose, not to be chosen.}
 {318}{}{Hmm. [he skeptically narrows his eyes and slowly blows cigarette smoke] A courtesan? You wield your tongue well. Are you a longtime resident in this town?}
@@ -300,7 +300,7 @@
 {330}{}{[He chuckles] Whatever you say, darling. Whatever you say.}
 {331}{}{[Leave]}
 
-#-типаж: ветреная шлюха
+#-ГІГЁГЇГ Г¦: ГўГҐГІГ°ГҐГ­Г Гї ГёГ«ГѕГµГ 
 {340}{}{I'm not counting on anything. I'm just too bored in this town.}
 {341}{}{It's been ages; and during that time, I never found a worthy partner.}
 {342}{}{[He shrugs] You won't find anything neat and innocent here.}
@@ -312,7 +312,7 @@
 {348}{}{Yeah. Bye, Mr. Bertolini. See you around, maybe.}
 {349}{}{[He grins with the edges of the mouth while changing posture, carefully assessing your hips when you rise from a chair and walk towards the exit]}
 
-#-типаж: дорогая эгоцентричная дамочка
+#-ГІГЁГЇГ Г¦: Г¤Г®Г°Г®ГЈГ Гї ГЅГЈГ®Г¶ГҐГ­ГІГ°ГЁГ·Г­Г Гї Г¤Г Г¬Г®Г·ГЄГ 
 {350}{}{Mr. Bertolini, are you trying to insult me?}
 {351}{}{Oh, no! I won't tolerate any insults towards women in my casino. But I'm really interested in you. What are you holding out for? After all, it's impossible to remain innocent and undamaged in this town.}
 {352}{}{What I'm holding out for will remain with me. I don't like when someone digs through my underwear for dirty spots.}
@@ -324,7 +324,7 @@
 {358}{}{When you start to bother me, I'll just get up and leave.}
 {359}{}{[Stare at him in astonishment, then turn from him and quietly walk away]}
 
-#-итог
+#-ГЁГІГ®ГЈ
 {360}{}{[He sighs as you go, examining your hips] Don't worry, mommy. I won't run away.}
 {361}{}{Is there anything more exciting?}
 {362}{}{I'll pick it myself, don't worry.}
