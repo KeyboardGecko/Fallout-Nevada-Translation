@@ -63,5 +63,5 @@
 {189}{}{Then I'll just kill you and tell Wright the job is done. What do you say to that?}
 {190}{}{I'll get the explosives and complete the contract for you. Trust me.}
 
-{193}{}{Really? But... Oh, what choice do I have? Here's the contract. And take this metal detector - it'll get you past the mines in Hawthorne. I'll go to Reno and wait for you. I'm counting on you, okay? Both of our families are depend on that contract.}
+{193}{}{Really? But... Oh, what choice do I have? Here's the contract. And take this metal detector - it'll get you past the mines in Hawthorne. I'll go to Reno and wait for you. I'm counting on you, okay? Both of our families depend on that contract.}
 {194}{}{Stay safe.}
