@@ -1,7 +1,7 @@
 {100}{}{You see a citizen.}
 {101}{}{You see a gloomy citizen. He doesn't look particularly friendly.}
 {102}{}{We don't need strangers here! Get out!}
-{103}{}{If you'll show your face to our home one more time, I'm gonna break your legs! Don't look us being decrepit as an old potato...}
+{103}{}{If you'll show your face to our home one more time, I'm gonna break your legs! Don't look at us like we're old decrepit...potatoes...}
 {104}{}{Please, forgive me for being so rude before.}
 
 {110}{}{You're not welcome here! Beat it!}
@@ -25,7 +25,7 @@
 {126}{}{That's all. You can calm down. [leave]}
 {127}{}{It's okay, I'll deal with this. Trust me.}
 
-#Женские реплики
+#Г†ГҐГ­Г±ГЄГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {1112}{}{Sorry, I didn't mean to bother you. [leave]}
 {1113}{}{You're lucky I'm in a good mood, or there'd be a beating, alright. [leave]}
 {1114}{}{[He grits his teeth] Here? Not anymore. It's just us two old farts. That's all I have to say - now get out of our home!}

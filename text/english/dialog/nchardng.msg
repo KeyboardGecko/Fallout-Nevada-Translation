@@ -18,7 +18,7 @@
 {118}{}{Then sit tight. And not a peep. Got it?}
 {119}{}{Shucks, I'm going then. You can relax.}
 
-{120}{}{Sorry, it's just a depression, nothing serious. I'm Harding, your local handyman. How can I help you?}
+{120}{}{Sorry, it's just my depression, nothing serious. I'm Harding, your local handyman. How can I help you?}
 {121}{}{Boo-hoo, would you look at those tears! Are you a man or a rag, Harding?!}
 {122}{}{It sure looks serious, Harding. Can I do anything to help?}
 {123}{}{So long, Harding.}
@@ -28,7 +28,7 @@
 {126}{}{Help? How? With the depression? I seriously doubt it. I often get the feeling of utter insignificance. I'm nothing but a rag. My neighbors laugh at me and I'm forced to do everyone's dirty work because I'm a pushover. No, I won't make any excuses. That's how the world works. They're wolves and I'm a sheep. That's just how it is.}
 {127}{}{Maybe your neighbors should be taught a lesson.}
 {128}{}{Well, I don't think I can help here. I'll be off.}
-{129}{}{Oh God, no! Not at all! They can't be helped, nor it's needed. Everything is as it should be. Society is putting me in my place, I suppose.}
+{129}{}{Oh God, no! Not at all! They can't be helped, nor is it needed. Everything is as it should be. Society is putting me in my place, I suppose.}
 {130}{}{Why are you giving up so easily?}
 {131}{}{Well, I had to try. Bye, Harding, I'll see you later. Maybe.}
 {132}{}{One good man is teaching me how to live among people. He says that I can survive if I submit. It's not always easy.}

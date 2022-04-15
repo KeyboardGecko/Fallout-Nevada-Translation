@@ -2,13 +2,13 @@
 {101}{}{You see a tired owner of "Silver" hotel.}
 {102}{}{Look, I have suffered enough, just leave me alone.}
 
-#Диалог:
+#Г„ГЁГ Г«Г®ГЈ:
 {106}{}{I'm listening.}
 {107}{}{You're the owner here? Tell me how it all started, please.}
 {108}{}{You've gotta know a lot about this city, right? Please, tell me about it.}
 {109}{}{Bye.}
 
-#Про рэкет
+#ГЏГ°Г® Г°ГЅГЄГҐГІ
 {110}{}{What did those guys want?}
 {111}{}{Forget it, it is none of your concern.}
 {112}{}{Oh no, you called me your bodyguard. That makes me involved, from where I'm standing.}
@@ -23,24 +23,24 @@
 {120}{}{On my own. As everybody in this city is, really. There are some who think it is easier to join some gang, but I'm trying to stay away from all the conflict and to live a simple businessman's life. Therefore, I do not care who is at the helm. As long as he doesn't put pressure on my way of living, he can sail as he likes.}
 {121}{}{Right. Thanks for the clarification.}
 
-#О городе
+#ГЋ ГЈГ®Г°Г®Г¤ГҐ
 {130}{}{Well then, welcome to Reno! A truly breathing and bustling city, the Babylon of this hellscape we live in. If you'd like to stay longer, you can have a room. Talk to the receptionist, he's far more talkative when it comes to city's history.}
 {131}{}{Well, I got this place by inheritance, but for a long time the building remained empty. When New Reno became a center of active trade with all the other settlements, there was an influx of caravan merchants. This created the problem of having a large number of visiting merchants who had nowhere to sleep for the night. Since I like to learn more about good people from other parts of the wasteland, I was happy to open the doors of this hotel, and the rest, as they say, is history.}
 {132}{}{Let's talk about something else.}
 
-#Джей Кукиш
-{140}{}{I heard a rumor that you and the bikers are old friends. With one of them named Jay, for example.}
+#Г„Г¦ГҐГ© ГЉГіГЄГЁГё
+{140}{}{I heard a rumor that you and the bikers are old friends. With one biker in particular, named Jay, for example.}
 {141}{}{I've never made a secret of the fact that I like these guys. We often share beers and stories when they're in town. But Jay is not like other bikers. He's fixated on technology and isn't very talkative. Even among his own, he's considered an odd one.}
 {142}{}{They say Jay was passing through Reno recently. Is that true?}
-{143}{}{Yes, stayed for the night and left in the morning. He seemed to be in a great hurry. He had this peculiar sparkle in his eyes... Most likely, he found something special, but he didn't tell me jack shit about what it was.}
-{144}{}{I know what's that sparkle is about. I need to contact him immediately, before it's too late!}
+{143}{}{Yes, stayed for the night and left in the morning. He seemed to be in a big hurry. He had this peculiar sparkle in his eyes... Most likely, he found something special, but he didn't tell me jack shit about what it was.}
+{144}{}{I know what that sparkle is about. I need to contact him immediately, before it's too late!}
 {145}{}{Are you sure? These are not the kind of people who will talk to you if they don't like you. Not that it matters much... The bikers, as far as I know, are migrating somewhere to the southeast. They haven't explained why or where. So there's only one way to find out where they are now - to contact them using very good radio equipment. And there's good news and bad news here; the good news is that there is one suitable station in Reno that you could use. The bad news is that it's in an old bunker under the Stryker building, and the entrance is locked.}
 {146}{}{That won't stop me. Do you know the call signs and channels I could use to contact the bikers?}
 {147}{}{I never knew that. Bikers use their own call signs and communication channels so no one can track them down.}
 {148}{}{Maybe they are written down somewhere. Thank you, and goodbye.}
 {149}{}{I need to contact Jay before it's too late!}
 
-#Шантаж:
+#ГГ Г­ГІГ Г¦:
 {160}{}{My boss, Mr. Thompson, is losing patience with your stupidity.}
 {161}{}{I said all I wanted to say the last time we spoke. I'm my own boss. You'll have to find a very good reason to change my mind about that.}
 {162}{}{Give me time to think.}
@@ -61,7 +61,7 @@
 {177}{}{Stryker is dead? Hmm... I had thought this fight would never end. Well, then I don't really have a choice.}
 {178}{}{Now choose.}
 
-#Набор для ухода
+#ГЌГ ГЎГ®Г° Г¤Г«Гї ГіГµГ®Г¤Г 
 {180}{}{Would a distinguished gentleman like yourself be interested in some fine personal grooming products?}
 {181}{}{[He curiously examines your things] Oh my God, that's a full "Pretty & Glamour" body care kit! Impressive. I've given many of these kits over the years, but when supplies ran low I had to keep them for the hotel. This kit could really help me out!}
 {182}{}{[Next]}
@@ -78,7 +78,7 @@
 {193}{}{I don't need jokes right now. No.}
 {194}{}{Sorry, won't happen again.}
 
-#Лохотрон в казино
+#Г‹Г®ГµГ®ГІГ°Г®Г­ Гў ГЄГ Г§ГЁГ­Г®
 {200}{}{Did you know that someone is rigging the machines in the casino?}
 {201}{}{What the hell did you just say! Our casino is the most honest one in the whole city.}
 {202}{}{Maybe. But there is evidence that one of the machines has an additional counter. Strange, ain't it?}

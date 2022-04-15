@@ -13,7 +13,7 @@
 
 {116}{}{No, sir, I'm not hungry. It's not even for me.}
 {117}{}{Then why are you begging?}
-{118}{}{At home, waiting for me... I have to bring home everything I earn at the cafe, but the bartender only paid me half! That's a whole 100 bucks! If I go home without that money, they'll beat me until I can't sit down!}
+{118}{}{At home, waiting for me...I have to bring home everything I earn at the cafe, but the bartender only paid me half! That's a whole 100 bucks! If I go home without that money, they'll beat me until I can't sit down!}
 {119}{}{Wait, he only gave you half? How could he?!}
 
 {120}{}{Yes, sir! That's it! Maybe I'm not the best worker, but I worked hard for the whole week! Greedy asshole, that's who he is!}

@@ -2,14 +2,14 @@
 {101}{}{You see Racer.}
 {102}{}{You see one of Stryker's minions.}
 
-#Обычные реплики
+#ГЋГЎГ»Г·Г­Г»ГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {110}{}{Yeah?}
 {111}{}{What?}
 {112}{}{Nothing, just wanted to say hi.}
 {113}{}{Nothing. Bye.}
 {114}{}{This was a nice chat, but I have to go.}
 
-#Знакомс'во:
+#Г‡Г­Г ГЄГ®Г¬Г±'ГўГ®:
 {120}{}{What the fuck do you want? [he groans] Oh god... After the party last night my head's killing me.}
 
 {121}{}{Headache? Then your hero has arrived! [give moonshine]}
@@ -29,9 +29,9 @@
 {134}{}{Really? You're a lifesaver. Hey, sit down and talk for a bit - I don't like to drink alone.}
 {135}{}{[Next]}
 {136}{}{...So, like I tell all the rookies, get a spare and a strike will happen by itself!}
-{137}{}{You must a knowledgeable player.}
+{137}{}{You must be a knowledgeable player.}
 
-#Расспросы
+#ГђГ Г±Г±ГЇГ°Г®Г±Г»
 {140}{}{Tell me about your boss.}
 {141}{}{What are you all doing here?}
 {142}{}{You people seem like the real deal. Can I join?}
@@ -48,7 +48,7 @@
 
 {155}{}{I... I don't know. At first I thought we could make it without him, but... Some of us have taken off, others have been killed by Thompson's gang. If this keeps up, I'm going to have to leave the city.}
 
-#Соломон
+#Г‘Г®Г«Г®Г¬Г®Г­
 {160}{}{Do you know Solomon?}
 {161}{}{Mmmm... Maybe. Why?}
 {162}{}{Someone in the El Dorado basement recommended him to me. He said you could help me find him.}
@@ -68,7 +68,7 @@
 {176}{}{Fuckin' A! [he puts on the glasses and looks around] A deal's a deal. I'll get in touch with Solomon and let him know you're trustworthy. He works in a building out behind the El Dorado, next to the Cotton Club. Tell him I sent you.}
 {177}{}{Great.}
 
-#Бункер
+#ГЃГіГ­ГЄГҐГ°
 {180}{}{What's that bunker entrance across the street, in the park?}
 {181}{}{Some pre-war bomb shelter. A few hundred people could probably live there for a few days, but there's not much need for it now.}
 {182}{}{Why's it locked?}

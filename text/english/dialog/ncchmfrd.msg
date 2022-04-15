@@ -31,14 +31,14 @@
 {131}{}{You were gone for ten years and are just expecting to pick up where you left off with this guy?}
 {132}{}{I've heard enough. Take care.}
 
-{133}{}{Businessmen around the city went into full-on war. My house burned down with my family it it, I got blinded, Terry got snatched up, and it looks like he's been passed around from one leader to another ever since.}
-{134}{}{We dealt with booze, mostly. We were not half-bad - our stuff found its way into the local bars. Not pre-war quality, but better than the moonshine other people were churning out. Problem was, some of those moonshiners didn't appreciate the comparison. Some of them were really mean guys... Oh, and also, we used to lend some alcohol for medicinal purposes - obviously, health care in those times was not so good.}
+{133}{}{Businessmen around the city went into full-on war. My house burned down with my family in it, I got blinded, Terry got snatched up, and it looks like he's been passed around from one leader to another ever since.}
+{134}{}{We dealt with booze, mostly. We were not half-bad - our stuff found its way into the local bars. Not pre-war quality, but better than the moonshine other people were churning out. Problem was, some of those moonshiners didn't appreciate the comparison. Some of them were really mean guys... Oh, and we used to donate alcohol for medicinal purposes - obviously, health care in those times was not so good.}
 {135}{}{[He sighs] Alright, so, someone set my house on fire. I ran in to find my family. I did, but not fast enough. Then a burning piece of wood fell on me and I got blinded. Days of me being suicidal went by, until a caravan from San Francisco arrived. They said the doctors there could treat me. Funny sort of people. Had funny kind of morals too - made me their lab rat. It was... I don't like to remember it. But I can see again. Better than ever, actually.}
 {136}{}{I couldn't do it until now. It took me a long time to get out of San Francisco, and when I did, I was... I'll say it, I was scared. But I worked up the nerve, and I've worked out a plan. I've finally got the chance to help an old friend out... If he wants it.}
 {137}{}{Don't wait too long. This city could explode any day.}
 {138}{}{Good luck.}
 
-#Îðóæèå
+#ÃŽÃ°Ã³Ã¦Ã¨Ã¥
 {140}{}{Are you planning to go all the way to San Francisco with just a cane to defend yourself?}
 {141}{}{[He shrugs with a sly smile] You think I'd need more than a cane to fend off some geckos? I'm tougher than I look, you know. I wouldn't suggest you test that.}
 {142}{}{I don't think that stick of yours can kill a gecko, and I've swung a few in my time. There's something special about it, right?}

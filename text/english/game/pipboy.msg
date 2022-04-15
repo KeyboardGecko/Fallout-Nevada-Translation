@@ -1,11 +1,11 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
+# Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±?
 #
 # Text labels and messages used in PIPBOY.C
 #
 # (These MUST match "text message" enumeration on the top of PIPBOY.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
+# Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±?
 
 #
 # Special holiday dates
@@ -1282,14 +1282,15 @@
 {20004}{}{with a particular sheriff (everybody knows}
 {20005}{}{who I'm talking about), but too afraid to go cross}
 {20006}{}{the wasteland, because of the wild beasts and}
+#
 {20007}{}{head-frosted raiders?}
 {20008}{}{Well, what can I say - you are right, our}
 {20009}{}{blessed land is not the best place for a walk. But}
 {20010}{}{today is your lucky day, gentlemen! Uncle Joe and}
 {20011}{}{the "Nevada Express" will protect your sorry ass from}
 {20012}{}{harassment of humans and non-humans of all shades}
-{20013}{}{and colors! Have spare 1000 bucks? Just enough!}
-{20014}{}{(In addition, we are always ready to negotiate!)}
+{20013}{}{and colors! Have a spare 1000 bucks? Just enough!}
+{20014}{}{(And remember, we're always ready to make a deal!)}
 {20015}{}{}
 {20016}{}{1. Who are you guys? What the hell is a stagecoach?}
 {20017}{}{}

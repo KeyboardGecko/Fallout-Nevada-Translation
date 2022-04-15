@@ -49,14 +49,14 @@
 
 {170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least you don't have to be afraid of being stabbed in the back.}
 {171}{}{Salt Lake. Dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of being stabbed in the back - and you can make a fine trade.}
-{172}{}{Salt Lake. The city may be a little dirty, but if not for my work, it would be where I'd settle down. You won't find a better place to live in the whole region. Everyone has a job and way to make a living, without worrying about being stabbed in the back. A good place.}
+{172}{}{Salt Lake. The city may be a little dirty but, if not for my work, it would be where I'd settle down. You won't find a better place to live in the whole region. Everyone has a job and way to make a living, without worrying about being stabbed in the back. A good place.}
 
-{175}{}{Wind of War. A military settlement. These are the people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
+{175}{}{Wind of War. A military settlement. These are people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
 
 {179}{}{Fine, let's go back a little.}
 
 #Âîïðîñû ïðî ãîðîä -- Ðèíî:
-{180}{}{Have you met a girl from this photograph?}
+{180}{}{Have you seen the girl in this photograph?}
 {181}{}{[Studies the photograph] Cute... No, I don't think so.}
 {182}{}{Okay. Another question.}
 {183}{}{Forget it then. Bye.}
@@ -157,7 +157,7 @@
 {300}{}{Tell me, how is it out there - in the Wasteland?}
 {301}{}{It is harsh. We are forced to travel on pre-war highways because it is faster and more convenient than walking across the desert. But the raiders know this too, so we are always on guard when approaching gas stations and small settlements.}
 {302}{}{Between which cities do you trade?}
-{303}{}{So, most travelers are using that highways? I will remember that. Bye.}
+{303}{}{So, most travelers are using the highways? I will remember that. Bye.}
 
 {304}{}{What settlements have you seen on your travels?}
 {305}{}{Right. That is all, I wanted.}

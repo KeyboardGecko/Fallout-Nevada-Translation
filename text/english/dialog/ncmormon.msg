@@ -1,13 +1,13 @@
 {100}{}{You see Patrick.}
 {101}{}{You see a young man with a cute old-fashioned beard.}
 
-#Первый разговор
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {110}{}{[The young man smiles at you, but you see sadness in his eyes] Welcome, wanderer. My name is Patrick. Can I ask you a few questions?}
 {111}{}{That depends on the questions.}
 {112}{}{Sure, I have nothing to hide.}
 {113}{}{Hell no, I ask the questions around here!}
 
-{114}{}{No-no. I do not insist. If you don't want to talk, we can peacefully go our separate ways. But your opinion is of value to me, as the ones of folks living around here.}
+{114}{}{No-no. I do not insist. If you don't want to talk, we can peacefully go our separate ways. But I value your opinion as the ones of folks living around here.}
 {115}{}{But I'm not from around here...}
 {116}{}{Well, okay. Go, ask your questions.}
 {117}{}{I don't want you asking something of me.}
@@ -54,7 +54,7 @@
 {147}{}{Greed.}
 {148}{}{Pride.}
 {149}{}{Betrayal.}
-{150}{}{The proximity of having the belly button.}
+{150}{}{The size of the belly button.}
 {151}{}{Well, they're all pretty bad in their own way.}
 
 {154}{}{How can I help you?}
@@ -74,11 +74,11 @@
 
 ###########################################################################
 #
-#                  Обыденные разговоры: о себе, о клубе и пр
+#                  ГЋГЎГ»Г¤ГҐГ­Г­Г»ГҐ Г°Г Г§ГЈГ®ГўГ®Г°Г»: Г® Г±ГҐГЎГҐ, Г® ГЄГ«ГіГЎГҐ ГЁ ГЇГ°
 #
 ###########################################################################
 
-#О себе
+#ГЋ Г±ГҐГЎГҐ
 {170}{}{I want to know more about you. Care to tell?}
 
 {171}{}{Sure. My name is Patrick, I'm from Salt Lake City - a big city far to the east. Our Mormon community has sent me here to preach the word of God. It's been hard, but I'm not going to give up.}
@@ -99,7 +99,7 @@
 {185}{}{Do not blame the people here. They are surviving the only way they know how. That's why I'm here - to open their eyes. You may not believe it, but some of them have converted already.}
 {186}{}{Oh, many things. Besides praying, preaching and gathering old books, I teach children to write, lead an anonymous support group, and just help whoever I can.}
 
-#Пожер'вование
+#ГЏГ®Г¦ГҐГ°'ГўГ®ГўГ Г­ГЁГҐ
 {190}{}{I want to donate $100 to your cause.}
 {191}{}{That's very generous of you! Every dollar goes to help people in need, and may just save someone's life. Thank you from the bottom of my heart!}
 {192}{}{You're welcome.}
@@ -107,7 +107,7 @@
 
 ###########################################################################
 #
-#                  Хардинг
+#                  Г•Г Г°Г¤ГЁГ­ГЈ
 #
 ###########################################################################
 
@@ -158,11 +158,11 @@
 
 ###########################################################################
 #
-#                  Квес'ы
+#                  ГЉГўГҐГ±'Г»
 #
 ###########################################################################
 
-#О си'уации в городе
+#ГЋ Г±ГЁ'ГіГ Г¶ГЁГЁ Гў ГЈГ®Г°Г®Г¤ГҐ
 {240}{}{What can you tell me about the situation in the city?}
 {241}{}{As we speak, the Satan lures people of this city deeper in his cobwebs of civil war.}
 {242}{}{In your opinion, why can't the people here live peacefully?}
@@ -175,7 +175,7 @@
 {248}{}{Gangs? That isn't just about gangs, my friend. There are people behind them with their own politics and ideas of how to lead the city. They know that, even in this place, they can't just take what they want. There's only so many resources, and if they become too greedy today, there won't be anything for them tomorrow. That's why the people choose sides - they see them as having a plan for the future. But I don't think either of them are on the right path.}
 {249}{}{Thank you for explanation.}
 
-#Квес' на больного
+#ГЉГўГҐГ±' Г­Г  ГЎГ®Г«ГјГ­Г®ГЈГ®
 {250}{}{Can I help your mission in some way?}
 {251}{}{Are you serious? It brings joy to my soul to know someone wants to help.}
 {252}{}{ Right now, I have two problems. Itchie has a serious arm injury, and I can't get my long-waited package from home.}
@@ -204,7 +204,7 @@
 {274}{}{Give it to me.}
 {275}{}{Glad to help.}
 
-#Квес' на посылку
+#ГЉГўГҐГ±' Г­Г  ГЇГ®Г±Г»Г«ГЄГі
 {280}{}{Every month, my brothers in Salt Lake City send me a package via the Nevada Express containing a message and supplies. This time, the courier - a boy from the slums - never arrived. The Nevada Express employee told me that they gave it to him, and they have no reason to risk their reputation for whatever supplies were in the package.}
 {281}{}{[Next]}
 {282}{}{I figure the supplies are gone. I don't blame the people in the slums for that; given their circumstances, I can only hope they got to someone in need. But the message... It's important to me. Please, try to find it.}
@@ -219,11 +219,11 @@
 {290}{}{What is this message, anyway?}
 {291}{}{I wish you the best. Good luck.}
 {292}{}{Yeah, bye.}
-{293}{}{[He reads the message] Hmm. The Community offers me to return to Salt Lake City. But I can't! The people of Reno need me more now than ever. I have to stay.}
+{293}{}{[He reads the message] Hmm. The Community wants me to return to Salt Lake City. But I can't! The people of Reno need me now more than ever. I have to stay.}
 {294}{}{That's very honorable of you. Well, good luck.}
 {295}{}{If you say so. As for me, it's time to move on. Goodbye.}
 
-#Квес' на кинопоказ
+#ГЉГўГҐГ±' Г­Г  ГЄГЁГ­Г®ГЇГ®ГЄГ Г§
 {296}{}{Yes, I have a delicate request. The message you brought to me included an old movie on holodisk. I want to organize film screening for the locals at night, but I'm afraid Mr. Wright will not allow me. Would you convince him to allow me a showing?}
 {297}{}{I'll do it. I'll talk to Wright.}
 {298}{}{Thank you. I will await his answer.}
@@ -259,7 +259,7 @@
 {326}{}{Good luck, Patrick.}
 {327}{}{Helping the Mormon missionary has improved your karma and your reputation in the slums.}
 
-#Квес' Томпсона
+#ГЉГўГҐГ±' Г’Г®Г¬ГЇГ±Г®Г­Г 
 {330}{}{Say, you don't have a sniper rifle, do you?}
 {331}{}{Me?! No, I'm a peaceful person. The only weapon I carry is for self-defense.}
 {332}{}{Then how do you explain the ammo shell on your balcony? It seems to line up with the recent shooting on the street.}

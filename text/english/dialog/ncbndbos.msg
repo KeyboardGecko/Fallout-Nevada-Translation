@@ -9,7 +9,7 @@
 
 {107}{}{Huh?! Wha... *mumbles*}
 
-#Пробуждение от хождений ГГ по комнате
+#ГЏГ°Г®ГЎГіГ¦Г¤ГҐГ­ГЁГҐ Г®ГІ ГµГ®Г¦Г¤ГҐГ­ГЁГ© ГѓГѓ ГЇГ® ГЄГ®Г¬Г­Г ГІГҐ
 {110}{}{::stretches::}
 {111}{}{...hey! What the...}
 {112}{}{::rolls over::}
@@ -18,7 +18,7 @@
 {115}{}{One more good day in hell.}
 {116}{}{Maybe tonight I'll actually sleep...}
 
-#Первый разговор
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {130}{}{Keep your distance. I don't know what's wrong with your face, but even if it's not contagious, I don't want it anywhere near me.}
 {131}{}{I understand, Mr. Wright. We can talk from here.}
 {132}{}{[Sneeze in his direction] Oh, Mr. Wright, I've always wanted to shake your hand.}
@@ -31,7 +31,7 @@
 {138}{}{I just wanted to say hello.}
 {139}{}{I should be on my way.}
 
-#Попытка напроситься на работу
+#ГЏГ®ГЇГ»ГІГЄГ  Г­Г ГЇГ°Г®Г±ГЁГІГјГ±Гї Г­Г  Г°Г ГЎГ®ГІГі
 {140}{}{Mr. Wright, I'm looking for work. I've heard a lot about you. Maybe we can help each other?}
 {141}{}{[He looks you up and down, thinking] Do you know what's more important in this city than a fat wallet or a quick gun?}
 {142}{}{What, Mr. Wright?}
@@ -41,7 +41,7 @@
 {145}{}{Willful ignorance. [he scoffs] Get out.}
 {146}{}{[Get out]}
 
-{147}{}{Reputation. And regardless of your wallet or gun, reputation is something you don't have. In my slums, no one knows you and no one recommends you. And I trust my people. If you want a job, show me the results of your work... Which can be evaluated.}
+{147}{}{Reputation. And regardless of your wallet or gun, reputation is something you don't have. In my slums, no one knows you and no one recommends you. And I trust my people. If you want a job, show me handywork... Verifiable handywork.}
 {148}{}{You really haven't heard of me, Mr. Wright? I've done a lot in Reno.}
 {149}{}{Okay, Mr. Wright.}
 
@@ -115,7 +115,7 @@
 {207}{}{[He drills you with a stare of contempt and disgust] I don't employ rapists and child-killers. I can't decide whether to have my guards shoot you, or to have the pleasure of doing it myself. You better leave before I make up my mind.}
 {208}{}{[Walk away silently]}
 
-#Квест на возврат шахты
+#ГЉГўГҐГ±ГІ Г­Г  ГўГ®Г§ГўГ°Г ГІ ГёГ ГµГІГ»
 {210}{}{About those prospectors...}
 {211}{}{Where are my explosives?}
 {212}{}{In Uranium City. Nelson has them.}
@@ -146,7 +146,7 @@
 {237}{}{Good. Here's your payment. If you lied to me, you'd better never return to this city.}
 {238}{}{No lies, Mr. Wright.}
 
-#Рабочие из Уран-Сити
+#ГђГ ГЎГ®Г·ГЁГҐ ГЁГ§ Г“Г°Г Г­-Г‘ГЁГІГЁ
 {250}{}{I'm looking for the lost miners from Uranium City.}
 {251}{}{I'd advise you start checking trash heaps, where they belong.}
 {252}{}{I'm looking for Joseph. He managed the mine crews.}
@@ -159,13 +159,13 @@
 {258}{}{That man redefines the word "useless". He had nothing I could take from him. Even the slavers didn't want him. I kicked him to the streets - he's probably been eaten by dogs or his fellow beggars by now.}
 {259}{}{[Leave]}
 
-#Проблема с миссис Кловер
+#ГЏГ°Г®ГЎГ«ГҐГ¬Г  Г± Г¬ГЁГ±Г±ГЁГ± ГЉГ«Г®ГўГҐГ°
 {260}{}{A resident in your slums, Mrs. Clover, has become the victim of another person's debts. What is your position on this?}
 {261}{}{Another headache. Mrs. Clover is a reliable cash cow due to her restaurant's income, so it's in my best interests to keep her solvent. On the other hand, it's not in my best interests to forgive debts... I'm taking my share, regardless of who pays it. I will be observing this matter from a distance with great care.}
 {262}{}{I understand. Let's talk about something else.}
 {263}{}{That's all I needed. Goodbye, Mr. Wright.}
 
-#Квест на странного типа в трущобах
+#ГЉГўГҐГ±ГІ Г­Г  Г±ГІГ°Г Г­Г­Г®ГЈГ® ГІГЁГЇГ  Гў ГІГ°ГіГ№Г®ГЎГ Гµ
 {270}{}{Your work in Uranium City is done. My sons will take it from here... When we're ready. You have another job.}
 {271}{}{I'm listening.}
 {272}{}{I've been told of a strange man sniffing around my slums. I do not know him, but there can be no secrets from me in my domain. Go the east side of the slums and deal with him. Avoid causing a ruckus if possible, but do whatever you need to get the job done.}
@@ -207,7 +207,7 @@
 {304}{}{I relayed your offer to Luciano, and he refused. I'm very sorry, Mr. Wright.}
 {305}{}{I relayed your offer to Luciano, and he refused.}
 
-#Коллекция
+#ГЉГ®Г«Г«ГҐГЄГ¶ГЁГї
 {308}{}{The museum is closed for the foreseeable future. I was robbed recently, and I will not allow the relics of a greater age to be fenced for some gutter trash's drug money.}
 {309}{}{That's a shame.}
 {310}{}{Mr. Wright, I've heard a lot about your collection of pre-war things. Could you tell me more about it?}
@@ -222,7 +222,7 @@
 {319}{}{...Do you see now, how much we've lost? This was a great country, our city on a hill... And it could be still, were it not for the avarice and selfishness of its people.}
 {320}{}{Thank you for the tour, Mr. Wright. It was very educational!}
 
-#Труба джазовая
+#Г’Г°ГіГЎГ  Г¤Г¦Г Г§Г®ГўГ Гї
 {321}{}{Word on the streets is you own a jazz trumpet, Mr. Wright.}
 {322}{}{Remember that jazz trumpet in your museum?}
 {323}{}{It's a centerpiece of my collection of pre-war Americana. It is very dear to me.}
@@ -239,7 +239,7 @@
 {334}{}{Thanks.}
 {335}{}{It's been a long time since I've felt this inspired. Alright...I'll trust you. You can have the trumpet. For the sake of the future.}
 
-#Встреча с Лучиано
+#Г‚Г±ГІГ°ГҐГ·Г  Г± Г‹ГіГ·ГЁГ Г­Г®
 {350}{}{I'm surprised. I thought he was one of the most protected men in... Well, it doesn't matter. Thank you for being a reliable employee, but I have no more work for you. My sons can handle everything for the foreseeable future. }
 {351}{}{Farewell.}
 {352}{}{Good... Perhaps Reno has a hope after all. Here's your pay. From now on everything depends on me. I have no need for your services anymore. Perhaps Luciano will have some work for you - I expect him to be busy in the future. }
@@ -252,7 +252,7 @@
 {359}{}{Not surprising, considering your ignorance and arrogance. }
 {360}{}{[After some thought, he hands you $100] You're free to go.}
 
-#Квест Патрика
+#ГЉГўГҐГ±ГІ ГЏГ ГІГ°ГЁГЄГ 
 {370}{}{Mr. Wright, on Patrick's behalf, I request permission to show a night time movie.}
 {371}{}{[He speaks wistfully, sharpening every syllable] Night-time-moo-vie... I didn't expect Patrick to be cunning enough to send someone in his stead. I already told him his bullshit religion wasn't welcome in my domain. Tell Patrick I won't tolerate his attempts to undermine me.}
 {372}{}{Mr. Wright, listen...}
@@ -273,7 +273,7 @@
 {387}{}{Mr. Wright, this could be a great opportunity for you. Let me explain...}
 {388}{}{[He listens carefully to your explanation, and finally nods] I see, I see. That preacher should use you for all his deals - you're a much better speaker than him. Fine, tell him I agree. But I won't provide any security - that's up to you and him.}
 
-#Крыша для концерта в Коттон-клубе
+#ГЉГ°Г»ГёГ  Г¤Г«Гї ГЄГ®Г­Г¶ГҐГ°ГІГ  Гў ГЉГ®ГІГІГ®Г­-ГЄГ«ГіГЎГҐ
 {390}{}{I represent the Cotton club. We want to negotiate protection for a concert.}
 {391}{}{Excellent. Your boss should know I've always been interested in collaborating. We are neighbors, after all. Tell him I'll contribute to the concert, but I want 30% of the daily revenue.}
 {392}{}{We agree to those conditions.}

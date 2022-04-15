@@ -3,12 +3,12 @@
 {102}{}{He looks disheveled and depressed.}
 {103}{}{I'll give you one minute.}
 
-#Отказ в сотрудничестве:
+#ГЋГІГЄГ Г§ Гў Г±Г®ГІГ°ГіГ¤Г­ГЁГ·ГҐГ±ГІГўГҐ:
 {110}{}{You have the nerve to show your face here? I had high hopes in you. We could have done so much together. We could have turned this town around! But no, you're a political prostitute like all others! I don't need you. Get out!}
 {111}{}{I'll just go, before I spoil your good mood.}
 {112}{}{I won't leave until I kill you!}
 
-#Первый разговор:
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°:
 {115}{}{[He looks you up and down carefully] You obviously didn't wander in here by accident. What are you doing in my headquarters?}
 {116}{}{*Your* headquarters? And who declared you mayor?}
 {117}{}{You've got a lot of armed men around here. I want to know more about you.}
@@ -16,12 +16,12 @@
 
 {119}{}{Look around. I'm the people's choice. They'd vote for me, if they had the opportunity.}
 {120}{}{It would be my pleasure to tell you, but I don't have much time. The idea is simple: we re-establish the City Hall and bring back the mayor's position, just like it was right after the Great War. Why, you ask? Because the problems of this city began when we lost the rule of law. Without a central authority, power shifted to the city's business moguls, who tried to take complete control for themselves. This is what turned neighbor against neighbor and kicked off the civil war. I want to bring things back to the way they were 40 years ago - and the majority of Reno's citizens agree with me.}
-{121}{}{We're very busy here. If you don't have a business to discuss, don't distract people from their work.}
+{121}{}{We're very busy here. If you don't have business to discuss, don't distract people from their work.}
 {122}{}{I'd like to know more about your movement.}
 {123}{}{Understood.}
 {124}{}{I won't take up any more of your time.}
 
-#Напроситься на службу:
+#ГЌГ ГЇГ°Г®Г±ГЁГІГјГ±Гї Г­Г  Г±Г«ГіГ¦ГЎГі:
 {130}{}{[A man leans over and whispers in his ear. After a minute, he turns to you, his eyes are narrowed] We have nothing to discuss.}
 {131}{}{Alright, then I'll just go.}
 {132}{}{Let's make one thing clear: every single man here is devoted to the cause. I have no place for mercenaries or "political prostitutes". If you want to be one of us, you have to convince me you're trustworthy and committed.}
@@ -44,7 +44,7 @@
 {147}{}{[Leave]}
 {148}{}{Hmm. You speak with confidence and I know you have... Skills... That could be useful to me. But first, I want to see if you're suitable.}
 
-#Первый квест:
+#ГЏГҐГ°ГўГ»Г© ГЄГўГҐГ±ГІ:
 {150}{}{A couple of lowlifes dared to abuse my girls near the casino. I was going to send Billy, but I want to see you in action. Deal with them and report back with the results.}
 {151}{}{What's the pay?}
 {152}{}{Alright, I'll do it.}
@@ -56,7 +56,7 @@
 {158}{}{That's good. I hope you were on your best behavior with Paige. Even to her, we can't show any weakness.}
 {159}{}{[Next]}
 
-#Диалог будучи приближенным Б.Луи:
+#Г„ГЁГ Г«Г®ГЈ ГЎГіГ¤ГіГ·ГЁ ГЇГ°ГЁГЎГ«ГЁГ¦ГҐГ­Г­Г»Г¬ ГЃ.Г‹ГіГЁ:
 {160}{}{Even in that suit, you still look like a raider.}
 {161}{}{Maybe to an out-of-towner like you, but around here I fit right in. The people trust me.}
 {162}{}{But you lie to them.}
@@ -90,7 +90,7 @@
 {196}{}{Not an option. It's been three generations since the Great War. It's hard to find anyone who remembers the world before. People live... Differently now. They've fallen too low. Most people would rather submit to the strong, and the few strong people in this town have gone to civil war. That's human nature now. We're not *ready* to go back to those ways. Until we are, we need a strong leader. We need a mayor. We need *me*.}
 {197}{}{That's a lot of food for thought. I need to reflect on it.}
 
-#Второе задание:
+#Г‚ГІГ®Г°Г®ГҐ Г§Г Г¤Г Г­ГЁГҐ:
 {200}{}{We need to get to the bottom of this. Those lowlifes would have to be pretty stupid to attack my girls. There might be another force pulling the strings. Something's happened to some of my men - I think it might be connected.}
 {201}{}{What happened?}
 {202}{}{Some of our soldiers got under fire on the street. I want you to investigate it. The survivor's down the hall, start with him. You'll be paid when the investigation's complete.}
@@ -142,7 +142,7 @@
 {249}{}{Right. Goodbye, Mr. Thompson!}
 {250}{}{Diplomacy, economy, all the work of restoring Reno's old glory. We'll have to rebuild the town hall and recruit more men. Remnants of Stryker's gang will probably keep making trouble - sabotage, assassinations, or just joining the thugs on the street. There's a lot of work to do for me.}
 
-#Оружейный бонус
+#ГЋГ°ГіГ¦ГҐГ©Г­Г»Г© ГЎГ®Г­ГіГ±
 {251}{}{I can help in the coming fight, but I need a better weapon.}
 {252}{}{Alright. What do you want?}
 {253}{}{[9mm machine gun and 40 rounds]}
@@ -154,7 +154,7 @@
 {259}{}{I'm counting on your help. Take a stimpak, just in case.}
 {260}{}{No problem.}
 
-#Крыша для концерта в Коттон-клубе
+#ГЉГ°Г»ГёГ  Г¤Г«Гї ГЄГ®Г­Г¶ГҐГ°ГІГ  Гў ГЉГ®ГІГІГ®Г­-ГЄГ«ГіГЎГҐ
 {300}{}{I represent the Cotton Club. The owner would like to pay you to provide protection for an upcoming concert.}
 {301}{}{Is that right? That bum can't even pay his fees on time, and now he's throwing a show? Hmm... This would be good to get everything he owes us. Fine, I'll put people on it, but I want half of his earnings for the show.}
 {302}{}{I'll tell this to him.}

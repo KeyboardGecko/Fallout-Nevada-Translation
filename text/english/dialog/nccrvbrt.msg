@@ -130,3 +130,4 @@
 {1110}{}{Looking for something, beautiful?}
 {1114}{}{Show me what you have again. I think I forgot something.}
 {1136}{}{[Twists his lips in a grim smirk] Well, you got me. Yeah, I do get a profit. Buying tickets from me is much more expensive. But I think that's fair considering I need to process the bartered goods later.}
+#
