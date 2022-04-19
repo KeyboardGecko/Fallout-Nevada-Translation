@@ -56,7 +56,7 @@
 {158}{}{[Walk away]}
 {159}{}{[He nods] Perhaps you have some potential.}
 
-{160}{}{I'll make one thing clear. The Wrights are a family with a dignity. Don't think this occasion makes you one of us. Keep in mind - you work for us, you don't *help* us. Don't you even dare to use that word. We're not beggars, we don't need charity. Do you understand me?}
+{160}{}{I'll make one thing clear. The Wrights are a family with dignity. Don't think this occasion makes you one of us. Keep in mind - you work for us, you don't *help* us. Don't you even dare to use that word. We're not beggars, we don't need charity. Do you understand me?}
 {161}{}{I understand, Mr. Wright.}
 {162}{}{Very well. [he leans back in his chair, interlacing his fingers on his stomach] I have some errands for a man like you... For someone not from around. I pay well - as long as the work is done correctly.}
 {163}{}{I'm listening.}
