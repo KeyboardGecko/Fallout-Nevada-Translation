@@ -53,7 +53,7 @@
 {158}{}{What's your opinion on Nelson?}
 {159}{}{Why didn't you leave, like everyone else?}
 {160}{}{An old, but reliable rifle. I bought it in Wind of War. They usually keep good guns for themselves and sell whatever junk is left. I was lucky enough to catch one of the better ones they had in stock. This one, however, has flaws, too. As for skills... I have to count every shot because bullets don't come cheap. That's how I trained.}
-{161}{}{I try to stay away from crazy ones, but this one seems smart. At least I don't see anyone better at organizing things here.}
+{161}{}{I try to stay away from the crazy ones, but this one seems smart. At least I don't see anyone better at organizing things here.}
 {162}{}{I need a quiet place to live. I do not like big cities.}
 {163}{}{Wind of War? Can you show me where it is?}
 {164}{}{Only if you have a map... It's here, in the east, right in the middle of the ruins of the old town.}
