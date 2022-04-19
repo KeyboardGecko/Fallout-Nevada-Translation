@@ -3,7 +3,7 @@
 {102}{}{You see on of the Nelson's men.}
 {103}{}{  }
 
-{110}{}{*Coughs violently, splashing all over the place.*}
+{110}{}{*Coughs violently, splashing blood all over the place.*}
 {111}{}{The patient is not quite sure about your actions.}
 {112}{}{Do you even know what are you doing?}
 
