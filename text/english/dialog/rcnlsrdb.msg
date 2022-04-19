@@ -56,7 +56,7 @@
 {161}{}{I try to stay away from crazy ones, but this one seems smart. At least I don't see anyone better at organizing things here.}
 {162}{}{I need a quiet place to live. I do not like big cities.}
 {163}{}{Wind of War? Can you show me where it is?}
-{164}{}{Only if you have the map... It's here, in the east, right in the middle of the ruins of the old town.}
+{164}{}{Only if you have a map... It's here, in the east, right in the middle of the ruins of the old town.}
 {165}{}{Thanks.}
 {166}{}{I try to stay away from crazy ones, but this one seemed smart. At least I don't see anyone better at organizing things here. But is it important now?}
 
