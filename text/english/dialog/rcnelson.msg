@@ -1,8 +1,8 @@
 {100}{}{You see Nelson.}
 {101}{}{You see a ghoul, burned through with hellish mixture of radiation, Rot gut and huge ambitions to big earnings.}
 
-#Первый диалог
-{110}{}{[Stands looking at you, pretending to be a cowboy from a movie] Who are you? if Wright sent you for negotiations - then get the hell out of here, while I'm in a good mood.}
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
+{110}{}{[An old ghoul stands in the doorway, looking at you, pretending to be a cowboy from a movie] Who are you? if Wright sent you for negotiations - then get the hell out of here, while I'm in a good mood.}
 
 {111}{}{Easy, I have no interest in your beef with some Wright.}
 {112}{}{Then what the hell are you doing here?}
@@ -15,7 +15,7 @@
 {118}{}{Well, then you're no problem to me. Take care for now.}
 {119}{}{You confuse me with someone, I don't know any Wright.}
 
-#При посещении карты на машине
+#ГЏГ°ГЁ ГЇГ®Г±ГҐГ№ГҐГ­ГЁГЁ ГЄГ Г°ГІГ» Г­Г  Г¬Г ГёГЁГ­ГҐ
 {150}{}{What is this? Corvega? Meh - a pickup, 72' model. Shitty car.}
 {151}{}{Well, better than nothing...}
 {152}{}{What would you know about cars, rotting corpse?}
@@ -25,13 +25,13 @@
 {156}{}{Oh yeah, I forget sometimes, the times we live in. If today were 77th, I would show you, what a real car is. But yeah, in our times even a junk with wheels is considered good enough.}
 {157}{}{I would prefer it instead of walking anytime, be sure.}
 
-#Особая ветка для жен. ГГ
+#ГЋГ±Г®ГЎГ Гї ГўГҐГІГЄГ  Г¤Г«Гї Г¦ГҐГ­. ГѓГѓ
 {170}{}{Boop? Is that you? Baby, let me give you a ride on my wheels! Oh... Nevermind, forget it...}
 {171}{}{Who is Boop?}
 {172}{}{Hey, can we have some privacy?! It's not your business!}
 {173}{}{Er, whatever...}
 
-#Про Берча
+#ГЏГ°Г® ГЃГҐГ°Г·Г 
 {180}{}{You know, Lewis Birch is up to something.}
 {181}{}{Amazing - how can you and I think the same things about him! Although, why would you talk about it?}
 {182}{}{He asked me to deliver some encoded message to Hub. That bastard is sly. We should throw him out of the City.}
@@ -42,7 +42,7 @@
 {187}{}{Aha. That was fun, but it's time for me to go.}
 {188}{}{It should be useful for you to know, that he send a report to Hub with a request of people to come here to take over the City. I've seen the report with my own eyes.}
 
-#Основной диалог
+#ГЋГ±Г­Г®ГўГ­Г®Г© Г¤ГЁГ Г«Г®ГЈ
 {200}{}{What do you want?}
 {201}{}{Tell me about the problem with Wright. What happened?}
 {202}{}{I want to know more about you - you're interesting to me.}
