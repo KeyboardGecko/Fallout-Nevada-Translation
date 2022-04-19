@@ -47,12 +47,12 @@
 {201}{}{Tell me about the problem with Wright. What happened?}
 {202}{}{I want to know more about you - you're interesting to me.}
 {203}{}{What can you tell about Uranium City?}
-{204}{}{Why there is so few people living here?}
+{204}{}{Why are there so few people living here?}
 {205}{}{Nothing, everything is good.}
 {206}{}{Between us? The damn swarm of worms shat between us. And each has shat so much, that me or Wright can't even approach. Though, I think sometimes, he's just disgusted by my looks.}
 {207}{}{Yes. I'm Nelson. Remember that.}
 {208}{}{This is my home, and that's it. Lived here almost my entire life. I don't want to travel anymore, not even to go back south.}
-{209}{}{You really want to know? What if I tell they don't belong here? Though yes, most of the locals simply died. Not because of me, don't look at me like that.}
+{209}{}{You really want to know? What if I tell you they don't belong here? Though yes, most of the locals simply died... Not because of me, don't look at me like that.}
 
 {210}{}{Tony lays lifeless in your room.}
 {211}{}{I don't like bad news... Yes I knew, he hasn't much time left. I hoped, he will go through ghoulification, like me. But no!}
