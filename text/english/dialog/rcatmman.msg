@@ -116,6 +116,7 @@
 {258}{}{I'll think about it.}
 {259}{}{I have clean water.}
 {260}{}{I've got you clean water.}
+#pounds vs gallons?
 {261}{}{I hope there'll be at least 30 POUNDS of water?}
 {262}{}{Yes, 15 flasks, 2 pounds each.}
 {263}{}{No, I don't have such amount.}
