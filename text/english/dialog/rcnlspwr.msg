@@ -3,16 +3,16 @@
 {102}{}{Leave me alone! I'll drink myself to death without Nelson.}
 {103}{}{It's a test, yo!}
 
-#ƒË‡ÎÓ„
+#√Ñ√®√†√´√Æ√£
 {107}{}{Make yourself at home.}
 {108}{}{Somehow you don't look particularly friendly. As if your hands itching for a fight.}
 {109}{}{Would the sheriff waste his time on empty talk?}
 
-{110}{}{[Scratching his long unshaved chin with hairy hand] You will call me Juan. And I don't give a shit what do your think about it. And if you want to argue, I'm always at your service.}
+{110}{}{[Scratching his long unshaved chin with a hairy hand] You will call me Juan. And I don't give a shit what you think about it. And if you want to argue, I'm always at your service.}
 {111}{}{I see you're a skilled debater.}
 
 {112}{}{[Examines his thick palms] These hands handled so many arguments that yours will be a piece of cake. [He folds his arms and looks at you dismissively and sharply] Don't believe me? You have a right not to. It's never too late for some proof.}
-{113}{}{Good. I accept the challenge! Where it will be more convenient to beat your face?}
+{113}{}{Good. I accept the challenge! Where would you like me to beat your face?}
 {114}{}{I do not want anyone to prove anything to me right now. Let's just talk?}
 {115}{}{I don't like this chat, so I leave.}
 
@@ -23,15 +23,15 @@
 {120}{}{How do you feel about Nelson?}
 {121}{}{Enough chatter for today.}
 
-{122}{}{You're hard on hearing? Juan, I told you already. I worked at the mine until it closed. I could still work now, but there's no one to pay me.}
+{122}{}{You're hard of hearing? Juan, I told you already. I worked at the mine until it closed. I could still work now, but there's no one to pay me.}
 {123}{}{I came from Vegas, right after they stopped giving me jobs. They said that I have a bad temper. Ha! For real?! They should regret that they got rid of me.}
 {124}{}{G-great fellow. I immediately loved him as a brother. Just try to touch him and you're dead, hear me? And then - who else but him can organize everything here?}
-{125}{}{[Scratches the chest with thick fingers and assesses you] I'm not a masochist. It's not for me to get into fights for no reason. But if you want to try to beat me in arm wrestling, I'm at your service. Right now, on Marilyn's desk. Whoever loses pays 100 bucks. How do you like that proposition?}
+{125}{}{[Scratches his chest with his thick fingers and assesses you] I'm not a masochist. It's not for me to get into fights for no reason. But if you want to try to beat me in arm wrestling, I'm at your service. Right now, on Marilyn's desk. Whoever loses pays 100 bucks. How do you like that proposition?}
 {126}{}{Excellent! I place my bet and accept the challenge!}
 {127}{}{I first ask a few questions.}
 {128}{}{Can't do right now. Later.}
 
-{129}{}{[Whistles] Hey, everyone in the bar! Look how I'll give someone hell.}
+{129}{}{[Whistles] Hey, everyone in the bar! Look! I'm about to give someone hell.}
 {130}{}{[Go to the bar, sit at a table and start a match]}
 {131}{}{Wouldn't Marylin mind it?}
 {132}{}{Probably she would. But I didn't ask her.}
@@ -40,13 +40,13 @@
 {134}{}{I'm not healthy, cough-cough, maybe next time.}
 {135}{}{I just changed my mind. And I don't care what you think about it.}
 
-#œÓ “ÓÌË
+#√è√∞√Æ √í√Æ√≠√®
 {140}{}{Tony passed out.}
 {141}{}{It must've happened someday. I hope he gets a place in hell. Somewhere near the exit.}
 {142}{}{Let's change the topic.}
 {143}{}{That's all.}
 
-#—ÓÒÚˇÁ‡ÌËÂ
+#√ë√Æ√±√≤√ø√ß√†√≠√®√•
 {150}{}{*Ar-r-rg!*}
 {151}{}{*Hmmm-m!*}
 {152}{}{*Hy-y-y-a*}
