@@ -126,12 +126,12 @@
 {221}{}{Another question.}
 {222}{}{The office of the miners' guild. It's locked, it's dark, and there are rats inside. There's nothing to do there. It used to be the busiest place in Uranium City, not counting the mine. Now the people are gone and no one goes there.}
 {223}{}{Tell me about the neighborhood.}
-{224}{}{You can say we are on the edge of the civilization. And, honestly speaking, I like it. In the best-case scenario a caravan from Hub will pass through, but mostly we are cut off. Everyone tries to get to new Reno... Or away from it.}
+{224}{}{You can say we are on the edge of civilization. And, honestly speaking, I like it. In the best-case scenario a caravan from Hub will pass through, but mostly we are cut off. Everyone tries to get to new Reno... Or away from it.}
 {225}{}{Tell me about the mine.}
 {226}{}{We have one mine here. It's from before the war. We had been mining uranium ore for Mr. Wright in New Reno for over a year when those mutants came and destroyed everything. As a result, the settlement is mostly abandoned, the ore hasn't been processed, and we're trying to do something more profitable. Farming, for example.}
 {227}{}{How did it all start here?}
 {228}{}{From Mr. Wright and his sons. He decided to revive the city's power plant in New Reno and sent his sons to the mines. They liked Uranium City because there was at least some, albeit rudimentary, technical equipment. Then a guild of miners was formed. At first the main workforce were slaves, but it turned out to be more expensive than hiring workers. That's how we lived for more than a year. And lived well.}
-{229}{}{I don't get one thing - how people worked here under constant radiation?}
+{229}{}{I don't get one thing - how people worked while being constantly radiated?}
 {230}{}{Good question. Nelson sometimes even glowed at night after the mine. You could save money on electricity with him, haha!}
 {231}{}{Is the mine really that radioactive?}
 {232}{}{Well, not as much as you might think. There's no purified uranium, just ore. The real radiation was where the ore was processed. And yet it's a sore point for Uranium City. When everything was under Wright, slaves and free laborers worked here. They were prone to... casualties. After all, being irradiated, one could still work for more than a year until the disease took its toll. And in that time, one could gather enough to feed one's family - or live one's short life bright and interesting. That's not so bad these days.}
