@@ -164,7 +164,7 @@
 {267}{}{Who should I talk to about the monsters?}
 {268}{}{What is the problem with the mine ownership?}
 {269}{}{What kind of workers do we need to bring back to get started?}
-{270}{}{That's not all that interest me.}
+{270}{}{That's not all that interests me.}
 {271}{}{Nelson tracks them down for a long time. If anyone knows something about them, then he's your man. I've heard that there are three monsters and they navigate by sound.}
 {272}{}{I heard, that Wright went bankrupt because of the problems with the mine, he can't even hire a caravan to our city. Raises the question, how will he manage the production. Now, Nelson, even being a strange fella, at least knows the mine like the back of his hand. Wright decided to get rid of him and his gang to have less problems. Only that didn't help him.}
 {273}{}{Let me tell you about everybody.}
