@@ -10,7 +10,7 @@
 {115}{}{Nothing today.}
 {116}{}{Trying to negotiate with different people and a caravan to deliver us some supplies.}
 {117}{}{You're buying something?}
-{118}{}{Yes, our workers need equipment and tools to work in the mine - shovels, boots, explosives, medicine. In general, all that can help. Prices are listed on the board.}
+{118}{}{Yes, our workers need equipment and tools to work in the mine - shovels, boots, explosives, medicine. In general, anything that can help. Prices are listed on the board.}
 {119}{}{That's all I need.}
 
 {120}{}{The machine operator said that I could collect my fee.}
