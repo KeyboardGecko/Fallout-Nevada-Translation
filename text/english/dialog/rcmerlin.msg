@@ -154,18 +154,18 @@
 {257}{}{Tell me once more about what happened here.}
 {258}{}{}
 {259}{}{Why don't you move to Reno or somewhere else? Somewhere better?}
-{260}{}{Everyone says that - if it's bad here, then we should get out of here to where it's better. But this is my home! And you know what? If it smells bad here, I should just clean the shit up.}
+{260}{}{Everyone says that - if it's bad here, then we should leave and go someplace better. But this is my home! And you know what? If it smells bad here, I'll just clean the shit up.}
 {261}{}{Okay. But that's not all.}
 {262}{}{What must be done to restore the place?}
 {263}{}{Oh, it's not going to be easy. First, we have to get rid of the monsters, whoever they are. Second, we need to determine the ownership of the mine. Third, we have to get at least some of the workforce back. It's all complicated.}
-{264}{}{Complications doesn't scare me. I will deal with it!}
+{264}{}{Complications don't scare me. I'll deal with it!}
 {265}{}{Really? That's great. I don't know what you have in mind, but the mine needs a lot of work, believe me.}
 {266}{}{I will manage it somehow. Now let's make something more clear.}
 {267}{}{Who should I talk to about the monsters?}
 {268}{}{What is the problem with the mine ownership?}
-{269}{}{What kind of workers we need to bring back to get started?}
+{269}{}{What kind of workers do we need to bring back to get started?}
 {270}{}{That's not all that interest me.}
-{271}{}{Nelson tracks them down for a long time. If anyone knows something about them, then that's the man. I've heard that there are three monsters and they navigate by sound.}
+{271}{}{Nelson tracks them down for a long time. If anyone knows something about them, then he's your man. I've heard that there are three monsters and they navigate by sound.}
 {272}{}{I heard, that Wright went bankrupt because of the problems with the mine, he can't even hire a caravan to our city. Raises the question, how will he manage the production. Now, Nelson, even being a strange fella, at least knows the mine like the back of his hand. Wright decided to get rid of him and his gang to have less problems. Only that didn't help him.}
 {273}{}{Let me tell you about everybody.}
 {274}{}{The mutants are finished! All three corpses lay dead near the entrance to the mine.}
@@ -173,9 +173,9 @@
 {276}{}{Somehow I don't see you too much excited.}
 {277}{}{Ahh, sorry. So much stuff to do, even without the monsters, that the head goes spinning.}
 {278}{}{Thanks, see you later.}
-{279}{}{Joseph is one of the most adequate administrators of the guild. He is the only one who can organize production, not let it slip away. The difficulty is that no one can find him after the trouble with the mine. He seems to be hiding from Mr. Wright, or maybe he has already been found by him.}
+{279}{}{Joseph is one of the most competent administrators of the guild. He is the only one who can organize production, not let it slip away. The difficulty is that no one can find him after the trouble with the mine. He seems to be hiding from Mr. Wright, or maybe he's already been found.}
 {280}{}{The others?}
-{281}{}{Carl - the operator of refinement ore machine. Some said that he went to Reno. His family is somewhere in the slums. It seems to me that his wife doesn't want him to come back here.}
+{281}{}{Carl is the operator of refinement ore machine. Some said that he went to Reno. His family is somewhere in the slums. It seems to me that his wife doesn't want him to come back here.}
 {282}{}{Michael - a guild supplier. He too decided to go back to Reno to give apologies to Wright. I don't know what happened to him.}
 {283}{}{You know, it's enough for now.}
 {284}{}{Then let's talk about something else.}
