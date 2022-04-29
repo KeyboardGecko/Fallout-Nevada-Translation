@@ -6,13 +6,13 @@
 {112}{}{I want to ask how the things are going.}
 {113}{}{Bye.}
 
-{114}{}{Well, my wife didn't even wanted me to leave the house, but I persuaded her and left her all my money. Pretty risky move, but you gave me new hope for life in this town. So I fully expect to get 'em back, even if I die from radiation after a year.}
+{114}{}{Well, my wife didn't even want me to leave the house, but I persuaded her and left her all my money. Pretty risky move, but you gave me new hope for life in this town. So I fully expect to get 'em back, even if I die from radiation after a year.}
 {115}{}{Uh, a year?}
 {116}{}{Well, people don't live long around here. And I have to work with the ore processing machine, you know.}
 {117}{}{Tell me about your job.}
 
-{118}{}{Yeah, not very good, really. The machine's automated computer broke down, Now I have to manually manage this hulking thing. It takes a lot time, and I'm more exposed to radiation that way. I have to normalize my schedule and work only four times a day, with long breaks. If we had a supplier, he probably could find the part to fix the machine.}
-{119}{}{Yeah, not very good, really. The machine's automated computer broke down, Now I have to manually manage this hulking thing. It takes a lot time, and I'm more exposed to radiation that way. I have to normalize my schedule and work only four times a day, with long breaks. I ordered the needed part from our supplier, but search will take some time.}
+{118}{}{Yeah, not very good, really. The machine's automated computer broke down, Now I have to manually manage this hulking thing. It takes a lot of time, and I'm more exposed to radiation that way. I have to normalize my schedule and work only four times a day, with long breaks. If we had a supplier, he probably could find the part to fix the machine.}
+{119}{}{Yeah, not very good, really. The machine's automated computer broke down, Now I have to manually manage this hulking thing. It takes a lot of time, and I'm more exposed to radiation that way. I have to normalize my schedule and work only four times a day, with long breaks. I ordered the needed part from our supplier, but the search will take some time.}
 {120}{}{Now everything is just fine! The computer on the machine now does all the work for me, and I don't have much time to sit in an irradiated room. Thanks for your help, }
 {121}{}{sheriff.}
 {122}{}{wanderer.}
@@ -28,7 +28,7 @@
 {132}{}{Goodbye.}
 {133}{}{The operator looks worried, as you are looking for the item in your pockets.}
 
-{134}{}{Near the mine stands a big mechanic machine for the ore processing. You put raw ore at one side and get purified uranium and mountains of slag at the other. I'm controlling that machine. The matter is more complicated than it seems to be. Besides, the job happens near irradiated ore.}
+{134}{}{Near the mine stands a big mechanic machine for the ore processing. You put raw ore at one side and get purified uranium and mountains of slag at the other. I'm in charge of that machine. The matter is more complicated than it seems to be. Besides, the job happens near irradiated ore.}
 {135}{}{So why are you working there, if you're constantly exposed?}
 {136}{}{Because it's the only honest way to feed my family. Of course, I will die in a year - two at best, if I don't exceed the rate of exposure. But, during this time, my family will be supplied with money for several years ahead.}
 
