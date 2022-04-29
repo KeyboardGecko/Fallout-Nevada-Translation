@@ -190,13 +190,13 @@
 {293}{}{Money - it's everything I ever need!}
 {294}{}{What, really? Just like that? You refuse? Great! But let me at least give you a drink on the house.}
 {295}{}{Thanks.}
-{296}{}{I knew, you will say that.}
+{296}{}{I knew you'd say that.}
 {297}{}{Yeah. Bye.}
 
-{298}{}{Wait! you did so much, would you leave us like this? Perhaps, this won't sound that great, but I would like to see you as our sheriff. I even have a badge for this case.}
+{298}{}{Wait! you did so much, would you leave us just like that? Maybe this won't sound that great, but I would like to see you as our sheriff. I even have a badge for you.}
 {299}{}{I will be honored to be a sheriff of this town. Thank you for your trust, Marilyn.}
 {300}{}{Thank you, Marilyn, but I already serve another city and I can't betray it. Leave this badge to yourself - you've earned it.}
-{301}{}{[Marilyn takes the badge and pins it on your chest] Let it remind you of good deeds and order! By itself this title doesn't require anything, but when you will be in our parts - don't forget to stop by and ask how the things are going. Okay, sheriff?}
+{301}{}{[Marilyn takes the badge and pins it on your chest] Let it remind you of good deeds and order! By itself this title doesn't require anything, but when you're around these parts - don't forget to stop by and ask how things are going. Okay, sheriff?}
 {302}{}{Okay, Marilyn. I won't let you down.}
 {303}{}{Wow, so shiny!}
 {304}{}{Me?! I was a local sheriff all this time, dammit. But - I understand. No harsh feelings.}
