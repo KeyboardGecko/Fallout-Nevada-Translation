@@ -91,11 +91,11 @@
 {242}{}{Funny idea. The only one that has a decent firepower here is Kelly. talk to him, perhaps, he will agree to go with you.}
 {243}{}{I know. It's in the mine, and I have the key from the storage room, but I won't go there myself. I can assemble a whole dynamite pack. Oh, I see, you have a brahmin... Damn, why it has to be Betty!? Ah, fine. Nothing that can be done.}
 {244}{}{Give me the key, I will get the dynamite.}
-{245}{}{Not so fast, monster! I spent the best years of my life in this mine. And you want to blow it all up? I don't want to have to dig it back up afterwards. The most important - there is not much dynamite left. This is the last supply. What can you say about that?}
+{245}{}{Not so fast, monster! I spent the best years of my life in this mine. And you want to blow it all up? I don't want to have to dig it back up afterwards. And more importantly - there isn't much dynamite left. This is the last supply. What do you say about that?}
 {246}{}{I'm a demolition expert. You can trust me.}
-{247}{}{Yes, it's a risk. But understand, while mutants are here, you have nothing to be so concerned about anyway. Who wants your dynamite, if even you are afraid to go get it? At least we have a chance.}
+{247}{}{Yes, it's a risk. But while the mutants are here you have nothing to do anyway. Who wants your dynamite, if even you are afraid to go get it? At least I have a chance.}
 {248}{}{I have nothing to assure you.}
-{249}{}{Fine, I believe you. Here is the key. And... Be careful there. Bring me the dynamite sticks, I will assemble them, to be sure in the results. You can never know...}
+{249}{}{Fine, I believe you. Here is the key. And... Be careful there. Bring me the dynamite sticks, I will assemble them, to be sure of the results. You never know...}
 {250}{}{That was the right decision, Nelson.}
 
 {251}{}{I managed to get few dynamite sticks. Can you assemble it?}
@@ -123,7 +123,7 @@
 {277}{}{ The most important thing needed right now is explosives. A lot of it. If we have it, we will keep our independence from the big daddy from the City.}
 {278}{}{What kind of explosives do you need?}
 {279}{}{About the team - who do you have in mind?}
-{280}{}{It seems you have everything that is necessary. So - will you restore the Uranium City?}
+{280}{}{It seems you have everything necessary. So - will you restore Uranium City?}
 {281}{}{Hey, you're right! We have people, tools too. First we must refine some ore and sell it to Wright. Then we will restore our connection with south and the east. We must earn some money to start, and attract workers. Now, everyone to their places! Get to work!}
 {282}{}{Damn, little bossy huh...}
 {283}{}{Three people first. talk about it with Marilyn, she knows better how to find them.}
