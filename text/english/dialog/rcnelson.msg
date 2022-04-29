@@ -91,7 +91,7 @@
 {242}{}{Funny idea. The only one that has a decent firepower here is Kelly. talk to him, perhaps, he will agree to go with you.}
 {243}{}{I know. It's in the mine, and I have the key from the storage room, but I won't go there myself. I can assemble a whole dynamite pack. Oh, I see, you have a brahmin... Damn, why it has to be Betty!? Ah, fine. Nothing that can be done.}
 {244}{}{Give me the key, I will get the dynamite.}
-{245}{}{Not so fast, monster! I spent the best years of my life in this mine. And you want to blow it all up? I don't want to dig it back afterwards. The most important - there is not much dynamite left. This is the last supply. What can you say about that?}
+{245}{}{Not so fast, monster! I spent the best years of my life in this mine. And you want to blow it all up? I don't want to have to dig it back up afterwards. The most important - there is not much dynamite left. This is the last supply. What can you say about that?}
 {246}{}{I'm a demolition expert. You can trust me.}
 {247}{}{Yes, it's a risk. But understand, while mutants are here, you have nothing to be so concerned about anyway. Who wants your dynamite, if even you are afraid to go get it? At least we have a chance.}
 {248}{}{I have nothing to assure you.}
