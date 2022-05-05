@@ -4,19 +4,19 @@
 
 #######################################################
 #
-#        Начало диалога и рядовые фразы
+#        ГЌГ Г·Г Г«Г® Г¤ГЁГ Г«Г®ГЈГ  ГЁ Г°ГїГ¤Г®ГўГ»ГҐ ГґГ°Г Г§Г»
 #
 #######################################################
 
-{110}{}{Hi, citizen }
-{112}{}{. How can I help you?}
+{110}{}{Hi, citizen.}
+{112}{}{How can I help you?}
 {113}{}{You? After that business with Joshua, I thought they would isolate you. Strange to still see you here.}
 {114}{}{I wanted to say goodbye before I leave. So... Goodbye.}
 {115}{}{Anything else?}
 
 #######################################################
 #
-#        Супербонус
+#        Г‘ГіГЇГҐГ°ГЎГ®Г­ГіГ±
 #
 #######################################################
 
@@ -101,7 +101,7 @@
 
 #######################################################
 #
-#        Журналы
+#        Г†ГіГ°Г­Г Г«Г»
 #
 #######################################################
 
@@ -128,7 +128,7 @@
 
 #######################################################
 #
-#        Совращение
+#        Г‘Г®ГўГ°Г Г№ГҐГ­ГЁГҐ
 #
 #######################################################
 
@@ -144,7 +144,7 @@
 {241}{}{[Tries to push you away] No, stop! What are you doing? We, we can't... The rules... The Overseer... [breathes heavily] ...l-leave me alone, don't touch me. We can't... Physical contact is forbidden, remember?}
 {242}{}{Oh man... }
 {243}{}{[Swallows] Wha... No, don't, wait... Why?}
-
+#female vs male player character?
 {244}{}{D-don't... }
 {245}{}{It's not what you expected, is it, Sam? [hug him tighter] Do you feel that? It's soft, isn't it?... }
 {246}{}{Okay, that's enough. No more, alright?}
@@ -158,11 +158,11 @@
 
 #######################################################
 #
-#             Плавающие случайные фразы
+#             ГЏГ«Г ГўГ ГѕГ№ГЁГҐ Г±Г«ГіГ·Г Г©Г­Г»ГҐ ГґГ°Г Г§Г»
 #
 #######################################################
 
-#Фразы после истечения первого срока игры (GAME_TIME_IN_DAYS > TIME_LIMIT_1):
+#Г”Г°Г Г§Г» ГЇГ®Г±Г«ГҐ ГЁГ±ГІГҐГ·ГҐГ­ГЁГї ГЇГҐГ°ГўГ®ГЈГ® Г±Г°Г®ГЄГ  ГЁГЈГ°Г» (GAME_TIME_IN_DAYS > TIME_LIMIT_1):
 
 {270}{}{Without well-armed guards, we're taking a big risk.}
 {271}{}{Sergeant Graves is acting strange lately.}
@@ -175,7 +175,7 @@
 {278}{}{Great, now I'm imagining things... }
 {279}{}{Sergeant Stark asked for a lot of ammo.}
 
-#Обычные фразы:
+#ГЋГЎГ»Г·Г­Г»ГҐ ГґГ°Г Г§Г»:
 
 {280}{}{This thing is crap.}
 {281}{}{I'm sweating already.}
@@ -190,11 +190,11 @@
 
 #######################################################
 #
-#        Выдача снаряжения
+#        Г‚Г»Г¤Г Г·Г  Г±Г­Г Г°ГїГ¦ГҐГ­ГЁГї
 #
 #######################################################
 
-#Предохранитель для Джерлака
+#ГЏГ°ГҐГ¤Г®ГµГ°Г Г­ГЁГІГҐГ«Гј Г¤Г«Гї Г„Г¦ГҐГ°Г«Г ГЄГ 
 {300}{}{I need a fuse for a water pump.}
 
 {301}{}{Oh yeah, I got that order. Just a minute.}
@@ -215,7 +215,7 @@
 {313}{}{Done. Sign here.}
 {314}{}{Whatever you say.}
 
-#Поезд
+#ГЏГ®ГҐГ§Г¤
 {320}{}{Is there anyone in the city that could repair a train?}
 {321}{}{Uh, maybe someone from the technical services could help you out. Why are you asking me?}
 {322}{}{Okay.}
