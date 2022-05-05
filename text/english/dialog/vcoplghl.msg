@@ -1,7 +1,7 @@
 {100}{}{You see Ely.}
 {101}{}{You see a terribly mutilated ghoul. It's repulsive just to look at him.}
 
-#Первый разговор
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {108}{}{[You stare at each other in shock. Whoever this creature is, he hasn't seen anyone in a long time.]}
 {109}{}{[Move]}
 
@@ -22,7 +22,7 @@
 {121}{}{What is this place?}
 {122}{}{Maybe later.}
 
-#Пов'орный разговор
+#ГЏГ®Гў'Г®Г°Г­Г»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {130}{}{Are you still here? What are you hanging around for?}
 {131}{}{I have a few questions.}
 {132}{}{I'm just on my way out.}
@@ -72,8 +72,8 @@
 {168}{}{Canada's annexing?}
 {169}{}{Those beaver-loving, maple-syrup-drinking, milk-bagging idiots... When the shit hit the fan, we needed to go through them to get to Alaska. It was a good chance to get that "country's" resources. Oh, sure, there were rebels here and there... But most of them knew what side they wanted to be on.}
 
-#Разоблачение
-{170}{}{Right now, I've got nothing except a toilet. But before the war I was a family man with two old people at my side.}
+#ГђГ Г§Г®ГЎГ«Г Г·ГҐГ­ГЁГҐ
+{170}{}{It's my home now, I've got a toilet, a stove and a chair to sit in. But before the war I was a family man with two old people at my side.}
 {171}{}{So you're here all alone? Where is everybody?}
 {172}{}{I saw something like a warehouse outside. Do you know if it's locked?}
 {173}{}{Before the war? What are you talking about?}
@@ -99,7 +99,7 @@
 {191}{}{There's no statute of limitations on this crime. It's time to pay, Ely Gorbinsky. [Attack]}
 {192}{}{Fine, Ely. I'll let you live for now. Who knows what I would do in your place?}
 
-#Полное разоблачение
+#ГЏГ®Г«Г­Г®ГҐ Г°Г Г§Г®ГЎГ«Г Г·ГҐГ­ГЁГҐ
 {193}{}{Say, about your story... Are you sure everything happened in a week?}
 {194}{}{[Grits his teeth and closes his eyes] No! Don't ask me! I can't tell... [grabs his head and falls to the ground] Shut up, scumbag! - What are you doing? Leave me alone! No, I won't tell them! - [curls up, raking fingers across his skull] - Too late, Gorbinsky! The world is on fire, and we're burning with it! We're all going to die - and you, Ely, will be the first! - Stop, no, I can fix this! NOOO!!! [the ghoul drops on the ground, shaking]}
 {195}{}{Woah... }
