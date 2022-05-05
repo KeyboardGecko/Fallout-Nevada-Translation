@@ -203,7 +203,7 @@
 {10200}{}{"Guns and Bullets"}
 {10201}{}{A gun rag. A magazine devoted to the practical use of firearms, and the occasional biased review.}
 {10300}{}{Iguana bits}
-{10301}{}{Some charred meat and vegetables on a cooking stick. Delicious and nutritious, but you’ll never know, from what harmful sites can be these iguanas?}
+{10301}{}{Some charred meat and vegetables on a cooking stick. Delicious and nutritious, but youÂ’ll never know, from what harmful sites can be these iguanas?}
 {10400}{}{Birch's Report}
 {10401}{}{A lot of encrypted information. The inscription on the label says: "Deliver to the Hub, the Union of Atomic Workers".}
 {10500}{}{Ignition key}
@@ -922,7 +922,7 @@
 {47201}{}{You are brave, and therefore it is easier for you to orient yourself when there is a mess around.}
 {47300}{}{Irradiated Nuka-Cola}
 {47301}{}{Amazing pre-war drink in a slightly dirty bottle. Has a wonderful aftertaste and a very questionable glow in the dark.}
-{47400}{}{Magnet-laser pistol Ì2}
+{47400}{}{Magnet-laser pistol ÃŒ2}
 {47401}{}{This laser gun Wattz 1000 has undergone various improvements, which increased its capacity by 50% at price of range and power consumption. Min. ST: 3.}
 {47500}{}{Do not use}
 {47501}{}{Do not use!}
@@ -1212,11 +1212,11 @@
 {63101}{}{In this smoking suit you are irresistible! Wear it, if you want to impress your interlocutor.}
 {63200}{}{Leather armor M3}
 {63201}{}{Leather armor with an additional layer of protection from the skins of acid geckos. The known properties of these skins make the armor more resistant to damage from fire, acid and plasma.}
-{63300}{}{Metal armor Ì2 (reinforced.)}
+{63300}{}{Metal armor ÃŒ2 (reinforced.)}
 {63301}{}{Armor, skillfully formed from polished metal plates with additional protection for the knees, elbows and other less protected parts of the body.}
-{63400}{}{Metal armor Ì2 (reflective.)}
+{63400}{}{Metal armor ÃŒ2 (reflective.)}
 {63401}{}{Armor, skillfully formed from polished metal plates with a mirror surface reflecting light or similar attacks.}
-{63500}{}{Metal armor Ì3}
+{63500}{}{Metal armor ÃŒ3}
 {63501}{}{Armor, skillfully formed from polished metal plates with many fortifications and a mirror surface.}
 {63600}{}{Redneck's key}
 {63601}{}{Standard key from one of the doors in Provo.}
@@ -1410,7 +1410,7 @@
 {73301}{}{Glasses with chrome plated glasses.}
 {73400}{}{Armored plates}
 {73401}{}{Protective polymeric plates, made, apparently, from the remains of destroyed combat armor.}
-{73500}{}{Body armor Ì2}
+{73500}{}{Body armor ÃŒ2}
 {73501}{}{A light army bulletproof vest with elements to quickly unload all sorts of junk. Protects only a part of the torso, since it was meant to be used by Emergency Response Units members. Some of armored plates had been replaced by more sturdy ones.}
 {73600}{}{Winchester Pistol}
 {73601}{}{This gun is made by analogy with a plasma rifle of the "Winchester Arms" company. Gained no popularity because of competition with plasma pistols from the Gaston Glock AI. Min. ST: 5.}
@@ -1442,8 +1442,8 @@
 {74901}{}{Standard door lock key.}
 {75000}{}{Mastery of the kubotan}
 {75001}{}{Learning to use the kubotan in combat allows you to inflict more damage to the enemy.}
-{75100}{}{Remains of Sergeant Kong}
-{75101}{}{The withered remains of a man dressed in army vest and clutching a cowboy hat in his hand. Judging by the skits, all this once was Sergeant Kong.}
+{75100}{}{Remains of Major Kong}
+{75101}{}{The withered remains of a man dressed in army vest and clutching a cowboy hat in his hand. Judging by the skits, all this once was Major Kong.}
 {75200}{}{Knapsack Flamethrower}
 {75201}{}{Flamethrower model Flare-450, equipped with a large knapsack. Shoots a short jet of a flammable mixture. A special fuel is necessary. Min. ST: 6.}
 {75300}{}{Poker chip "El Capitan"}
@@ -1458,7 +1458,7 @@
 {75901}{}{The recipe for the preparation of the "Atomic cocktail". Hardly you will be able to achieve pre-war quality, but it won't be bad either.}
 {76000}{}{Worn minigun}
 {76001}{}{Minigun CZ53 Rockwell in very poor condition. Min. ST: 7.}
-{76100}{}{Ñompromising evidence on Mordino}
+{76100}{}{Ã‘ompromising evidence on Mordino}
 {76101}{}{This is a record of the debate at Stryker's meeting, during which it was decided to remove Mr. Mordino, when the power in Reno will be seized by the Stryker's group. Mordino certainly will love to hear this.}
 {76200}{}{"Gonzo style"}
 {76201}{}{With this quality combat knife you can easily reveal any pretense and lie, if you have enough skills. Min. ST: 1.}
@@ -1504,4 +1504,4 @@
 {78400}{}{Thompson's Plasmogun}
 {78401}{}{Impulse weapon prototype by Thompson & Glock. Developed as an assault weapon for army regular forces, but didn't have time to enter mass production. Factory stamp "Lucky Tom 2029". Min. ST: 6}
 {78500}{}{The list of Nisckiguan}
-{78501}{}{A casually scrawled list of items needed for the operation: 1) pure water; 2) dope herb, alcohol or pain reliever; 3) sharp knife; 4) pliers or pincers ; 5) first aid kit with bandages; 6) öHealing powder or stimpaks.}
+{78501}{}{A casually scrawled list of items needed for the operation: 1) pure water; 2) dope herb, alcohol or pain reliever; 3) sharp knife; 4) pliers or pincers ; 5) first aid kit with bandages; 6) Ã¶Healing powder or stimpaks.}
