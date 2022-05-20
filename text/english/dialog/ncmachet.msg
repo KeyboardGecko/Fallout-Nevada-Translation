@@ -114,7 +114,7 @@
 
 #Êâåñò Îëèâåðà ïî äèâåðñèè â êàçèíî
 {220}{}{Mr. Luciano said I should discuss the casino job with you.}
-{221}{}{[He looks around, then leans in, speaking quietly] Boss chose you? I was hoping for some more... Rough. I've been planning this a long time, I want someone who knows the business.}
+{221}{}{[He looks around, then leans in, speaking quietly] Boss chose you? I was hoping for some one more... Rough. I've been planning this a long time, I want someone who knows the business.}
 {222}{}{Whether you trust me or not, Mr. Luciano chose me, so let's get started.}
 
 {223}{}{Okay, we've got two choices of diversions. Do both if you can. First, slip the El Dorado visitors some poisoned beer, so they'll be unhappy with the casino. That'll get Ricardo's attention. Where you get the poison is up to you.}
