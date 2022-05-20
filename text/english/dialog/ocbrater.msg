@@ -1,14 +1,14 @@
 {100}{}{You see Steve.}
 {101}{}{You see a scrawny guy. His clothes are dirty and covered with flakes of rust.}
 
-#Плавающие о'ве'ы
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ Г®'ГўГҐ'Г»
 {102}{}{Help! They're gonna kill me!}
 {103}{}{You bastard!!! She was all I had!}
 {104}{}{Oh, god! She was all I had left!}
 
 #########################################################
 #
-#  Разговор в 'юряге
+#  ГђГ Г§ГЈГ®ГўГ®Г° Гў 'ГѕГ°ГїГЈГҐ
 #
 #########################################################
 
@@ -22,7 +22,7 @@
 
 #########################################################
 #
-#  Разговор НЕ в 'юряге
+#  ГђГ Г§ГЈГ®ГўГ®Г° ГЌГ… Гў 'ГѕГ°ГїГЈГҐ
 #
 #########################################################
 
@@ -40,7 +40,7 @@
 
 #########################################################
 #
-#  О'ве'ы при разговоре в 'юряге
+#  ГЋ'ГўГҐ'Г» ГЇГ°ГЁ Г°Г Г§ГЈГ®ГўГ®Г°ГҐ Гў 'ГѕГ°ГїГЈГҐ
 #
 #########################################################
 
@@ -63,7 +63,7 @@
 
 #########################################################
 #
-#  О'ве'ы при разговоре НЕ в 'юряге
+#  ГЋ'ГўГҐ'Г» ГЇГ°ГЁ Г°Г Г§ГЈГ®ГўГ®Г°ГҐ ГЌГ… Гў 'ГѕГ°ГїГЈГҐ
 #
 #########################################################
 
@@ -75,7 +75,7 @@
 {153}{}{They had me watch the water pump. It's the only source of water out here.}
 {154}{}{Go on.}
 {155}{}{But it's old, and you've got to keep an eye on it. I fell asleep on the job and the fuse burned out... I think that's what it's called. Whatever it is, the pump won't work without it.}
-{156}{}{Long story short, we are out of water. So, everyone was going to have me for it. That's when you came along.}
+{156}{}{Long story short, we were out of water. So, everyone was going to have me for it. That's when you came along.}
 {157}{}{It's all my fault. I nearly got myself killed, I nearly left my sister all alone, I nearly destroyed the whole community... This is heavy. Makes you rethink everything. I feel like a different man... I've got to start taking responsibility.}
 
 {158}{}{It works great, all thanks to you. You didn't just save me, you saved the whole community.}
@@ -92,7 +92,7 @@
 
 #########################################################
 #
-#  Водосборник в Лавлоке
+#  Г‚Г®Г¤Г®Г±ГЎГ®Г°Г­ГЁГЄ Гў Г‹Г ГўГ«Г®ГЄГҐ
 #
 #########################################################
 
@@ -113,7 +113,7 @@
 
 #########################################################
 #
-#  Чем помочь
+#  Г—ГҐГ¬ ГЇГ®Г¬Г®Г·Гј
 #
 #########################################################
 
@@ -132,7 +132,7 @@
 
 #########################################################
 #
-#  Про переселение
+#  ГЏГ°Г® ГЇГҐГ°ГҐГ±ГҐГ«ГҐГ­ГЁГҐ
 #
 #########################################################
 
@@ -149,7 +149,7 @@
 
 #########################################################
 #
-#  Женский вариан' реплик
+#  Г†ГҐГ­Г±ГЄГЁГ© ГўГ Г°ГЁГ Г­' Г°ГҐГЇГ«ГЁГЄ
 #
 #########################################################
 
