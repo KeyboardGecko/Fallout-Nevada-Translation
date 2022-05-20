@@ -5,7 +5,7 @@
 
 ########################################################
 #
-#                Первые реплики диалога
+#                ГЏГҐГ°ГўГ»ГҐ Г°ГҐГЇГ«ГЁГЄГЁ Г¤ГЁГ Г«Г®ГЈГ 
 #
 ########################################################
 
@@ -43,7 +43,7 @@
 
 ########################################################
 #
-#                Вопросы о поселении
+#                Г‚Г®ГЇГ°Г®Г±Г» Г® ГЇГ®Г±ГҐГ«ГҐГ­ГЁГЁ
 #
 ########################################################
 
@@ -71,7 +71,7 @@
 
 ########################################################
 #
-#       Апгрейды и починка оружия
+#       ГЂГЇГЈГ°ГҐГ©Г¤Г» ГЁ ГЇГ®Г·ГЁГ­ГЄГ  Г®Г°ГіГ¦ГЁГї
 #
 ########################################################
 
@@ -108,7 +108,7 @@
 
 ########################################################
 #
-#                Про охо'у
+#                ГЏГ°Г® Г®ГµГ®'Гі
 #
 ########################################################
 
@@ -148,7 +148,7 @@
 
 ########################################################
 #
-#                Квес' - поиск посыльного
+#                ГЉГўГҐГ±' - ГЇГ®ГЁГ±ГЄ ГЇГ®Г±Г»Г«ГјГ­Г®ГЈГ®
 #
 ########################################################
 
@@ -163,14 +163,14 @@
 
 ########################################################
 #
-#                Учас'ие в охо'е
+#                Г“Г·Г Г±'ГЁГҐ Гў Г®ГµГ®'ГҐ
 #
 ########################################################
 
-#Охо'а  - первый разговор
+#ГЋГµГ®'Г   - ГЇГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {300}{}{You, with me? Hmm... I *could* use some help, but I think you'd just get in the way. No offense, but I need someone who knows a thing or two about hunting and surviving.}
 {301}{}{You, with me? No offense, but you're just some stranger. How do I know this isn't a trap? We'll be all alone out there, and I didn't get this old by being careless.}
-{302}{}{You, with me? Hmm... I *could* use some help. I'm getting too old to run around to run around with a spear and do everything myself. An extra pair of hands is just what I need right now.}
+{302}{}{You, with me? Hmm... I *could* use some help. I'm getting too old to run around with a spear and do everything myself. An extra pair of hands is just what I need right now.}
 {303}{}{I'm ready to start. What are the details?}
 {304}{}{I'll keep that in mind. I have some other questions first.}
 
@@ -193,7 +193,7 @@
 {318}{}{Where do all these geckos come from, anyway?}
 {319}{}{They're all over California and Nevada, but I've heard they tend to pop up around radiation. We probably owe all the geckos around here to the nuclear power plant to the north. At least, I've been told it's a nuclear power plant - I've never been crazy enough to go up and check. Even I don't want to deal with *that* many geckos, and even if I did, I'd rather not puke my guts out and die of radiation poisoning.}
 
-#Охо'а - в'орой разговор
+#ГЋГµГ®'Г  - Гў'Г®Г°Г®Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {320}{}{That wasn't the real hunt, was it?}
 {321}{}{No. The last hunt showed that you know how to avoid a few lizards. Now you're going to have to avoid a whole lot of them.}
 {322}{}{Sounds serious. What's the plan?}
@@ -257,7 +257,7 @@
 
 ########################################################
 #
-#                Скорпион Легенда
+#                Г‘ГЄГ®Г°ГЇГЁГ®Г­ Г‹ГҐГЈГҐГ­Г¤Г 
 #
 ########################################################
 {400}{}{I hunted down the legendary scorpion!}
