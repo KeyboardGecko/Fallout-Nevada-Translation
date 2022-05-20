@@ -7,7 +7,7 @@
 {111}{}{My job is to collect the eggs, right?}
 {112}{}{...Without wiping out gecko's population, yeah. Keep at least half of them alive, or we won't have anything to eat next season.}
 {113}{}{You can count on me.}
-{114}{}{I'll be waiting for you by the exit at the other side of a cave. Be careful and try not to run off in fear. You'll be shamed all over the settlement. Won't lend you a helping hand then.}
+{114}{}{I'll be waiting for you by the exit at the other side of the cave. Be careful and try not to run off in fear. You'll be shamed all over the settlement. Won't lend you a helping hand then.}
 {115}{}{I'll see you.}
 
 {120}{}{That was quick. How's the hunt? Any luck?}
@@ -50,7 +50,7 @@
 {152}{}{How many eggs should I bring?}
 {153}{}{At least ten. No less!}
 
-#Женские реплики
+#Г†ГҐГ­Г±ГЄГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {1125}{}{I got the eggs. Is that enough?}
 {1128}{}{Show me.}
 {1137}{}{Wait, hold on. I'm the one who risked my skin for these eggs. Why shouldn't I just take them and sell them myself?}
