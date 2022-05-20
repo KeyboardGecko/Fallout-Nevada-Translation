@@ -1293,7 +1293,7 @@
 {67200}{}{Caravan meal}
 {67201}{}{A satisfying meal that can be cooked quickly and easily in the field.}
 {67300}{}{"Blood purifier"}
-{67301}{}{Traditional medicine, based on healing herbs. Able to remove toxins and radionuclides from organism and even cure some types of infectious diseases.}
+{67301}{}{Traditional medicine, based on healing herbs. Able to remove toxins and radionuclides from organisms and even cure some types of infectious diseases.}
 {67400}{}{Concert posters}
 {67401}{}{These are hand-written posters of your concert, made in black and white colors. They could be put into good hands to spread throughout Reno.}
 {67500}{}{Nut solution}
