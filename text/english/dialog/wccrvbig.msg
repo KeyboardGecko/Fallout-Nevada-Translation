@@ -27,7 +27,7 @@
 {258}{}{It's that bad? Okay, I'll keep that in mind.}
 {259}{}{And you shouldn't tell me what to do!... Okay, I'm sorry. I'm a little on edge after a recent story.}
 {260}{}{Care to tell me about it?}
-{261}{}{There's this local idiot. He's praised as a tech-savvy guy around here, and we were told he was building some kind of complicated transportation thing in his garage, so maybe he knows he stuff, we thought. So we pay him to fix the wagon. And you know what? He hits the wagon with a hammer, and the wagon falls apart. And then he just throws his hands up - "not my problem," he said, "he wagon was old, it couldn't stand the treatment". Can you imagine?}
+{261}{}{There's this local idiot. He's praised as a tech-savvy guy around here, and we were told he was building some kind of complicated transportation thing in his garage, so maybe he knows his stuff, we thought. So we pay him to fix the wagon. And you know what? He hits the wagon with a hammer, and the wagon falls apart. And then he just throws his hands up - "not my problem," he said, "he wagon was old, it couldn't stand the treatment". Can you imagine?}
 {262}{}{But you have to agree - the equipment is really old. You knew there was a risk.}
 {263}{}{What a bastard! He should have been punched in the face for this.}
 {264}{}{It's hard to say who is right and who is not.}
