@@ -191,7 +191,7 @@
 {9600}{}{Access card}
 {9601}{}{A huge access card for a very powerful door.}
 {9700}{}{Symbol}
-{9701}{}{A piece of polished stone with the symbolics of Nevada state. Judging by the pins on the back, the symbol must be inserted somewhere.}
+{9701}{}{A piece of polished stone with the symbol of Nevada state. Judging by the pins on the back, the symbol must be inserted somewhere.}
 {9800}{}{Junk}
 {9801}{}{Pieces of different metals as well as rosins and wires. It is possible that some of this will help with repairs.}
 {9900}{}{Gold Locket}
