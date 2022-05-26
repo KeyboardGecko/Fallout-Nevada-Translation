@@ -1,7 +1,7 @@
 {100}{}{You see the quartermaster.}
 {101}{}{You see the quartermaster looking at you with a smirk.}
 
-{110}{}{[Lazily sighs and crosses his fingers on the stomach] Well, I'm listening.}
+{110}{}{[Lazily sighs and crosses his fingers on his stomach] Well, I'm listening.}
 {111}{}{Let's trade.}
 {112}{}{As you wish. I'm leaving.}
 
@@ -117,7 +117,7 @@
 ####################################################################
 
 {300}{}{Where'd you all come from?}
-{301}{}{Well, we came from a small vault, when it became crowded... Damn, I probably shouldn't have told you. In any way, if you want to snatch some technology from there, then I have to disappoint you - the shelter is inhabited by mutants, and the entrance is caved with stones. Besides, we took out everything we could from there back then.}
+{301}{}{Well, we came from a small vault, and when it became too crowded... Damn, I probably shouldn't have told you that. Any way, if you want to snatch some technology from there, then I have to disappoint you - the shelter is inhabited by mutants, and the entrance is caved in. Besides, we took out everything we could from there back then.}
 {302}{}{}
 {303}{}{Can you take me there?}
 {304}{}{Idle curiosity, just ignore me.}
