@@ -45,7 +45,7 @@
 {143}{}{Actually, I'm interested in something. If you help me to get it, I'll pay you 500 bucks.}
 {144}{}{A tempting offer.}
 {145}{}{I need a list of the common radio frequencies used by the patrols. This information should be in the computer used by the radio operators at headquarters. But I can't get to it. Can you?}
-{146}{}{Whoa, wait a second! Why would the ordinary traveler want to wiretap the patrols? There's something you're not telling me.}
+{146}{}{Whoa, wait a second! Why would an ordinary traveler want to wiretap the patrols? There's something you're not telling me.}
 {147}{}{I'll do it. But for 1000 bucks.}
 {148}{}{Okay, I accept the task.}
 {149}{}{You're crazy! I won't take this task even for five thousand!}
@@ -57,7 +57,7 @@
 {155}{}{That means I was wrong about you. But believe me, you can't make such easy money somewhere else around here.}
 {156}{}{Very well. I will repeat our plan just in case. You need to get to the computer room at headquarters. Which in itself is not a difficult task - the radio operators are busy with their own business and almost never get distracted, and the computer room is rumored to be often empty. The problem is how to access the information without giving yourself away. That's where your skills and wit come in handy.}
 {157}{}{Okay, I'll be back when it's done.}
-{158}{}{Yeah, and don't you dare getting caught! If anything happens - I have nothing to do with it. I'm just a wanderer who passed by and asked for a bed, get it?}
+{158}{}{Yeah, and don't you dare get caught! If anything happens - I had nothing to do with it. I'm just a passing wanderer who asked for a bed, got it?}
 {159}{}{Okay.}
 
 #After receiving the quest
