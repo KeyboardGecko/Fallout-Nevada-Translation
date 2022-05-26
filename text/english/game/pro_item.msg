@@ -1199,11 +1199,11 @@
 {62500}{}{Ingram Police}
 {62501}{}{American submachine gun produced in the middle of last century. The police version is distinguished by the front handle, partially finned trunk and a fly without a nouvelle. Min. ST: 5.}
 {62600}{}{Rocket launcher}
-{62601}{}{Unclaimed Rockwell's weapon for projectiles caliber 40 mm. Simply in handling, but for effective application requires considerable strength. Min. ST: 5.}
+{62601}{}{Unclaimed Rockwell Hand grenade launcher. 40 mm caliber. Simple in handling, but requires considerable strength to use effectively. Min. ST: 5.}
 {62700}{}{Grenade launcher 40 mm}
 {62701}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Designed for strong soldiers. Min. ST: 6.}
 {62800}{}{Grenade launcher 40 mm (ext. mag)}
-{62801}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Equipped with a cylinder magazine for 6 shells. Min. ST: 7.}
+{62801}{}{Rockwell Hand grenade launcher, created in continuation of the ancient models of the Springfield arsenal. Equipped with a cylinder magazine for 6 shells. Min. ST: 7.}
 {62900}{}{Reinforced jacket}
 {62901}{}{Black strong leather jacket, reinforced with various armored plates.}
 {63000}{}{Hand made jacket}
