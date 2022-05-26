@@ -1101,7 +1101,7 @@
 {57500}{}{Straight razor}
 {57501}{}{Razor with open blade made by "Sharpy wits". Still very sharp. Min. ST: 1.}
 {57600}{}{Painkiller}
-{57601}{}{This cartridge is filled with a powerful pre-war analgesic. The drug has expired for more than 40 years, which makes it even more adversely and irreversibly affect on heart and blood vessels than before.}
+{57601}{}{This cartridge is filled with a powerful pre-war analgesic. The drug is more than 40 years past expiration, which gives it an even more adverse and irreversible effect on heart and blood vessels than before.}
 {57700}{}{Wet wipes}
 {57701}{}{Sealed packaging with sanitary napkins. Can replace a bath when wandering through the wasteland. Production of the company "Pretty & Glamour".}
 {57800}{}{Old food can}
