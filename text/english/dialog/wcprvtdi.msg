@@ -5,27 +5,27 @@
 
 {104}{}{The fight is over. To leave the ring, you have to move the barrier on the passage.}
 {105}{}{You ran into a fight with the bastard. Show him who's the boss!}
-{106}{}{*Inhospitably looks from under his eyebrows* Stop, no more...}
+{106}{}{*Inhospitably looks at you from under his eyebrows* Stop, no more...}
 
 #======================================================
-# Если игрок не получил квест от караванщика
+# Г…Г±Г«ГЁ ГЁГЈГ°Г®ГЄ Г­ГҐ ГЇГ®Г«ГіГ·ГЁГ« ГЄГўГҐГ±ГІ Г®ГІ ГЄГ Г°Г ГўГ Г­Г№ГЁГЄГ 
 #======================================================
 
-{110}{}{[The man looks at you inhospitably from under his eyebrows as he continues to carefully clean the "Desert Eagle" with a piece of cloth.] What do you want? If it's about that caravaneer again, you'd better be passing by. Today I can't stand the civilians especially hard.}
+{110}{}{[The man looks at you inhospitably from under his eyebrows as he continues to carefully clean his "Desert Eagle" with a piece of cloth.] What do you want? If it's about that caravaneer again, you'd better be passing by. Today I can't stand the civilians especially hard.}
 {111}{}{Calm down, I AM passing by.}
 
 #======================================================
-# Если игрок завершил квест караванщика
+# Г…Г±Г«ГЁ ГЁГЈГ°Г®ГЄ Г§Г ГўГҐГ°ГёГЁГ« ГЄГўГҐГ±ГІ ГЄГ Г°Г ГўГ Г­Г№ГЁГЄГ 
 #======================================================
 
 {115}{}{Huh? You want something?}
 {116}{}{Calm down, I don't need you.}
 
 #======================================================
-# Если игрок получил квест от караванщика
+# Г…Г±Г«ГЁ ГЁГЈГ°Г®ГЄ ГЇГ®Г«ГіГ·ГЁГ« ГЄГўГҐГ±ГІ Г®ГІ ГЄГ Г°Г ГўГ Г­Г№ГЁГЄГ 
 #======================================================
 
-#Разговор до опознания вояки
+#ГђГ Г§ГЈГ®ГўГ®Г° Г¤Г® Г®ГЇГ®Г§Г­Г Г­ГЁГї ГўГ®ГїГЄГЁ
 {120}{}{[The man looks at you inhospitably from under his eyebrows as he continues to carefully clean the "Desert Eagle" with a piece of cloth.] What do you want? If it's about that caravaneer again, you'd better be passing by. Today I can't stand the civilians especially hard.}
 {121}{}{And what if it's about him? Rumor has it that the military was involved.}
 {122}{}{Just wanted to take a closer look on your gun. You don't see a good weapon often these days.}
@@ -59,7 +59,7 @@
 
 {150}{}{What would you know about honor, you desert hobo?! If it weren't for us, you would all have been slaves long ago. And what thanks do we get? These hagglers from the wastelands rip us off every time! So it's only fair to take what's ours, even by force.}
 {151}{}{You did the right thing, letting it slip. Now back to the point.}
-{152}{}{You go on – I'll be back soon.}
+{152}{}{You go on вЂ“ I'll be back soon.}
 {153}{}{What are you babbling about? Watch yourself - one kick to the jaw and you won't be able to speak for a week.}
 {154}{}{...And on top of that - unauthorized abandonment of a military unit. What was that talk about an "untarnished honor of the uniform"?}
 {155}{}{Just like that, in full view of everyone? Aren't you afraid of the general's spies?}
@@ -68,7 +68,7 @@
 {158}{}{Hm... Tough place. I think I should get out of here soon.}
 {159}{}{}
 
-#Разговор после опознания вояки
+#ГђГ Г§ГЈГ®ГўГ®Г° ГЇГ®Г±Г«ГҐ Г®ГЇГ®Г§Г­Г Г­ГЁГї ГўГ®ГїГЄГЁ
 {160}{}{[Spits under your feet] You think some civilian rat can press me against the wall? Don't forget which turf you're standing on!}
 {161}{}{You can only babble while surrounded by your friends! Let's go out of the perimeter, you and me!}
 {162}{}{It's a good gun, of course, but it's not suitable for large-scale combat. Maybe you could trade it in for something better?}
@@ -114,19 +114,19 @@
 # Floating strings before the first conversation [unused!]
 #======================================================
 
-{200}{}{...Не был трусом Джим и героем не был}
-{201}{}{Воинская служба шла своим чередом:}
-{202}{}{Джимми попадал из винтовки в небо -}
-{203}{}{Раненое небо отзывалось дождем.}
-{204}{}{Первым на войне погибает слабый,}
-{205}{}{Армия по жизни – волчья тропа}
-{206}{}{Помирает Джимми где-то в Гуандуне:}
-{207}{}{Джимми промахнулся, ну а красный попал...}
+{200}{}{...ГЌГҐ ГЎГ»Г« ГІГ°ГіГ±Г®Г¬ Г„Г¦ГЁГ¬ ГЁ ГЈГҐГ°Г®ГҐГ¬ Г­ГҐ ГЎГ»Г«}
+{201}{}{Г‚Г®ГЁГ­Г±ГЄГ Гї Г±Г«ГіГ¦ГЎГ  ГёГ«Г  Г±ГўГ®ГЁГ¬ Г·ГҐГ°ГҐГ¤Г®Г¬:}
+{202}{}{Г„Г¦ГЁГ¬Г¬ГЁ ГЇГ®ГЇГ Г¤Г Г« ГЁГ§ ГўГЁГ­ГІГ®ГўГЄГЁ Гў Г­ГҐГЎГ® -}
+{203}{}{ГђГ Г­ГҐГ­Г®ГҐ Г­ГҐГЎГ® Г®ГІГ§Г»ГўГ Г«Г®Г±Гј Г¤Г®Г¦Г¤ГҐГ¬.}
+{204}{}{ГЏГҐГ°ГўГ»Г¬ Г­Г  ГўГ®Г©Г­ГҐ ГЇГ®ГЈГЁГЎГ ГҐГІ Г±Г«Г ГЎГ»Г©,}
+{205}{}{ГЂГ°Г¬ГЁГї ГЇГ® Г¦ГЁГ§Г­ГЁ вЂ“ ГўГ®Г«Г·ГјГї ГІГ°Г®ГЇГ }
+{206}{}{ГЏГ®Г¬ГЁГ°Г ГҐГІ Г„Г¦ГЁГ¬Г¬ГЁ ГЈГ¤ГҐ-ГІГ® Гў ГѓГіГ Г­Г¤ГіГ­ГҐ:}
+{207}{}{Г„Г¦ГЁГ¬Г¬ГЁ ГЇГ°Г®Г¬Г ГµГ­ГіГ«Г±Гї, Г­Гі Г  ГЄГ°Г Г±Г­Г»Г© ГЇГ®ГЇГ Г«...}
 {208}{}{}
 {209}{}{}
 
 #======================================================
-# Окончание боя
+# ГЋГЄГ®Г­Г·Г Г­ГЁГҐ ГЎГ®Гї
 #======================================================
 
 {210}{}{[Spitting blood, rubbing his jaw] You're good... For a civilian. I lost, time to pay. Will my bet suffice? I've got nothing else valuable with me now.}
