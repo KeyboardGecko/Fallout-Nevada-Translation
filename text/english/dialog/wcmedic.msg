@@ -61,7 +61,7 @@
 {200}{}{If you bring in the necessary components. I can make stimpaks, superstimpaks, antidote and healing powder.}
 {201}{}{I don't need it then. Another question.}
 {202}{}{Could you teach me?}
-{203}{}{So you would became my competitor? No, to earn money is already hard enough.}
+{203}{}{So you would became my competitor? No, its already hard enough to earn money.}
 {204}{}{No, for the other reason - so I wouldn't go to Wesker and tell him that you have a drug lab here. It will be easy to prove, by the way.}
 {205}{}{Too bad.}
 {206}{}{Wha... Oh, you scoundrel! So that's how you pay for the good!}
