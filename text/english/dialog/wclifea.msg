@@ -25,13 +25,13 @@
 {140}{}{Now we are in a closed settlement. Only the military and their families live here. Outside you will find nothing but ruins. And then there's the caravan camp at the railroad station.}
 {141}{}{Why do you call yourself "military"?}
 {142}{}{How did this community came to be and who are all these people?}
-{143}{}{What the locals are doing?}
+{143}{}{What are the locals doing?}
 
 {148}{}{Tell me about yourself.}
 {149}{}{I guess that's all I wanted to know.}
 
 {150}{}{Our ancestors, those who founded the Winds of War, called themselves that. They were military, they served the United States. At least that's what we were told. We don't know for sure. General Wesker believes in the rebirth of the country, so he tries to keep the spirit of the nation alive. And sometimes it even looks silly.}
-{151}{}{The bulk of the population are direct descendants of people from the local vault. The ancestors survived the Great War underground, and when it became impossible to live there, they went outside and established a settlement on the ruins of the old city of Pahrump. Then, gradually, wanderers of the wasteland began to visit, but not many of them were allowed to join. Seeing the people from the outside world, the general was horrified... and fenced off the area. Now random people are not allowed here.}
+{151}{}{The bulk of the population are direct descendants of people from the local vault. Our ancestors survived the Great War underground, and when it became impossible to live there, they went outside and established a settlement on the ruins of the old city of Pahrump. Then, gradually, wasteland wanderers  began to visit, but not many of them were allowed to join. Seeing the people from the outside world, the general was horrified... and fenced off the area. Now random people are not allowed here.}
 {152}{}{In fact, there are three types of people. First, the military. They protect us, explore the area around and engage in major hunts. Second, those, who sit in the office and do the brainwork. And finally, the commoners, such as myself, whose destiny is to cook porridge, iron clothing and maintain the housing.}
 {153}{}{Vault? Where is it?}
 {154}{}{I don't even know. It's somewhere in the mountains in the northwest. Better ask the radio operators at the headquarters - they know everything about the outskirts of the settlement.}
