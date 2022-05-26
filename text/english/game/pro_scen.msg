@@ -2462,9 +2462,9 @@
 {159600}{}{Collapse}
 {159700}{}{Hotel architecture}
 {159800}{}{Arcade machine}
-{159801}{}{Modern Slot machine with computer stuffing. Serves to run arcade game.}
+{159801}{}{Modern Slot machine with computer stuffing. Serves to run arcade games.}
 {159900}{}{Arcade machine}
-{159901}{}{Modern Slot machine with computer stuffing. Serves to run arcade game.}
+{159901}{}{Modern Slot machine with computer stuffing. Serves to run arcade games.}
 {160000}{}{Wall}
 {160100}{}{Wall}
 {160200}{}{Floor pit}
@@ -2489,7 +2489,7 @@
 {162000}{}{Shelf with figures}
 {162001}{}{You see a rack, occupied by a lot of plaster figures and heads.}
 {162100}{}{Fuel tank}
-{162101}{}{Tank with fuel for transport. And it's definitely not empty.}
+{162101}{}{Tank with fuel ready for transport. And it's definitely not empty.}
 {162200}{}{Track}
 {162300}{}{Track}
 {162400}{}{Track}
@@ -2563,7 +2563,7 @@
 {168500}{}{Mine elevator}
 {168600}{}{Mine elevator}
 {168700}{}{Clothing synthesizer}
-{168701}{}{Ruined clothing synthesizer from the company Vault-Tec. Although some internal parts seems intact, it is hardly possible to restore it to working condition.}
+{168701}{}{Ruined clothing synthesizer from Vault-Tec. Although some internal parts seems intact, it is hardly possible to restore it to working condition.}
 {168800}{}{Vertibird}
 {168900}{}{Vertibird}
 {169000}{}{Vertibird}
@@ -2616,13 +2616,13 @@
 {173700}{}{Road map}
 {173800}{}{Poster}
 {173900}{}{Warning}
-{173901}{}{A warning sign announcing the prohibition of open arms carrying in the territory of the Clean City.}
+{173901}{}{A warning sign prohibiting the carrying of open arms in the Clean City territory.}
 {174000}{}{Curtain}
 {174100}{}{Curtain}
 {174200}{}{Wall}
 {174300}{}{Grafitti}
 {174400}{}{Barricaded door}
-{174401}{}{Door with transverse metal inserts that do not allow it to open and even knock over.}
+{174401}{}{Door with transverse metal inserts that prevent it from opening or even being destroyed.}
 {174500}{}{Jukebox}
 {174501}{}{Old jukebox.}
 {174600}{}{Fan}
