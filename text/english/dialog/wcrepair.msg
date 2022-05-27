@@ -170,7 +170,7 @@
 {282}{}{I travel a lot and can find the missing piece.}
 {283}{}{If I find this item, I will try to bring it here.}
 
-{284}{}{I've seen a lot of broken cars. Why they were abandoned?}
+{284}{}{I've seen a lot of broken cars. Why were they all abandoned?}
 {285}{}{How did you manage to buy your truck?}
 {286}{}{What's the problem with the controller?}
 {287}{}{Why is it so hard to fix the car?}
@@ -178,7 +178,7 @@
 {288}{}{Actually, there are several reasons. Imagine how it was during the Great War. The bombs mainly fell on cities, where the most of the cars were. Those that stayed mostly intact, being away from explosions, simply had no place to get repaired and refueled anymore. These pre-war cars, powered by nuclear batteries, were complex in terms of technology and maintenance, they required good care and constant monitoring. In addition, they were very expensive - not everyone could afford to buy them. Also, add to the picture the horrors that came after the War: deaths, criminals everywhere, traffic jams on the streets... Loads of cars were left abandoned under the open sky, so in 70 years they just fell apart from aging. And these are just some of the reasons.}
 {289}{}{It remained in the garage of one of the houses in Pahrump. But the former owner used this car to the fullest, so I had a lot of trouble putting back parts and interior. The only problem left unsolved is finding a fuel controller.}
 {290}{}{}
-{291}{}{It is basically a chip which controls the distribution of power in the electric engine of the vehicle. These chips burned out fast, if the car hasn't been properly maintained. Mostly, it used to happen when the cars were too often pulled off with high-speed right from the start, in a sharp manner. While it's necessary to accelerate smoothly, from low levels. It is difficult to explain why this was happening. Anyway, in all of the cars I managed to find in the neighborhoods, there were no working chip that could be used for that kind of pickup truck.}
+{291}{}{It is basically a chip which controls the distribution of power in the electric engine of the vehicle. These chips burned out fast, if the car hasn't been properly maintained. Mostly, it used to happen when the cars were too often pulled off with high-speed right from the start, in a sharp manner. While it's necessary to accelerate smoothly, from low levels. It is difficult to explain why this was happening. Anyway, in all of the cars I managed to find in the neighborhoods, there was no working chip that could be used for that kind of pickup truck.}
 {292}{}{It's a really complex technology. More complex than computers, or even a radar station, believe me. Can you imagine how many electronics are in there? And the engine is literally a bomb! It took me a few years to just roughly understand the structure of this car.}
 
 {293}{}{Then look carefully. It hardly makes sense to search among the scrap metal abandoned under the open sky. I would start with the places where cars stayed locked-in, like the garages and repair shops. And I should say that I placed an order with the caravaneers in Vegas and Reno, but they all failed. Perhaps, you should look even further from civilization.}
