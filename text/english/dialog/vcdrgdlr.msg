@@ -39,7 +39,7 @@
 
 {154}{}{I'm not lying. My suppliers are reliable.}
 {155}{}{But these days, you can't just go and find a *pure* product. Who else but us knows better, right?}
-{156}{}{[Grins] One just have to know where to look. Not all chemicals in the world are from before the war.}
+{156}{}{[Grins] One just has to know where to look. Not all chemicals in the world are from before the war.}
 {157}{}{Wait, are you saying that there is an active chem manufacturer?!}
 {158}{}{Indeed. And that's all you need to know. Are you satisfied? Now you can safely choose a product. It's clean, don't worry.}
 {159}{}{And still, tell me about the manufacturer. I need to know who it is and where to find it.}
@@ -68,7 +68,7 @@
 {181}{}{[Go away]}
 {182}{}{Well, that's enough for me. Now, let's get down to business.}
 {183}{}{Anyway, still sounds not convincing. I'm leaving.}
-{184}{}{I'm not going to prove you anything. Do you need a dose or not?}
+{184}{}{I don't have to prove anything to you. Do you need a dose or not?}
 {185}{}{Yeah, show me what you've got.}
 {186}{}{I don't need your suspicious 'dose'. I don't need anything from you. I'm leaving.}
 {187}{}{Do you have any idea how much stuff people like you have been selling me?! All these dealers never bothered to understand you, they only know how to line their pockets by selling shit to living corpses...}
