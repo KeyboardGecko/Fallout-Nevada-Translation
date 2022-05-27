@@ -16,9 +16,9 @@
 {117}{}{Office is in the lobby, there is an administrator you can hash out everything with him. Understood?}
 {118}{}{What are you babbling about? We do not deal with this stuff! Do you hear me? WE DON'T SELL DRUGS!}
 {119}{}{Uh, understood...}
-
+#118 is used as response to 115 for some reason?
 #Answer to the question about the slave to drive the train (112):
-{120}{}{I don't do retail. There is administrator in the lobby. Hash out everything with him.}
+{120}{}{I don't do retail. There is an administrator in the lobby. Hash out everything with him.}
 {121}{}{Got it.}
 
 #Answer to the question about the lab (113):
