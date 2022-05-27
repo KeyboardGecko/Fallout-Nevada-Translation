@@ -4,7 +4,7 @@
 {103}{}{Perhaps he'll come back when he gets his head straight.}
 
 #Ïåðâûé ðàçãîâîð
-{110}{}{[You see a strange guy in yellow glasses and bright shirt; He frantically swings around with his flyswatter] Careful! The bats!! They are everywhere!!}
+{110}{}{[You see a strange guy in yellow glasses and a bright shirt; He frantically swings around with his flyswatter] Careful! The bats!! They are everywhere!!}
 {111}{}{[Go along] Damn!! So many of them!! Let's run to the cafe, they won't get us there!}
 {112}{}{Bats? There are no bats!}
 {113}{}{Not all right in the head, huh?}
