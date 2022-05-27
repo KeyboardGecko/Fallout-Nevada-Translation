@@ -44,8 +44,8 @@
 {153}{}{New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. In short, you have to be careful here. Now's not the best time to be in this city, that's for sure.}
 {154}{}{New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can easily get a lot of trouble on your ass.}
 
-{160}{}{Las Vegas. The city that is always lively and much safer than the rest. A great place to relax and do some trading.}
-{161}{}{Las Vegas. The city that is always lively and much safer than the rest. A great place to relax and do some trading... Except there are some stranger things going on. Anyway, that's not our problem.}
+{160}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading.}
+{161}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading... Except there are some strange things going on. But that's not our problem.}
 
 {170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least you don't have to be afraid of being stabbed in the back.}
 {171}{}{Salt Lake. Dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of being stabbed in the back - and you can make a fine trade.}
