@@ -1,7 +1,7 @@
 {100}{}{You see the minister of culture.}
 {101}{}{You see a smart City Hall employee. Judging by the badge, he is holding the position of the minister of culture.}
 
-{110}{}{What is it about?}
+{110}{}{What is this about?}
 {111}{}{Oh, I have a lot of questions. Can you help me answer them?}
 {112}{}{It depends on your position. Are you the minister of culture? What does that mean?}
 {113}{}{I don't have any questions. See you.}
