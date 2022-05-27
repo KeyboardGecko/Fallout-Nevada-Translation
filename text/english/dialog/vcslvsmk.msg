@@ -1,7 +1,7 @@
 {100}{}{You see a smoker.}
 {101}{}{It's just a smoker. He's trying to relax and doesn't pay attention to anything.}
 
-{102}{}{[The laver is not even looking at you, he doesn't pay attention to anything.]}
+{102}{}{[The slaver doesn't look up, he's not paying attention to anything.]}
 {103}{}{Hey, you! Tell me where the lab is! I know that you guys are somehow connected to it!}
 {104}{}{[Leave the smoker in his oblivion]}
 
@@ -134,7 +134,7 @@
 {264}{}{[Shows a toothless mouth] Too late.}
 {265}{}{No problem - I have the connections.}
 
-{298}{}{Damn! Fuck!! Enough, stop it! Okay! I quit! I quit smoking! Just get away from me! Here, [He hastily hands you a lighter] take it! Now I'm left without fire and will not be able to smoke! Just fuck off! Fuck off!!}
+{298}{}{Damn! Fuck!! Enough, stop it! Okay! I quit! I quit smoking! Just get away from me! Here, [He hastily hands you a lighter] take it! Now I'm left without fire and won't be able to smoke! Just fuck off! Fuck off!!}
 {299}{}{All right, calm down!}
 
 #Women's replies
