@@ -23,7 +23,7 @@
 
 #Answer to the question about the lab (113):
 {122}{}{You have a big mouth, buddy. Watch it.}
-{123}{}{So you're saying that it has nothing to do with you? I advise you to think again, I'm here not for taking a poll.}
+{123}{}{So you're saying that it has nothing to do with you? I advise you to think again, I'm not here taking a poll.}
 {124}{}{Is that a threat?! If yes, then I will strike first. Watch me!}
 {125}{}{Oh, okay, I will. You know, you talk in a somewhat scary way.}
 
