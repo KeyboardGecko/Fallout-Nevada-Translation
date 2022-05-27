@@ -2,7 +2,7 @@
 {101}{}{You see a personal bodyguard of the casino owner.}
 {102}{}{Come on in.}
 
-{110}{}{Mr. Wallace is busy. What is it about?}
+{110}{}{Mr. Wallace is busy. What is this about?}
 {111}{}{I need to talk to him. I'm... Erm... Looking for work.}
 {112}{}{Busy? Too bad. I'll come later.}
 {113}{}{He doesn't deal with that.}
