@@ -40,7 +40,7 @@
 {163}{}{What happened to the farm?}
 {164}{}{At first, we were raided by the rodents, then the actual raiders came, and then the hurricane happened. The barn was blown to pieces, not to mention the crops. We could barely collect a bag of maize back then. Now we need to restore everything, the buildings and the plantation.}
 {165}{}{How will trading here help you with the harvest there?}
-{166}{}{We have a big and strong family. While men are busy working in the wastelands, I'm sent here to trade. We need a lot of stuff. Sometimes it is possible to make a deal with the prospectors, but they are not quite pleasant people. They may cheat you.}
+{166}{}{We have a big and strong family. While the men are busy working in the wastelands, I'm sent here to trade. We need a lot of stuff. Sometimes it is possible to make a deal with the prospectors, but they are not quite pleasant people. They may cheat you.}
 
 {167}{}{Let's chat a bit more?}
 {168}{}{}
