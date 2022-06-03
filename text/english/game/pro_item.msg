@@ -1455,7 +1455,7 @@
 {75800}{}{"Atomic cocktail"}
 {75801}{}{Strong alcoholic drink, according to the pre-war description, clearly diluted with something special.}
 {75900}{}{Recipe: "Atomic Cocktail"}
-{75901}{}{The recipe for the preparation of the "Atomic cocktail". Hardly you will be able to achieve pre-war quality, but it won't be bad either.}
+{75901}{}{The recipe for making an "Atomic cocktail". You won't be able to achieve pre-war quality, but it won't be bad either.}
 {76000}{}{Worn minigun}
 {76001}{}{Minigun CZ53 Rockwell in very poor condition. Min. ST: 7.}
 {76100}{}{Ñompromising evidence on Mordino}
