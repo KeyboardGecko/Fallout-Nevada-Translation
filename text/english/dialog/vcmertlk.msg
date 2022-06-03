@@ -46,7 +46,7 @@
 {148}{}{You proved the snob that outside the city walls exist some clever people.}
 {149}{}{Great, but I would like to ask a few questions, not answer them.}
 
-{150}{}{[Restrains the charity behind an arrogant smile] Your curiosity is certainly worthy of respect, but I have no time for pointless talk.}
+{150}{}{[Restrains his charity behind an arrogant smile] Your curiosity is certainly worthy of respect, but I have no time for pointless talk.}
 {151}{}{With pleasure, but I have little time for small talk.}
 {152}{}{I'll pretend I didn't hear that, but other members of the Clean City would not. Many are proud to live here. Do you even understand, how much work has been invested in the reconstruction of this area?! For ten years we tried to establish a decent living here, with joined effort. It's hard for outcomers to understand, they think that the locals just had everything from the beginning.}
 {153}{}{Even if you have great experience, I would prefer to look into more reliable sources.}
