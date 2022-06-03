@@ -1077,7 +1077,7 @@
 {56300}{}{Soap scraps}
 {56301}{}{Aromatic soap from the company "Pretty & Glamour" with bite marks. Judging by the imprints of teeth, it was bit by an adult.}
 {56400}{}{Toothpaste}
-{56401}{}{Toothpaste with thorium. Produced by the company "Pretty & Glamour". Gently polishes the tooth enamel, making it white and shiny. Gloss of teeth can be seen even in the dark.}
+{56401}{}{Toothpaste infused with thorium. Produced by the cosmetics company "Pretty & Glamour". Gently polishes the tooth enamel, making it white and shiny. Teeth so glossy you'll see your smile in the dark.}
 {56500}{}{Comic book}
 {56501}{}{Funny comics about the merry guy Pip-Boy, who was constantly looking for an adventure on his ass.}
 {56600}{}{Healing water}
