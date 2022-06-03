@@ -2908,7 +2908,7 @@
 {199100}{}{Thermonuclear bomb}
 {199200}{}{Thermonuclear bomb}
 {199300}{}{Hole}
-{199301}{}{Obviously, a hole dug by animals. Hardly you'll fit inside.}
+{199301}{}{Obviously, a hole dug by animals. You'll barely fit inside.}
 {199400}{}{Promotional poster}
 {199401}{}{In this poster one can still see the inscription: "Preiser Incorporated. Protect your family before the bombs start falling!"}
 {199500}{}{Promotional poster}
