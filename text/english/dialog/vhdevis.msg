@@ -114,7 +114,7 @@
 {211}{}{Why are you so sure, citizen?}
 {212}{}{Erm, well I just know it. Isn't that enough?}
 {213}{}{Well I'm not sure.}
-{214}{}{Don't make me laugh. We will not run after Phillips just because someone out there has decided to file a complaint against him. FACTS! We need facts!}
+{214}{}{Don't make me laugh. We will not run after Phillips just because someone out there has decided to file a complaint against him. FACTS! We need evidence!}
 {215}{}{Okay.}
 {216}{}{Here is an emulsifier - Is this the substance that you had found? It's just a food supplement!}
 
