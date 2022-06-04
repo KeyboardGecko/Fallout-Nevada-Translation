@@ -49,7 +49,7 @@
 {156}{}{Well yeah, I saved you from the bats!}
 {157}{}{No, and I don't want to. Bye.}
 
-{158}{}{Uh, so that's what it is... Yes, I get the sarcasm. Thanks, dammit.}
+{158}{}{Uh, so that's what happened... Yes, I get the sarcasm. Thanks, dammit.}
 {159}{}{What are you talking about?}
 {160}{}{It seems I'm in a wrong place at the wrong time again. Good thing I'm not swept by the cops! Oh... What a headache... Look, let me sit on the ground for a second, I need to calm down.}
 {161}{}{Take a painkiller, it should help.}
