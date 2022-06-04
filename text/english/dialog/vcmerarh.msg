@@ -34,7 +34,7 @@
 {203}{}{Police told me about your daughter's disappearance. I volunteered to help in the search.}
 {204}{}{Wrong door, sorry.}
 
-{205}{}{Yes, all data is stored here, though it's mostly reports from City Hall departments. I'm a senior employee of the unit... However, our archive is for internal use only.}
+{205}{}{Yes, all the city's data is stored here, though it's mostly reports from City Hall. I'm a senior employee of the unit... However, our archive is for internal use only.}
 {206}{}{In this case, I need the coordinates of a military base called "Area 51".}
 {207}{}{Nothing like that. Another question.}
 {208}{}{I think, I don't need anything.}
