@@ -7,26 +7,26 @@
 {113}{}{I don't have any questions. See you.}
 
 {114}{}{This means, that I am - the minister of culture, and you are - the foolish child of the wastes. Explaining to you what "culture" means is pointless to me, sorry.}
-{115}{}{Still - be nice to clear at least something.}
+{115}{}{Still - it would be nice to make at least something clear.}
 {116}{}{In that case we have nothing to talk about.}
-{117}{}{[Nervously sighs] My work is to develop and preserve all the cultural norms of the Clean City. My department assesses how the city should look and sound, but the main thing - how the locals should improve their intellectual abilities. It will be difficult for you to understand.}
+{117}{}{[Nervously sighs] My work is to develop and preserve all the cultural norms of the Clean City. My department assesses how the city should look and sound, but the primary goal - is to improve the intellectual abilities of the local population. You may have some difficulty understanding.}
 {118}{}{It seems you have a bad opinion of people living outside the city.}
 {119}{}{What are you saying!? There are a lot of talented and knowledgeable people beyond the walls of the Clean City. Like me, for example.}
 {120}{}{The situation is clear. Perhaps now you'll be able to answer some questions?}
 {121}{}{Yes, I think this information is enough for my brain. See you.}
 
-{122}{}{[Slyly grinning] What are YOU saying?! I actually have a good opinion on the inhabitants of the Wasteland. You just have to wash them, dress them, give each one a book, teach them some good manners - and here you have an army of decent people. The question is - how long will this decency last?}
-{123}{}{I won't argue with you. Outside the walls there is really a heck of a pitiful and miserable life.}
+{122}{}{[Slyly grinning] What are YOU saying?! I actually have a good opinion of the inhabitants of the Wasteland. You just have to wash them, dress them, give each one a book, teach them some good manners - and then you have an army of decent people. The question is - how long will this decency last?}
+{123}{}{I won't argue with you. Outside the walls is a wasteland from hell, and a pitiful and miserable life.}
 {124}{}{With such snobbery, nothing but discrimination can be expected from you.}
-{125}{}{I have every reason to believe that you have very little knowledge of the world, and that you fell victim of your own delusions. I am the direct proof of that.}
+{125}{}{I have every reason to believe that you have very little knowledge of the world, and that you fell victim of your own delusions. I am direct proof of that.}
 {126}{}{Let's leave this discussion on that.}
 
-{127}{}{I don't understand - are you trying to impress me, or are you out of this world yourself? Although, given the contrast between the Clean City and the periphery, your point of view of our city is quite understandable.}
-{128}{}{No, I'm talking not about that! You know, all these bandits on the streets of Reno, wild ghouls, raiders, crazy idiots - I happened to see a lot during my journey.}
-{129}{}{Be careful, youngster! Do you have any idea how much work is invested in the reconstruction of this area?! For ten years we tried to establish a decent living here, with joined effort. And now any outcomer scum is capable of talking garbage here. But, in any case, I don't have the mood to prove anything to you. *You* come here and distract me from my work with your pointless conversations.}
+{127}{}{I don't understand - are you trying to impress me, or are you an outsider yourself? Although, given the contrast between the Clean City and the periphery, your point of view of our city is quite understandable.}
+{128}{}{No, I'm not talking about that! All those bandits on the streets of Reno, wild ghouls, raiders, crazy idiots - I happened to have seen a lot in my travels.}
+{129}{}{Be careful, youngster! Do you have any idea how much work has been invested in the reconstruction of this area?! For ten years we tried to establish a decent living here, in a joint effort. And now any outsider scum is able to talk garbage here. But, in any case, I'm not in the the mood to prove anything to you. *You* came here and distracted me from my work with your pointless questions.}
 {130}{}{You don't look like a caravaneer, or a representative of "Nevada express". This conversation is already becoming pointless.}
 {131}{}{Perhaps, in this case, you can answer a few questions?}
-{132}{}{Did you really acquire such rich experience from your travels? How interesting... I would like to discuss the life of people in other cities with you. You don't mind, do you?}
+{132}{}{Have you really acquired such rich experience in your travels? How interesting... I would like to discuss the life of citizens in outside cities with you. You don't mind, do you?}
 {133}{}{Oh, sure, with pleasure!}
 {134}{}{I don't have time for this right now. Perhaps, another time.}
 {135}{}{There can be no other time. But you've already decided, so let's leave it at that. Is that all you wanted?}
@@ -52,7 +52,7 @@
 {153}{}{Even if you have great experience, I would prefer to look into more reliable sources.}
 {154}{}{I am the minister of culture, not your drinking buddy in a bar! I won't answer any questions.}
 {155}{}{You respond too emotionally to a simple question. Do you hate my company?}
-{156}{}{Let's talk about your office, the minister of culture office.}
+{156}{}{Let's talk about your office, the Office of the Minister of Culture.}
 {157}{}{Yes, exactly. I don't see in you the qualities that I appreciate in others. Besides, I'm not obliged to communicate with you. There is a secretary for this.}
 {158}{}{Fine, I'm leaving.}
 {159}{}{Too bad you treat me this way. I bring profits to Vegas...}
