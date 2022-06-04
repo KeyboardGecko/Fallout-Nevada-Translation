@@ -21,8 +21,8 @@
 {123}{}{Archive is at the end of the hallway on this floor... Although it won't be any help to you. It's only for City Hall employees.}
 {124}{}{Wow, okay then.}
 {125}{}{Could you help with that?}
-{126}{}{Okay, citizen. Stop fooling around! You are not the first questionable fella that goes to City Hall for no reason. We don't need people like you here. Get out. Now! Right now!}
-{127}{}{Uh, look at him! So what are you going to do now, huh?!}
+{126}{}{Okay, citizen. Stop fooling around! You're not the first questionable fella that comes to City Hall for no reason. We don't need people like you here. Get out. Now! Right now!}
+{127}{}{Oh look at you! So what are you going to do, huh?!}
 {128}{}{Okay, okay, I'll go peacefully...}
 {129}{}{Guards!!! Intruder in the office!!!}
 {130}{}{[Resist]}
