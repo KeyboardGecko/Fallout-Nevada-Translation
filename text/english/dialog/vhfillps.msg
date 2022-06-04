@@ -2,7 +2,7 @@
 {101}{}{You see Sam Phillips, the owner of "Hard Rock" cafe.}
 
 {110}{}{[Sighs] What is this about, young man?}
-{111}{}{I got here by accident, and certainly not for ceremonious talk. I'm out of here.}
+{111}{}{I got here by accident, and I'm certainly not here to talk business. I'm out of here.}
 {112}{}{Sorry to bother you.}
 
 ####################################################################
