@@ -17,7 +17,7 @@
 
 {120}{}{Can I know why you are interested in this case?}
 {121}{}{Sam Phillips... Er... Owes me money, and I'm worried.}
-{122}{}{Sam Phillips is my friend and I don't want him to go in prison!}
+{122}{}{Sam Phillips is my friend and I don't want him to go to prison!}
 {123}{}{I'm investigating the crime with order of the mayor himself.}
 {124}{}{No reason. Why?}
 {125}{}{Your boss has given me a civil job to snitch Phillips.}
