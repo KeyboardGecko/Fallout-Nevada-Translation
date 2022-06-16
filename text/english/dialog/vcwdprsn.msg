@@ -31,7 +31,7 @@
 {131}{}{I won't tell anyone!}
 {132}{}{No! Don't even ask!}
 {133}{}{Oh, come on! I've rescued you!}
-{134}{}{Damn! Right... Okay! If it's you - I'm... This, what it's called...}
+{134}{}{Damn! Right... Okay! If it's you - I'm... This, what's it called...}
 {135}{}{A bodyguard?}
 {136}{}{What? The hell with bodyguard! No...}
 {137}{}{An administrator?}
@@ -39,19 +39,19 @@
 {139}{}{Clerk? Warehouseman? Cleaner? Masseur? Who?!}
 {140}{}{Hey, stop it! Let me think!... Ah, yes! A courier!}
 {141}{}{A courier? Took you quite long to remember. What's so mysterious about it?}
-{142}{}{Well, you know, it gets me places. You'd better not to know the details. Dangerous places. Outside the city.}
+{142}{}{Well, you know, it gets me places. Better that you not know the details. Dangerous places. Outside the city.}
 {143}{}{Now you're being cunning... As if there are people living outside the city.}
 {144}{}{No, they don't live there. But they make some money there... [winks and sips the second half of beer]}
 {145}{}{Oh, that's my department! Where is it? Where can I make money?}
 {146}{}{[Not hearing you] Ah, hell, it's empty. Hey! Bartender! Give me beer! Now!}
 {147}{}{[Continue]}
-{148}{}{What are you babbling about, you?! You won't give me a beer?! I'm not asking you, I order you!}
+{148}{}{What are you babbling about, you?! You won't give me a beer?! I'm not asking you, I'm ordering you!}
 {149}{}{Hey, calm down. Let me order you a bottle. Bartender! Put it on my tab!}
 {150}{}{[Leave them alone]}
 
 {151}{}{Pal... No - friend! Yes! Friend, you helped me out once again [hic]. This big-eared creep always refuses to serve me after the second bottle... Oh, yeah, where were we?}
 {152}{}{The spot outside the city, where one can make some money...}
-{153}{}{Ah, yes! There, in the lab, is so much money being made, oh my gosh! You wouldn't believe it. For one delivery... [looks like he'll falling asleep] for a single delivery I get... I... Get... Zzzz...}
+{153}{}{Ah, yes! There, in the lab, is so much money being made, oh my gosh! You wouldn't believe it. For one delivery... [looks like he's falling asleep] for a single delivery I get... I... Get... Zzzz...}
 {154}{}{[You won't get anything from him now]}
 
 {200}{}{Yeah, take care.}
