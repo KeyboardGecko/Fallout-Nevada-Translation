@@ -1403,7 +1403,7 @@
 {73000}{}{Pistol 10mm with flashlight}
 {73001}{}{Police model of self-loading pistol Colt 6520 caliber 10mm, equipped with a barrel tactical flashlight. Though, sometimes it doesn't work - you need to shake it. Min. ST: 4.}
 {73100}{}{Locked case}
-{73101}{}{Durable metal case of a business man. Probably, there is something valuable inside, because it is locked with a combination lock.}
+{73101}{}{Durable metal case of a business man. There is probably something valuable inside, because it is locked with a combination lock.}
 {73200}{}{A Pip-Boy anatomical analyzer}
 {73201}{}{This amplifier consists of a disc with a program, a cord and a sensor. Its purpose is to analyze the anatomy of an enemy, determining his most vulnerable spots.}
 {73300}{}{Chrome glasses}
