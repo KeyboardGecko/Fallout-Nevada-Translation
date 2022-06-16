@@ -14,7 +14,7 @@
 {114}{}{They are *hated* here. These bastards are going to be kicked out from Clean City immediately.}
 {115}{}{Why?}
 {116}{}{Because they think they're tough and that they can do whatever they want. So many of our guys were killed by them on the road between Vegas and The Wind... Oh... Let's drink for them! [He chugs half a bottle of beer]}
-{117}{}{Hey! Isn't it too much?}
+{117}{}{Hey! You don't think thats too much?}
 {118}{}{It's all right, mate! [He burps]}
 {119}{}{You already look groggy!}
 {120}{}{Ha-ha-ha! Even drunk, I'd knock down anyone! Wanna bet? You won't beat me too!}
@@ -23,7 +23,7 @@
 {123}{}{Uh... No. I still need him.}
 {124}{}{Well... Yeah, he gives me beer too... Yep. Ohkay.}
 {125}{}{Gives? Just like that? For free?}
-{126}{}{Ha! What's the matter, buddy?! Don't you know who you're talking to?! [weighty pokes himself in the chest with his thumb] Do you realize WHO is in front of you?!}
+{126}{}{Ha! What's the matter, buddy?! Don't you know who you're talking to?! [weightily pokes himself in the chest with his thumb] Do you realize WHO is in front of you?!}
 {127}{}{Yes. The crank who escaped the death penalty.}
 {128}{}{Uh, no! Hal Wallace himself stands for me. Himself! Personally. He would have saved me from the prison, I'm sure.}
 {129}{}{Wow! The owner of this casino?! Why is that?}
