@@ -15,7 +15,7 @@
 {118}{}{Here are 10 pizzas, as agreed.}
 {119}{}{Here's the money, now give me the device.}
 
-{120}{}{[Greedily grabs the money and hides in the bosom, looks around and gets a pressure regulator] Here. But carefully, no one should notice.}
+{120}{}{[Greedily grabs the money and hides it in his shirt, looks around and gets a pressure regulator] Here. But carefully, no one should notice.}
 {121}{}{Uh-huh, okay.}
 {122}{}{That's what I call service! So, now I'm going to get the regulator, but when you'll take it out, watch out, so no one notices.}
 
