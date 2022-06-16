@@ -68,7 +68,7 @@
 {211}{}{Say what?! I saved your ass, what else do you need?}
 {212}{}{Uh, okay. But now we're even - you saved me, and I introduced you to Mr. Wallace. [He smiles and winks at you; something tells you that it won't going to be so simple.]}
 {213}{}{Oh... Okay, bye.}
-{214}{}{[Takes the money] Okay, we do great together. I want to warn you as a friend. Mr. Wallace does not like an empty talk. If he asks you to do something, do it, no questions. Otherwise... [moves his thumb across his throat]}
+{214}{}{[Takes the money] Okay, we do great together. I want to warn you as a friend. Mr. Wallace does not like empty talk. If he asks you to do something, do it, no questions. Otherwise... [moves his thumb across his throat]}
 {215}{}{Understood.}
 
 #Women's replies
