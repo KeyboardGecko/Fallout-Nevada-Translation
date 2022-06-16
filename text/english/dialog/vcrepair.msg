@@ -25,7 +25,7 @@
 {122}{}{Have you been working long?}
 {123}{}{Yeah. Five years and four months. It's hard to find workers who stay in one spot, but there's not much I can do. This is the only place in Vegas where I can put my talents to good use. Bob Neil appreciates it, which is why he basically dragged me off the streets and sat me in this chair.}
 {124}{}{How did you get into electronics?}
-{125}{}{Well, I used to earn a few bucks here and there - janitor, waiter, teller, but my soul was never in it. Every time I got back home, I would find myself tinkering with a pile of broken computers. I'll never forget those days. Now I have everything I need to work I even got a welder installed. Long story short, I'm like a gecko with a nest of grubs.}
+{125}{}{Well, I used to earn a few bucks here and there - janitor, waiter, teller, but my soul was never in it. Every time I got back home, I would find myself tinkering with a pile of broken computers. I'll never forget those days. Now I have everything I need to work. I even got a welder installed. Long story short, I'm like a gecko with a nest of grubs.}
 {126}{}{What do you do here?}
 {127}{}{Maintenance and repair of the tech here. There's always something to do here. Sometimes people bring in tech for commission. Although, recently, I've been really into poking around energy weapons - now that's something to spend time on!}
 {128}{}{How are things on the dam?}
@@ -71,7 +71,7 @@
 {181}{}{Well, that's not very often. I usually just repair everything that is brought in, but some stuff gets left behind. Although... Looking at that Pip-Boy, I think I've got something for you.}
 {182}{}{What is this something?}
 
-{183}{}{An Empathetic Amplifier! Technically, it can analyze the emotions of surrounding people, and relay them through an ocular sensor on your right eye. But, that is assuming it's installed correctly.}
+{183}{}{An Empathetic Amplifier! Technically, it can analyze the emotions of surrounding people, and relay them through an ocular sensor on your right eye. That is assuming it's installed correctly.}
 {184}{}{But Pip-Boys are given to vault dwellers. Where did you get this from?}
 {185}{}{Well, Vegas also has Vaults. I know about six, but they're all sealed. But Pip-Boys weren't used exclusively by vault dwellers. They were used by businessmen before the War. It's useful after all. So, from time to time, a nice toy like this pops up.}
 {186}{}{What's the difficulty with installing it?}
