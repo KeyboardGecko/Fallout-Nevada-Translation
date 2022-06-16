@@ -44,7 +44,7 @@
 {144}{}{No more questions. You're free. For now.}
 {145}{}{Oh, we got a tough guy here! Now, if you're done with your stupid questions, I'm asking you to get out of my office.}
 {146}{}{As you wish.}
-{147}{}{You know, it was fun to see the a detective that is still alive... And now I ask you to leave my office.}
+{147}{}{You know, it was fun to see a detective that is still alive... And now I'll ask you to leave my office.}
 {148}{}{As you wish.}
 {149}{}{About "alive" - I will remember it. Keep that in mind, smartass.}
 
