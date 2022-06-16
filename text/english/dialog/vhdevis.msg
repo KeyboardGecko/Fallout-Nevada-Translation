@@ -9,7 +9,7 @@
 {114}{}{One of your policemen attacked me. It's outrageous!}
 {115}{}{I'm looking for the coordinates of Area 51. Could you possibly know where it is?}
 {116}{}{Regarding the problem with ghouls.}
-{117}{}{About the "black" chemicals market.}
+{117}{}{About the "black" market chems.}
 {118}{}{Regarding the problem with Sam Phillips.}
 {119}{}{I'm curious - why the mayor hired *me* as a private investigator?}
 
@@ -179,7 +179,7 @@
 
 {267}{}{I want to help with the investigation. I accidentally learned about the existence of the Black Caravan...}
 {268}{}{I can help you. It just so happened that I found a drug lab...}
-{269}{}{Excellent work, citizen! You were right to tell me. Black Caravan will be arrested immediately, our squad is on the way. Bastards will give us the location of the lab, I'm sure. Well, you earned a reward. I think I even add something from myself, for the risk. Here is, 2000$.}
+{269}{}{Excellent work, citizen! You were right to tell me. The Black Caravan will be arrested immediately, our squad is on the way. Bastards will give us the location of the lab, I'm sure. Well, you earned a reward. I think I even add something from myself, for the risk. Here is, 2000$.}
 {270}{}{Great payment!}
 {271}{}{Great news, citizen! We will immediately send everyone who can stand on their feet. But we can't let go the likes of you... Not before rewarding. Relax, this is for you.}
 {272}{}{Wow, thanks for the payment!}
