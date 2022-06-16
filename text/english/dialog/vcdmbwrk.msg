@@ -1,10 +1,10 @@
 {100}{}{You see a worker.}
 {101}{}{You see an ordinary laborer.}
 
-#Попытка разговора, когда он уже состоялся:
+#ГЏГ®ГЇГ»ГІГЄГ  Г°Г Г§ГЈГ®ГўГ®Г°Г , ГЄГ®ГЈГ¤Г  Г®Г­ ГіГ¦ГҐ Г±Г®Г±ГІГ®ГїГ«Г±Гї:
 {102}{}{I'm busy. Can't you see?}
 
-#Плавающие фразы, когда Боб Нил жив-здоров и на месте
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГґГ°Г Г§Г», ГЄГ®ГЈГ¤Г  ГЃГ®ГЎ ГЌГЁГ« Г¦ГЁГў-Г§Г¤Г®Г°Г®Гў ГЁ Г­Г  Г¬ГҐГ±ГІГҐ
 {110}{}{Vegas is a mad city.}
 {111}{}{A few more shifts and I'm rich.}
 {112}{}{Where's the boss?}
@@ -26,7 +26,7 @@
 {128}{}{I'm hungry.}
 {129}{}{I'll starve to death soon.}
 
-#Плавающие фразы, когда Боб Нил в тюряге или умер
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГґГ°Г Г§Г», ГЄГ®ГЈГ¤Г  ГЃГ®ГЎ ГЌГЁГ« Гў ГІГѕГ°ГїГЈГҐ ГЁГ«ГЁ ГіГ¬ГҐГ°
 {130}{}{Vegas is a disturbing city.}
 {131}{}{A couple of days and I'm broke.}
 {132}{}{What will we do without our boss?}
@@ -48,9 +48,9 @@
 {148}{}{Bob is a good man. I don't believe he is guilty!}
 {149}{}{Bob was framed! I'm sure!}
 
-#Первый диалог
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
 {250}{}{Don't you see I'm busy?!}
-{251}{}{I was wondering, what is it you're doing?}
+{251}{}{I was wondering what you were doing?}
 {252}{}{How do you cope without your boss?}
 {253}{}{I think you're just a slacker. Bye.}
 {254}{}{Well, if you're busy, then I'll leave you alone.}
