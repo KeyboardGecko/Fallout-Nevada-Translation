@@ -24,8 +24,8 @@
 {124}{}{No deal. I'll just take you out and use your key card.}
 {125}{}{I'll think about your offer.}
 {126}{}{What were you saying about the password?}
-{127}{}{[Furtively looks around and quickly hides the money] Hush! No need to compromise us in such an exposed area! Okay, listen... [the worker quietly calls the password and goes away from the site of the dam]}
-{128}{}{[Go mind your business]}
+{127}{}{[Furtively looks around and quickly hides the money] Hush! No need to compromise us in such an exposed area! Okay, listen... [the worker quietly tells you the password and walks away from the dam overlook]}
+{128}{}{[Mind your own business]}
 {129}{}{Right, I have heard of people like you. Playing tough, intimidating others, but push them against the wall - and they will wet their pants.}
 {130}{}{[Nervously pull out a weapon and aim it at the worker]}
 {131}{}{Then we will do it on your terms. Here's the money, give me the password.}
