@@ -18,7 +18,7 @@
 
 {130}{}{His name is Norman.}
 {131}{}{Oh, it's a reeeally big debt. What he owed to us costs on the market around approximately 3000 bucks. Pretty good, considering he wouldn't want to part with this... Item, while he is still breathing.}
-{132}{}{What do you think I am doing? I'm looking for this son of a bitch, Mr. Snoops! Yes, right here. Because the only exit is here, and to run around looking for him in the crowd, up and down all the floors, is quite exhausting.}
+{132}{}{What do you think I'm doing? I'm watching for this son of a bitch, Mr. Snoops! Yes, right here. Because the only exit is here, and running around looking for him in the crowd, up and down all the floors, is exhausting and a waste of time.}
 {133}{}{Well, the honor of the administrative sector of the casino and, perhaps, 500$ from me for the capture. I'm still going to make a lot more money off him than this pitiful amount.}
 {134}{}{Oh, I would be very happy. Because I don't have to dirty my hands and then wait for a suitable customer on his glan... Uh, never mind. But it is 3000 bucks - that's the price of his dept.}
 {135}{}{I have the desired amount. Let's make the exchange.}

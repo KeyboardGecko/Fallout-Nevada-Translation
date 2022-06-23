@@ -109,7 +109,7 @@
 {5500}{}{Filter}
 {5501}{}{This is a powerful filter for purifying groundwater. Used in some kind of specialized equipment.}
 {5600}{}{Anti-smoker}
-{5601}{}{Expired a whole century ago tablets, for those, who want to quit smoking. The body of the user becomes hyperactive for a short time and the head unusually clears up.}
+{5601}{}{Expired a whole century ago, these tablets are used by those who want to quit smoking. The body of the user becomes hyperactive for a short time and the head unusually clears up.}
 {5700}{}{---}
 {5701}{}{---}
 {5800}{}{---}
@@ -191,7 +191,7 @@
 {9600}{}{Access card}
 {9601}{}{A huge access card for a very powerful door.}
 {9700}{}{Symbol}
-{9701}{}{A piece of polished stone with the symbolics of Nevada state. Judging by the pins on the back, the symbol must be inserted somewhere.}
+{9701}{}{A piece of polished stone with the symbol of Nevada state. Judging by the pins on the back, the symbol must be inserted somewhere.}
 {9800}{}{Junk}
 {9801}{}{Pieces of different metals as well as rosins and wires. It is possible that some of this will help with repairs.}
 {9900}{}{Gold Locket}
@@ -203,7 +203,7 @@
 {10200}{}{"Guns and Bullets"}
 {10201}{}{A gun rag. A magazine devoted to the practical use of firearms, and the occasional biased review.}
 {10300}{}{Iguana bits}
-{10301}{}{Some charred meat and vegetables on a cooking stick. Delicious and nutritious, but you’ll never know, from what harmful sites can be these iguanas?}
+{10301}{}{Some charred meat and vegetables on a cooking stick. Delicious and nutritious, but youÂ’ll never know, from what harmful sites can be these iguanas?}
 {10400}{}{Birch's Report}
 {10401}{}{A lot of encrypted information. The inscription on the label says: "Deliver to the Hub, the Union of Atomic Workers".}
 {10500}{}{Ignition key}
@@ -377,7 +377,7 @@
 {18900}{}{Locker}
 {18901}{}{Old locker used for storage.}
 {19000}{}{Criminal case}
-{19001}{}{Rather spoiled by rodents, humid and time, this folder contains materials of some old criminal case. Some things in it can still be read.}
+{19001}{}{Rather spoiled by rodents, humidity, and time, this folder contains the files for some old criminal case. A few pages in it can still be read.}
 {19100}{}{Disk with soundtrack}
 {19101}{}{Holographic film with soundtrack to "Fallout: Nevada".}
 {19200}{}{Book "Homo Ludens"}
@@ -922,7 +922,7 @@
 {47201}{}{You are brave, and therefore it is easier for you to orient yourself when there is a mess around.}
 {47300}{}{Irradiated Nuka-Cola}
 {47301}{}{Amazing pre-war drink in a slightly dirty bottle. Has a wonderful aftertaste and a very questionable glow in the dark.}
-{47400}{}{Magnet-laser pistol Ì2}
+{47400}{}{Magnet-laser pistol ÃŒ2}
 {47401}{}{This laser gun Wattz 1000 has undergone various improvements, which increased its capacity by 50% at price of range and power consumption. Min. ST: 3.}
 {47500}{}{Do not use}
 {47501}{}{Do not use!}
@@ -962,7 +962,7 @@
 {49300}{}{Newspaper clippings}
 {49301}{}{A pack of pages torn from various newspapers. All are about the same thing - the great loss of Big Louie.}
 {49400}{}{Acid gecko pelt}
-{49401}{}{Torn from the corpse of an acid gecko skin. Valued for its refractory and plasma-resistant qualities.}
+{49401}{}{Torn from the corpse of an acid gecko, this skin is valued for its refractory and plasma-resistant qualities.}
 {49500}{}{Special pass}
 {49501}{}{An electronic access card from many government vault doors.}
 {49600}{}{Bo's Pole}
@@ -1077,7 +1077,7 @@
 {56300}{}{Soap scraps}
 {56301}{}{Aromatic soap from the company "Pretty & Glamour" with bite marks. Judging by the imprints of teeth, it was bit by an adult.}
 {56400}{}{Toothpaste}
-{56401}{}{Toothpaste with thorium. Produced by the company "Pretty & Glamour". Gently polishes the tooth enamel, making it white and shiny. Gloss of teeth can be seen even in the dark.}
+{56401}{}{Toothpaste infused with thorium. Produced by the cosmetics company "Pretty & Glamour". Gently polishes the tooth enamel, making it white and shiny. Teeth so glossy you'll see your smile in the dark.}
 {56500}{}{Comic book}
 {56501}{}{Funny comics about the merry guy Pip-Boy, who was constantly looking for an adventure on his ass.}
 {56600}{}{Healing water}
@@ -1101,7 +1101,7 @@
 {57500}{}{Straight razor}
 {57501}{}{Razor with open blade made by "Sharpy wits". Still very sharp. Min. ST: 1.}
 {57600}{}{Painkiller}
-{57601}{}{This cartridge is filled with a powerful pre-war analgesic. The drug has expired for more than 40 years, which makes it even more adversely and irreversibly affect on heart and blood vessels than before.}
+{57601}{}{This cartridge is filled with a powerful pre-war analgesic. The drug is more than 40 years past it's expiration date, which gives it an even more adverse and irreversible effect on the heart and blood vessels than before.}
 {57700}{}{Wet wipes}
 {57701}{}{Sealed packaging with sanitary napkins. Can replace a bath when wandering through the wasteland. Production of the company "Pretty & Glamour".}
 {57800}{}{Old food can}
@@ -1115,7 +1115,7 @@
 {58200}{}{Shitposter's weed}
 {58201}{}{This is all that remains of Shitposter - an unremarkable and seemingly harmless bunch of weed. Do not use in any circumstances.}
 {58300}{}{Nuka-Cola (cherry.)}
-{58301}{}{A bottle of Nuka-Cola, a flavored non-alcoholic beverage of the post-nuclear world. It is made from the leaves of mutated coca and juice of some fruits. Warm and exhausted. With cherry flavor.}
+{58301}{}{A bottle of Nuka-Cola, a flavored non-alcoholic beverage of the post-nuclear world. It is made from the leaves of mutated coca and juice of some fruit. Warm and flat. With cherry flavor.}
 {58400}{}{Nuka-Cola with flavor}
 {58401}{}{Bottle of self-made Nuka-Cola. Someone decided to make money by selling such a low-quality product bypassing the "official" manufacturer.}
 {58500}{}{"Desert Eagle"}
@@ -1199,11 +1199,11 @@
 {62500}{}{Ingram Police}
 {62501}{}{American submachine gun produced in the middle of last century. The police version is distinguished by the front handle, partially finned trunk and a fly without a nouvelle. Min. ST: 5.}
 {62600}{}{Rocket launcher}
-{62601}{}{Unclaimed Rockwell's weapon for projectiles caliber 40 mm. Simply in handling, but for effective application requires considerable strength. Min. ST: 5.}
+{62601}{}{Unclaimed Rockwell Hand grenade launcher. 40 mm caliber. Simple in handling, but requires considerable strength to use effectively. Min. ST: 5.}
 {62700}{}{Grenade launcher 40 mm}
 {62701}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Designed for strong soldiers. Min. ST: 6.}
 {62800}{}{Grenade launcher 40 mm (ext. mag)}
-{62801}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Equipped with a cylinder magazine for 6 shells. Min. ST: 7.}
+{62801}{}{Rockwell Hand grenade launcher, created in continuation of the ancient models of the Springfield arsenal. Equipped with a cylinder magazine for 6 shells. Min. ST: 7.}
 {62900}{}{Reinforced jacket}
 {62901}{}{Black strong leather jacket, reinforced with various armored plates.}
 {63000}{}{Hand made jacket}
@@ -1212,11 +1212,11 @@
 {63101}{}{In this smoking suit you are irresistible! Wear it, if you want to impress your interlocutor.}
 {63200}{}{Leather armor M3}
 {63201}{}{Leather armor with an additional layer of protection from the skins of acid geckos. The known properties of these skins make the armor more resistant to damage from fire, acid and plasma.}
-{63300}{}{Metal armor Ì2 (reinforced.)}
+{63300}{}{Metal armor ÃŒ2 (reinforced.)}
 {63301}{}{Armor, skillfully formed from polished metal plates with additional protection for the knees, elbows and other less protected parts of the body.}
-{63400}{}{Metal armor Ì2 (reflective.)}
+{63400}{}{Metal armor ÃŒ2 (reflective.)}
 {63401}{}{Armor, skillfully formed from polished metal plates with a mirror surface reflecting light or similar attacks.}
-{63500}{}{Metal armor Ì3}
+{63500}{}{Metal armor ÃŒ3}
 {63501}{}{Armor, skillfully formed from polished metal plates with many fortifications and a mirror surface.}
 {63600}{}{Redneck's key}
 {63601}{}{Standard key from one of the doors in Provo.}
@@ -1293,7 +1293,7 @@
 {67200}{}{Caravan meal}
 {67201}{}{A satisfying meal that can be cooked quickly and easily in the field.}
 {67300}{}{"Blood purifier"}
-{67301}{}{Traditional medicine, based on healing herbs. Able to remove toxins and radionuclides from organism and even cure some types of infectious diseases.}
+{67301}{}{Traditional medicine, based on healing herbs. Able to remove toxins and radionuclides from organisms and even cure some types of infectious diseases.}
 {67400}{}{Concert posters}
 {67401}{}{These are hand-written posters of your concert, made in black and white colors. They could be put into good hands to spread throughout Reno.}
 {67500}{}{Nut solution}
@@ -1403,14 +1403,14 @@
 {73000}{}{Pistol 10mm with flashlight}
 {73001}{}{Police model of self-loading pistol Colt 6520 caliber 10mm, equipped with a barrel tactical flashlight. Though, sometimes it doesn't work - you need to shake it. Min. ST: 4.}
 {73100}{}{Locked case}
-{73101}{}{Durable metal case of a business man. Probably, there is something valuable inside, because it is locked with a combination lock.}
+{73101}{}{Durable metal case of a business man. There is probably something valuable inside, because it is locked with a combination lock.}
 {73200}{}{A Pip-Boy anatomical analyzer}
 {73201}{}{This amplifier consists of a disc with a program, a cord and a sensor. Its purpose is to analyze the anatomy of an enemy, determining his most vulnerable spots.}
 {73300}{}{Chrome glasses}
 {73301}{}{Glasses with chrome plated glasses.}
 {73400}{}{Armored plates}
 {73401}{}{Protective polymeric plates, made, apparently, from the remains of destroyed combat armor.}
-{73500}{}{Body armor Ì2}
+{73500}{}{Body armor ÃŒ2}
 {73501}{}{A light army bulletproof vest with elements to quickly unload all sorts of junk. Protects only a part of the torso, since it was meant to be used by Emergency Response Units members. Some of armored plates had been replaced by more sturdy ones.}
 {73600}{}{Winchester Pistol}
 {73601}{}{This gun is made by analogy with a plasma rifle of the "Winchester Arms" company. Gained no popularity because of competition with plasma pistols from the Gaston Glock AI. Min. ST: 5.}
@@ -1437,13 +1437,13 @@
 {74700}{}{Hangar key}
 {74701}{}{Standard key from the hangar door in the ranch of Oliver Luciano.}
 {74800}{}{Schematics: "Kubotan"}
-{74801}{}{The pre-war schematics for policemen on assembling the kubotan, describing the art of its application. It is not difficult to build this self-defense weapon, but without proper skills it will be useless.}
+{74801}{}{Pre-war police instructions for assembling and maintaining the kubotan, with a foldout describing the art of its application. This self-defense weapon is not difficult to build, but without the proper skills it will be useless.}
 {74900}{}{Eli's key #9}
 {74901}{}{Standard door lock key.}
 {75000}{}{Mastery of the kubotan}
 {75001}{}{Learning to use the kubotan in combat allows you to inflict more damage to the enemy.}
-{75100}{}{Remains of Sergeant Kong}
-{75101}{}{The withered remains of a man dressed in army vest and clutching a cowboy hat in his hand. Judging by the skits, all this once was Sergeant Kong.}
+{75100}{}{Remains of Major Kong}
+{75101}{}{The withered remains of a man dressed in army vest and clutching a cowboy hat in his hand. Judging by the skits, all this once was Major Kong.}
 {75200}{}{Knapsack Flamethrower}
 {75201}{}{Flamethrower model Flare-450, equipped with a large knapsack. Shoots a short jet of a flammable mixture. A special fuel is necessary. Min. ST: 6.}
 {75300}{}{Poker chip "El Capitan"}
@@ -1455,10 +1455,10 @@
 {75800}{}{"Atomic cocktail"}
 {75801}{}{Strong alcoholic drink, according to the pre-war description, clearly diluted with something special.}
 {75900}{}{Recipe: "Atomic Cocktail"}
-{75901}{}{The recipe for the preparation of the "Atomic cocktail". Hardly you will be able to achieve pre-war quality, but it won't be bad either.}
+{75901}{}{The recipe for making an "Atomic cocktail". You won't be able to achieve pre-war quality, but it won't be bad either.}
 {76000}{}{Worn minigun}
 {76001}{}{Minigun CZ53 Rockwell in very poor condition. Min. ST: 7.}
-{76100}{}{Ñompromising evidence on Mordino}
+{76100}{}{Ã‘ompromising evidence on Mordino}
 {76101}{}{This is a record of the debate at Stryker's meeting, during which it was decided to remove Mr. Mordino, when the power in Reno will be seized by the Stryker's group. Mordino certainly will love to hear this.}
 {76200}{}{"Gonzo style"}
 {76201}{}{With this quality combat knife you can easily reveal any pretense and lie, if you have enough skills. Min. ST: 1.}
@@ -1504,4 +1504,4 @@
 {78400}{}{Thompson's Plasmogun}
 {78401}{}{Impulse weapon prototype by Thompson & Glock. Developed as an assault weapon for army regular forces, but didn't have time to enter mass production. Factory stamp "Lucky Tom 2029". Min. ST: 6}
 {78500}{}{The list of Nisckiguan}
-{78501}{}{A casually scrawled list of items needed for the operation: 1) pure water; 2) dope herb, alcohol or pain reliever; 3) sharp knife; 4) pliers or pincers ; 5) first aid kit with bandages; 6) öHealing powder or stimpaks.}
+{78501}{}{A casually scrawled list of items needed for the operation: 1) pure water; 2) dope herb, alcohol or pain reliever; 3) sharp knife; 4) pliers or pincers ; 5) first aid kit with bandages; 6) Ã¶Healing powder or stimpaks.}

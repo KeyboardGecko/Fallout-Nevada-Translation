@@ -8,7 +8,7 @@
 {113}{}{That's great, of course, but I'd like to get some rest from the road after all the hustle and bustle. You know, sometimes you have to run around to figure things out. Also, my purse got stolen! I can't get enough of thieves in this town.}
 {114}{}{Your purse got stolen? Tell me more about it.}
 {115}{}{Then I won't be distracting you from your melancholy. Goodbye.}
-{116}{}{It was an old leather purse with a bunch of papers and notes. There was no money in it. The last time I used it was at the caravan merchants' office. Then I came back here, and the purse was gone! I don't even know who could have robbed me and when, it's a pretty short walk from the office to here.}
+{116}{}{It was an old leather purse with a bunch of papers and notes. There was no money in it. The last time I used it was at the caravan merchants' office. Then I came back here, and the purse was gone! I don't even know who could have robbed me or when, and it's a pretty short walk from the office to here.}
 {117}{}{So, on the way from the caravaneers to the hotel... I'll remember it.}
 {118}{}{If you find it, I'll pay.}
 {119}{}{Good.}
@@ -22,5 +22,5 @@
 {127}{}{You're a wonderful person! Thank you again.}
 {128}{}{You're welcome. Be careful in this town. Now I need to go.}
 
-#Æåíñêèå ðåïëèêè
+#Ã†Ã¥Ã­Ã±ÃªÃ¨Ã¥ Ã°Ã¥Ã¯Ã«Ã¨ÃªÃ¨
 {1112}{}{Nothing. Wrong door.}

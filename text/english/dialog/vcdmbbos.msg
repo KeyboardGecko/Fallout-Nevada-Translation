@@ -38,7 +38,7 @@
 {336}{}{What is your job?}
 {337}{}{That's enough. I wanted to know something else.}
 
-{340}{}{It wasn't hard to get this up and running, most of it was already automatically working since the Great War. The problems started when the equipment began to wear out. I took matters into my own hands and started selling electricity at a reasonable price to recoup the depreciation. But the mayor's office and local businessmen decided to take over everything. After a series of conflicts, we had to find a compromise. That's how we came up with the stock system. It may not be perfect, but it helped avoid outright bloodshed and allowed me to keep the dam in my hands.}
+{340}{}{It wasn't hard to get this up and running, most of it was already running on autopilot since the Great War. The problems started when the equipment began to wear out. I took matters into my own hands and started selling electricity at a reasonable price to recoup the depreciation. But the mayor's office and local businessmen decided to take over everything. After a series of conflicts, we had to find a compromise. That's how we came up with the stock system. It may not be perfect, but it helped avoid outright bloodshed and allowed me to keep the dam in my hands.}
 {341}{}{What about the dam?}
 {342}{}{The dam worked automatically since the War. It still does. The real work is being done on substations and power lines - the places where electricity is distributed around the city.}
 {343}{}{This is electric station number one. Most of the electricity produced by the dam is generated here. In the future, given how Vegas is growing, we will need to run a second station. For now, we have enough problems with one.}
@@ -47,7 +47,7 @@
 {346}{}{They're responsible for making sure the equipment is working and the place is tidy. We've also got a team for maintaining and repairing the power lines.}
 {347}{}{Handling public relations and making sure these idiots don't do something stupid.}
 {348}{}{Sounds like you're unhappy with how your employees do their job.}
-{349}{}{Now is not our best times, thanks to the administrative war for ownership of the dam. So, people don't really want to work here, and those who do, can't cope with a tough schedule and shoddy pay.}
+{349}{}{We're going through rough times, thanks to the administrative war for ownership of the dam. So, people don't really want to work here. And those who do, can't cope with a tough schedule and shoddy pay.}
 {350}{}{Strange situation for the city's main enterprise, don't you think?}
 
 #Question 3 - receiving quest to find workers

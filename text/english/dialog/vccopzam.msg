@@ -17,7 +17,7 @@
 
 {120}{}{Can I know why you are interested in this case?}
 {121}{}{Sam Phillips... Er... Owes me money, and I'm worried.}
-{122}{}{Sam Phillips is my friend and I don't want him to go in prison!}
+{122}{}{Sam Phillips is my friend and I don't want him to go to prison!}
 {123}{}{I'm investigating the crime with order of the mayor himself.}
 {124}{}{No reason. Why?}
 {125}{}{Your boss has given me a civil job to snitch Phillips.}
@@ -41,7 +41,7 @@
 {141}{}{How interesting. So what is this drug?}
 {142}{}{Wow... Food supplement... It doesn't look like it. But... How would I know how food supplement looks like? So that's why our specialists can't figure this stuff out. Well, I think your expertise is enough to prove Sam Phillips innocence.}
 {143}{}{That's great! I'll go tell him.}
-{144}{}{You, of course, are right, and we will do that immediately. Phillips will be arrested, and you, as it is being done in such cases, will be rewarded. Here, 1000$. Thank you, civilian, for your cooperation. I hope you will continue to notify us about any crimes that may be occurring.}
+{144}{}{You, of course, are right, and we will do that immediately. Phillips will be arrested, and you, as this case warrants, will be rewarded. Here, 1000$. Thank you, civilian, for your cooperation. I hope you will continue to notify us about any crimes that may be occurring.}
 {145}{}{Heh, easy money.}
 
 #Ïðî Âûñåðà
@@ -114,7 +114,7 @@
 {226}{}{Here is a record of our conversation. He hired me to steal Bob Neil's gun!}
 {227}{}{If everything is so serious, perhaps, I should refuse to present further evidence.}
 
-{228}{}{I do not think that someone in the police will seriously blame Mr. Wallace in such actions. Quite the contrary. But I must give evidence to our boss. Thank you, citizen. You're now free to go.}
+{228}{}{I don't think any of the police will seriously blame Mr. Wallace in these actions. Quite the contrary. But I must give the evidence to our boss. Thank you, citizen. You're now free to go.}
 {229}{}{Can my anonymity be guaranteed?}
 {230}{}{Okay.}
 {231}{}{Yes, of course.}

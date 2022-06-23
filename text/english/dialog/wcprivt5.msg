@@ -1,10 +1,10 @@
 {100}{}{You see a drill sergeant.}
 {101}{}{You see a platoon commander, instructor and mentor.}
 
-#Попытка заговорить
+#ГЏГ®ГЇГ»ГІГЄГ  Г§Г ГЈГ®ГўГ®Г°ГЁГІГј
 {102}{}{Civilians?! I don't have time for this.}
 
-#Когда бойцы отжимаются
+#ГЉГ®ГЈГ¤Г  ГЎГ®Г©Г¶Г» Г®ГІГ¦ГЁГ¬Г ГѕГІГ±Гї
 {110}{}{Come on, ladies!}
 {111}{}{Good!}
 {112}{}{One-two! One-two!}
@@ -17,11 +17,12 @@
 {119}{}{Hey, bone bags! You'll be cleaning latrines for the rest of the day if you don't put some effort right now!}
 {120}{}{Move it, move it!}
 
-#Когда бойцы дерутся
+#ГЉГ®ГЈГ¤Г  ГЎГ®Г©Г¶Г» Г¤ГҐГ°ГіГІГ±Гї
 {130}{}{Yes! With the left! Left!}
 {131}{}{The enemy is right in front of you!}
 {132}{}{Anger! I don't see anger in your eyes!}
 {133}{}{Grin! Show me your grin!!!}
+#Grin?
 {134}{}{Come on!!!}
 {135}{}{Some of you still have a chance to become men!}
 {136}{}{Talk about green berets!}

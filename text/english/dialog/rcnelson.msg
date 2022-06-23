@@ -1,8 +1,8 @@
 {100}{}{You see Nelson.}
 {101}{}{You see a ghoul, burned through with hellish mixture of radiation, Rot gut and huge ambitions to big earnings.}
 
-#Первый диалог
-{110}{}{[Stands looking at you, pretending to be a cowboy from a movie] Who are you? if Wright sent you for negotiations - then get the hell out of here, while I'm in a good mood.}
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
+{110}{}{[An old ghoul stands in the doorway, looking at you, pretending to be a cowboy from a movie] Who are you? if Wright sent you for negotiations - then get the hell out of here, while I'm in a good mood.}
 
 {111}{}{Easy, I have no interest in your beef with some Wright.}
 {112}{}{Then what the hell are you doing here?}
@@ -15,7 +15,7 @@
 {118}{}{Well, then you're no problem to me. Take care for now.}
 {119}{}{You confuse me with someone, I don't know any Wright.}
 
-#При посещении карты на машине
+#ГЏГ°ГЁ ГЇГ®Г±ГҐГ№ГҐГ­ГЁГЁ ГЄГ Г°ГІГ» Г­Г  Г¬Г ГёГЁГ­ГҐ
 {150}{}{What is this? Corvega? Meh - a pickup, 72' model. Shitty car.}
 {151}{}{Well, better than nothing...}
 {152}{}{What would you know about cars, rotting corpse?}
@@ -25,13 +25,13 @@
 {156}{}{Oh yeah, I forget sometimes, the times we live in. If today were 77th, I would show you, what a real car is. But yeah, in our times even a junk with wheels is considered good enough.}
 {157}{}{I would prefer it instead of walking anytime, be sure.}
 
-#Особая ветка для жен. ГГ
+#ГЋГ±Г®ГЎГ Гї ГўГҐГІГЄГ  Г¤Г«Гї Г¦ГҐГ­. ГѓГѓ
 {170}{}{Boop? Is that you? Baby, let me give you a ride on my wheels! Oh... Nevermind, forget it...}
 {171}{}{Who is Boop?}
 {172}{}{Hey, can we have some privacy?! It's not your business!}
 {173}{}{Er, whatever...}
 
-#Про Берча
+#ГЏГ°Г® ГЃГҐГ°Г·Г 
 {180}{}{You know, Lewis Birch is up to something.}
 {181}{}{Amazing - how can you and I think the same things about him! Although, why would you talk about it?}
 {182}{}{He asked me to deliver some encoded message to Hub. That bastard is sly. We should throw him out of the City.}
@@ -42,17 +42,17 @@
 {187}{}{Aha. That was fun, but it's time for me to go.}
 {188}{}{It should be useful for you to know, that he send a report to Hub with a request of people to come here to take over the City. I've seen the report with my own eyes.}
 
-#Основной диалог
+#ГЋГ±Г­Г®ГўГ­Г®Г© Г¤ГЁГ Г«Г®ГЈ
 {200}{}{What do you want?}
 {201}{}{Tell me about the problem with Wright. What happened?}
 {202}{}{I want to know more about you - you're interesting to me.}
 {203}{}{What can you tell about Uranium City?}
-{204}{}{Why there is so few people living here?}
+{204}{}{Why are there so few people living here?}
 {205}{}{Nothing, everything is good.}
 {206}{}{Between us? The damn swarm of worms shat between us. And each has shat so much, that me or Wright can't even approach. Though, I think sometimes, he's just disgusted by my looks.}
 {207}{}{Yes. I'm Nelson. Remember that.}
-{208}{}{This is my home. And that's it. Almost my entire life I lived here. I don't want to travel anymore, neither to go back south.}
-{209}{}{You really want to know? What if I tell they don't belong here? Though yes, most of the locals simply died. Not because of me, don't look at me like that.}
+{208}{}{This is my home, and that's it. Lived here almost my entire life. I don't want to travel anymore, not even to go back south.}
+{209}{}{You really want to know? What if I tell you they don't belong here? Though yes, most of the locals simply died... Not because of me, don't look at me like that.}
 
 {210}{}{Tony lays lifeless in your room.}
 {211}{}{I don't like bad news... Yes I knew, he hasn't much time left. I hoped, he will go through ghoulification, like me. But no!}
@@ -91,11 +91,11 @@
 {242}{}{Funny idea. The only one that has a decent firepower here is Kelly. talk to him, perhaps, he will agree to go with you.}
 {243}{}{I know. It's in the mine, and I have the key from the storage room, but I won't go there myself. I can assemble a whole dynamite pack. Oh, I see, you have a brahmin... Damn, why it has to be Betty!? Ah, fine. Nothing that can be done.}
 {244}{}{Give me the key, I will get the dynamite.}
-{245}{}{Not so fast, monster! I spent the best years of my life in this mine. And you want to blow it all up? I don't want to dig it back afterwards. The most important - there is not much dynamite left. This is the last supply. What can you say about that?}
+{245}{}{Not so fast, monster! I spent the best years of my life in this mine. And you want to blow it all up? I don't want to have to dig it back up afterwards. And more importantly - there isn't much dynamite left. This is the last supply. What do you say about that?}
 {246}{}{I'm a demolition expert. You can trust me.}
-{247}{}{Yes, it's a risk. But understand, while mutants are here, you have nothing to be so concerned about anyway. Who wants your dynamite, if even you are afraid to go get it? At least we have a chance.}
+{247}{}{Yes, it's a risk. But while the mutants are here you have nothing to do anyway. Who wants your dynamite, if even you are afraid to go get it? At least I have a chance.}
 {248}{}{I have nothing to assure you.}
-{249}{}{Fine, I believe you. Here is the key. And... Be careful there. Bring me the dynamite sticks, I will assemble them, to be sure in the results. You can never know...}
+{249}{}{Fine, I believe you. Here is the key. And... Be careful there. Bring me the dynamite sticks, I will assemble them, to be sure of the results. You never know...}
 {250}{}{That was the right decision, Nelson.}
 
 {251}{}{I managed to get few dynamite sticks. Can you assemble it?}
@@ -123,7 +123,7 @@
 {277}{}{ The most important thing needed right now is explosives. A lot of it. If we have it, we will keep our independence from the big daddy from the City.}
 {278}{}{What kind of explosives do you need?}
 {279}{}{About the team - who do you have in mind?}
-{280}{}{It seems you have everything that is necessary. So - will you restore the Uranium City?}
+{280}{}{It seems you have everything necessary. So - will you restore Uranium City?}
 {281}{}{Hey, you're right! We have people, tools too. First we must refine some ore and sell it to Wright. Then we will restore our connection with south and the east. We must earn some money to start, and attract workers. Now, everyone to their places! Get to work!}
 {282}{}{Damn, little bossy huh...}
 {283}{}{Three people first. talk about it with Marilyn, she knows better how to find them.}

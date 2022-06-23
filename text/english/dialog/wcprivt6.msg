@@ -9,12 +9,12 @@
 {113}{}{It's none of your business. I advise you to leave the room before I get angry!}
 {114}{}{Are you some kind of a radio operator?}
 {115}{}{Hmm, how rude. Okay, I'll go.}
-{116}{}{[Opens eyes in amazement] Wow, what a knowledge. And who am I talking to?}
+{116}{}{[Opens his eyes in amazement] Wow, what knowledge. And who am I talking to?}
 {117}{}{Oh, I am called "Your Highness," and usually people kneel when they address me.}
 {118}{}{Okay...}
 {119}{}{I'm here on a personal matter to General Wesker.}
 {120}{}{I was just passing by.}
-{121}{}{You scum, get out of here! Or should I make you?}
+{121}{}{You scum, get out of here! Or do I have to make you?}
 {122}{}{No, I'll go by myself.}
 {123}{}{[Narrows his eyes incredulously] Well, if so, what do you want from *me*?}
 {124}{}{[Narrows his eyes incredulously] Hmm? And my sources say that you are full of shit. Get out of here!}

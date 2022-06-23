@@ -307,8 +307,8 @@
 {3011}{}{  * Wrench}
 {3012}{}{  * Weapon parts}
 {3013}{}{}
-{3014}{}{It is necessary to hurry to collect these,}
-{3015}{}{because in three days the caravan will depart.}
+{3014}{}{You need to collect these soon,}
+{3015}{}{because the caravan will depart in three days.}
 {3016}{}{**END-DISK**}
 
 # Free space
@@ -1091,8 +1091,8 @@
 {19000}{}{Criminal case #4783}
 {19001}{}{}
 {19002}{}{[ A criminal case file, fairly battered by}
-{19003}{}{rodents, humid and time. But some of the text}
-{19004}{}{could still be comprehended. ]}
+{19003}{}{rodents, humidity, and time. But some of the pages}
+{19004}{}{are still legible. ]}
 {19005}{}{}
 {19006}{}{[ Leather-case diary with an elegant religion-themed}
 {19007}{}{lettering. ]}
@@ -1101,14 +1101,14 @@
 {19010}{}{}
 {19011}{}{Today Emily confessed that she took a flower from our}
 {19012}{}{neighbor's garden, Mr. Flowers, without allowance.}
-{19013}{}{We gave apologies with the whole our family to}
+{19013}{}{Our whole amily gave apologies to}
 {19014}{}{this worthy man, and he favorably accepted it.}
 {19015}{}{As I'm writing this, Emily strenuously prays to our}
 {19016}{}{Lord for forgiveness. She does it voluntarily, as}
 {19017}{}{the seed of faith made sprouts in her innocent soul,}
 {19018}{}{which delights my relentless heart greatly...}
-{19019}{}{But back to the point! My flock awaits of its}
-{19020}{}{shepherd, as even in meadows of Paradise it is}
+{19019}{}{But back to the point! My flock awaits its}
+{19020}{}{shepherd, as even in the meadows of Paradise it is}
 {19021}{}{bequeathed to us to toil tenaciously, in the name}
 {19022}{}{of Our Lord!}
 {19023}{}{}
@@ -1127,16 +1127,16 @@
 {19036}{}{}
 {19037}{}{Judgment Day has come... All that occurred recently I}
 {19038}{}{can only recollect in fragments... Alarm sirens, akin}
-{19039}{}{to the Jericho trumpets... My poor Mary and Emily,}
+{19039}{}{to the trumpets of Jericho... My poor Mary and Emily,}
 {19040}{}{packing their belongings hastily... Stampede...}
 {19041}{}{Elderly couple, trampled by cattle in fear-induced}
-{19042}{}{rage... Pavements, covered in blood... Doors to the}
+{19042}{}{rage... Pavements, covered in blood... Doors to}
 {19043}{}{Mr. Flowers' family shelter, which granted asylum to}
-{19044}{}{almost three dozens of refugees... But there is one}
-{19045}{}{thing I remember clearly - before security cameras}
-{19046}{}{went off, I witnessed the fireball on the}
+{19044}{}{almost three dozen refugees... But there is one}
+{19045}{}{thing I remember clearly - before the power}
+{19046}{}{went off I witnessed the fireball on the}
 {19047}{}{horizon, expanding rapidly, greedily consuming}
-{19048}{}{souls of the poor lambs of God...}
+{19048}{}{the souls of the poor lambs of God...}
 {19049}{}{And the dazzling flash...}
 {19050}{}{Our demise came from the skies, looking like}
 {19051}{}{hellfire, breaking out from the ground...}
@@ -1144,25 +1144,25 @@
 {19053}{}{Day IV}
 {19054}{}{}
 {19055}{}{Lord Almighty, give me strength... Mary, my sweet}
-{19056}{}{Mary... Mr. Flowers said that shelter doesn't}
+{19056}{}{Mary... Mr. Flowers said his shelter doesn't}
 {19057}{}{provide enough protection from radiation...}
-{19058}{}{Medicines we took made her suffer heavy allergic}
-{19059}{}{reactions... Still see her swollen hands, covered}
-{19060}{}{with stains, reaching to me...}
+{19058}{}{The medicines we took made her suffer heavy allergic}
+{19059}{}{reactions... Can still see her swollen hands, covered}
+{19060}{}{with stains, reaching out to me...}
 {19061}{}{Eyes, blurred with pain...}
 {19062}{}{Hear eerie cries...}
-{19063}{}{Why Our Lord is so cruel to me?}
+{19063}{}{Why is Our Lord so cruel to me?}
 {19064}{}{She needs me so much in her last moments, but}
 {19065}{}{my strength is ebbing away...}
 {19066}{}{}
 {19067}{}{Day V}
 {19068}{}{}
-{19069}{}{Praise our Lord! Oh, why I was so blind...}
+{19069}{}{Praise our Lord! Oh, why was I so blind...}
 {19070}{}{I abstained myself, fostering my spirit through}
 {19071}{}{prayers, and the revelation came upon me! All,}
-{19072}{}{that happened, is the Greater Plan of our Maker}
+{19072}{}{that happened is the Greater Plan of our Maker}
 {19073}{}{to ascend all suffering souls to heaven! That flash,}
-{19074}{}{which nearly blinded me, was the light of Pearly}
+{19074}{}{which nearly blinded me, was the light of the Pearly}
 {19075}{}{Gates of Heaven, opening for all the righteous}
 {19076}{}{and faithful! And we were lured into this purgatory}
 {19077}{}{by the servants of Satan, tempting us with}
@@ -1178,27 +1178,27 @@
 {19087}{}{}
 {19088}{}{Today I opened the gates to let the light of our}
 {19089}{}{Maker, called "radiation" by ignorant fools, to shine}
-{19090}{}{upon this condemned place. Devil's spawn, disguised}
-{19091}{}{as Mr. Flowers, tried to stop me, but fire axe in my}
-{19092}{}{hands, like a blazing sword of Archangel, chopped}
+{19090}{}{upon this condemned place. The Devil's spawn, disguised}
+{19091}{}{as Mr. Flowers, tried to stop me, but a fire axe in my}
+{19092}{}{hands, like a blazing sword of Archangel, chopped the}
 {19093}{}{squealing messenger of Satan to pieces.}
 {19094}{}{Oh yes, many of them died by my hand that day...}
 {19095}{}{There is no food left, but with the power of our Lord}
 {19096}{}{I communed with their flesh and blood, which tasted}
-{19097}{}{better than any wine for me...}
+{19097}{}{better than any wine to me...}
 {19098}{}{But Mary, the most important thing! Our sweet and }
 {19099}{}{lovely child is on the way to you!}
-{19100}{}{For some reason, she resisted stubbornly, when}
-{19101}{}{I was squeezing last breath from her mortal flesh...}
-{19102}{}{Maybe I should've, cleared blood from my face}
+{19100}{}{For some reason, she resisted stubbornly while}
+{19101}{}{I was squeezing the last breath from her mortal flesh...}
+{19102}{}{Maybe I should've cleared the blood from my face}
 {19103}{}{and cleaned my clothes beforehand?}
 {19104}{}{}
 {19105}{}{Day VII}
 {19106}{}{}
-{19107}{}{I'm done here, but there's so much more poor souls}
+{19107}{}{I'm done here, but there are so many more poor souls}
 {19108}{}{left for me to send to the Pearly Gates of Heaven...}
-{19109}{}{The flesh of mine is changing under the influence of}
-{19110}{}{our Lord, which makes some inconvenience...}
+{19109}{}{This flesh of mine is changing under the influence of}
+{19110}{}{our Lord, which makes some things...inconvenient...}
 {19111}{}{But I believe - it's all for the best cause!}
 {19112}{}{Rejoice, righteous men! Faithless, be frightened!}
 {19113}{}{Because I am coming for you...}

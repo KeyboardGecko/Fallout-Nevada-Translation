@@ -2,7 +2,7 @@
 {101}{}{Here is none other than the owner of "Three Card Monte" himself.}
 {102}{}{A killer is in the office!!!}
 
-#С'ар'овая ве'ка:
+#Г‘'Г Г°'Г®ГўГ Гї ГўГҐ'ГЄГ :
 {107}{}{You don't say...}
 {108}{}{Guards! Take this trash out of the office!}
 {109}{}{Who?! Me? It's a mistake! I was trying to get out of here.}
@@ -12,19 +12,19 @@
 {113}{}{What are the guards doing?! Immediately take him out into the corridor!}
 {114}{}{No! Wait...}
 
-#Квес' на выродков:
+#ГЉГўГҐГ±' Г­Г  ГўГ»Г°Г®Г¤ГЄГ®Гў:
 {115}{}{Yes, there is one job... Not for the faint-hearted.}
 {116}{}{What is it?}
 {117}{}{Oh, I was just curious. I think I'd better go.}
 
 {118}{}{You do know who the freaks are, don't you? These ghouls are a pain in the ass. The whole city suffers because of them, and there's no telling how long it will last. We have to deal with it.}
-{119}{}{Hmm. Something tells me you goals are not entirely righteous.}
+{119}{}{Hmm. Something tells me your goals are not entirely righteous.}
 {120}{}{What are they guilty of?}
 {121}{}{Sure. If you pay, then we must.}
 {122}{}{Not ghouls! I don't mess with them!}
 
 {123}{}{I, like the rest of the city, have my reasons, but why do you care? Better concentrate on your own interest.}
-{124}{}{[Discreetly turn on the recording on a Pip-Boy] So, what's the job?}
+{124}{}{[Discreetly turn on the recorder on your Pip-Boy] So, what's the job?}
 {125}{}{So, what's the job?}
 {126}{}{If you don't want to be honest with me, then I refuse!}
 
@@ -49,7 +49,7 @@
 {143}{}{I will wait for news, partner.}
 {144}{}{Okay, Mr. Wallace.}
 
-#Сдача квес'а на выродков:
+#Г‘Г¤Г Г·Г  ГЄГўГҐГ±'Г  Г­Г  ГўГ»Г°Г®Г¤ГЄГ®Гў:
 {145}{}{I'm waiting for the *good* news!}
 {146}{}{Everything is ready. The drugs are planted in the boxes. All that remains is to report to the police.}
 {147}{}{It's done. Drugs, as agreed, were planted and the freaks were commissioned to the police.}
@@ -66,7 +66,7 @@
 {157}{}{The reward 2500, as we agreed.}
 {158}{}{The amount is good!}
 
-#Получение квес'а на начальника ГЭС:
+#ГЏГ®Г«ГіГ·ГҐГ­ГЁГҐ ГЄГўГҐГ±'Г  Г­Г  Г­Г Г·Г Г«ГјГ­ГЁГЄГ  ГѓГќГ‘:
 {159}{}{More work for you.}
 {160}{}{I'm listening, Mr. Wallace.}
 {161}{}{Hell no! Some dubious affairs are going on here! It's time to end it!}
@@ -93,7 +93,7 @@
 {181}{}{I do not forgive mistakes. I need Bob's gun, quietly.}
 {182}{}{I understand. I'll do what I can.}
 
-#Сдача квес'а на начальника ГЭС:
+#Г‘Г¤Г Г·Г  ГЄГўГҐГ±'Г  Г­Г  Г­Г Г·Г Г«ГјГ­ГЁГЄГ  ГѓГќГ‘:
 {183}{}{You know what to do. Why are you here?}
 {184}{}{Mission accomplished. Here is the gun. Bob Neil is still alive, he knows nothing about our deal.}
 {185}{}{Nothing. Just wasting time.}
@@ -117,7 +117,7 @@
 {199}{}{Why not contact the police directly?}
 {200}{}{In America, when something is not in order, the best way to fix is usually the fastest.}
 
-#Женские реплики
+#Г†ГҐГ­Г±ГЄГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {1112}{}{Oh, sorry, wrong door.}
 {1113}{}{What are the guards doing?! Immediately take her out into the corridor!}
 {1117}{}{Oh, I was just curious. I think I'd better go.}

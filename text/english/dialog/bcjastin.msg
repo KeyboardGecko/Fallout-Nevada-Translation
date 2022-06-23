@@ -93,7 +93,7 @@
 
 #Quest - missing brahmin
 {210}{}{What do you know about William's missing brahmin?}
-{211}{}{Only that snotty William's brat lost his horned two-headed friend while sleeping on the job. He'll deny it, sure, but how else do explain a half-ton of meat disappearing right from under his nose?}
+{211}{}{Only that William's snotty brat lost his horned two-headed friend while sleeping on the job. He'll deny it, sure, but how else do explain a half-ton of meat disappearing right from under his nose?}
 {212}{}{You almost sound happy about what happened.}
 {213}{}{How do I know you didn't do it? Weren't you seen around the stables?}
 {214}{}{Who do you think could have done it?}

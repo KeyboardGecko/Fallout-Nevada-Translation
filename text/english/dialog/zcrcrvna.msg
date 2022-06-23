@@ -44,8 +44,8 @@
 {153}{}{New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. In short, you have to be careful here. Now's not the best time to be in this city, that's for sure.}
 {154}{}{New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can easily get a lot of trouble on your ass.}
 
-{160}{}{Las Vegas. The city that is always lively and much safer than the rest. A great place to relax and do some trading.}
-{161}{}{Las Vegas. The city that is always lively and much safer than the rest. A great place to relax and do some trading... Except there are some stranger things going on. Anyway, that's not our problem.}
+{160}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading.}
+{161}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading... Except there are some strange things going on. But that's not our problem.}
 
 {170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least you don't have to be afraid of being stabbed in the back.}
 {171}{}{Salt Lake. Dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of being stabbed in the back - and you can make a fine trade.}
@@ -128,7 +128,7 @@
 {235}{}{Is there any place here where you can go to relax?}
 {236}{}{First, the Tin Angel. A very nice place, always fun to visit. There's also an inn where you can rest, and even a trading post across the street. There are two vendors there, one selling weapons and the other all kinds of junk.}
 {237}{}{What makes the city run?}
-{238}{}{The most important thing around here is the Nuka-Cola factory. If you want to start your own business and sell this stuff around the Wasteland, go straight there. It's to the east from the city center. But in general there is not much to do, not many options... Ah, yes, also people grow Vocas nuts. They are very nutritious. You can find whole plantations just outside the city.}
+{238}{}{The most important thing around here is the Nuka-Cola factory. If you want to start your own business and sell this stuff around the Wasteland, go straight there. It's to the east from the city center. But in general there is not much to do, not many options... Ah, yes, people also grow Vocas nuts. They are very nutritious. You can find whole plantations just outside the city.}
 {239}{}{What about the social situation in the city?}
 {240}{}{They have a Sheriff's office. As you can see, they manage to keep the scum away. At least it's a lot safer here than in New Reno.}
 {241}{}{Okay. That would be all.}
@@ -202,7 +202,7 @@
 {336}{}{The location of Wind of War have been marked on your Pip-Boy.}
 {337}{}{[Caravan merchant marks the location of the Wind of War settlement on the world map, a waypoint on his trading route] Here.}
 {338}{}{This is a pretty active trading route because Las Vegas and Reno established a good trading relationship. You can even meet the local population on that route.}
-{339}{}{This is a pretty boring trading route. You should be careful around Salt Lake, watch out for acid geckos. But in comparison with other routes, it's the safest one. The main problem is, perhaps, the slavers. But raiders are rarely around there.}
+{339}{}{This is a pretty boring trading route. You should be careful around Salt Lake, watch out for acid geckos. But compared to other routes, it's the safest one. The main problem is, perhaps, the slavers. But raiders are occasionally around there.}
 
 ###############################################################
 #       Ðàññïðîñû, êóäà ïóòü äåðæàò

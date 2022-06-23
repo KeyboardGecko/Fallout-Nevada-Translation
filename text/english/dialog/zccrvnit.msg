@@ -6,7 +6,7 @@
 {107}{}{Thanks for the help.}
 
 #Äî êâåñòà
-{110}{}{Huh? I don't have time to chat, I still have to run all over the town before I can leave.}
+{110}{}{Huh? I don't have time to chat, I still have to run all over town before I can leave.}
 {111}{}{If you need some help, I can help you.}
 {112}{}{[Leave]}
 {113}{}{Would be great. Okay, I've got a whole list of things I need to get before we hit the road. If you find them, I'll pay you a hundred bucks. Deal?}

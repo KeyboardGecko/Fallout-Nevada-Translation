@@ -4,8 +4,8 @@
 {103}{}{You are now deprived of the rank of Sheriff of Uranium City.}
 
 {109}{}{Be quick about it, or go away.}
-{110}{}{[As you enter the salon, you encounter the stern gaze of a pretty woman] Oh, a new man in Uranium City? Great. I hope you're not going to start bar fights or drag uranium ore in here... And yes, clean your boots before you come in so you get less dirt in. And no guns. And that's just part of the rules. If you don't like it, stay outside.}
-{111}{}{Erm, I will keep in mind... Your rules.}
+{110}{}{[As you enter the saloon, you encounter the stern gaze of a pretty woman] Oh, a new man in Uranium City? Great. I hope you're not going to start bar fights or drag uranium ore in here... And yes, clean your boots before you come in so you get less dirt in. And no guns. And that's just part of the rules. If you don't like it, stay outside.}
+{111}{}{Erm, I will keep your rules...in mind.}
 {112}{}{You know, you have an intolerable personality.}
 {113}{}{Okay then. So, what can I help you with?}
 {114}{}{Yes. I know. And you're just a wanderer passing by. So, what can I help you with?}
@@ -15,8 +15,8 @@
 {118}{}{Hmm...}
 {119}{}{How can I help the sheriff?}
 
-#О местных жителях
-{120}{}{You have quite a company around here.}
+#ГЋ Г¬ГҐГ±ГІГ­Г»Гµ Г¦ГЁГІГҐГ«ГїГµ
+{120}{}{You have quite the company around here.}
 # 121 Oh Yes. Lousy Indian, Ghoul-paranoid, poor Chinese gangsters and a strutting Turkey from the south. But I already used. Perhaps this is the fate of many mining towns. Here are flocking to work from across the region. And, of course, nothing but their mercantile interests they replace the village did not want to give. Well, instead remaining at least can agree among themselves. It is already an achievement, isn't it?
 {121}{}{Oh yeah. A lousy Indian, a paranoid ghoul, poor Chinese, bandits, and some arrogant asshole from the South - but I'm used to it by now. I guess that's the fate of all small mining towns. A lot of people flock here from all over the region to work. And - obviously - they don't want to give society anything but their own mercantile interests. But those who stay, at least, can agree with each other. Already an achievement, isn't it?}
 {122}{}{Tell me about the "arrogant asshole".}
@@ -33,11 +33,12 @@
 {132}{}{Nelson. He's a local. Nobody knows his past, and I doubt it was any good. Otherwise he wouldn't be saying all this crazy shit all the time.}
 {133}{}{A family of farmers. They came from San Francisco a couple of years ago, and they're doing just fine here. They're very hard working people. One thing I don't understand is why the hell they left the big city. You should ask them yourself.}
 {134}{}{I liked this hairy redskin immediately. He's from Cheyenne. He was a slave for many years, until he finally ended up here. Now it is his home.}
+#puberty problems?
 {135}{}{Well, you can count them on your fingers. Tony is a typical guy with puberty problems. He's sick and can't seem to get well. Kelly is a good shot, but it feels like his soul is just... empty. Juan is a guy so brutal that sometimes you want to kick him in the balls. That's all. Not that they're real thugs, but if this keeps up, they're going to have to earn their bread the dishonest way.}
-#--Cтарый вариант: Ну, их надо перечислять по пальцам. Тони - обычный такой парень с неоконченным подростковым кризисом.
-#Болен и вроде бы неизлечимо. Келли - хороший стрелок, но такое ощущение, что за душой у него совсем пусто.
-#Хуан - весь такой крутой брутал, что порой так и хочется пнуть ему по яйцам.
-#И, наконец, Романтик - самый бесполезный кусок мяса во всем Уран-Сити. Вот такой набор шпината.
+#--CГІГ Г°Г»Г© ГўГ Г°ГЁГ Г­ГІ: ГЌГі, ГЁГµ Г­Г Г¤Г® ГЇГҐГ°ГҐГ·ГЁГ±Г«ГїГІГј ГЇГ® ГЇГ Г«ГјГ¶Г Г¬. Г’Г®Г­ГЁ - Г®ГЎГ»Г·Г­Г»Г© ГІГ ГЄГ®Г© ГЇГ Г°ГҐГ­Гј Г± Г­ГҐГ®ГЄГ®Г­Г·ГҐГ­Г­Г»Г¬ ГЇГ®Г¤Г°Г®Г±ГІГЄГ®ГўГ»Г¬ ГЄГ°ГЁГ§ГЁГ±Г®Г¬.
+#ГЃГ®Г«ГҐГ­ ГЁ ГўГ°Г®Г¤ГҐ ГЎГ» Г­ГҐГЁГ§Г«ГҐГ·ГЁГ¬Г®. ГЉГҐГ«Г«ГЁ - ГµГ®Г°Г®ГёГЁГ© Г±ГІГ°ГҐГ«Г®ГЄ, Г­Г® ГІГ ГЄГ®ГҐ Г®Г№ГіГ№ГҐГ­ГЁГҐ, Г·ГІГ® Г§Г  Г¤ГіГёГ®Г© Гі Г­ГҐГЈГ® Г±Г®ГўГ±ГҐГ¬ ГЇГіГ±ГІГ®.
+#Г•ГіГ Г­ - ГўГҐГ±Гј ГІГ ГЄГ®Г© ГЄГ°ГіГІГ®Г© ГЎГ°ГіГІГ Г«, Г·ГІГ® ГЇГ®Г°Г®Г© ГІГ ГЄ ГЁ ГµГ®Г·ГҐГІГ±Гї ГЇГ­ГіГІГј ГҐГ¬Гі ГЇГ® ГїГ©Г¶Г Г¬.
+#Г€, Г­Г ГЄГ®Г­ГҐГ¶, ГђГ®Г¬Г Г­ГІГЁГЄ - Г±Г Г¬Г»Г© ГЎГҐГ±ГЇГ®Г«ГҐГ§Г­Г»Г© ГЄГіГ±Г®ГЄ Г¬ГїГ±Г  ГўГ® ГўГ±ГҐГ¬ Г“Г°Г Г­-Г‘ГЁГІГЁ. Г‚Г®ГІ ГІГ ГЄГ®Г© Г­Г ГЎГ®Г° ГёГЇГЁГ­Г ГІГ .
 {136}{}{About the sick one.}
 {137}{}{This brat thinks he's going to get in my pants eventually. And, of course, that's not going to happen... But *perhaps* I've been too hard on him. Given his illness... Yeah. It wasn't very nice.}
 {138}{}{No that's okay - he is not with us anymore. He's dead.}
@@ -53,7 +54,7 @@
 {145}{}{Is it true that Birch gave you clean water?}
 {146}{}{Yes! Surprising, isn't it? But I think he's just trying to make an impression. The man needs the feeling of importance, you know?}
 
-#Арсенал Мэрилин
+#ГЂГ°Г±ГҐГ­Г Г« ГЊГЅГ°ГЁГ«ГЁГ­
 {150}{}{Nice arsenal you have in that closet there...}
 {151}{}{Yeah. Uranium City has seen many "cowboys" that chase wealth, and when the time comes to pay the dues, many have nothing but a gun on them. That's where this collection comes from. Not the best choice, but at least we always have something to protect ourselves from nasty visitors.}
 {152}{}{I want to buy this collection.}
@@ -72,7 +73,7 @@
 {164}{}{Not that fast! You shouldn't have swung your fists around the bar. Now you won't get anything for just like that. We're done.}
 {165}{}{Oh, easy, sheriff! You need it more anyway. Take it! It's open.}
 
-#Мясо драконов
+#ГЊГїГ±Г® Г¤Г°Г ГЄГ®Г­Г®Гў
 {169}{}{You're welcome. Anything else?}
 {170}{}{I see your menu got bigger?}
 {171}{}{Well, we found the remains of the earth dragons and thought that it would be a shame for them to go to waste.}
@@ -85,7 +86,7 @@
 {178}{}{Sure! Here, have a plate, free of charge.}
 {179}{}{Oh no! This is really delicious. Here, try some. It's on the house.}
 
-#Услуги
+#Г“Г±Г«ГіГЈГЁ
 {180}{}{Can I rent a room?}
 {181}{}{Yes. 50 bucks and you can have a room for the night.}
 {182}{}{Do you have anything to eat?}
@@ -97,7 +98,7 @@
 {188}{}{That's enough. let's talk about something else.}
 {189}{}{That will be enough. Now excuse me - I have things to do.}
 
-#О городе
+#ГЋ ГЈГ®Г°Г®Г¤ГҐ
 {199}{}{No big crowds of customers or tourists, which is damn great. Where do I start, sheriff?}
 {200}{}{Would you mind to talk about this settlement?}
 {201}{}{No big crowds of customers or tourists, which is damn great. Where do I start?}
@@ -125,12 +126,12 @@
 {221}{}{Another question.}
 {222}{}{The office of the miners' guild. It's locked, it's dark, and there are rats inside. There's nothing to do there. It used to be the busiest place in Uranium City, not counting the mine. Now the people are gone and no one goes there.}
 {223}{}{Tell me about the neighborhood.}
-{224}{}{You can say we are on the edge of the civilization. And, honestly speaking, I like it. In the best-case scenario a caravan from Hub will pass through, but mostly we are cut off. Everyone tries to get to new Reno... Or away from it.}
+{224}{}{You can say we are on the edge of civilization. And, honestly speaking, I like it. In the best-case scenario a caravan from Hub will pass through, but mostly we are cut off. Everyone tries to get to new Reno... Or away from it.}
 {225}{}{Tell me about the mine.}
 {226}{}{We have one mine here. It's from before the war. We had been mining uranium ore for Mr. Wright in New Reno for over a year when those mutants came and destroyed everything. As a result, the settlement is mostly abandoned, the ore hasn't been processed, and we're trying to do something more profitable. Farming, for example.}
 {227}{}{How did it all start here?}
 {228}{}{From Mr. Wright and his sons. He decided to revive the city's power plant in New Reno and sent his sons to the mines. They liked Uranium City because there was at least some, albeit rudimentary, technical equipment. Then a guild of miners was formed. At first the main workforce were slaves, but it turned out to be more expensive than hiring workers. That's how we lived for more than a year. And lived well.}
-{229}{}{I don't get one thing - how people worked here under constant radiation?}
+{229}{}{I don't get one thing - how people worked while being constantly radiated?}
 {230}{}{Good question. Nelson sometimes even glowed at night after the mine. You could save money on electricity with him, haha!}
 {231}{}{Is the mine really that radioactive?}
 {232}{}{Well, not as much as you might think. There's no purified uranium, just ore. The real radiation was where the ore was processed. And yet it's a sore point for Uranium City. When everything was under Wright, slaves and free laborers worked here. They were prone to... casualties. After all, being irradiated, one could still work for more than a year until the disease took its toll. And in that time, one could gather enough to feed one's family - or live one's short life bright and interesting. That's not so bad these days.}
@@ -142,7 +143,7 @@
 {238}{}{Hmm. Strange, that's what the stranger from the south asked me. He's in his room, I think. Talk to him if you're interested.}
 {239}{}{Great, at least now I know a little more.}
 
-#Текущая ситуация
+#Г’ГҐГЄГіГ№Г Гї Г±ГЁГІГіГ Г¶ГЁГї
 {250}{}{We need to discuss the current situation in Uranium City.}
 {251}{}{I'm listening.}
 {252}{}{What really happened here?}
@@ -153,18 +154,18 @@
 {257}{}{Tell me once more about what happened here.}
 {258}{}{}
 {259}{}{Why don't you move to Reno or somewhere else? Somewhere better?}
-{260}{}{Everyone says that - if it's bad here, then we should get out of here to where it's better. But this is my home! And you know what? If it smells bad here, I should just clean the shit up.}
+{260}{}{Everyone says that - if it's bad here, then we should leave and go someplace better. But this is my home! And you know what? If it smells bad here, I'll just clean the shit up.}
 {261}{}{Okay. But that's not all.}
 {262}{}{What must be done to restore the place?}
 {263}{}{Oh, it's not going to be easy. First, we have to get rid of the monsters, whoever they are. Second, we need to determine the ownership of the mine. Third, we have to get at least some of the workforce back. It's all complicated.}
-{264}{}{Complications doesn't scare me. I will deal with it!}
+{264}{}{Complications don't scare me. I'll deal with it!}
 {265}{}{Really? That's great. I don't know what you have in mind, but the mine needs a lot of work, believe me.}
 {266}{}{I will manage it somehow. Now let's make something more clear.}
 {267}{}{Who should I talk to about the monsters?}
 {268}{}{What is the problem with the mine ownership?}
-{269}{}{What kind of workers we need to bring back to get started?}
-{270}{}{That's not all that interest me.}
-{271}{}{Nelson tracks them down for a long time. If anyone knows something about them, then that's the man. I've heard that there are three monsters and they navigate by sound.}
+{269}{}{What kind of workers do we need to bring back to get started?}
+{270}{}{That's not all that interests me.}
+{271}{}{Nelson tracks them down for a long time. If anyone knows something about them, then he's your man. I've heard that there are three monsters and they navigate by sound.}
 {272}{}{I heard, that Wright went bankrupt because of the problems with the mine, he can't even hire a caravan to our city. Raises the question, how will he manage the production. Now, Nelson, even being a strange fella, at least knows the mine like the back of his hand. Wright decided to get rid of him and his gang to have less problems. Only that didn't help him.}
 {273}{}{Let me tell you about everybody.}
 {274}{}{The mutants are finished! All three corpses lay dead near the entrance to the mine.}
@@ -172,9 +173,9 @@
 {276}{}{Somehow I don't see you too much excited.}
 {277}{}{Ahh, sorry. So much stuff to do, even without the monsters, that the head goes spinning.}
 {278}{}{Thanks, see you later.}
-{279}{}{Joseph is one of the most adequate administrators of the guild. He is the only one who can organize production, not let it slip away. The difficulty is that no one can find him after the trouble with the mine. He seems to be hiding from Mr. Wright, or maybe he has already been found by him.}
+{279}{}{Joseph is one of the most competent administrators of the guild. He is the only one who can organize production, not let it slip away. The difficulty is that no one can find him after the trouble with the mine. He seems to be hiding from Mr. Wright, or maybe he's already been found.}
 {280}{}{The others?}
-{281}{}{Carl - the operator of refinement ore machine. Some said that he went to Reno. His family is somewhere in the slums. It seems to me that his wife doesn't want him to come back here.}
+{281}{}{Carl is the operator of refinement ore machine. Some said that he went to Reno. His family is somewhere in the slums. It seems to me that his wife doesn't want him to come back here.}
 {282}{}{Michael - a guild supplier. He too decided to go back to Reno to give apologies to Wright. I don't know what happened to him.}
 {283}{}{You know, it's enough for now.}
 {284}{}{Then let's talk about something else.}
@@ -189,19 +190,19 @@
 {293}{}{Money - it's everything I ever need!}
 {294}{}{What, really? Just like that? You refuse? Great! But let me at least give you a drink on the house.}
 {295}{}{Thanks.}
-{296}{}{I knew, you will say that.}
+{296}{}{I knew you'd say that.}
 {297}{}{Yeah. Bye.}
 
-{298}{}{Wait! you did so much, would you leave us like this? Perhaps, this won't sound that great, but I would like to see you as our sheriff. I even have a badge for this case.}
+{298}{}{Wait! you did so much, would you leave us just like that? Maybe this won't sound that great, but I would like to see you as our sheriff. I even have a badge for you.}
 {299}{}{I will be honored to be a sheriff of this town. Thank you for your trust, Marilyn.}
 {300}{}{Thank you, Marilyn, but I already serve another city and I can't betray it. Leave this badge to yourself - you've earned it.}
-{301}{}{[Marilyn takes the badge and pins it on your chest] Let it remind you of good deeds and order! By itself this title doesn't require anything, but when you will be in our parts - don't forget to stop by and ask how the things are going. Okay, sheriff?}
+{301}{}{[Marilyn takes the badge and pins it on your chest] Let it remind you of good deeds and order! By itself this title doesn't require anything, but when you're around these parts - don't forget to stop by and ask how things are going. Okay, sheriff?}
 {302}{}{Okay, Marilyn. I won't let you down.}
 {303}{}{Wow, so shiny!}
 {304}{}{Me?! I was a local sheriff all this time, dammit. But - I understand. No harsh feelings.}
 {305}{}{None. Farewell.}
 
-#Музыкальный автомат
+#ГЊГіГ§Г»ГЄГ Г«ГјГ­Г»Г© Г ГўГІГ®Г¬Г ГІ
 {310}{}{Is this furniture with lights here for decoration?}
 {311}{}{A jukebox? Workers once became bored and dragged this junk from the warehouse. I warned them that the machine doesn't work. Nobody managed to fix it, so it's just sits there.}
 {312}{}{Can I look at it?}
@@ -211,7 +212,7 @@
 {316}{}{Oh, wonderful! It was rather boring here. Thank you. Here, take some. On the house.}
 {317}{}{Take care.}
 
-#Квест на владельца шахты
+#ГЉГўГҐГ±ГІ Г­Г  ГўГ«Г Г¤ГҐГ«ГјГ¶Г  ГёГ ГµГІГ»
 {318}{}{Now Nelson owns the mine. Are you happy?}
 {319}{}{The mine got back to Wright, he will restore it soon.}
 {320}{}{Birch decided to take over the mine. What do you think?}

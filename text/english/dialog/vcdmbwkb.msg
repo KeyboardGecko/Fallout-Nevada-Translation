@@ -9,7 +9,7 @@
 {111}{}{Hey, mate, can I talk to you for a second?}
 {112}{}{[Leave the worker alone]}
 
-{113}{}{Why me? Why not to bother someone else? Oh yeah - I'm the only one here, the rest are in a safe bunker underground. Don't you think I'm going to wet myself in excitement.}
+{113}{}{Why me? Why don't you bother someone else? Oh yeah - I'm the only one here, the rest are in a safe bunker underground. Don't you think I'm going to wet myself in excitement.}
 {114}{}{I don't understand, why are you snapping at me?}
 {115}{}{I don't think you like this job, right?}
 {116}{}{I don't want to listen to someone's complaints. Take care.}
@@ -19,14 +19,14 @@
 {120}{}{[Looks around] You really need it, right? What if you're another spy, and then everyone finds out that I let you in?}
 {121}{}{I don't know, maybe we can find a common interest?}
 
-{122}{}{Okay, look, I know a special password for emergencies. And I'll tell it if you compensate all the money that these administrative nits have underpaid me. It is 1000 bucks. Deal?}
+{122}{}{Okay, look, I know a special password for emergencies. And I'll tell you, if you compensate all the money that these administrative nits have underpaid me. It's 1000 bucks. Deal?}
 {123}{}{Fine. Here's the money, give me the password.}
 {124}{}{No deal. I'll just take you out and use your key card.}
 {125}{}{I'll think about your offer.}
 {126}{}{What were you saying about the password?}
-{127}{}{[Furtively looks around and quickly hides the money] Hush! No need to compromise us in such an exposed area! Okay, listen... [the worker quietly calls the password and goes away from the site of the dam]}
-{128}{}{[Go mind your business]}
-{129}{}{Right, I have heard of people like you. Playing tough, intimidating others, but push them against the wall - and they will wet their knees.}
+{127}{}{[Furtively looks around and quickly hides the money] Hush! No need to compromise us in such an exposed area! Okay, listen... [the worker quietly tells you the password and walks away from the dam overlook]}
+{128}{}{[Mind your own business]}
+{129}{}{Right, I have heard of people like you. Playing tough, intimidating others, but push them against the wall - and they will wet their pants.}
 {130}{}{[Nervously pull out a weapon and aim it at the worker]}
 {131}{}{Then we will do it on your terms. Here's the money, give me the password.}
 

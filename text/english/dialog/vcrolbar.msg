@@ -21,14 +21,14 @@
 {122}{}{I see. Now give me one sandwich.}
 
 #Chatter
-{150}{}{[Her look becomes especially tired] To chat... About what?}
+{150}{}{[Her look becomes especially tired] Chat?... About what?}
 {151}{}{On second thoughts, give me your brand sandwich. Here's $35.}
 {152}{}{I'll chat with you later. Now I gotta go.}
 
 {153}{}{You seem very tired. Must be trading for quite some time?}
 {154}{}{Yes... I'm not slacking here, I'm working. I have to work 12 hours a day just to pay for the right to trade.}
 {155}{}{The right to trade... Wait, what's this?}
-{156}{}{That's how it works here. The Clean City takes a toll for the right to sell goods here. It's quite large... No, the truth is, it's a real robbery. But I have no choice.}
+{156}{}{That's how it works here. The Clean City has a toll for the right to sell goods here. It's quite large... No, the truth is it's highway robbery. But I have no choice.}
 {157}{}{Why's that?}
 {158}{}{In the Clean City you don't have to worry about security, order is maintained by the police. Besides, there are more people, and they are richer, hence more income. But that's not even the point. My father made a deal with the mayor's office to rebuild the farm. And now we have to pay our share. We have to put up with their inhuman conditions.}
 
@@ -40,7 +40,7 @@
 {163}{}{What happened to the farm?}
 {164}{}{At first, we were raided by the rodents, then the actual raiders came, and then the hurricane happened. The barn was blown to pieces, not to mention the crops. We could barely collect a bag of maize back then. Now we need to restore everything, the buildings and the plantation.}
 {165}{}{How will trading here help you with the harvest there?}
-{166}{}{We have a big and strong family. While men are busy working in the wastelands, I'm sent here to trade. We need a lot of stuff. Sometimes it is possible to make a deal with the prospectors, but they are not quite pleasant people. They may cheat you.}
+{166}{}{We have a big and strong family. While the men are busy working in the wastelands, I'm sent here to trade. We need a lot of stuff. Sometimes it is possible to make a deal with the prospectors, but they are not quite pleasant people. They may cheat you.}
 
 {167}{}{Let's chat a bit more?}
 {168}{}{}

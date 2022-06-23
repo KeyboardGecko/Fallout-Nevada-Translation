@@ -7,16 +7,16 @@
 
 #Acquaintance
 {110}{}{Hey, pal. It's pretty much obvious that you're freshly out of the wastelands. Sit down, take a break from the road.}
-{111}{}{Why such friendliness? Hey... Something tells me you're trying to put me at the card table.}
+{111}{}{Why so friendly? Hey... Something tells me you're trying to put me at the card table.}
 {112}{}{Oh, thank you, that's exactly what I needed.}
 {113}{}{I'll decide what to do without you.}
 {114}{}{You're not dumb. Honestly, I just wanted to win a little at cards, but not against those who've spent their lives in casinos since they were kids. They'll skin you like a gecko.}
-{115}{}{[Nods solemnly and goes through the cards in his hands] The best way to relax is to change activities. For example, to play in good company. Just not the kind you can find in a casino. They'll skin you like a gecko.}
+{115}{}{[Nods solemnly and goes through the cards in his hands] The best way to relax is to change activities. To play with good company, for example. Just not the kind you can find in a casino. They'll skin you like a gecko.}
 {116}{}{Okay, forget it, maybe it's for the best. Honestly, I just wanted to win a little at cards, but not against those who've spent their lives in casinos since they were kids. They'll skin you like a gecko.}
 {117}{}{So, what game do you want to play?}
 {118}{}{Not interested. Bye.}
 {119}{}{"Canasta", "Caravan", poker - you name it. But I have a condition - we will make bets. Mixing business with pleasure, so to speak.}
-{120}{}{Hmm, I think you're trying to set this up not just out of friendliness. What happened, blew all your money in the casino?}
+{120}{}{Hmm, I think you're trying to set me up, and not just out of friendliness. What happened, blew all your money in the casino?}
 
 {121}{}{Is that written all over me? I'm not going to pretend to be a saint. You're right, that's exactly what happened. I lost my head, hoping to win big, but ended up losing. Look, I've got a stimpak, I'm betting it against your 100 bucks. How do you like that?}
 {122}{}{Great, let's play.}

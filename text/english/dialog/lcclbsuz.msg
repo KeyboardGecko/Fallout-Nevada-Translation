@@ -1,17 +1,17 @@
 {100}{}{You see a waitress.}
 {101}{}{You see a very occupied woman with a rather rude expression. What a hag.}
 
-#Первая фразка:
+#ГЏГҐГ°ГўГ Гї ГґГ°Г Г§ГЄГ :
 {102}{}{What?}
 {103}{}{What do you want?}
 {104}{}{Just say it.}
 {105}{}{Another face! What do you want?}
-{106}{}{What to bring you?}
+{106}{}{What would you like me to bring you?}
 {107}{}{What? How 'bout a beer? You'll get less diarrhea from it.}
 {108}{}{Oh! A new client! What do you want?}
 {109}{}{If you break the dishes, I will fine you. Now, what do you want?}
 
-#Реплики для блужданий между с'оликами:
+#ГђГҐГЇГ«ГЁГЄГЁ Г¤Г«Гї ГЎГ«ГіГ¦Г¤Г Г­ГЁГ© Г¬ГҐГ¦Г¤Гі Г±'Г®Г«ГЁГЄГ Г¬ГЁ:
 {110}{}{If you are going to puke, do it outside.}
 {111}{}{Hey! No fighting!}
 {112}{}{Eat, sweetie.}
@@ -33,7 +33,7 @@
 {128}{}{Five bucks. Come on, come on!}
 {129}{}{Move it, you're not the only one here.}
 
-#Диалог
+#Г„ГЁГ Г«Г®ГЈ
 {150}{}{Let me see the menu.}
 {151}{}{I'm leaving.}
 {152}{}{Why so rude?}
@@ -42,17 +42,17 @@
 {155}{}{Never mind.}
 {156}{}{[Makes an amazed face] You've got some nerve, don't you! So the old woman tries hard, wipes up everybody's messes here, and he's still not happy! Where did you come from, fancy pants? I bet you're from Vegas, aren't you? You came here to eat, so eat! I'm not your mother to groom you. What's your order?}
 
-#Извинения
+#Г€Г§ГўГЁГ­ГҐГ­ГЁГї
 {157}{}{Damn, I'm out of your fucking place! At first I was insulted by an old hag, then by a bald jerk!}
 {158}{}{I'm sorry I was rude. It won't happen again. Sorry.}
 {159}{}{Well, my friend, have you calmed down?}
 {160}{}{Why don't you get out of here, buddy.}
-{161}{}{[Smiles all over her face and waves her hand] Оh! Come on! Worse things have happened here! You wouldn't believe what the old lady has seen in her life! Don't you worry! It's okay!}
+{161}{}{[Smiles all over her face and waves her hand] ГЋh! Come on! Worse things have happened here! You wouldn't believe what the old lady has seen in her life! Don't you worry! It's okay!}
 {162}{}{Phew, that's a relief...}
 {163}{}{Oh, you pathetic idiot! [Almost crying, she threatens with her fists] If I was younger, I would have shown you! Hey, boys, throw him out!}
 {164}{}{Oh, you hag!!!}
 
-#Если Джо мер'в
+#Г…Г±Г«ГЁ Г„Г¦Г® Г¬ГҐГ°'Гў
 {200}{}{The place is closed, don't you see? We have... A tragedy here.}
 
 #Female character:

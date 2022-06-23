@@ -9,13 +9,13 @@
 {113}{}{We have only the pressure regulator from the list, a whole wagon of them! They just lay around, collecting dust, with no use. No one to pawn it off to.}
 {114}{}{So maybe, you can share with me, if they are useless anyway?}
 
-{115}{}{Well, not for free. I think one missing regulator won't hurt anyone, but food on the other hand is a rarity, we don't get paid much, you know. So make your mind, I can sell it for 500$ or trade for 10 pizzas from the Phillips' cafe.}
+{115}{}{Well, not for free. I think one missing regulator won't hurt anyone, but food on the other hand is a rarity. We don't get paid much, you know. So make up your mind, I can sell it for 500$ or trade for 10 pizzas from the Phillips' cafe.}
 {116}{}{What about Nuka-Cola? I do supply people with it and I can bring at least a full box.}
 {117}{}{I've got just as many pizzas as you need. Here, take it.}
 {118}{}{Here are 10 pizzas, as agreed.}
 {119}{}{Here's the money, now give me the device.}
 
-{120}{}{[Greedily grabs the money and hides in the bosom, looks around and gets a pressure regulator] Here. But carefully, no one should notice.}
+{120}{}{[Greedily grabs the money and hides it in his shirt, looks around and gets a pressure regulator] Here. But carefully, no one should notice.}
 {121}{}{Uh-huh, okay.}
 {122}{}{That's what I call service! So, now I'm going to get the regulator, but when you'll take it out, watch out, so no one notices.}
 
@@ -38,6 +38,6 @@
 {135}{}{No, not yet.}
 {136}{}{Choose - I can sell the thing for 500$ or trade for 10 pizzas from the Phillips' cafe.}
 
-#Æåí ðåïëèêè
+#Ã†Ã¥Ã­ Ã°Ã¥Ã¯Ã«Ã¨ÃªÃ¨
 {1130}{}{As you want. After all, you suggested it yourself.}
 {1133}{}{Have you thought about my offer? It is still stands.}

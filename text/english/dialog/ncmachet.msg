@@ -1,7 +1,7 @@
 {100}{}{You see Machete.}
 {101}{}{You see a powerful-looking bodyguard. Just one look at him makes you want to bury your head in the sand.}
 
-#Основная часть диалога и пропуск к боссу
+#ГЋГ±Г­Г®ГўГ­Г Гї Г·Г Г±ГІГј Г¤ГЁГ Г«Г®ГЈГ  ГЁ ГЇГ°Г®ГЇГіГ±ГЄ ГЄ ГЎГ®Г±Г±Гі
 {105}{}{Boss is dead! It's all over!}
 
 {110}{}{Hold it! You're standing in the house of Mr. Luciano. What do you want with the boss?}
@@ -22,7 +22,7 @@
 {124}{}{That's all I wanted to know. Bye.}
 {125}{}{Okay.}
 
-#Стукач
+#Г‘ГІГіГЄГ Г·
 {126}{}{Do you know you have a spy hanging around?}
 {127}{}{Oh yeah? Who?}
 {128}{}{A man outside named Canary. He responds to the code phrase "The gilding has gone from our age."}
@@ -37,7 +37,7 @@
 {136}{}{Boss is waiting. Go on in.}
 {137}{}{Great.}
 
-#Раб из Уран-Сити
+#ГђГ ГЎ ГЁГ§ Г“Г°Г Г­-Г‘ГЁГІГЁ
 {138}{}{It'll cost you 1000 dollars. Of course, unless you have a special deal with Mr. Luciano.}
 {139}{}{Hey, this is a good slave you're talking about! He works hard, knows his place, and the cattle listens to him. Slaves like this are hard to find.}
 {140}{}{I want to purchase a specific slave: Joseph from Uranium City.}
@@ -52,7 +52,7 @@
 {148}{}{You have a slave from Uranium City. I want to buy him.}
 {149}{}{You have a slave from the Cheyenne tribe. I want to buy him.}
 
-#Про имя Мачете и его оружие
+#ГЏГ°Г® ГЁГ¬Гї ГЊГ Г·ГҐГІГҐ ГЁ ГҐГЈГ® Г®Г°ГіГ¦ГЁГҐ
 {150}{}{I'm afraid to ask, but who are you?}
 {151}{}{My name is Machete Rodriguez. Remember it. I'm Boss's personal bodyguard and head of security at the ranch.}
 {152}{}{You have a strange name... Machete.}
@@ -77,9 +77,9 @@
 {171}{}{It wasn't hard.}
 {172}{}{Yeah? She doesn't give out many recommendations. }
 
-#О местности
+#ГЋ Г¬ГҐГ±ГІГ­Г®Г±ГІГЁ
 {180}{}{What is this place?}
-{181}{}{[He narrows his eyes suspiciously] This is ranch of Oliver Luciano, the greatest businessman in Reno. You should show respect. This is the office. The ranch is behind the building.}
+{181}{}{[He narrows his eyes suspiciously] This is Oliver Luciano's ranch, the greatest businessman in Reno. You should show respect. This is the office. The ranch is behind the building.}
 {182}{}{Is one ranch really such a big deal?}
 
 {183}{}{Fifty slaves, two dozen guards, tons of living brahmin meat - yeah, it's huge.}
@@ -112,9 +112,9 @@
 {211}{}{[He takes the collars and gives you $100 for each] Good deal. If you find any more, I'll pay.}
 {212}{}{Good.}
 
-#Квест Оливера по диверсии в казино
+#ГЉГўГҐГ±ГІ ГЋГ«ГЁГўГҐГ°Г  ГЇГ® Г¤ГЁГўГҐГ°Г±ГЁГЁ Гў ГЄГ Г§ГЁГ­Г®
 {220}{}{Mr. Luciano said I should discuss the casino job with you.}
-{221}{}{[He looks around, then leans in, speaking quietly] Boss chose you? I was hoping for some more... Rough. I've been planning this a long time, I want someone who knows the business.}
+{221}{}{[He looks around, then leans in, speaking quietly] Boss chose you? I was hoping for some one more... Rough. I've been planning this a long time, I want someone who knows the business.}
 {222}{}{Whether you trust me or not, Mr. Luciano chose me, so let's get started.}
 
 {223}{}{Okay, we've got two choices of diversions. Do both if you can. First, slip the El Dorado visitors some poisoned beer, so they'll be unhappy with the casino. That'll get Ricardo's attention. Where you get the poison is up to you.}
@@ -134,12 +134,12 @@
 {235}{}{Hmm, good point. Okay, I got this. [he hands you a balaclava] You can hide your face. Just make sure you're not wearing anything people will recognize.}
 {236}{}{Fine.}
 
-#Взлом сейфа у Бертолини
+#Г‚Г§Г«Г®Г¬ Г±ГҐГ©ГґГ  Гі ГЃГҐГ°ГІГ®Г«ГЁГ­ГЁ
 {237}{}{Do you know anyone who can help with safe-cracking?}
 {238}{}{I know a guy downtown called Basketball Buddy. He used to pick locks, until he got the stuffing beat out of him, heh heh. But he probably won't help with Bertolini's safe. You need someone with real skills, and there's not many people like that in the city.}
 {239}{}{Thanks.}
 
-#Квест Оливера по диверсии у гангстеров
+#ГЉГўГҐГ±ГІ ГЋГ«ГЁГўГҐГ°Г  ГЇГ® Г¤ГЁГўГҐГ°Г±ГЁГЁ Гі ГЈГ Г­ГЈГ±ГІГҐГ°Г®Гў
 {240}{}{Mr. Luciano wants me to discuss the job with you.}
 {241}{}{Let's discuss Mr. Luciano's job again.}
 {242}{}{You need my help, don't you? Just admit it. And yes, I have a plan.}
@@ -150,11 +150,11 @@
 {247}{}{[Next]}
 {248}{}{We need to get Thompson and Stryker angry enough to start a war between them.}
 #Old version:
-#Теперь как это сделать. Я предлагаю диверсию со взрывчаткой. Заминируй парадные двери в обеих штабах.
-#Если не сможешь это сделать, тогда есть еще вариант с зажигательными гранатами -
-#закидай ими охранников и тут же убегай, пока тебя не засекли.
-#И то, и другое создаст много шума, а дальше начнутся разборки, кто на кого зарыпается.
-#Это позволит выиграть время.
+#Г’ГҐГЇГҐГ°Гј ГЄГ ГЄ ГЅГІГ® Г±Г¤ГҐГ«Г ГІГј. Гџ ГЇГ°ГҐГ¤Г«Г ГЈГ Гѕ Г¤ГЁГўГҐГ°Г±ГЁГѕ Г±Г® ГўГ§Г°Г»ГўГ·Г ГІГЄГ®Г©. Г‡Г Г¬ГЁГ­ГЁГ°ГіГ© ГЇГ Г°Г Г¤Г­Г»ГҐ Г¤ГўГҐГ°ГЁ Гў Г®ГЎГҐГЁГµ ГёГІГ ГЎГ Гµ.
+#Г…Г±Г«ГЁ Г­ГҐ Г±Г¬Г®Г¦ГҐГёГј ГЅГІГ® Г±Г¤ГҐГ«Г ГІГј, ГІГ®ГЈГ¤Г  ГҐГ±ГІГј ГҐГ№ГҐ ГўГ Г°ГЁГ Г­ГІ Г± Г§Г Г¦ГЁГЈГ ГІГҐГ«ГјГ­Г»Г¬ГЁ ГЈГ°Г Г­Г ГІГ Г¬ГЁ -
+#Г§Г ГЄГЁГ¤Г Г© ГЁГ¬ГЁ Г®ГµГ°Г Г­Г­ГЁГЄГ®Гў ГЁ ГІГіГІ Г¦ГҐ ГіГЎГҐГЈГ Г©, ГЇГ®ГЄГ  ГІГҐГЎГї Г­ГҐ Г§Г Г±ГҐГЄГ«ГЁ.
+#Г€ ГІГ®, ГЁ Г¤Г°ГіГЈГ®ГҐ Г±Г®Г§Г¤Г Г±ГІ Г¬Г­Г®ГЈГ® ГёГіГ¬Г , Г  Г¤Г Г«ГјГёГҐ Г­Г Г·Г­ГіГІГ±Гї Г°Г Г§ГЎГ®Г°ГЄГЁ, ГЄГІГ® Г­Г  ГЄГ®ГЈГ® Г§Г Г°Г»ГЇГ ГҐГІГ±Гї.
+#ГќГІГ® ГЇГ®Г§ГўГ®Г«ГЁГІ ГўГ»ГЁГЈГ°Г ГІГј ГўГ°ГҐГ¬Гї.
 {249}{}{You want the best way, wire explosives to the front door of both headquarters. That'll make some noise. If you can't do that, kill someone at each headquarters without them knowing it was you. They'll blame each other and it'll give us more time.}
 {250}{}{What if they recognize me?}
 {251}{}{Where can I get incendiary grenades?}
@@ -166,7 +166,7 @@
 {257}{}{That's your problem, not mine. Start with the mechanic at the station.}
 {258}{}{Take this. [he hands you a balaclava] Put it on before you do the job, and they won't see your face.}
 
-#Квест Оливера на сделку с караванщиками
+#ГЉГўГҐГ±ГІ ГЋГ«ГЁГўГҐГ°Г  Г­Г  Г±Г¤ГҐГ«ГЄГі Г± ГЄГ Г°Г ГўГ Г­Г№ГЁГЄГ Г¬ГЁ
 {260}{}{Mr. Luciano wants me to take care of some deals. He said I should talk to you.}
 {261}{}{You? Huh, Boss must see something in you. Okay, but remember, this is *delicate*.}
 {262}{}{How delicate?}
@@ -186,7 +186,7 @@
 {275}{}{Boss doesn't want to rely on anyone. These weapons are just one part of that. Anyway, it's not just for the ranch, but convoys too. We have a lot of things to protect, not just here.}
 {276}{}{I see. Well, I'll be going.}
 
-#Женская реплика
+#Г†ГҐГ­Г±ГЄГ Гї Г°ГҐГЇГ«ГЁГЄГ 
 {1113}{}{Nothing, actually, I'm here for something else.}
 {1118}{}{Mr. Chase said I could find *serious* work here.}
 {1130}{}{We checked it out, and you were right. Boss said to give you this. }

@@ -17,7 +17,7 @@
 {121}{}{I shouldn't have asked. Never mind.}
 {122}{}{Same old, same old. Not much to tell.}
 
-{123}{}{Really?! Oh, Marilyn... Damn, she's really something. Can't say I'm surprised. But... See this collar? If I try to escape, it'll kill me. And if I do escape, they'll find me - and then I'm gonna regret it had killed me! The only way I'm getting out of here is if Luciano agrees to let me go... Will you help me? For Uranium City? And... For Marilyn?}
+{123}{}{Really?! Oh, Marilyn... Damn, she's really something. Can't say I'm surprised. But... See this collar? If I try to escape, it'll kill me. And if I do escape, they'll find me - and then I'm gonna regret it hadn't killed me! The only way I'm getting out of here is if Luciano agrees to let me go... Will you help me? For Uranium City? And... For Marilyn?}
 {124}{}{What about Wright, your former boss?}
 {125}{}{I'll talk to Luciano. Let's see what can be done.}
 {126}{}{I will organize an escape.}

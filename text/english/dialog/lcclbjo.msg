@@ -49,7 +49,7 @@
 
 {152}{}{Who runs this place?}
 {153}{}{Is this place run by the law?}
-{154}{}{This gallows - is it often empty?}
+{154}{}{That gallows out front - does it get a lot of use?}
 {155}{}{Where can I patch up myself or my equipment?}
 {156}{}{Can you tell me more about the area?}
 {157}{}{Why there are so many caravaneers here?}
@@ -61,7 +61,7 @@
 {162}{}{Come back around afternoon, when it's not too dark yet. Usually, at that time they feed the new victims of the show to the audience. Funny guys they are.}
 {163}{}{Well, you can get a kick out of vending machines or buy some grub, the Quok brothers across the street sell equipment and the technician from the Nuka-Cola factory will help you to cope with broken inventory. In the North, in front of the Sheriff's office, there is a pharmacist, however, lately there's almost nothing left to buy from him. Also, you may stay in the hotel, when the weakness is about to floor you.}
 {164}{}{[He sighs, apparently, he's tired of this question] Oh, God... It's the business center. If you need some equipment or want to relax - come here. The factory of Nuka-Cola is to the East, and further in that direction is the canyon of the wastewater. To the North there is the residential area where the Sheriff's office is located. Overall, it is better not to wander around because of radiation, wild dogs, acid geckos... And many other hostile abominations.}
-{165}{}{In recent years Salt Lake has attracted more entrepreneurs than usual. This was, you know, just the right moment to line your pockets up with cash. Those, who realized this in time, have bent the entire potential of the city to their interests. That's why the city still has what to offer to other settlements.}
+{165}{}{In recent years Salt Lake has attracted more entrepreneurs than usual. This was, you know, just the right moment to line your pockets up with cash. Those who realized this in time, have bent the entire potential of the city to their interests. That's why the city still has something to offer to other settlements.}
 
 {166}{}{[Suddenly everyone around you become silent and turn to you.] What are you talking about?}
 {167}{}{Uh, I say, do you have a working train here? The one that can actually move, you know?}
@@ -73,7 +73,7 @@
 {173}{}{Hey, easy!}
 {174}{}{Looks like you asked a wrong question. Something is off here...}
 
-{175}{}{Who is this guy that is hanging out by the entrance?}
+{175}{}{Who is that guy hanging out by the entrance?}
 {176}{}{Incorrigible Ned? A walking bag with guts. I wouldn't use the services of such a slob if only he didn't ask so little for them. And I don't mind saving a few coins. Ha!}
 
 #Recipe of the peanut paste

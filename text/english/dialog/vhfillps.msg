@@ -1,8 +1,8 @@
 {100}{}{You see Sam Phillips.}
 {101}{}{You see Sam Phillips, the owner of "Hard Rock" cafe.}
 
-{110}{}{[Sighs] what is it about, young man?}
-{111}{}{I got here by accident, and certainly not for ceremonious talk. I'm out of here.}
+{110}{}{[Sighs] What is this about, young man?}
+{111}{}{I got here by accident, and I'm certainly not here to talk business. I'm out of here.}
 {112}{}{Sorry to bother you.}
 
 ####################################################################
@@ -117,7 +117,7 @@
 {230}{}{Sure! Have a nice day, Mr. Phillips!}
 
 #Female character
-{1110}{}{[Sighs] what is it about, ma'am?}
+{1110}{}{[Sighs] What is this about, ma'am?}
 {1120}{}{His name is... Er... I don't know myself, but he's a talent, trust me.}
 {1123}{}{Honestly, I somehow missed his tour.}
 {1124}{}{I'm sure - he is the one you need!}

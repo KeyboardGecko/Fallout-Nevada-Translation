@@ -29,16 +29,16 @@
 {122}{}{Too bad.}
 {123}{}{Hm... There's one assignment. I don't think it'll be too hard for you.}
 {124}{}{I'm listening.}
-{125}{}{I need a smart person who is capable to get into Hawthorne Base and bring some things back from there. Interested?}
+{125}{}{I need a smart person who is capable of getting into Hawthorne Base and bringing some things back. Interested?}
 {126}{}{Yes! Tell me the details.}
 {127}{}{Depends on my risks. How dangerous is it?}
 {128}{}{I don't engage myself in such matters. Hire someone else.}
 
 {129}{}{If you don't want to risk - I don't need you. Get out.}
 {130}{}{Uh, okay...}
-{131}{}{Hawthorne? I don't know about such place. What is it?}
+{131}{}{Hawthorne? I've never heard of it. What is it?}
 {132}{}{An abandoned military base, not far to the west of New Reno. I'll tell the details if we cooperate. Are you interested in this job?}
-{133}{}{Then I have to explain the situation. We are descendants of people who served at Hawthorne more than 70 years ago. Those who knew the secret of our lineage are already feeding worms. But that's beside the point...}
+{133}{}{Then I have to explain the situation. We are descendants of people who served at Hawthorne more than 70 years ago. Those who knew the secret of our lineage are already worm food. But that's beside the point...}
 {134}{}{Okay...}
 
 {135}{}{There should still be some commemorative evidence of our ancestors - personal belongings, information in databases, something like that. Collect everything you find and bring it here for a reward. Got any questions?}
@@ -50,10 +50,10 @@
 
 {140}{}{Why don't you give this assignment to your people?}
 {141}{}{Firstly, I don't want to risk my people. It's easier for me to hire a scavenger. Secondly, I need my men here to carry out their duties, and assembling an expedition under these conditions is rather troublesome. Finally, not all of my people can be trusted with this matter. I need... A person with a slightly different mindset.}
-{142}{}{It's all a thing of the past. Why do you need it?}
-{143}{}{I expect that some evidence of former merits of our ancestors will help lift the spirits of our soldiers. It all depends on what you find.}
-{144}{}{If you ancestors are from Hawthorne, why are you here and not at the base?}
-{145}{}{I have the same question. They didn't live in the garrison after the Great War, they hid in a nearby vault. Perhaps, Hawthorne were to become the target of nuclear bombs, so staying there would be dangerous. We also couldn't return to the base for a number of reasons. Dilapidated buildings, functioning security system, matters of our current settlement and many more.}
+{142}{}{This is all sounds like ancient history. What do you need from this base?}
+{143}{}{I expect that some evidence of the former merits of our ancestors will help lift the spirits of our soldiers. It all depends on what you find.}
+{144}{}{If your ancestors are from Hawthorne, why are you here and not at the base?}
+{145}{}{I have the same question. They didn't live in the garrison after the Great War, they hid in a nearby vault. Perhaps, Hawthorne was the target of nuclear bombs, so staying there would be dangerous. We also couldn't return to the base for a number of reasons. Dilapidated buildings, mal-functioning security system, matters of our current settlement and many more reasons.}
 {146}{}{What do I get for this?}
 {147}{}{I pay in cash. My word is cast in iron, just like me. You can trust the integrity of our deal.}
 {148}{}{Okay, what exactly?}

@@ -21,8 +21,8 @@
 {123}{}{Archive is at the end of the hallway on this floor... Although it won't be any help to you. It's only for City Hall employees.}
 {124}{}{Wow, okay then.}
 {125}{}{Could you help with that?}
-{126}{}{Okay, citizen. Stop fooling around! You are not the first questionable fella that goes to City Hall for no reason. We don't need people like you here. Get out. Now! Right now!}
-{127}{}{Uh, look at him! So what are you going to do now, huh?!}
+{126}{}{Okay, citizen. Stop fooling around! You're not the first questionable fella that comes to City Hall for no reason. We don't need people like you here. Get out. Now! Right now!}
+{127}{}{Oh look at you! So what are you going to do, huh?!}
 {128}{}{Okay, okay, I'll go peacefully...}
 {129}{}{Guards!!! Intruder in the office!!!}
 {130}{}{[Resist]}
@@ -44,7 +44,7 @@
 {144}{}{No more questions. You're free. For now.}
 {145}{}{Oh, we got a tough guy here! Now, if you're done with your stupid questions, I'm asking you to get out of my office.}
 {146}{}{As you wish.}
-{147}{}{You know, it was fun to see the a detective that is still alive... And now I ask you to leave my office.}
+{147}{}{You know, it was fun to see a detective that is still alive... And now I'll ask you to leave my office.}
 {148}{}{As you wish.}
 {149}{}{About "alive" - I will remember it. Keep that in mind, smartass.}
 

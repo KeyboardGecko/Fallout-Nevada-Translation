@@ -2,14 +2,14 @@
 {101}{}{You see a personal bodyguard of the casino owner.}
 {102}{}{Come on in.}
 
-{110}{}{Mr. Wallace is busy. What is it about?}
+{110}{}{Mr. Wallace is busy. What is this about?}
 {111}{}{I need to talk to him. I'm... Erm... Looking for work.}
 {112}{}{Busy? Too bad. I'll come later.}
 {113}{}{He doesn't deal with that.}
 {114}{}{I DEMAND IT! Let me in!}
 {115}{}{Too bad. I'll go then.}
 {116}{}{I told you... Sorry, sir? [the guard listens to something through the door] Okay, Mr. Wallace, I will throw him out of here. [talks to you] Mr. Wallace doesn't need laymen like you... Get out before I throw you out of the window!}
-{117}{}{I will get to your boss anyway! Just you dare not letting me go there!!!}
+{117}{}{I will get to your boss anyway! Just you dare try to stop me!!!}
 {118}{}{Okay, I'll calm down and leave.}
 {119}{}{I told you... Sorry, sir? [the guard listens to something through the door] Okay, Mr. Wallace. [talks to you] You can come in this time... Hmm... [contemptuously looks over you from head to toe]}
 {120}{}{Finally.}

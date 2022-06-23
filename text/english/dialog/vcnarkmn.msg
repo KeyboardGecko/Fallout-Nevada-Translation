@@ -4,7 +4,7 @@
 {103}{}{Perhaps he'll come back when he gets his head straight.}
 
 #Ïåðâûé ðàçãîâîð
-{110}{}{[You see a strange guy in yellow glasses and bright shirt; He frantically swings around with his flyswatter] Careful! The bats!! They are everywhere!!}
+{110}{}{[You see a strange guy in yellow glasses and a bright shirt; He frantically swings around with his flyswatter] Careful! The bats!! They are everywhere!!}
 {111}{}{[Go along] Damn!! So many of them!! Let's run to the cafe, they won't get us there!}
 {112}{}{Bats? There are no bats!}
 {113}{}{Not all right in the head, huh?}
@@ -49,7 +49,7 @@
 {156}{}{Well yeah, I saved you from the bats!}
 {157}{}{No, and I don't want to. Bye.}
 
-{158}{}{Uh, so that's what it is... Yes, I get the sarcasm. Thanks, dammit.}
+{158}{}{Uh, so that's what happened... Yes, I get the sarcasm. Thanks, dammit.}
 {159}{}{What are you talking about?}
 {160}{}{It seems I'm in a wrong place at the wrong time again. Good thing I'm not swept by the cops! Oh... What a headache... Look, let me sit on the ground for a second, I need to calm down.}
 {161}{}{Take a painkiller, it should help.}

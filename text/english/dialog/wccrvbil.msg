@@ -2,21 +2,21 @@
 {101}{}{You see a bored caravan merchant. He fiddles something in his hands.}
 {102}{}{Hi.}
 
-#–‡Á„Ó‚Ó
+#√ê√†√ß√£√Æ√¢√Æ√∞
 {110}{}{[Caravaneer curiously examines the round sanded rock with an emblem on it]}
 {111}{}{What is this?}
 {112}{}{[Leave it]}
 
 {113}{}{[Shrugs] I don't know. I found in the ruins.}
 {114}{}{Then just give it to me. You don't need it anyway.}
-{115}{}{Oh, I get it: a junk collector, ha-ha. How long do you earn for living with this?}
+{115}{}{Oh, I get it: a junk collector, ha-ha. How long have you earned a living with this?}
 {116}{}{Well, forget it.}
 
-{117}{}{[Instinctively puts the rock away from you] I don't... And why you do?}
+{117}{}{[Instinctively takes the rock away from you] I don't... And why do you?}
 {118}{}{Don't know too. But I'll think something out, rest assured.}
-{119}{}{[Instinctively puts the rock away from you and pronounces articulately] I am caravan guard.}
-{120}{}{Ooh, look how proud are we. Can't even give up on a piece of rock.}
-{121}{}{Sorry for touching your pride. So will you give me this useless rock?}
+{119}{}{[Instinctively takes the rock away from you and pronounces articulately] I am a caravan guard.}
+{120}{}{Ooh, look how proud we are. Can't even give up on a piece of rock.}
+{121}{}{Sorry for hurting your pride. So will you give me this useless rock?}
 
 {122}{}{Okay then. Beat me at cards, and the rock is yours.}
 {123}{}{Aren't you too attached to junk?  You looked like a normal guy...}
@@ -31,17 +31,17 @@
 {132}{}{[Sceptically raises his brow] Doesn't seem like.}
 {133}{}{Alright, forget it. Will you give me the rock or not?}
 
-{134}{}{You serious? How surprising... Okay, let's do it this way.}
+{134}{}{You serious? How surprising... Okay, let's do that.}
 {135}{}{Here's the money. Now give me the rock.}
 {136}{}{Pay money for this garbage?! Nah, probably some blackout... We'll talk later, when I come back to normal.}
 {137}{}{And you really believed that? What kind of idiot would buy this worthless piece of junk? Think about it and hand it over peacefully.}
 {138}{}{[Squeezes the rock in his fist] Forget it. And why are you so fond of this rock all of a sudden? I don't like it.}
 {139}{}{Alright, you convinced me. Here's your 50 bucks for the rock.}
 {140}{}{Okay-okay, so be it. I'll play cards with you for this junk.}
-{141}{}{Well then, watch and wonder how nice amount of money walks away from you, loser. [walk away]}
+{141}{}{Well then, watch and wonder as a stack full of money walks away from you, loser. [walk away]}
 {142}{}{Actually I lied about the money. Maybe, we'll play cards?}
 
-{143}{}{[Pulls cards out of his pocket, thinks a bit looking at you frowningly, then still puts a pack on the table] We'll play fair. If I find out that you are cheating - your loss.}
+{143}{}{[Pulls a pack of cards out of his pocket, thinks a bit frowning at you, then places the deck on the table] We'll play fair. If I find out that you are cheating - your loss.}
 {144}{}{Okay. Let's do it...}
 {145}{}{Hey, why don't I just buy a rock for 50 bucks?}
 {146}{}{Not so fast. Place your bet of first 5 bucks or I won't play.}

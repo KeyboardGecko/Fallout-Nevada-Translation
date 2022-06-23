@@ -7,4 +7,4 @@
 {113}{}{You're welcome.}
 {114}{}{Well, I'm going to go clean up the office. There's an awful mess...}
 {115}{}{See you around then.}
-{116}{}{Oh, by the way, there is a weapon of the previous administrator in the safe. You can take it - a little reward for your efforts.}
+{116}{}{Oh, by the way, there is a weapon from the previous administrator in the safe. You can take it - a little reward for your efforts.}

@@ -20,8 +20,8 @@
 {119}{}{You mean I can't get in? Okay, I'm leaving.}
 {120}{}{You CAN'T, you dumbass! You have nothing to do there. Turn around and go, if you don't want a bullet in the forehead.}
 {121}{}{Now listen to me, you filth, if you'll talk to me like this one more time...}
-{122}{}{Permission, huh? [He grins and squints, looking at other soldiers] Well, we can discuss your problem, if you're interested...}
-{123}{}{Of course. [Wink and take $100 out of the pocket].}
+{122}{}{Permission, huh? [He grins and squints, looking at the other soldiers] Well, we can discuss your problem, if you're interested...}
+{123}{}{Of course. [Wink and take $100 out of your pocket].}
 {124}{}{Hmm... Is this a hint to something?}
 {125}{}{[His face becomes unhappy] Turn around and walk away! Chop-chop!}
 {126}{}{What the hell was that?...}
@@ -65,7 +65,7 @@
 {162}{}{Okay, I'll be back.}
 
 {163}{}{This case is confidential and isn't of your concern.}
-{164}{}{Hold your tongue. If you really have business here, then why I have no orders on your account?}
+{164}{}{Hold your tongue. If you really have business here, then why don't I have orders on your behalf?}
 {165}{}{Because your office is a mess. So stop wasting time, your General is waiting for me.}
 {166}{}{I don't know. Okay, I'll be back later...}
 

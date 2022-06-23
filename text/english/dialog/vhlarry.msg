@@ -4,7 +4,7 @@
 {108}{}{ But I can see by the look on your face that you, too, have had a rough life.}
 {109}{}{Here comes our smooth-skinned friend... Well, you're still smooth-skinned to us. But it's a mystery how you, with a face like that, don't get shot in Clean City.}
 
-#Вопросы и первые реплики
+#Г‚Г®ГЇГ°Г®Г±Г» ГЁ ГЇГҐГ°ГўГ»ГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {110}{}{You'd better not to wander around here. Our hotel is not much better than the local cemetery. Ha-ha! Joking. The cemetery is way better, of course...}
 {111}{}{Why do you all wear bags on your heads? Is this some kind of fashion trend?}
 {112}{}{Do you interact with your "Hard Rock" cafe neighbors?}
@@ -12,7 +12,7 @@
 {114}{}{I'm looking for a guide for the train trip. Can any of you take the job?}
 {115}{}{Oops.}
 
-#Ответы на рядовые вопросы
+#ГЋГІГўГҐГІГ» Г­Г  Г°ГїГ¤Г®ГўГ»ГҐ ГўГ®ГЇГ°Г®Г±Г»
 {116}{}{Even if someone would, he wouldn't survive the journey. Health issues, you know. Well, unless he drinks some of your blood... Ha-ha! Don't worry, I'm joking. We only eat brains.}
 {117}{}{Very funny. Another question.}
 {118}{}{I think I'll go.}
@@ -21,7 +21,7 @@
 {121}{}{What can you say about his drug addiction? Have you ever seen him using?}
 {122}{}{There were a lot of drug problems in the city. There was a time when Phillips was in bad company, too. But that's all in the past. I'm sure he's clean now, and he's realized his mistakes.}
 
-#Расспрос про то, кто они такие
+#ГђГ Г±Г±ГЇГ°Г®Г± ГЇГ°Г® ГІГ®, ГЄГІГ® Г®Г­ГЁ ГІГ ГЄГЁГҐ
 {123}{}{Wait, you've never heard of us? You weren't even warned that we are to be avoided? Looks like you're new in town!}
 {124}{}{I actually am.}
 
@@ -49,16 +49,16 @@
 {143}{}{So, what are you sick with?}
 {144}{}{As you wish, Larry. I need to go now.}
 
-#Получение квеста на поиск оправданий
+#ГЏГ®Г«ГіГ·ГҐГ­ГЁГҐ ГЄГўГҐГ±ГІГ  Г­Г  ГЇГ®ГЁГ±ГЄ Г®ГЇГ°Г ГўГ¤Г Г­ГЁГ©
 {145}{}{In fact, we haven't suffered from anything in a long time... Except for a small mental disorder.}
 {146}{}{So what is it with your skin then?}
 {147}{}{Radiation, friend, radiation. And, apparently, some other crap that flies in the air. The body ossified, the skin became rigid, and the veins lost their elasticity.}
 {148}{}{Yeah, I get it. So now what, are you hiding your faces so you don't scare kids or something?}
 {149}{}{In Clean City, they scare the kids with us anyway. Like, look, if you don't behave, an evil freak will come and take you to the Dead Hotel, stuff like that. They think we're contagious, so everybody stays away from us... Mostly.}
 {150}{}{Mostly?}
-{151}{}{Apparently, someone overdid it and now we are accused of producing drugs. The police even seem to have some evidence. I don't know if that's true, but I don't think the police would want to look for evidence. They'll just come and shoot us. Hopefully, after that, our souls will haunt them at nights, heh-heh.}
+{151}{}{Apparently, someone overdosed and now we are accused of producing drugs. The police even seem to have some evidence. I don't know if that's true, but I don't think the police would want to look for evidence. They'll just come and shoot us. Hopefully, after that, our souls will haunt them at nights, heh-heh.}
 {152}{}{But you don't produce any drugs, right?}
-{153}{}{The police is right! You need to be transported to a new place where you can stay - under ten feet of dirt!}
+{153}{}{The police is right! You need to be transported to a new place where you can stay - ten feet under!}
 {154}{}{Well, this is not my business. Perhaps, I should go.}
 {155}{}{Only herbal medicines to support our perishable flesh and the ability to urinate. We have to make powders to dilate the venous system. Alas, the police consider it a drug.}
 {156}{}{So, are you in death-threatening danger?}
@@ -67,17 +67,17 @@
 {159}{}{If we don't prove our innocence, the police will come and, at best, chase us away from this place. And at worst, they'll take away our medication and thereby deprive us of the opportunity to take a proper piss... Ha-ha! Although, we are increasingly debating whether they will dare to come. Something tells us that they won't.}
 {160}{}{Can you prove your innocence?}
 
-{161}{}{No. We'll never prove our innocence. Especially since we'll soon be hanged for your death by slow dismemberment... Ha-ha! We won't even be able to bring evidence to the Clean City - we'll just be shot on the spot as we come near the main gate.}
+{161}{}{No. We'll never prove our innocence. Especially since we'll soon be hanged for your death by slow dismemberment... Ha-ha! We won't even be able to bring evidence to the Clean City - we'll just be shot on the spot as soon as we get near the main gate.}
 {162}{}{You know, what I think? That you deserve justice. I will try to help you... If you are honest.}
 {163}{}{You don't need to go there! I will shoot you all right here!}
 {164}{}{Listen, that's your problem, I don't want to have anything to do with it. That's why I leave.}
 
-#Завершение квеста на поиск оправданий
+#Г‡Г ГўГҐГ°ГёГҐГ­ГЁГҐ ГЄГўГҐГ±ГІГ  Г­Г  ГЇГ®ГЁГ±ГЄ Г®ГЇГ°Г ГўГ¤Г Г­ГЁГ©
 {165}{}{How noble! So noble that I don't even believe it. And that's after I slipped a poisonous saprophytic tick into your pocket... Don't search your pants. It was a joke.}
 {166}{}{I'm being honest with you. Be honest with me too.}
 {167}{}{[Secretly start recording the conversation on your Pip-Boy] I'm being honest with you. Be honest with me too.}
 {168}{}{I'm honest... And serious. As serious as I can be. Yes, we've had some bad times, and we used to make powders with much stronger effects. But that's in the past. You have to believe us.}
-{169}{}{Nobody has to do anything for you just yet, comedian. Okay, I trust you. Then who and why is setting the police on you? And what evidence do they have?}
+{169}{}{Nobody has to do anything for you just yet, comedian. Okay, lets say I do believe you. Then why? And who is setting the police on you? And what evidence do they have?}
 {170}{}{I don't have the slightest idea! The evidence is clearly circumstantial. The chief of police came to us, asked where we get the ingredients, how much drugs we make per month... Of course, he didn't believe us. I think he is convinced that he is right and will defend it, even if you find evidence to the contrary.}
 {171}{}{Well, that isn't much.}
 {172}{}{I think you should talk to the police first. I think they will listen to you. Think your story over, so as not to arouse unnecessary suspicion. Better yet, kill everyone there and sacrifice their hearts to our god! Ha-ha-ha...}
@@ -85,7 +85,7 @@
 
 {174}{}{[Secretly start recording the conversation on your Pip-Boy] But you don't produce any drugs, right?}
 
-#Оправдание найдено
+#ГЋГЇГ°Г ГўГ¤Г Г­ГЁГҐ Г­Г Г©Г¤ГҐГ­Г®
 {175}{}{I found a receipt from the slavers. Here, take a look.}
 {176}{}{And what do we have to do with it?}
 {177}{}{I wanted to ask you the same thing - what do you have to do with it, and on whose orders all this was done?}
@@ -145,7 +145,7 @@
 {219}{}{The smooth-skinned wanderer is with us again! How surprising.}
 {220}{}{About the evidence - I can't take it to the police. Look for another way.}
 
-#Плавающие фразки после облавы
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГґГ°Г Г§ГЄГЁ ГЇГ®Г±Г«ГҐ Г®ГЎГ«Г ГўГ»
 {221}{}{What should we do now?}
 {222}{}{We won't be able to find a new place to live.}
 {223}{}{We are now worse than beggars.}
@@ -153,7 +153,7 @@
 {225}{}{Bad luck!}
 {226}{}{It's time to say goodbye to our lives.}
 
-#Получение достижения "Знахарь"
+#ГЏГ®Г«ГіГ·ГҐГ­ГЁГҐ Г¤Г®Г±ГІГЁГ¦ГҐГ­ГЁГї "Г‡Г­Г ГµГ Г°Гј"
 {227}{}{How did you learn to make these healing powders?}
 {228}{}{It's not that complicated. We are masters of survival. If it not for our knowledge of nature, we would die long ago.}
 {229}{}{Can you teach me to make powder and stimpaks?}
@@ -167,7 +167,7 @@
 
 {237}{}{[Secretly start recording the conversation on your Pip-Boy] What can you tell about his drug addiction?}
 
-#Рабочая проблема на дамбе
+#ГђГ ГЎГ®Г·Г Гї ГЇГ°Г®ГЎГ«ГҐГ¬Г  Г­Г  Г¤Г Г¬ГЎГҐ
 {238}{}{I see that you are not particularly welcomed in this city. Where do you work?}
 {239}{}{Wh- work? We have no business and no work. He-he.}
 {240}{}{So what do you do for a living then?}
