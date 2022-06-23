@@ -202,7 +202,7 @@
 {336}{}{The location of Wind of War have been marked on your Pip-Boy.}
 {337}{}{[Caravan merchant marks the location of the Wind of War settlement on the world map, a waypoint on his trading route] Here.}
 {338}{}{This is a pretty active trading route because Las Vegas and Reno established a good trading relationship. You can even meet the local population on that route.}
-{339}{}{This is a pretty boring trading route. You should be careful around Salt Lake, watch out for acid geckos. But in comparison with other routes, it's the safest one. The main problem is, perhaps, the slavers. But raiders are rarely around there.}
+{339}{}{This is a pretty boring trading route. You should be careful around Salt Lake, watch out for acid geckos. But compared to other routes, it's the safest one. The main problem is, perhaps, the slavers. But raiders are occasionally around there.}
 
 ###############################################################
 #       Ðàññïðîñû, êóäà ïóòü äåðæàò
