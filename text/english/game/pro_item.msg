@@ -962,7 +962,7 @@
 {49300}{}{Newspaper clippings}
 {49301}{}{A pack of pages torn from various newspapers. All are about the same thing - the great loss of Big Louie.}
 {49400}{}{Acid gecko pelt}
-{49401}{}{Torn from the corpse of an acid gecko skin. Valued for its refractory and plasma-resistant qualities.}
+{49401}{}{Torn from the corpse of an acid gecko, this skin is valued for its refractory and plasma-resistant qualities.}
 {49500}{}{Special pass}
 {49501}{}{An electronic access card from many government vault doors.}
 {49600}{}{Bo's Pole}
