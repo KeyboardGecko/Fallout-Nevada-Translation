@@ -20,7 +20,7 @@
 {116}{}{Leave me alone!}
 {117}{}{Well, hi, I guess...}
 
-#Старый диалог, используется частично:
+#Г‘ГІГ Г°Г»Г© Г¤ГЁГ Г«Г®ГЈ, ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГІГ±Гї Г·Г Г±ГІГЁГ·Г­Г®:
 {118}{}{You're right man, we need to help each other... Want a glass of moonshine?}
 {119}{}{You're right man. You want to share a "Bloody Mary" with me?}
 
@@ -45,7 +45,7 @@
 {137}{}{Well, I gotta go. Take care!}
 {138}{}{[You had a heartfelt time with this cretin. He poured a ton of spiritual shit into you, but after a couple of weeks he'll have even more of it, no doubt...]}
 
-#Новый диалог:
+#ГЌГ®ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ:
 {150}{}{We just know each other from before, don't pay any attention.}
 {151}{}{I'm her consciousness. I let her cry on my shoulder when she has the need.}
 {152}{}{I... Er... Your new neighbor, I just wanted to say hi.}
@@ -135,20 +135,20 @@
 {229}{}{Yeah, er, sure.}
 {230}{}{[Drinks] Ughrr! Oh, it's so hot in here... Where did you get that stuff? Is this from Harry the Pigrat?}
 {231}{}{Err, no, it's from a bar.}
-{232}{}{[Grabs the edge of the table and falls on his knee] Ohhhh... Got me good... [laughs] Even Russian vodka it's not like that! Oh... What did you gave me?}
+{232}{}{[Grabs the edge of the table and falls to his knees] Ohhhh... Got me good... [laughs] Even Russian vodka it's not like that! Oh... What did you give me?}
 {233}{}{...Uh, so what was it about Harry the Pigrat?}
-{234}{}{...He lives nearby, makes moonshine and sells it at the bar... [crawls on the floor tries to lay down] Listen... Sit here, while I... Uhh... Tell me... About yourself...}
+{234}{}{...He lives nearby, makes moonshine and sells it at the bar... [crawls across the floor and tries to lay down] Listen... Sit here, while I... Uhh... Tell me... About yourself...}
 {235}{}{About me? You know, that doesn't matter.}
 {236}{}{Why?..}
 {237}{}{Sleep, just sleep. When you wake up, I'll tell you everything.}
 {238}{}{...About yourself?}
-{239}{}{About myself, about wandering around the wastes - I'll tell you everything. Do not worry, sleep.}
+{239}{}{About myself, about wandering around the wastes - I'll tell you everything. Don't worry, sleep.}
 {240}{}{...You... Promise... You're not... Messing with... Me...}
 {241}{}{[Keep silent]}
 {242}{}{So... I... Want... To hear it...}
 {243}{}{[This was his last breath]}
 
-{244}{}{You acted low, poisoning this drunkard. But it's all for the better.}
+{244}{}{That was low, poisoning this drunkard. But it's all for the better.}
 {245}{}{Why do you treat her like she's your property?}
 
 #Female character
@@ -160,4 +160,4 @@
 {1206}{}{I am a MAN! A man, not a rag! This is my house! And you?! Who are YOU?}
 {1220}{}{[Drinks the glass of moonshine] Urgh! Goddamn!... Hey, neighbor, why aren't you drinking? You can't do that! Come on, here! Cheers!}
 {1222}{}{Ugghh! Oh, that's was good one! You have a decent moonshine, neighbor... why aren't you drinking? I don't get it.}
-{1232}{}{[Grabs the edge of the table and falls on his knee] Ohhhh... Got me good... [laughs] Even Russian vodka it's not like that! Oh... What did you gave me?}
+{1232}{}{[Grabs the edge of the table and falls to his knees] Ohhhh... Got me good... [laughs] Even Russian vodka it's not like that! Oh... What did you give me?}
