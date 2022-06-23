@@ -84,7 +84,7 @@
 {205}{}{How much for the book?}
 {206}{}{Not interested.}
 {207}{}{You know, at this point of my life I don't value money as much as my own health. I have a heart condition and need a specific medication for it, which is nowhere to be found in the city. And I wasn't able to find anywhere else.}
-{208}{}{You say you need a cardiac medication? Alright, if I find some, I'll bring it to you.}
+{208}{}{You say you need heart medication? Alright, if I find some, I'll bring it to you.}
 {209}{}{You're in luck. I happen to have a vial of just the thing. Let's barter.}
 {210}{}{I have the heart medication you wanted. I'll give it to you in exchange for the book on neurosurgery.}
 {211}{}{Thank you for giving me a chance to live longer!}
@@ -112,7 +112,7 @@
 
 {234}{}{Hmm... [Vernon takes a good look at the articles.] Ah! Denver Post, isn't it! Goodness, it's been more than 50 years and they are still readable! Alright, you can pick something from my library in exchange for this, something valuable.}
 {235}{}{I need a guide on surviving in the wilderness.}
-{236}{}{I'll give you the newspapers in exchange for the book on electronics.}
+{236}{}{I'll give you some newspapers in exchange for a book on electronics.}
 {237}{}{Give me the first aid manual and the newspapers are yours.}
 {238}{}{How about some scientific books?}
 {239}{}{Do you have anything dealing with traps?}
