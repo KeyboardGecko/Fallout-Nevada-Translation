@@ -54,7 +54,7 @@
 {148}{}{You're welcome, Sheriff.}
 
 #About the cleaned up hobo:
-{150}{}{For a hobo, huh? Is this about the one that wanders around the trading area? Was about time for him to get himself out of the gutter... Very well, I can give him some job. Not for the soft-handed though, but it will be hard and honest work. Tell him to come to me and we'll talk about it.}
+{150}{}{For a hobo, huh? Is this the one wondering around the trading area? About time for him to get himself out of the gutter... Very well, I can give him a job. Not for the soft-handed though, it will be hard and honest work. Tell him to come to me and we'll talk about it.}
 {151}{}{Will do.}
 
 #Gary Gilmore Quest:
