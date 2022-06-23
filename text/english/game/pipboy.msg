@@ -307,8 +307,8 @@
 {3011}{}{  * Wrench}
 {3012}{}{  * Weapon parts}
 {3013}{}{}
-{3014}{}{It is necessary to hurry to collect these,}
-{3015}{}{because in three days the caravan will depart.}
+{3014}{}{You need to collect these soon,}
+{3015}{}{because the caravan will depart in three days.}
 {3016}{}{**END-DISK**}
 
 # Free space
