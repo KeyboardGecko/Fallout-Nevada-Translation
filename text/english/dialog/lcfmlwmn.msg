@@ -2,12 +2,12 @@
 {101}{}{Before you is a middle-aged woman. She seems to have been crying all day.}
 {102}{}{ }
 
-#После убийства мужа
+#ГЏГ®Г±Г«ГҐ ГіГЎГЁГ©Г±ГІГўГ  Г¬ГіГ¦Г 
 {110}{}{::sighs heavily::}
 {111}{}{Thank you for saving me from this...}
 {112}{}{Get out!}
 
-#Диалог с мужем
+#Г„ГЁГ Г«Г®ГЈ Г± Г¬ГіГ¦ГҐГ¬
 {150}{}{Stop shouting at me!}
 {151}{}{You bitch! You don't even try to listen!!!}
 {152}{}{Why should I listen to you?! I've heard that before...}
@@ -39,7 +39,7 @@
 {178}{}{"Me, me, me", all the time. Nothing else...}
 {179}{}{YOU BITCH!!! YOU WHORE!!! I'LL KILL YOU!!!}
 
-#Диалог с ней
+#Г„ГЁГ Г«Г®ГЈ Г± Г­ГҐГ©
 {200}{}{[The woman is in tears] Why are you here?}
 {201}{}{Why are you crying?}
 {202}{}{Don't be so upset, it's going to be okay!}
@@ -120,8 +120,8 @@
 {271}{}{Okay, good luck.}
 {272}{}{[Exit]}
 {273}{}{Well, the local police are unlikely to interfere in our family's affairs. If it comes to a fight, you don't need to worry about them. Just so you'd know.}
-{274}{}{[She puts out a bottle from a stash] Here. By the way, the local police are unlikely to interfere in our family's affairs. If it comes to a fight, you don't need to worry about them. Just so you'd know.}
-{275}{}{[She puts out a bottle from a stash] Here. I hope you have the guts to do it.}
+{274}{}{[She pulls out a bottle from a hidden stash] Here. By the way, the local police are unlikely to interfere in our family's affairs. If it comes to a fight, you don't need to worry about them. Just so you'd know.}
+{275}{}{[She pulls out a bottle from a hidden stash] Here. I hope you have the guts to do it.}
 {276}{}{You know, clean this shit yourself! I'm out of here!}
 {277}{}{I do not need anything, I'll deal with it as I see fit.}
 {278}{}{That's enough. I'll figure it out myself.}
