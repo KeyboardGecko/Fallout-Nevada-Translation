@@ -1437,7 +1437,7 @@
 {74700}{}{Hangar key}
 {74701}{}{Standard key from the hangar door in the ranch of Oliver Luciano.}
 {74800}{}{Schematics: "Kubotan"}
-{74801}{}{The pre-war schematics for policemen on assembling the kubotan, describing the art of its application. It is not difficult to build this self-defense weapon, but without proper skills it will be useless.}
+{74801}{}{Pre-war police instructions for assembling and maintaining the kubotan, with a foldout describing the art of its application. This self-defense weapon is not difficult to build, but without the proper skills it will be useless.}
 {74900}{}{Eli's key #9}
 {74901}{}{Standard door lock key.}
 {75000}{}{Mastery of the kubotan}
