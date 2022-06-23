@@ -21,7 +21,7 @@
 
 {136}{}{Ah... You'll like it here then. We've had problems before, but now the city's getting back on its feet. People are getting richer... [winks] So I would suggest to stick around a little.}
 {137}{}{Ah... Well I'd get outta here if I were you. To Vegas maybe. To be honest, things here are shit. The only reason I'm still here is because I can't stand the wasteland more.}
-{138}{}{Ah... Just a city, I guess. Nothing special. People are just living here, that's all. Still better than in Reno, that's for sure. I ran away from there, and think I've made the right choice.}
+{138}{}{Ah... Just a city, I guess. Nothing special. People are just living here, that's all. Still better than in Reno, that's for sure. I ran away from there, and I think I made the right choice.}
 {139}{}{Alright, forget it.}
 {140}{}{Well, everyone calls me Incorrigible Ned. Don't ask why. I'm just a worker, like many others. Help people out with their junk, earning the odd dime here and there. Although there are times when I do rather... "profitable" jobs... [winks] Either way, I'm not complaining.}
 {141}{}{Provo is a shithole that nobody in their right mind should visit. That's where all the exiles that the sheriff booted out of town live. Most of the people here will tell you they are all criminals, but it's more to that. I hear that they helped Burton to sort things out during the civil war. And when they were no longer needed, he showed them to the door. Now they stay away from Salt Lake City, but I'm sure they hold a grudge against it, and the whole world. As for Gilmore - he is a real bastard. Murderer, rapist and thief. Whip wants to send people after him, but I think he's scared that they'll get iced on the way there.}
@@ -58,7 +58,7 @@
 {167}{}{Great.}
 {168}{}{I knew it! We're masters of the same art. And, speaking of art... Anything on your mind?}
 {169}{}{No-no, forget it! I quit and all that. Bye.}
-{170}{}{Hmm, I'm interested. Tell me more.}
+{170}{}{On my mind? Why don't you tell me what's on *your* mind.}
 
 {171}{}{[Without a word, he nods at the building across the street]}
 {172}{}{You're crazy!}
