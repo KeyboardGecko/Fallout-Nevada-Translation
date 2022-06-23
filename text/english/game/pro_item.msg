@@ -377,7 +377,7 @@
 {18900}{}{Locker}
 {18901}{}{Old locker used for storage.}
 {19000}{}{Criminal case}
-{19001}{}{Rather spoiled by rodents, humid and time, this folder contains materials of some old criminal case. Some things in it can still be read.}
+{19001}{}{Rather spoiled by rodents, humidity, and time, this folder contains the files for some old criminal case. A few pages in it can still be read.}
 {19100}{}{Disk with soundtrack}
 {19101}{}{Holographic film with soundtrack to "Fallout: Nevada".}
 {19200}{}{Book "Homo Ludens"}
