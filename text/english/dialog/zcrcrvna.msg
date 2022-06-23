@@ -128,7 +128,7 @@
 {235}{}{Is there any place here where you can go to relax?}
 {236}{}{First, the Tin Angel. A very nice place, always fun to visit. There's also an inn where you can rest, and even a trading post across the street. There are two vendors there, one selling weapons and the other all kinds of junk.}
 {237}{}{What makes the city run?}
-{238}{}{The most important thing around here is the Nuka-Cola factory. If you want to start your own business and sell this stuff around the Wasteland, go straight there. It's to the east from the city center. But in general there is not much to do, not many options... Ah, yes, also people grow Vocas nuts. They are very nutritious. You can find whole plantations just outside the city.}
+{238}{}{The most important thing around here is the Nuka-Cola factory. If you want to start your own business and sell this stuff around the Wasteland, go straight there. It's to the east from the city center. But in general there is not much to do, not many options... Ah, yes, people also grow Vocas nuts. They are very nutritious. You can find whole plantations just outside the city.}
 {239}{}{What about the social situation in the city?}
 {240}{}{They have a Sheriff's office. As you can see, they manage to keep the scum away. At least it's a lot safer here than in New Reno.}
 {241}{}{Okay. That would be all.}
