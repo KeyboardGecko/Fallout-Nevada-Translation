@@ -1115,7 +1115,7 @@
 {58200}{}{Shitposter's weed}
 {58201}{}{This is all that remains of Shitposter - an unremarkable and seemingly harmless bunch of weed. Do not use in any circumstances.}
 {58300}{}{Nuka-Cola (cherry.)}
-{58301}{}{A bottle of Nuka-Cola, a flavored non-alcoholic beverage of the post-nuclear world. It is made from the leaves of mutated coca and juice of some fruits. Warm and exhausted. With cherry flavor.}
+{58301}{}{A bottle of Nuka-Cola, a flavored non-alcoholic beverage of the post-nuclear world. It is made from the leaves of mutated coca and juice of some fruit. Warm and flat. With cherry flavor.}
 {58400}{}{Nuka-Cola with flavor}
 {58401}{}{Bottle of self-made Nuka-Cola. Someone decided to make money by selling such a low-quality product bypassing the "official" manufacturer.}
 {58500}{}{"Desert Eagle"}
