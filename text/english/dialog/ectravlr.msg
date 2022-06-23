@@ -7,7 +7,7 @@
 
 {113}{}{I'd like to buy provisions for the journey. Could you trade some?}
 {114}{}{I wonder what people like you are doing in these uninhabited lands.}
-{115}{}{I'm on the road for a while already. Tell me, where is the nearest town?}
+{115}{}{I've been on the road for a while already. Tell me, where is the nearest town?}
 {116}{}{I should probably continue my journey. Farewell.}
 {117}{}{That's all I can exchange. If it's not enough, you'll have to go to the city.}
 {118}{}{Speaking of the city. Tell me, where I can find one?}
