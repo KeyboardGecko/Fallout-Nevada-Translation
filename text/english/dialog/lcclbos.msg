@@ -142,7 +142,7 @@
 {281}{}{Thanks.}
 
 {282}{}{May I ask you a question? Why does you Nuka-Cola tastes different from the one sold by that salesman?}
-{283}{}{[He frowns, showing his discontent with this conversation.] First, the pre-war drink had been stored in sealed bottles for more than 70 years. During this time, like wine, it has changed its properties, acquiring new ones. The kind of Nuka-Cola you find in pre-war stocks is already quite different from what it used to be. And secondly... I don't like to talk about it, but we don't know how the drink was made in the past. We were able to achieve more or less similar tasting qualities thanks to information from labels and our own laboratory research. Of course, it's not a complete match. That's why our Nuka-Cola is slightly different from the pre-war one, but people still like it.}
+{283}{}{[He frowns, showing his discontent with this conversation.] First, the pre-war drink had been stored in sealed bottles for more than 70 years. During this time, like wine, it has changed its properties, acquiring new ones. The kind of Nuka-Cola you find in pre-war stocks is already quite different from what it used to be. And secondly... I don't like to talk about it, but we don't know how the drink was made before the war. We were able to achieve a more or less similar taste thanks to information from labels and our own laboratory research. Of course, it's not a complete match. That's why our Nuka-Cola is slightly different from the pre-war one, but people still like it.}
 {284}{}{Thanks for your answer. Now the things are much clearer.}
 
 #Female character
