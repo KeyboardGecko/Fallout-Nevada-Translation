@@ -1,7 +1,7 @@
 {100}{}{You see Harry the clerk.}
 {101}{}{You see a fussy, ever-smiling clerk.}
 
-#Вопросы
+#Г‚Г®ГЇГ°Г®Г±Г»
 {110}{}{Yes-yes? How can I help?}
 {111}{}{See you.}
 {112}{}{Can I find a job here?}
@@ -11,7 +11,7 @@
 {116}{}{Oh, yes! Sure, the factory's in need of repairing this tower! Speak to our director immediately. He's in his office, right behind me.}
 {117}{}{Oh, it's you! We have heard about your courier achievements. We are very glad that you are working with us.}
 
-#Плавающие нотации:
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ Г­Г®ГІГ Г¶ГЁГЁ:
 {150}{}{Ladies and gentlemen! That's how we should work!}
 {151}{}{No slacking.}
 {152}{}{Clerk is a basis of any enterprise.}
@@ -43,7 +43,7 @@
 {178}{}{The clerk is the coolest job! You don't believe it? Too bad!}
 {179}{}{Did you write everything? I will check!}
 
-#Торговец довоенной колой на стоянке
+#Г’Г®Г°ГЈГ®ГўГҐГ¶ Г¤Г®ГўГ®ГҐГ­Г­Г®Г© ГЄГ®Г«Г®Г© Г­Г  Г±ГІГ®ГїГ­ГЄГҐ
 {180}{}{Why don't you want to hire that caravan merchant with pre-war cola?}
 {181}{}{Oh, I remember him, yes-yes. It's our rival with a very shady business, right? We don't need people of such... Uh, origin. You know, peasants with tanned skin and working hands aren't going to win people's affection.}
 {182}{}{I think you're wrong. You should not throw away such a good worker.}
@@ -56,7 +56,7 @@
 {189}{}{Hmm. I never thought of it that way. Now I understand why our couriers fail assignments in settlements. Perhaps we will have to reconsider our approach. Please, tell this merchant that we would like to conclude an agreement with him - provided that he will give us the remaining Nuka-Cola.}
 {190}{}{You made the right choice, Harry.}
 
-#Про лицензию
+#ГЏГ°Г® Г«ГЁГ¶ГҐГ­Г§ГЁГѕ
 {200}{}{How about a joint business?}
 {201}{}{You want to sell cola in other cities, right?}
 {202}{}{Maybe!}
@@ -72,14 +72,14 @@
 {212}{}{How much for this license?}
 {213}{}{We will sell it you for }
 {214}{}{ bucks. A very good price, if you consider your selling profits.}
-{215}{}{Sounds tempting. And what to do after?}
-{216}{}{Only you can decide. You can buy a large shipment of cola. How to find a client and how to deliver it - is your job. We recommend talking to caravan merchants. Of course, they will take some percentage for their services, but they can transport a big amount of bottles very fast.}
-{217}{}{How many couriers are there right now? Will I be able to make money on such business?}
+{215}{}{Sounds tempting. And what do I do with it?}
+{216}{}{Only you can decide. You can buy a large shipment of cola. Finding a client and how to delivering it - that's your job. We recommend talking to caravan merchants. Of course, they will take some percentage for their services, but they can transport a large amount of bottles very fast.}
+{217}{}{How many couriers are there right now? Will I be able to make money in this business?}
 {218}{}{I think yes! You see, for a while, the factory worked mainly on the inner city market. The wastelands are poorly acquainted with our products. They are still consuming the reserves from a pre-war times.}
 
 {219}{}{I want to purchase a license! How much?}
 {220}{}{Thank you for explaining, I will think about it. Take care.}
-{221}{}{ bucks. That is director's price, he ordered not to haggle for it.}
+{221}{}{ bucks. That is the director's price, his orders are not to haggle for it.}
 {222}{}{I'm buying!}
 {223}{}{Oh, I can't afford that. See you.}
 {224}{}{Don't drop your money! It's the most horrific thing I ever seen!}
