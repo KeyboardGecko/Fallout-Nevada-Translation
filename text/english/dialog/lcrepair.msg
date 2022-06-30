@@ -16,7 +16,7 @@
 {111}{}{I would like to know who you are, for a start.}
 {112}{}{Say something already. What is it?}
 {113}{}{My name is Francis. I'm a mechanic, everything here is under my service... I mean the Nuka-Cola factory. And there is no need to be formal, I'm a simple man.}
-{114}{}{You must be a skillful specialist. Perhaps I have a few questions.}
+{114}{}{You must be a skillful specialist, I might have a few questions.}
 {115}{}{That's all I wanted to know. Bye.}
 
 {118}{}{Well, well. Wasn't you the one seen around here the day my welder disappeared? I don't want to accuse anyone without evidence, but... [He points to one of his eyes, squinting the other] from now on this eye of mine will follow every step of any visitor in the room. Keep that in mind.}
@@ -56,7 +56,7 @@
 
 #The question about the possibility of creating
 {150}{}{Can you make a press for ammo manufacturing?}
-{151}{}{Hmm, making this thing, you see, would be very time-consuming. Perhaps I would do it, but only for a very good fee. Let's say, 10,000 bucks.}
+{151}{}{Hmm, making this thing, you see, would be very time-consuming. I might do it, but only for a very good fee. Let's say, 10,000 bucks.}
 {152}{}{I'll give 5,000 as a deposit and the rest when the press is ready. Okay?}
 {153}{}{It's too expensive!}
 {154}{}{I'll be fine without a press for now.}
@@ -279,7 +279,7 @@
 {500}{}{What's all that junk on your desk?}
 {501}{}{Oh, it's a damn pile of polymers, metals, and ceramics that I haven't been able to do anything with for months... Why do you ask?}
 {502}{}{It looks like parts of a robot...}
-{503}{}{In some way, it is a robot. In fact, you're looking at the glory of the former American army - the suit of T-51b power armor. Or rather what's left of it. It was found in the north, among the ruins of the bombed part of the city. Something caused the internal power module to disintegrate, which ended up blowing up almost all the armor. Little was left in working order.}
+{503}{}{In some way, it is a robot. In fact, you're looking at the glory of the former American army - a suit of T-51b power armor. Or rather what's left of it. It was found in the north, among the ruins of the bombed out part of the city. Something caused the internal power module to disintegrate, which ended up blowing up almost all the armor. Little was left in working order.}
 {504}{}{Can it be repaired?}
 
 {505}{}{If someone finds the suitable replacement parts and original blueprints - of course. But finding them is nearly impossible.}
@@ -291,13 +291,13 @@
 {510}{}{About the power armor.}
 {511}{}{We'll talk more about it. Later.}
 
-{512}{}{Hmm, I guess on military bases, where else? But I only know about them by hearsay. Except that there was one in the north, but it was destroyed by a direct hit of a nuclear bomb.}
+{512}{}{Hmm, I guess on military bases, where else? But I only know about them from hearsay. Except that there was one in the north, but it was destroyed by the direct hit of a nuclear bomb.}
 {513}{}{Let me think... First, we need blueprints. Next, we need to replace some parts... The CPU, the power module, and a new helmet, to be exact. And besides, we'll have to find something somewhere to restore the radiation and gas protection.}
 {514}{}{I want it even more! Here's the deal - you find the parts, and I'll fix the armor and give it to you. Of course, I would like to get something for myself in exchange.}
 {515}{}{That's the deal then!}
 {516}{}{I'll think about it.}
 
-{517}{}{Great. I need the blueprints. I don't know where to get them, but I do know that one of the bikers from the west has a *working* power armor suit. Perhaps he could share the information with you. Again, I have no idea where these bikers live. But the Sheriff knows for sure.}
+{517}{}{Great. I need the blueprints. I don't know where to get them, but I do know that one of the bikers from the west has a *working* power armor suit. Maybe he will share the information with you. Again, I have no idea where these bikers live. But the Sheriff knows for sure.}
 {518}{}{Bikers? How interesting.}
 
 {519}{}{Oh, that's just what I needed! There's a lot of hassle ahead with rebuilding the damaged sections of the armored hull, but now, thanks to the blueprints, it will be much easier. This is a great find! Too bad it's useful only for external reconstruction.}
@@ -314,7 +314,7 @@
 {528}{}{Where I can find them?}
 {529}{}{The blueprints then... Got it. Already looking for them.}
 
-{530}{}{If I had known, I would have fixed this scrap a long time ago. But here's a suggestion: sometimes bikers come here from the west. One of them is wearing power armor. Perhaps he could share information.}
+{530}{}{If I had known, I would have fixed this scrap a long time ago. But here's a suggestion: sometimes bikers come here from the west. One of them is wearing power armor. Maybe he will share some information.}
 {531}{}{I see. Get to go on further searches.}
 
 {532}{}{Oh, that's just what was needed! Not only can I use the armor as a base, but I can also take the missing pieces of the armor layer from it. This is a great find! Too bad it's only useful for external reconstruction.}
