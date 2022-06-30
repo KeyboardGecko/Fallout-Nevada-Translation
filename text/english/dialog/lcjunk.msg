@@ -7,7 +7,7 @@
 {105}{}{You drove the annoying beggar from the city.}
 {106}{}{You helped the hobo rise on his feet.}
 
-#Eсли видит ГГ:
+#EГ±Г«ГЁ ГўГЁГ¤ГЁГІ ГѓГѓ:
 {150}{}{Hey, kind person!}
 {151}{}{Help please!}
 {152}{}{Give food! I haven't eaten two days!}
@@ -20,7 +20,7 @@
 {159}{}{Sorry, would you any spare change?}
 {160}{}{Where you go, kind person?! What about me?!}
 
-#Диалог:
+#Г„ГЁГ Г«Г®ГЈ:
 {200}{}{Could kind person help a crippled one in his unhappy life? Please, with a bun, at least...}
 {201}{}{Well then! Come on, let's dine in this cafe like normal people. Let's go!}
 {202}{}{[Give sandwich]}
@@ -39,7 +39,7 @@
 {214}{}{Give up this life, pal! I've got a stable and easy job for you. You can do it. See that shop? They need a man to work in a storeroom. Tell them that you are from me. Okay?}
 {215}{}{What? Sheriff himself? [The beggar opens his mouth in amazement] Oh! Mister Whip wants to hire me! Kind! Kind person! I'm so happy! So happy!}
 {216}{}{Come on, it was easy...}
-{217}{}{Sheriff - he's fair one. He won't left me bullied! Not like some others!}
+{217}{}{Sheriff - he's fair one. He won't let me get bullied! Not like some others!}
 {218}{}{And who's bullying you?}
 {219}{}{No one! Just saying... There was one bandit wandering around the cafe. If you stumble upon him, don't even talk. Well, I'm off to sheriff, yes?}
 {220}{}{Yeah, now go. Take care.}
@@ -48,7 +48,7 @@
 {223}{}{(Just think about how people can change! You washed, brushed, fed and amused this beggar, after which he even changed his face. If he were given a push to evolve, he would become a respectable citizen in the town.)}
 {224}{}{[Leave]}
 
-#Выгоняем из города
+#Г‚Г»ГЈГ®Г­ГїГҐГ¬ ГЁГ§ ГЈГ®Г°Г®Г¤Г 
 {225}{}{[Beggar continues to stand by and wait, apparently insults are a usual thing for him]}
 {226}{}{Alright, trash-humper, leave this place until I hit you right in the eye!}
 {227}{}{Uh, okay sorry, just came out that way... So what did you want?}
