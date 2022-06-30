@@ -759,15 +759,15 @@
 {15000}{}{}
 {15001}{}{(A plain notebook in a shabby leather cover.}
 {15002}{}{The first pages are filled with accurate slim}
-{15003}{}{handwriting, but as it goes you can hardly read}
-{15004}{}{choppy erratic letters on blood-stained crumpled}
-{15005}{}{sheets.)}
+{15003}{}{handwriting, but as it continues you can hardly read}
+{15004}{}{the choppy erratic letters on the blood-stained}
+{15005}{}{crumpled sheets.)}
 {15006}{}{}
 {15007}{}{}
 {15008}{}{}
 {15009}{}{Day 1}
 {15010}{}{}
-{15011}{}{For the fuck's sake, I did it! Feel free to}
+{15011}{}{For fuck's sake, I did it! Feel free to}
 {15012}{}{fight, even eat each other alive -  }
 {15013}{}{I'm gonna sit this one out in here. Yeah,}
 {15014}{}{I learned my lesson well, I know how to wait...}
@@ -813,7 +813,7 @@
 {15054}{}{}
 {15055}{}{Day 6}
 {15056}{}{}
-{15057}{}{Woke up at night, because felt like someone's}
+{15057}{}{Woke up at night, because it felt like someone's}
 {15058}{}{nearby... Light doesn't drive the darkness away,}
 {15059}{}{only makes it clog into farther corners...}
 {15060}{}{No, it can't be, I'm all alone here...}
@@ -822,12 +822,12 @@
 {15063}{}{Day 7}
 {15064}{}{}
 {15065}{}{No more light...}
-{15066}{}{Silence drills my brains out, darkness squeezees}
+{15066}{}{Silence drills my brains out, darkness squeezes}
 {15067}{}{eyes... Still - no sound! That's exactly what}
 {15068}{}{It waits for... What? I am alone here, am I?}
 {15069}{}{I'm confused... Can't sleep just yet...}
 {15070}{}{The clock is useless - time has stopped...}
-{15071}{}{What's it like - not to sleep for an eternity?}
+{15071}{}{What's it like - to not sleep for an eternity?}
 {15072}{}{}
 {15073}{}{Day ???}
 {15074}{}{}
