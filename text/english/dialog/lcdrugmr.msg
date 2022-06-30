@@ -175,12 +175,12 @@
 {272}{}{[The full treatment: }
 {273}{}{[Treat wounds: }
 {274}{}{[Treat intoxication: }
-{275}{}{[Cure a mutilation: }
+{275}{}{[Cure a crippled limb: }
 {276}{}{[Treat irradiation: }
 {277}{}{That's enough for today. Let's talk.}
 {278}{}{Goodbye, Doc.}
 {279}{}{$]}
-{280}{}{Those money won't be enough to cover the costs of the treatment.}
+{280}{}{That won't be enough to cover the costs of the treatment.}
 {281}{}{Now everything is alright.}
 {282}{}{Thanks, Doc. I'll better go.}
 {283}{}{[Treat the infection: }
