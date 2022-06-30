@@ -3,15 +3,15 @@
 {102}{}{My mommy doesn't let me talk to strangers.}
 {103}{}{ }
 
-#Финальные реплики
+#Г”ГЁГ­Г Г«ГјГ­Г»ГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {110}{}{Thank you, at least now I won't worry so much. But I still feel sorry for my dog...}
 {111}{}{Thank you, I now know what happened to my dog... My dad's gonna kill the guy! Honestly!}
 {112}{}{[Frowning, looking away from you]}
 {113}{}{Okay, boy, it's over now.}
 
-#Получение квеста:
+#ГЏГ®Г«ГіГ·ГҐГ­ГЁГҐ ГЄГўГҐГ±ГІГ :
 {120}{}{[You see a boy walking among the leaves.]}
-{121}{}{Hey, what are you doing in such a dubious deserted place?}
+{121}{}{Hey, what are you doing in this deserted place?}
 {122}{}{[Leave him]}
 {123}{}{I'm looking for my doggie... Have you seen her? She has a collar and a white tag...}
 {124}{}{No, I haven't. Tell me more, maybe I'll see her!}
@@ -22,7 +22,7 @@
 {129}{}{I don't know... I'm afraid they ate her! Those filthy people from the slums! They're always eating dogs! Could it be them? Find her, please! She's been gone for two days already! Please! I'm so scared!}
 {130}{}{Nevermind, I'll look for her.}
 
-#Случайные фразы при хождении по листве
+#Г‘Г«ГіГ·Г Г©Г­Г»ГҐ ГґГ°Г Г§Г» ГЇГ°ГЁ ГµГ®Г¦Г¤ГҐГ­ГЁГЁ ГЇГ® Г«ГЁГ±ГІГўГҐ
 {131}{}{Where did you go?...}
 {132}{}{Hey doggie, come here!}
 {133}{}{::Whistles::}
@@ -31,13 +31,13 @@
 {136}{}{I miss you so much, please come back!}
 {137}{}{::wipes tears::}
 
-#Сдача квеста:
+#Г‘Г¤Г Г·Г  ГЄГўГҐГ±ГІГ :
 {150}{}{Did you find her?!!}
 {151}{}{I'm sorry, kid, but your dog got mad and attacked me. I had to kill her.}
 {152}{}{I'm sorry, but your dog is dead. Someone in the slums has already digested her in his stomach.}
 {153}{}{Sorry, no luck so far.}
 
-{154}{}{[The kid's face changes] But... It cannot be! [Seems like he's about to cry]}
+{154}{}{[The kid's face changes] But... that can't be! [Seems like he's about to cry]}
 {155}{}{You see, some of the most unfortunate are forced to survive somehow. Maybe he didn't want to eat your dog, but he had to. I'm sorry, kid, but there's nothing more I can do for you.}
 {156}{}{WHAT?! No way!!! My doggie was normal! It could not be! It wasn't her! No!}
 {157}{}{Unfortunately, it was her. She must have wandered into the pack, and her wild instincts kicked in. Here's the tag from her collar. That's her tag, right?}
