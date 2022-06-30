@@ -9,11 +9,11 @@
 {108}{}{The goods in the wagon had been completely destroyed.}
 
 {110}{}{Hey, do your feet burn from the road? Here, have a bottle for refreshment. It will cost you only 3 bucks.}
-{111}{}{Tempting, but what is this drink and where it came from?}
+{111}{}{Tempting, but what is this drink and where did it come from?}
 {112}{}{Thank you, but no.}
 {113}{}{Well, I was lucky to find a few boxes of pre-war Nuka-Cola. I've tried it myself - and it's an absolutely clean and quality product! And, by the way, much better than at the local factory.}
 {114}{}{So you have nothing to do with the local Nuka-Cola factory?}
-{115}{}{Oh, no. I'm not local myself, and I was surprised, when I learned that there is a whole factory here. So I have to sell cola cheaper, to sell it faster before the factory thugs come to find out... Although I'm probably exaggerating, heh. Why such a large factory would care about some small seller from the wasteland?}
+{115}{}{Oh, no. I'm not local myself, and I was surprised when I learned that there is a whole factory here. So I have to sell cola cheaper, to sell it faster before the factory thugs find out... Although I'm probably exaggerating, heh. Why would such a large factory care about some small seller from the wasteland?}
 {116}{}{Maybe. I bet the factory wouldn't like it for sure.}
 
 {117}{}{Fortunately, in this town there is a Sheriff that honors law and justice. So I can sell you a few bottles. That is what you standing here for, right?}
@@ -28,7 +28,7 @@
 {125}{}{Unlike your goods, the products of the factory do not stink radiation a mile away.}
 {126}{}{Really? Wow, what a surprise... Well, I'll have to... Uh... Smash it all somewhere on the outskirts of the city.}
 {127}{}{You're a bad actor. You knew that the bottles are irradiated, but still brought them to sell to the local population. Isn't your conscience tormenting you?}
-{128}{}{[He starts to look tired] Maybe... But listen. In the village where my son and I are from, there's no one left because it had become impossible to live there. One day I found out about an abandoned Nuka-Cola truck. The batch in my wagon is all that was there. Honestly. I just wanted to make a quick buck and get out of town. Me and my son are left without shelter and food, we need something to buy supplements and ammunition with. In other circumstances, I wouldn't have to climb into irradiated truck. Besides, bottles not so irradiated for anyone to notice.}
+{128}{}{[He starts to look tired] Maybe... But listen. In the village where my son and I are from, there's no one left because it had become impossible to live there. One day I found out about an abandoned Nuka-Cola truck. The batch in my wagon is all that was there. Honestly. I just wanted to make a quick buck and get out of town. Me and my son are left without shelter and food, we need something to buy supplements and ammunition with. In other circumstances, I wouldn't bother to climb into an irradiated truck. Besides, these bottles aren't so irradiated that anyone will notice.}
 {129}{}{Then I can buy all your cola.}
 {130}{}{Then I will report you to the police.}
 {131}{}{Drop the shit until the police have you arrested and get you out of town.}
