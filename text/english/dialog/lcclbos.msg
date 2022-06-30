@@ -1,12 +1,12 @@
 {100}{}{You see Principal Skinner.}
 {101}{}{You see the director of the Nuka-Cola factory. He's got his business face on.}
 
-#Начало разговора
+#ГЌГ Г·Г Г«Г® Г°Г Г§ГЈГ®ГўГ®Г°Г 
 {110}{}{Good day. What is your business here?}
 {111}{}{Sorry to bother you.}
 {112}{}{Anything else?}
 
-#Автоматы колы:
+#ГЂГўГІГ®Г¬Г ГІГ» ГЄГ®Г«Г»:
 {120}{}{I've heard your Nuka-Cola vending machines are being robbed. Have you managed to catch the thief yet?}
 {121}{}{No! This guy is completely elusive. Sheriff Barton's been running amok looking for him. The only thing we know is how he executes his robberies. Unfortunately, we haven't been able to come up with a good defense yet. I'm afraid that eventually we will have to resort to practical sales methods and abandon the use of vending machines. Our products will become more expensive, unfortunately. If you see anything suspicious, please report it to the Sheriff. We must catch the robber at all costs!}
 {122}{}{I confess, It is me who's been robbing you. Now I feel bad about it.}
@@ -17,7 +17,7 @@
 {127}{}{Yes, I'm more inclined to think it's them. Haven't you heard of it before? It's a settlement south of here, inhabited by outlaws that Burton drove out of town. Now they hate all of Salt Lake for it. They were once the kings of the city's underworld, who had the power to decide who to destroy and whom to spare. Fortunately, that time is in the past. You'd better stay out of that area, just like we do.}
 {128}{}{Got it.}
 
-#Продажа фильтра
+#ГЏГ°Г®Г¤Г Г¦Г  ГґГЁГ«ГјГІГ°Г 
 {140}{}{I managed to find the part which is needed to start the artesian tower.}
 {141}{}{My God! You don't say! Is that true?! And... It works?}
 {142}{}{I'm not completely sure, but it looks good.}
@@ -39,7 +39,7 @@
 {157}{}{[You drop the part on the floor, making the factory manager's hair stand.] WHAT ARE YOU DOING!!!}
 {158}{}{Oh, don't worry, it's alright. Let me pick this up...}
 
-#Про артезианскую башню
+#ГЏГ°Г® Г Г°ГІГҐГ§ГЁГ Г­Г±ГЄГіГѕ ГЎГ ГёГ­Гѕ
 {160}{}{Lately, I wandered into the artesian tower... Why don't you get it working?}
 {161}{}{Yeah. The whole city's been talking about it for ages. But so far the talks remained just that - talks.}
 {162}{}{What's the problem?}
@@ -51,7 +51,7 @@
 {168}{}{Too bad. It would be very nice to find the part...}
 {169}{}{}
 
-#Третий квест - починка ПЛК:
+#Г’Г°ГҐГІГЁГ© ГЄГўГҐГ±ГІ - ГЇГ®Г·ГЁГ­ГЄГ  ГЏГ‹ГЉ:
 {170}{}{What will be the next task?}
 {171}{}{I'm afraid, you'll have to go on a business trip. That is, if you want to make some money, of course.}
 {172}{}{Please, tell me more.}
@@ -65,7 +65,7 @@
 {180}{}{. Pleasure working with you.}
 {181}{}{Goodbye.}
 
-#Общие вопросы
+#ГЋГЎГ№ГЁГҐ ГўГ®ГЇГ°Г®Г±Г»
 {200}{}{Are you the director here?}
 {201}{}{Could you tell me about the factory?}
 {202}{}{How's business at the factory?}
@@ -74,7 +74,7 @@
 {204}{}{How did you obtain your position?}
 {205}{}{I'm a hereditary owner of the enterprise.}
 {206}{}{Really?! No mob wars, no dumping dead bodies of competitors into the lake, no blackmailing or intimidating people, nothing?}
-{207}{}{Hmm... Are you from Reno, perchance? They seem to like to deal with problems by smashing them with big sticks. Here, everyone knows that no wannabe would be able to head an enterprise: they won't have the knowledge, nor the skills, nor the support of the community.}
+{207}{}{Hmm... Are you from Reno, perchance? They seem to like to deal with problems by smashing them with big sticks. Here, everyone knows that no wannabe would be able to head an enterprise: they would have neither the knowledge, nor the skills, nor the support of the community.}
 {208}{}{I see. May I ask another question?}
 {209}{}{Okay, that's enough.}
 {210}{}{As far as I'm concerned, that's impossible - I think you've walked over many dead bodies to reach your goals.}
@@ -90,7 +90,7 @@
 {219}{}{Where do you get ingredients for production?}
 {220}{}{There are several Mormon farms located in the Salt Lake City area. They grow all the necessary plants there. Salt and alkali are extracted from the Great Salt Lake's deposits. So we had no problems with that.}
 
-#Второй квест - деталь у караванщика
+#Г‚ГІГ®Г°Г®Г© ГЄГўГҐГ±ГІ - Г¤ГҐГІГ Г«Гј Гі ГЄГ Г°Г ГўГ Г­Г№ГЁГЄГ 
 {230}{}{What will be the next task?}
 {231}{}{There's one caravaneer who wants to take advantage of our troubles. We had a deal that he would find us a new encoder to replace the broken one. We agreed on the price of $300. Now that he has the encoder, he asks for $1,000!}
 {232}{}{[More.]}
@@ -104,7 +104,7 @@
 {240}{}{Piece of cake. Do you have other tasks?}
 {241}{}{Thank you, but our cooperation will have to be put on hold. I'll come back when I'm ready to continue.}
 
-#Первый квест - продавец довоенной колы
+#ГЏГҐГ°ГўГ»Г© ГЄГўГҐГ±ГІ - ГЇГ°Г®Г¤Г ГўГҐГ¶ Г¤Г®ГўГ®ГҐГ­Г­Г®Г© ГЄГ®Г«Г»
 {250}{}{I'm looking for work. Maybe you can find a position for me?}
 {251}{}{I have enough workers for now... On a second thought, are you from around here?}
 {252}{}{Oh, no, I'm just passing through.}
