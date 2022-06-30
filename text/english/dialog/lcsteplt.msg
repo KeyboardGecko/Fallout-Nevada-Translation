@@ -33,13 +33,13 @@
 
 #Ïðî áàøíþ - about the tower
 {150}{}{What is this tower over there?}
-{151}{}{A water tower made by pre-war company "Rain Soft". There's a giant tank inside, where artesian water was gathered by submerged pump, to then be dispersed by pressure system to clients, using water pipeline.}
+{151}{}{A water tower made by "Rain Soft", a pre-war company. There's a giant tank inside where artesian water was gathered by submerged pump, then dispersed by a pressure system to clients, using water pipelines.}
 {152}{}{Is it usable now?}
 {153}{}{No. All the water was depleted before the Great War. There are lots of people willing to run it, but so far no one succeeded.}
 {154}{}{What's stopping them?}
-{155}{}{The pump turbine, which pumps the water up from underground, requires a new cleaning filter. No one knows where to get it. So, that gigantic tower stands still and useless. But even if a filter could be found, one would have to spend a lot of time to set everything up. Even more than that...}
+{155}{}{The pump turbine, which pumps the water up from underground, requires a new cleaning filter. No one knows where to get it, so that gigantic tower stands still and useless. But even if a filter could be found, one would have to spend a lot of time to set everything up. Even more than that...}
 {156}{}{More than what?}
-{157}{}{I'm afraid to imagine a storm rising in the city to determine who has the right to run the tower. Everyone needs clean water - people, Nuka-cola facility, various cunning businessmen... Every resident.}
+{157}{}{I'm afraid to imagine the storm rising in the city to determine who has the right to run the tower. Everyone needs clean water - people, Nuka-cola facility, various cunning businessmen... Every resident.}
 {158}{}{A tough decision for sure. So, where could I find the part?}
 {159}{}{[Shrugs] I know Las Vegas has a dam built on the Colorado river. I don't know how it functions, but there is plenty of clean water there. Even then, if they had the filter, caravaneers would have delivered it already.}
 
