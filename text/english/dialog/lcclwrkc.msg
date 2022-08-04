@@ -7,11 +7,11 @@
 {106}{}{How are you? Do these niggas bother you? Good.}
 
 {110}{}{Stranger? What's the matter? I'm trying to take a break from all those idiots in the factory. I really don't want to talk.}
-{111}{}{Do you know anything about the missing keys of the manageress?}
-{112}{}{Do you know that this black man in the dining room wants to kill you?}
+{111}{}{Do you know anything about the lady manager's missing keys?}
+{112}{}{Did you know that black man in the dining room wants to kill you?}
 {113}{}{Then I'm not going to bother you.}
 
-{114}{}{Fuck me gecko! Yes, I have already turned out all my drawers my pockets! I have NO fucking keys and never had!}
+{114}{}{Fuck me gecko! Yes, I have already turned out all my drawers and my pockets! I have NO fucking keys and never had!}
 {115}{}{What? Again? Can I have a break from all these stupid questions?}
 {116}{}{[Simon listens to the story with his mouth agape] That son of a bitch! This nigga's too tricky! You know what I gonna do now? Oh, no, I'm not going to punch him in the face! He tried to outsmart me, so now I will outsmart him.}
 {117}{}{What do you have in mind?}
