@@ -2,7 +2,7 @@
 {101}{}{You see the head chef of this lousy canteen.}
 {102}{}{*Script execution error*}
 
-#Первый разговор
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {110}{}{[Without paying any attention to you, the cook continues to knead dough and whistle some silly song.]}
 {111}{}{Give me a menu, dear man.}
 {112}{}{[Leave]}
@@ -27,7 +27,7 @@
 {128}{}{Tokens. They are issued by the head of the department for two weeks in advance. One token means one meal. Your manager *had* to tell you this! Bloody bastards, they don't even bother anymore...}
 {129}{}{Ah, so that's what they need for... I have them right here.}
 {130}{}{Right. I'll go and, uh, deal with my manager.}
-{131}{}{Hey, don't be so hasty! It's just that you manager should've explained it to you. Tokens are issued by the head of the department for two weeks in advance. One token means one meal. You want grub, I have it right here. Just bring your tokens.}
+{131}{}{Hey, don't be so hasty! It's just that your manager should've explained it to you. Tokens are issued by the head of the department for two weeks in advance. One token means one meal. You want grub, I have it right here. Just bring your tokens.}
 {132}{}{So, did you kick your manager's ass? Or are you going to keep drooling over last bowl of soup here?}
 {133}{}{Yes, here are the tokens. It's alright.}
 {134}{}{Nope, not yet.}
@@ -37,7 +37,7 @@
 {138}{}{Well, what's this time?}
 {139}{}{A usual dinner. Here are the tokens.}
 
-#Выдача обеда
+#Г‚Г»Г¤Г Г·Г  Г®ГЎГҐГ¤Г 
 {140}{}{Good. Then you know everything you need, which means you won't rip my brain apart with stupid questions. So, how many boogers do you want today?}
 {141}{}{Don't need anything, I've changed my mind.}
 {142}{}{Will do it. How many rations?}
@@ -53,12 +53,12 @@
 {150}{}{Wow, what an appetite!}
 {151}{}{Shut up. Pile on some more, and see what I can do with it.}
 {152}{}{Perhaps, I'll think a little more before I choose.}
-{153}{}{Here. One ration contains fruit, sandwich and bottle of Nuka-Cola. Bon appetit, and... Give some space to the others, don't occupy the window!}
+{153}{}{Here. One ration contains fruit, sandwich and bottle of Nuka-Cola. Bon appetit, and... Give some space to the others, don't hog the window!}
 {154}{}{Thanks.}
-{155}{}{I would say "thank yo", but not for this kind of service.}
+{155}{}{I would say "thank you", but not for this kind of service.}
 {156}{}{You deceived the simple-minded cook and, in fact, robbed the factory. What a shame!}
 
-#Застал за передвижением по кухне
+#Г‡Г Г±ГІГ Г« Г§Г  ГЇГҐГ°ГҐГ¤ГўГЁГ¦ГҐГ­ГЁГҐГ¬ ГЇГ® ГЄГіГµГ­ГҐ
 {160}{}{Hey, it's not a checkpoint in here! Throw yourself out of my kitchen, chop-chop!}
 {161}{}{What a hustle...}
 
