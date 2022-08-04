@@ -3,7 +3,7 @@
 {102}{}{Praise be to you! Don't stray from the right path.}
 {103}{}{Oh God... You are still here...}
 
-#Первый диалог
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
 {110}{}{Just as I was about to swallow the first spoonful of soup, the flies flew in. You know, it's quite unpleasant, but you have to deal with it.}
 {111}{}{Hello. Beautiful day today, isn't it?}
 {112}{}{Fine, go on, eat. I won't bother you.}
@@ -33,12 +33,12 @@
 {133}{}{Damn coward, I don't even want to talk to you.}
 {134}{}{[Ponders for a while, looking around] Look, let's go somewhere more private, okay?}
 {135}{}{Sure, let's go...}
-{136}{}{[Whispers] Please understand. This Simon is an arrogant bastard. He'll slice anyone his size and position will allow. He is a very violent man. God must not allow the likes of him to rise to power!}
+{136}{}{[Whispers] Please understand. That Simon is an arrogant bastard. He'll slice anyone his size and position will allow. He is a very violent man. God must not allow the likes of him to rise to power!}
 {137}{}{Exactly. And that's why I want to help.}
-{138}{}{I hear you, but don't think it matters.}
+{138}{}{I hear you, but don't think it concerns me.}
 {139}{}{And I have a great plan, a peaceful one. [He sighs] I stole the keys from the administrator and hid them in the restroom. Yes, that was really me.}
 {140}{}{Hmm, go on.}
-{141}{}{I thought it would cause a panic at the factory, and when the investigation started, I would plant them on Simon. But that turned out to be above my principles. I can' t set a man up, not even an animal like Simon. Besides, in my position it's very risky.}
+{141}{}{I thought it would cause a panic at the factory, and when the investigation started I would plant them on Simon. But that turned out to be outside my principles. I can' t set a man up, not even an animal like Simon. Besides, in my position it's very risky.}
 {142}{}{Well...}
 {143}{}{Now I don't know what to do. I thought about confessing and giving the keys back, but then they'd fire me. And I can't lie, as you can see...}
 {144}{}{All right, Tom, listen: sit tight, keep quiet, and I'll think of something.}
@@ -77,7 +77,7 @@
 {175}{}{Umm... You're not serious, aren't you?.. Heh... I mean, how can you detect the thief by smell...}
 {176}{}{[Stare at him seriously]}
 
-#Плавающие издевки от товарищей в столовой
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГЁГ§Г¤ГҐГўГЄГЁ Г®ГІ ГІГ®ГўГ Г°ГЁГ№ГҐГ© Гў Г±ГІГ®Г«Г®ГўГ®Г©
 {180}{}{Hey, old man, want some... *milk*? Ha-ha!}
 {181}{}{Tom is staring again. Look away, dumbass!}
 {182}{}{Don't want me to call you words? Sorry, I can't!}
