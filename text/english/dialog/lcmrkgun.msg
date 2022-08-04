@@ -16,7 +16,7 @@
 {120}{}{No, bye.}
 
 {129}{}{Dammit! When I get him!!...}
-{130}{}{[Look at capture scene outside]}
+{130}{}{[Stand back and watch as the thief is captured]}
 {131}{}{You have betrayed your partner!}
 {132}{}{Hey, wanderer! Feel free to stop by, there's a question that needs to be solved.}
 {133}{}{Stay where you are! I've got a shotgun!}
@@ -27,26 +27,26 @@
 {137}{}{Thanks!}
 {138}{}{You came just in time! Prospectors have brought me an excellent weapon - a heavy machine gun, which fires rifle rounds. I was thinking of selling it to someone. Sheriff would gladly buy it, but maybe you are willing to pay more? Anyway, I'll just leave it here and let you think about the offer.}
 
-#Бонус для тагнутых тяжелым оружием
+#ГЃГ®Г­ГіГ± Г¤Г«Гї ГІГ ГЈГ­ГіГІГ»Гµ ГІГїГ¦ГҐГ«Г»Г¬ Г®Г°ГіГ¦ГЁГҐГ¬
 {140}{}{You know, your assortment lacks something serious - something that shoots... EXPLOSIVES! Might come in handy for me.}
 {141}{}{I see you value some heavy army weaponry. Such things are not for self-defense. Anyway, the Sheriff instantly buys any serious weapon I find... For a cheap price, of course.}
 {142}{}{Cheap? You know, I can offer more than Sheriff. Let me know when you have something in stock.}
 {143}{}{[Smiles and nods] Why yes, there's grenade launcher and 40mm ammunition packs for it. If you want, you can buy it before Sheriff. But don't tell the cops where you got this baby.}
 {144}{}{No problem!}
 
-#Машинист
+#ГЊГ ГёГЁГ­ГЁГ±ГІ
 {150}{}{Tell me, kind man, who'd ride with me on a train?}
 {151}{}{Hm? Hardly any local, that's for sure. Only maybe some newcomer, or someone absolutely desperate, willing to catch a bullet from the sheriff at the railway depot. It's forbidden not only to go there, but to even speak publicly about it.}
 {152}{}{Eh, thanks for the tip.}
 
-#Про оружие в городе
+#ГЏГ°Г® Г®Г°ГіГ¦ГЁГҐ Гў ГЈГ®Г°Г®Г¤ГҐ
 {160}{}{To be honest, you weapon stock is quite shitty.}
 {161}{}{[He throws his hands up] Why does everybody keep telling me the same thing?! Ahhhh, now I get it. You're from those places where bombs didn't send half the city to hell and where the civil war wasn't a problem. You know, we were much less fortunate. We should appreciate what's left.}
 {162}{}{Maybe you can recommend me someone with better stock?}
 {163}{}{No one besides me... And police with mormons. But these ones won't be traded with, rather opposite - they buy all the good guns and give me away any kind of pipe trash. [he sniffs] And then they are surprised that I can't sell a damn thing...}
 {164}{}{Understood, will keep in mind.}
 
-#Гаусс-патроны
+#ГѓГ ГіГ±Г±-ГЇГ ГІГ°Г®Г­Г»
 {170}{}{Do you know anything about Sheriff Burton's weapon?}
 {171}{}{I know a little. Mostly from an article in "Super-science" magazine. It describes such weapon types.}
 {172}{}{What types?}
