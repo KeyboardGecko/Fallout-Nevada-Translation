@@ -24,20 +24,20 @@
 #Consultation on the Salt Lake's problem
 {132}{}{When it comes to water, everything is not good everywhere. But we're not a very big settlement, and the ecology here is relatively normal. We get by.}
 {133}{}{How do you get clean water?}
-{134}{}{Digging a deeper well and taking water from it in a smart way. It needs to be stilled and boiled. And a pinch of disinfectant will get the job done.}
+{134}{}{Digging a deeper well and taking water from it in a smart way. It needs to be  boiled and distilled. And a pinch of disinfectant will get the job done.}
 {135}{}{A water disinfectant? Where do you get it?}
 {136}{}{We still had a good supply from the place we came from, but now it is almost used up.}
 {137}{}{So, you won't sell me this chemical?}
-{138}{}{No. Water is more valuable than your money, even if you'd offer a lot.}
+{138}{}{No. Water is more valuable than your money, even if you offered a lot.}
 {139}{}{How are you going to handle the water purification then?}
-{140}{}{Buying all the disinfection available, building cisterns, setting up the means of water purification. I think there are also generators and filters that can be found somewhere. In the big cities, like Vegas, for example...}
-{141}{}{What else? You seem to have an idea.}
-{142}{}{Oh, nothing. It would just be terribly convenient to pump water from the ground, it's clean there. It would require a lot of special equipment though. And, apparently, a lot of such equipment already exist in Salt Lake.}
+{140}{}{Buying all the disinfectant available, building cisterns, setting up the means of water purification. I think there are also generators and filters that can be found somewhere. In the big cities, like Vegas, for example...}
+{141}{}{What else?}
+{142}{}{Oh, nothing. It would just be terribly convenient to pump water from the ground, it's clean there. It would require a lot of special equipment though. And, apparently, a lot of this equipment already exists in Salt Lake.}
 {143}{}{Why do you think so?}
-{144}{}{Because we already had a few caravans coming here and asking if we have a filter for underground water treatment.}
+{144}{}{Because we already had a few caravans come here and ask if we had a filter for an underground water treatment sysem.}
 {145}{}{And? Do you have one?}
-{146}{}{Of course we don't! Where would we get it?! And even if we had one, we would already have put it to our use. Well, you know.}
-{147}{}{Ah, yes. Sad.}
+{146}{}{Of course we don't! Where would we get one?! And even if we did have one, it would already have been put to use. Well, you know.}
+{147}{}{Ah, yes. Too bad.}
 
 #Medical care of the char
 {180}{}{I need healing.}
