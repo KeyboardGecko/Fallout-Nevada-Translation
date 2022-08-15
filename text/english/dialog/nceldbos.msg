@@ -160,18 +160,18 @@
 {226}{}{Yes, you've proven yourself, so I can trust you with a more serious mission. Your payment will also correspond with the significance of each task.}
 {227}{}{What do I need to do?}
 {228}{}{I need you to destroy Luciano's enterprise. He has to be taken out of commission, so later I can dictate my terms to him. And Oliver should not die under any circumstances.}
-{229}{}{To destroy his whole enterprise? How should I do it?!}
-{230}{}{The objective is accepted. Wait for the results, Mr. Bertolini.}
-{231}{}{Who's paying who, for gecko's sake?! This is *your* headache, so you decide what to do. But, if I were you, I'd first took a closer look at the central facilities of the ranch - the hangar, brahmin corral or paddock with slaves. The more losses you arrange, the better.}
-{232}{}{Maybe it is a risky question, but still - why is this even necessary? After all, that enterprise provides the Reno with food... }
-{233}{}{I'm not going to discuss my plans with you. But I will say that Luciano is not as simple as you think. He is not an ordinary rancher, with a head stuck in a brahmin's ass. And he is not some kind of trader, who sell the screw nuts to degraded savages. He is the driving force. One of the most powerful people in town today. People are rallying around him; he dictates his conditions, and he also has some sort of plan. Hmm... I don't know, maybe you're from one of those places where food is just another product. But here it's the thing that gathers lives around. Now, do you understand?}
+{229}{}{Destroy his whole enterprise? How am I supposed to do that?!}
+{230}{}{I accept your mission. Wait for the results, Mr. Bertolini.}
+{231}{}{Who's paying who, for gecko's sake?! This is *your* headache, so you decide what to do. But, if I were you, I'd first took a closer look at the central facilities of the ranch - the hangar, brahmin corral, or paddock with slaves. The more losses you arrange, the better.}
+{232}{}{Maybe this is a risky question, but ... why is this even necessary? After all, his enterprise provides Reno with food... }
+{233}{}{I'm not going to discuss my plans with you. But I will say that Luciano is not as simple as you think. He is not an ordinary rancher, with his head stuck in a brahmin's ass. And he is not some kind of trader, who sells screw nuts to degraded savages. He is a driving force. One of the most powerful people in town today. People are rallying around him; he dictates his conditions, and he also has some sort of plan. Hmm... maybe you're from one of those places where food is just another product, but here it's the thing that people organize their lives around. Now, do you understand?}
 
 {234}{}{What did you manage to accomplish?}
 {235}{}{Nothing right now, but I'll handle it later.}
 {236}{}{I'm sorry, but completing the task without a violent resolution wasn't an option. Believe me, it was the only possible solution.}
 {237}{}{Oh yes, just like you wanted. No one suspects anything.}
 
-{238}{}{In this case, it's fair for me to cut your payment by half. You did only half of the job and broke our agreement. I appreciate your efforts, but am yet to close my eyes on this... Misunderstanding.}
+{238}{}{In this case, it's fair for me to cut your payment by half. You did only half of the job and broke our agreement. I appreciate your efforts, but I have yet to close my eyes on this... Misunderstanding.}
 {239}{}{I am pleased by your diligence - you truly adapt well.}
 {240}{}{My informants tell a different story. You're trying to fool me, and that's not forgivable. You are lucky I don't want to turn this casino into a shooting gallery, as it would harm my reputation. Now get out.}
 {241}{}{[Leave]}
