@@ -159,7 +159,7 @@
 {225}{}{Oh, Oliver, why did you let me down... }
 {226}{}{Yes, you've proven yourself, so I can trust you with a more serious mission. Your payment will also correspond with the significance of each task.}
 {227}{}{What do I need to do?}
-{228}{}{I need you to destroy Luciano's enterprise. He has to be knocked out of the rut, so that later I could dictate my conditions to him. And Oliver should not die under any circumstances.}
+{228}{}{I need you to destroy Luciano's enterprise. He has to be taken out of commission, so later I can dictate my terms to him. And Oliver should not die under any circumstances.}
 {229}{}{To destroy his whole enterprise? How should I do it?!}
 {230}{}{The objective is accepted. Wait for the results, Mr. Bertolini.}
 {231}{}{Who's paying who, for gecko's sake?! This is *your* headache, so you decide what to do. But, if I were you, I'd first took a closer look at the central facilities of the ranch - the hangar, brahmin corral or paddock with slaves. The more losses you arrange, the better.}
