@@ -30,7 +30,7 @@
 {148}{}{Tell me about yourself.}
 {149}{}{I guess that's all I wanted to know.}
 
-{150}{}{Our ancestors, those who founded the Winds of War, called themselves that. They were military, they served the United States. At least that's what we were told. We don't know for sure. General Wesker believes in the rebirth of the country, so he tries to keep the spirit of the nation alive. And sometimes it even looks silly.}
+{150}{}{Our ancestors, those who founded the Winds of War, called themselves that. They were military, they served the United States. At least that's what we were told. We don't know for sure. General Wesker believes in the rebirth of the country, so he tries to keep the spirit of the nation alive. And sometimes it ends up looking silly.}
 {151}{}{The bulk of the population are direct descendants of people from the local vault. Our ancestors survived the Great War underground, and when it became impossible to live there, they went outside and established a settlement on the ruins of the old city of Pahrump. Then, gradually, wasteland wanderers  began to visit, but not many of them were allowed to join. Seeing the people from the outside world, the general was horrified... and fenced off the area. Now random people are not allowed here.}
 {152}{}{In fact, there are three types of people. First, the military. They protect us, explore the area around and engage in major hunts. Second, those, who sit in the office and do the brainwork. And finally, the commoners, such as myself, whose destiny is to cook porridge, iron clothing and maintain the housing.}
 {153}{}{Vault? Where is it?}
@@ -42,26 +42,26 @@
 {163}{}{What's stopping you from leaving the settlement?}
 {164}{}{Then tell me more about the place.}
 
-{170}{}{Oh, this is my first and only love! Before I always thought only about myself until I met her. She lives in the house nearby.}
-{171}{}{Hmm. Can I trust you? Because I'm a wanderer like you... You know, it's not so bad here, if you find common ground with the "purebred" population. And I used to live in a different environment... But who am I kidding? Me, as a "half-breed" here have no respect, I'm not even allowed to have a family. But I'd be a good husband, damn it!}
-{172}{}{Eh... Actually I can leave at any time. But they won't let Jessica do the same. Moreover, they even forbid me to talk to her! After I've proposed to her, her brothers called me a half-breed and kicked out of the house. And without her I see no reason to leave.}
+{170}{}{Oh, she is my first and only love! I used to think only about myself...until I met her. She lives in the house nearby.}
+{171}{}{Hmm. Can I trust you? Because I'm a wanderer like you... You know, it's not so bad here, if you find common ground with the "purebred" population. I used to live in a different environment... But who am I kidding? Me, as a "half-breed" here can't get no respect, I'm not even allowed to have a family. But I'd be a good husband, damn it!}
+{172}{}{Eh... Actually I can leave at any time. But they won't let Jessica do the same. They even forbid me from talking to her! After I proposed to her, her brothers called me a half-breed and kicked me out of the house. Without her I see no reason to leave.}
 
 {173}{}{Whoa! What's the problem, Romeo? Run out of the settlement together!}
-{174}{}{Are you serious? Damn, I thought about it so many times. Do you really think that it would be wise?}
-{175}{}{Hell yes! Ignore the brothers, do what you both want! Who are they to decide for you?}
+{174}{}{Are you serious? Damn, I thought about that so many times. Do you really think that that would work?}
+{175}{}{Hell yes! Ignore her brothers, do what you both want! Who are they to decide for you?}
 {176}{}{You know, that's not so smart. The wasteland is dangerous, at least here you are protected.}
 
 #Get the quest
 {177}{}{[Sighs] That's right. Well, thanks for the visit.}
 {178}{}{Yeah, don't worry! I'm kidding. In fact, I think you must escape!}
 {179}{}{Yeah, bye.}
-{180}{}{Yes! Yes!! Thank you, friend! For the support and all. All that's left is to come up with a plan. I have been thinking about us running away together for a very long time, but it's not an easy thing to do.}
+{180}{}{Yes! Yes!! Thank you, friend! For helping us escape. All that's left is to come up with a plan. I have been thinking about us running away together for a very long time, but it's easier said than done.}
 {181}{}{I'll help. What do you need?}
 {182}{}{Well, figure it out yourself. I have other things to do.}
 
 {183}{}{So the brothers keep Jessica locked up and don't let her out unsupervised. The only way to escape is at night, when they are asleep. But there is a problem - only the brothers have the keys to the door.}
 {184}{}{So, you need to get the keys to the door?}
-{185}{}{But keep in mind, they shouldn't suspect anything. If both brothers lose their keys, it will make them suspicious, but if they lose only one of them, they may blame the loss to their own carelessness, or so I think.}
+{185}{}{But keep in mind, they shouldn't suspect anything. If both brothers lose their keys, it will make them suspicious, but if they lose only one of them, they should blame the loss to their own carelessness...I think.}
 {186}{}{All right. I'll see what I can do.}
 
 {190}{}{There you are, friend. How's it going?}
