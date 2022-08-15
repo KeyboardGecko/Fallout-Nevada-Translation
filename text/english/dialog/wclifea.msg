@@ -111,8 +111,8 @@
 {228}{}{That's fine with me. Well, then hold the rope.}
 {229}{}{Sorry, but no. I'll be back if I change my mind.}
 
-{230}{}{That's enough. Now there is only one thing left to do. We must run at night, or we will be easily spotted and caught. But the barricades north of Jessica's house are lit by a street lamp. I'm afraid someone will have to stay and cut the power while we get to the other side.}
-{231}{}{Ha, don't pretend that you've just realized this, I see when the emotions are staged. Well, I got the hint. I will be the switch that turns the electricity off. Who else but me!}
+{230}{}{That's enough. Now there is only one thing left to do. We must make our run at night, or we'll be easily spotted and caught. But the barricades north of Jessica's house are lit by a street lamp. I'm afraid someone will have to stay and cut the power while we get to the other side.}
+{231}{}{Ha, don't pretend that you just thought of this, I can see your ham-fisted acting. Alright, I got the hint. I'll be your electrical switch flipper. Who else but me!}
 {232}{}{Look for another fool, I did my job. I'm outta here.}
 
 {233}{}{Well, then it's time to get to it! All you need to do is wait until night and turn off the lighting on the street.}
@@ -120,7 +120,7 @@
 {235}{}{Probably, but I'm not ready yet. You will have to wait.}
 
 {236}{}{You haven't changed your mind yet?}
-{237}{}{I will be the switch that turns the electricity off. Who else but me!}
+{237}{}{I'll be your electrical switch flipper. Who else but me!}
 {238}{}{Unfortunately for you - I'll pass.}
 
 {239}{}{}
