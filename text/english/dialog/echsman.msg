@@ -1,7 +1,7 @@
 {100}{}{You see head of the family.}
 {101}{}{You see a man. He looks grim to the point of harshness.}
 
-#Первый разговор
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {110}{}{[His speech is nervous and disorganized, but his hands are steady on his shotgun] No sudden movements, stranger. Keep your hands where I can see them.}
 {111}{}{Hey, easy! My hands are right here, see? Far from any weapons. Why don't you do the same?}
 {112}{}{I suggest we each go our own ways, there's enough wasteland for everyone.}
@@ -27,13 +27,13 @@
 {127}{}{Yes, you're right, we got to live in the present. You were saying something about some problems... }
 {128}{}{Yeah, let's wish each other luck for now.}
 
-#Повторный старт диалога
+#ГЏГ®ГўГІГ®Г°Г­Г»Г© Г±ГІГ Г°ГІ Г¤ГЁГ Г«Г®ГЈГ 
 {129}{}{You again?}
 {130}{}{I just thought you could use some help. Am I right?}
 {131}{}{You got me wondering about where you came from.}
 {132}{}{Let's talk later.}
 
-#История убежища 53
+#Г€Г±ГІГ®Г°ГЁГї ГіГЎГҐГ¦ГЁГ№Г  53
 {148}{}{Nothing really good about this story... When the war began, our evacuation went smoothly, but that's the end of the good news. I don't know who built Vault 53, but they definitely weren't fans of their job. All the equipment was constantly failing. One day, the door mechanism malfunctions, so we listen to the Geiger counter like a fucking radio; the next day, the water chip malfunctions, so the water's mixed with I-don't-even-want-to-know-what... It went on and on. And because of the "innovative" power supply system, a part of the Vault had to be cut off completely.}
 {149}{}{[-more-]}
 {150}{}{The failures hit us like fucking clockwork - every month there was at least one. It wasn't just a bad luck. We were placed under those conditions intentionally, whatever the goal might have been. But if they expected panic and disorder from us, boy were they wrong. Diseases, depression and menacing death only brought us closer together. The survivors finally had enough of that shit and decided to leave the Vault. After passing through the irradiated ruins of a big city we found an old car park, where we created a new settlement... Wow, you're still listening?}
@@ -45,8 +45,8 @@
 {155}{}{Well, I'm definitely postponing my trip to those parts for now. In the meantime, do you maybe have some work for me?}
 {156}{}{Not a very inspiring image. See you later.}
 
-#Лейкемия
-{170}{}{[He evidently hesitates before speaking, fidgeting a copper cross on his neck] Ahh, what the hell... At this point, I'll try anything. Do you know what leukemia is?}
+#Г‹ГҐГ©ГЄГҐГ¬ГЁГї
+{170}{}{[He hesitates before speaking, fidgeting with a copper cross on his neck] Ahh, what the hell... At this point, I'll try anything. Do you know what leukemia is?}
 {171}{}{Blood cancer - a lymphoblastic disease of the circulatory system. Is this what you're talking about?}
 {172}{}{Err... Yeah, sounds familiar.}
 
@@ -67,7 +67,7 @@
 {184}{}{You got }
 {185}{}{ bucks as reward.}
 
-#Мини-квесты
+#ГЊГЁГ­ГЁ-ГЄГўГҐГ±ГІГ»
 {200}{}{We're running out of water, my wife is trying to cook something edible from odds and ends... Also, I think my shotgun might have some issues with its shell feeder or something. And this rattletrap's engine is giving me hell again. After living in that damn Vault, I'm constantly checking all our equipment, but I just don't have the skills... I'm a doctor, not an engineer.}
 {201}{}{I got water as pure as a mountain brook. Let's barter.}
 {202}{}{I could have a look at your gun. What do you think, doc?}
