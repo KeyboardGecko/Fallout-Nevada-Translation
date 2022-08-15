@@ -130,7 +130,7 @@
 {360}{}{Radio?... No, I do not know.}
 {361}{}{You're lying! Take me to it! Now!}
 {362}{}{Another question then.}
-{363}{}{Fine. I’ll come back.}
+{363}{}{Fine. I'll come back.}
 
 {364}{}{You're in the land of our ancestors, in my house... And you dare to threaten me! May the wrath of the Ruler of Life be upon you!}
 {365}{}{Have it your way. I'll go through your villagers one by one until somebody shows me where it is. You'll have plenty of people giving your "place of healing" its proper respect then.}
