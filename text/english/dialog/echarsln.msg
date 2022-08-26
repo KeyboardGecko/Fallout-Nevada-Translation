@@ -4,7 +4,7 @@
 {102}{}{[When you look around the corner, you suddenly stumble upon the ghoul, dressed in a shabby robe with the Nuka-Cola company logo on it. When he sees you he immediately grabs his weapon, but you manage to step back into shadow just in time.]}
 {103}{}{[Next]}
 
-{104}{}{Hey, you scrounger! Come out! Maybe then your death is going to be quick and quiet. Although, I can't promise that!}
+{104}{}{Hey, you scrounger! Come out! I'll make it quick and quiet. Though I ain't makin' any promises!}
 {105}{}{Don't rush things, handsome... Harrelson, right?}
 {106}{}{You are the scrounger here!}
 {107}{}{[Go out and get into the fight]}
