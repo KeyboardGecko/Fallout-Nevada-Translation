@@ -22,7 +22,7 @@
 {116}{}{Then stop talking!}
 {117}{}{Who's crazy?! You jump in front of a gun, knowing in advance how it's going to end, and I... I'm defending my home!}
 {118}{}{You may have protected your belongings, but at the cost of the lives of ordinary prospectors. What about your conscience, doesn't it torment you?}
-{119}{}{Tell me, where did you get all these things? Took it off corpses?}
+{119}{}{Tell me, where did you get all this stuff? Take it off corpses?}
 {120}{}{Aren't those too many words for a creature who has lost his human form?}
 {121}{}{So you only care about your things and don't give a damn about others?}
 {122}{}{I'm getting tired of it. I want to end you once and for all.}
@@ -31,19 +31,19 @@
 {124}{}{Nuclear explosions? Does it mean you witnessed the Great War?}
 {125}{}{People got what they deserved. When I was delivering bottles, no one recognized me as a human being. Only when I went outside the big city did I manage to find peace in my car. When I saw the flashes... I was filled with joy. I thought I was the only person left in the world... Until bastards like you showed up! They came after me, wanted to take my supplies, wanted to kill me! No, I don't feel guilty about killing animals. And people are animals!}
 {126}{}{I think you just had bad luck with people, which made you angry at the whole world.}
-{127}{}{[Pause] Shut up and get where I can see you. My past will soon cease to worry you. As I said - people are animals. They are not worthy to be called human beings anymore.}
+{127}{}{[Pause] Shut up and get where I can see you. My past will soon cease to worry you. As I said - people are animals. They are not worthy to be called human anymore.}
 
-{128}{}{A small compensation for the inconveniences caused to me. It is only fair.}
+{128}{}{A small compensation for the inconveniences caused to me. It's only fair.}
 {129}{}{So why all these sacrifices? Your seclusion and rumors of bloody violence just attracts more attention to you. Everyone thinks that you have untold riches here.}
 {130}{}{That's what they think about me? That is to be expected. You, animals, smell money like flies smell rotten meat. Am I not right? Would swatting a fly make the world worse?}
 {131}{}{Such an interesting comparison. But the prospectors were just looking for a way to survive... Such times.}
-{132}{}{You still have the guts to talk about it, you monkey? It's just what these animals do. They take lives of their own kind to feed themselves. But, yeah... Such times... Such world. [remembering something from his past he dramatically raises his voice] But before the War it was just the same! People didn't kill each other like now, but bullied each other at school, bullied the weak ones in the army... People hasn't changed a bit.}
-{133}{}{Greed and ego - that's what you talking about, I get it. However, do you treat people differently?}
+{132}{}{You still have the guts to talk about it, you monkey? It's just what these animals do. They take the lives of their own to feed themselves. But, yeah... These days... In this world... [remembering something from his past he dramatically raises his voice] But before the War it was just the same! People didn't kill each other like now, but bullied each other at school, bullied the weak ones in the army... People haven't changed a bit.}
+{133}{}{Greed and ego - that's what you're talking about, I get it. But do you treat people differently?}
 {134}{}{Shut up! Shut up! I'm tired of your nonsense. Come out and meet your fate, you thieving brat!}
 
-{135}{}{Oh, you're not the only thief that I had a chance to talk to... But I'll enjoy our conversation more when [he raises his voice] you'll be in a cage with your guts ripped out!!!}
+{135}{}{Oh, you're not the only thief that I had a chance to talk to... But I'll enjoy our conversation more when [he raises his voice] you're in a cage with your guts ripped out!!!}
 {136}{}{That's harsh.}
-{137}{}{You know, you pretend to be a kind son of a bitch, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. When you are grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
+{137}{}{You know, you pretend to be a kind son of a bitch, but if you get pinned down to a wall with a sharp blade at your throat, what would you say? Yeah, I've seen all this bullshit before the War. When you're grabbed by the throat, your whole essence will come out. And, believe me, it stinks no better than a piece of human shit.}
 {138}{}{I think there's more to my essence than this.}
 {139}{}{Come out and we will see. You're neither the first, nor last. However, I like you. With you I'm gonna have a "conversation" longer than usual.}
 
