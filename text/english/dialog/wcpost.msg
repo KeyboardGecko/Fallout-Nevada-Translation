@@ -49,7 +49,7 @@
 {146}{}{Grr...}
 {147}{}{Oh... Well, then I'll let you through. But we have to check your belongings for dangerous objects.}
 {148}{}{Okay, thanks.}
-{149}{}{It's forbidden to bring drugs and alcohol in here. Keep the weapon in the holster. If we'll see you armed... Blame yourself. All clear? About Wesker: up the street until it ends, then enter the building on the right.}
+{149}{}{It's forbidden to bring drugs and alcohol in here. Keep the weapon in the holster. If we catch you armed... Blame yourself. Clear? About Wesker: Up the street until it ends, then enter the building on the right.}
 {150}{}{Then check.}
 {151}{}{No way!}
 {152}{}{}
