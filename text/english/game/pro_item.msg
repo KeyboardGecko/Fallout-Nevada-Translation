@@ -564,7 +564,7 @@
 {28700}{}{Scoped Hunting Rifle}
 {28701}{}{Nothing's better than seeing that surprised look on your target's face. The Loophole x20 Scope on this hunting rifle makes it easier than ever before. Accurate from first shot to last, no matter what kind of game you're gunning for. Min. ST: 5.}
 {28800}{}{Generator fuel}
-{28801}{}{Powerful source of energy used in electrical generators Wattz Electronics. If you find an exhausted generator, then this thing will be irreplaceable.}
+{28801}{}{Powerful energy source used in Wattz Electronics electrical generators. If you find an exhausted generator, then this thing will be invaluable.}
 {28900}{}{Shovel}
 {28901}{}{This is a shovel for digging ditches and stuff.}
 {29000}{}{Robo Melee Weapon 1}
@@ -1492,7 +1492,7 @@
 {77701}{}{Apparently, this corpse will remain lying under the sun, if someone does not bury it, following local customs.}
 {77800}{}{Caravan merchant's corpse}
 {77900}{}{Gauss pistol PPK5}
-{77901}{}{Early model of handgun, based on a principle of electromagnetic acceleration. Shortly after its release, more advanced models were developed, so PPK5 quickly went out of use. Min. ST: 4.}
+{77901}{}{Early model handgun whose firing method is based on the principle of electromagnetic acceleration. Shortly after its release more advanced models were developed, so the PPK5 quickly went out of use. Min. ST: 4.}
 {78000}{}{Recipe: "Stimpak"}
 {78001}{}{Recipe for making stimpak and a super stimpak.}
 {78100}{}{Recipe: "Doctor's Bag"}
