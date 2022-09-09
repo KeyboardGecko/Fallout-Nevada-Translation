@@ -9,9 +9,9 @@
 {111}{}{Select the directory.}
 {112}{}{"Our enemies"}
 {113}{}{Local disposition.}
-{114}{}{Archive of the engineering service.}
-{115}{}{Reports of the prison warden.}
-{116}{}{The order for search of the Constitution.}
+{114}{}{Engineering service archive .}
+{115}{}{Prison warden reports .}
+{116}{}{An order to search for the Constitution.}
 {117}{}{Works on the tracking system creation.}
 {118}{}{}
 {119}{}{[End session]}
@@ -24,30 +24,30 @@
 {132}{}{Read about tarantulas.}
 {133}{}{Read about aliens.}
 {134}{}{The bands of raiders and other bandits with whom Wind of War fight for influence over the region are usually small, from 5 to 15 men. Some bandits hold power over small settlements, whose inhabitants are tired of their oppression and ask for help.}
-{135}{}{Predatory mutants of enormous size, living in dark damp places underground. Usually they come to the surface at night. Occasionally, their raids bring casualties among Wind of War's population, but more often - among outsiders and merchants, staying in the suburbs. The creatures are intensively fought by Wind of War forces, but their numbers seems to be recovering after each encounter. It is noticed that the highest activity of the mutants observed in the area of the destroyed local vault, but with each next year they are encountered further from it.}
-{136}{}{Predatory mutants with infrared vision. Like tarantulas, they do not like the sunlight, preferring to come to the surface at night and sleep during the day in dark caves. It is known for sure that the main nest of aliens is a military base to the north, the so-called "Area 51".}
+{135}{}{Predatory mutants of enormous size, living in dark damp places underground. These mutants usually come to the surface at night. Occasionally their raids result in casualties among Wind of War's population, but more often among outsiders and merchants staying in the suburbs. The creatures are fought intensively by Wind of War forces, but they seem to recover their numbers after each encounter. The highest area of activity for the mutants was observed in the around the destroyed local vault, but with each passing year they are encountered farther from it.}
+{136}{}{Predatory mutants with infrared vision. Like tarantulas, they do not like the sunlight, preferring to come to the surface at night and sleep in dark caves during the day. The main nest of aliens was verified to be a military base to the north, so-called "Area 51".}
 
 #Disposition
-{137}{}{Around the Wind of War, mostly along the slopes, there are small settlements, usually of two or three families, which are not of interest. To the north, the military base called "Area 51" is located. To the west - the "Hawthorne" military base. Among other geographical locations is a vault in the mountains to the northwest. Apparently, this is the vault from which the local population came.}
+{137}{}{Around the Wind of War, mostly along the slopes, there are small settlements, usually of two or three families, which are of no interest. The military base called "Area 51" is located to the north. To the west - the "Hawthorne" military base. Among other geographical locations is a vault in the mountains to the northwest. Apparently, this is the vault from which the local population arrived.}
 {138}{}{Record the coordinates of the vault and go to the area.}
 {139}{}{Record the coordinates of the Area 51 base.}
 {140}{}{Write down the coordinates of Hawthorne.}
 {141}{}{Coordinates are listed in your Pip-Boy.}
 
 {142}{}{The "Super 8" incident.}
-{143}{}{The incident occurred during the transportation of the dangerous cargo designated as "Super 8". The contents of the cargo are not disclosed in documents. It is known that due to the "oversight of the convoy" cargo disappeared and the convoy was killed. Soon came a report about the disappearance of residents of a small village nearby. The remains of their bodies were found in the caves not far off. It is not clear how these events are connected, but one thing is almost certain - the "Super 8" is not an ordinary cargo.}
+{143}{}{This incident occurred during the transportation of some dangerous cargo designated "Super 8". The contents of the cargo are not disclosed in the documents, but it is known that due to some "oversight of the convoy" the cargo disappeared and the convoy was killed. Soon after the residents of a small nearby village were reported to have also disappeared. The remains of their bodies were found in some caves not far off. It is not clear how these events are connected, but one thing is almost certain - this "Super 8" is no ordinary cargo.}
 
 #Reports of the warden
-{150}{}{The Wind of War is not alien to punitive measures. Many raiders and other criminals were executed here, to serve as a lesson to the residents of the Southern Nevada.}
-{151}{}{Look the report on current inmates.}
+{150}{}{The Wind of War is no stranger to punitive measures. Many raiders and other criminals were executed here, to serve as a lesson to the residents of Southern Nevada.}
+{151}{}{Look at the report on current inmates.}
 {152}{}{Sam Riley, 24 years, male, resident of Las Vegas. The order of execution: cut off the hands, feet, hang on a fence, alive. Cause of the execution: received information from our secret agent in Vegas about the intentions of the prisoner - he was engaged in espionage on behalf of one of the reputable inhabitants of the city. The command, as usual, chose the simplest way - to eliminate the enemy spy.}
 
 #Constitution
-{160}{}{It seems that the high command of the base really believes in the Old America and its values. For example, the order to caravans was made, about the delivery of a copy of Constitution from the museum in Reno, along with US flags, posters, and various military paraphernalia of the pre-war USA. It is difficult to say if it's worth the efforts.}
+{160}{}{It seems that the base high command really believes in the Old America and its values. For example, a caravan order was made to deliver of a copy of the Constitution from the museum in Reno, along with US flags, posters, and various military paraphernalia from pre-war USA. It's difficult to say if it was worth the efforts.}
 
 #Blueprints
-{170}{}{The computer gave a list of various blueprints, specifications and other technical documentation. Most of them useless to you, but something interesting can be selected.}
-{171}{}{[Look for the power armor blueprints]}
+{170}{}{The computer returns a list of various blueprints, specifications and other technical documentation. Most of them are useless to you, but something interesting can be selected.}
+{171}{}{[Look at the power armor blueprints]}
 {172}{}{Database contains only blueprints of the frame structure. There are no blueprints of the internal modules of the armor.}
 {173}{}{[Go back]}
 
