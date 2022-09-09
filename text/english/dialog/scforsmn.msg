@@ -5,7 +5,7 @@
 
 #############################################################################
 #
-#           Диалог
+#           Г„ГЁГ Г«Г®ГЈ
 #
 #############################################################################
 
@@ -19,7 +19,7 @@
 {120}{}{How's the gang?}
 {121}{}{Right now? It's been pretty boring lately. Outside of fucking around with the locals, all we do is sit around playing poker.}
 
-#О себе
+#ГЋ Г±ГҐГЎГҐ
 {122}{}{Tell me about yourself. How did you end up in the gang?}
 {123}{}{Me? [he chuckles] It wasn't my first choice, let me tell you. Back in Reno, I was known as one hell of a gambler. One day I was a little *too* good and ended up with a bounty on my head. I figured that the only way to survive at that point would be to join a gang.}
 {124}{}{What's your job here? You don't really look like a raider.}
@@ -31,12 +31,12 @@
 
 #############################################################################
 #
-#           Радиостанция
+#           ГђГ Г¤ГЁГ®Г±ГІГ Г­Г¶ГЁГї
 #
 #############################################################################
 
 {130}{}{There should be a radio station around here. Have you heard anything about that?}
-{131}{}{[He stops shuffling the cards and looks at you out of the corner of his eye] Radio... What? Dunno. If it's here, it's pretty hard to find. Around us are only ruins, besides that camp to the south.}
+{131}{}{[He stops shuffling and looks at you out of the corner of his eye] Radio... What? Dunno. If it's here, it's pretty hard to find. Only ruins around us, besides that camp to the south.}
 {132}{}{Would 300 dollars jog your memory?}
 {133}{}{Oh yeah, it's all coming back now. Give me the money and I might just remember enough to take you to where you need.}
 {134}{}{Take it. Now, where's the station?}
@@ -45,11 +45,11 @@
 
 #############################################################################
 #
-#           Вещи Нискигвана
+#           Г‚ГҐГ№ГЁ ГЌГЁГ±ГЄГЁГЈГўГ Г­Г 
 #
 #############################################################################
 
-#Начало разговора
+#ГЌГ Г·Г Г«Г® Г°Г Г§ГЈГ®ГўГ®Г°Г 
 {140}{}{The healer from the tribe said someone took his things. Do you know anything about that?}
 {141}{}{Yeah, that was me. I was bored. [he raises an eyebrow] Why?}
 
@@ -65,7 +65,7 @@
 {158}{}{[He leans forward] Oooh, aren't we businesslike! I think I'm gonna like having you around here.}
 {159}{}{What do you want for it?}
 
-#Выбор решения
+#Г‚Г»ГЎГ®Г° Г°ГҐГёГҐГ­ГЁГї
 {160}{}{Hmm! [he rubs his chin exaggeratedly] Let me think! I've got a lot of options here. I want money. I want to gamble. I want to fuck. What do you have to offer?}
 {161}{}{I'll pay you }
 {162}{}{ dollars for it.}
@@ -74,12 +74,12 @@
 {165}{}{I won't offer anything.}
 {166}{}{Let me think. I'll come back when I make up my mind.}
 
-#Оплата деньгами
+#ГЋГЇГ«Г ГІГ  Г¤ГҐГ­ГјГЈГ Г¬ГЁ
 {167}{}{Sounds good to me. When you get that money, come back here.}
 {168}{}{What else were you interested in, again?}
 {169}{}{[He pockets the money and gives you the healer's things] Not bad. I didn't even think I'd get anything out of that crap.}
 
-#Отработка сексом
+#ГЋГІГ°Г ГЎГ®ГІГЄГ  Г±ГҐГЄГ±Г®Г¬
 {170}{}{[He sneers in disgust] What are you, kidding? I'd rather fuck one of the scorpions outside.}
 {171}{}{Fuck you... }
 {172}{}{Suit yourself.}
@@ -98,14 +98,14 @@
 
 {185}{}{After some rough, wild, and very loud sex, you get the healer's things.}
 
-#Выиграть рюкзак знахаря:
+#Г‚Г»ГЁГЈГ°Г ГІГј Г°ГѕГЄГ§Г ГЄ Г§Г­Г ГµГ Г°Гї:
 {190}{}{I usually play for money. I won't go below 100 bucks. What do you say?}
 {191}{}{I'll bet 100 bucks.}
 {192}{}{I don't want to play.}
 
 #############################################################################
 #
-#           Игра
+#           Г€ГЈГ°Г 
 #
 #############################################################################
 
@@ -140,7 +140,7 @@
 {236}{}{[The game is all but finished. Time to count the points.]}
 {237}{}{[Show your cards.]}
 
-#конец игры
+#ГЄГ®Г­ГҐГ¶ ГЁГЈГ°Г»
 {240}{}{God fucking damn it! [he throws the bet down on the table]}
 {241}{}{You want to play again?}
 {242}{}{How dare you yell at me! I'm going to teach you some manners. [Attack]}
