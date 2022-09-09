@@ -34,7 +34,7 @@
 {132}{}{[You bring required quantity of Nuka-Cola from warehouse to the cafe.] }
 
 {133}{}{Have you thought about my offer? It is still stands.}
-{134}{}{Remind me, what have you asked for in return?}
+{134}{}{Remind me, what did you want in exchange?}
 {135}{}{No, not yet.}
 {136}{}{Choose - I can sell the thing for 500$ or trade for 10 pizzas from the Phillips' cafe.}
 
