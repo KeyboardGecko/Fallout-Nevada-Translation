@@ -1,18 +1,18 @@
 {100}{}{You see: Sergeant Stark.}
 {101}{}{You see Sergeant Stark, the head of the south patrolling sector.}
 
-#Начало диалога
+#ГЌГ Г·Г Г«Г® Г¤ГЁГ Г«Г®ГЈГ 
 {110}{}{Yes, citizen }
 {111}{}{Yes, citizen }
 {112}{}{? Looking for something to do?}
 {113}{}{I'll think about it. Take care.}
 
-#Выход из диалога
+#Г‚Г»ГµГ®Г¤ ГЁГ§ Г¤ГЁГ Г«Г®ГЈГ 
 {120}{}{Long live Vault City!}
 {121}{}{Yeah, uh, long live Vault City, officer!}
 {122}{}{If you say so, officer.}
 
-#О патрулях
+#ГЋ ГЇГ ГІГ°ГіГ«ГїГµ
 {200}{}{Excuse me, but what are you doing here?}
 
 {201}{}{I command the south sector patrols. But right now, I'm off duty.}
@@ -25,10 +25,10 @@
 {208}{}{I have another question.}
 {209}{}{Thanks, that will be all.}
 
-{210}{}{The patrols keep watch of the local area. The mountains make it easy for us to see and not be seen. Anything we find, we record in our databases.}
+{210}{}{The patrols keep watch on the local area. The mountains make it easy for us to see and not be seen. Anything we find, we record in our databases.}
 {211}{}{It's mostly uninhabitable, so outsiders or wild animals are rare. We know of two settlements, Gerlach and Black Rock, but I can't tell you much about them. We've always kept our distance.}
 {212}{}{Of course! Most of them are psychos. Stay away from anyone in the wastes. Only talk to people in communities - they're usually safer and more civilized.}
-{213}{}{We keep them away from the city. Usually we just gather tabs on where they're going, but, if necessary, we'll stop them and turn them around. With our weapons and armor, not many try to argue. The rest can be scared off with a few warning shots.}
+{213}{}{We keep them away from the city. Usually we just keep tabs on where they're going, but if necessary we'll stop them and turn them around. With our weapons and armor not many try to argue. The rest can be scared off with a few warning shots.}
 
 {214}{}{Can you show me where Gerlach is on the map?}
 {215}{}{Hmm... I have another proposition, if you're interested.}
@@ -47,7 +47,7 @@
 {227}{}{}
 {228}{}{}
 
-#О Гарольде
+#ГЋ ГѓГ Г°Г®Г«ГјГ¤ГҐ
 {230}{}{Have you seen that green man in the cell?}
 {231}{}{That walking corpse? When we captured him, he was driving a caravan. I've never seen anything so disgusting. If that's what the wastes are turning into, then we'd better be more careful with outsiders.}
 {232}{}{Right.}
@@ -56,7 +56,7 @@
 {251}{}{My best piece of advice is to stay away from the highways. It might take longer, going off-road, but it'll be safer. Less chance of meeting outsiders that way.}
 {252}{}{Well, it's better than nothing, so thanks.}
 
-#Исследование Джерлака
+#Г€Г±Г±Г«ГҐГ¤Г®ГўГ Г­ГЁГҐ Г„Г¦ГҐГ°Г«Г ГЄГ 
 {300}{}{We need someone that can get intelligence on Gerlach without raising suspicion. You're just the right one for the job.}
 {301}{}{Go to Gerlach and come back? No problem!}
 {302}{}{No, you'll have to do that without me.}
@@ -80,7 +80,7 @@
 {316}{}{They're a strong-willed community with strict laws.}
 {317}{}{I'm afraid, no. I'll tell if I learn anything.}
 
-#Отравление Джерлака
+#ГЋГІГ°Г ГўГ«ГҐГ­ГЁГҐ Г„Г¦ГҐГ°Г«Г ГЄГ 
 {318}{}{Can't say I'm surprised. We can't allow such wild and miserable brutes near our city! We need to... Take care of them, for our own safety.}
 {319}{}{But how?}
 {320}{}{I don't want to be a part of this.}
@@ -118,7 +118,7 @@
 {343}{}{It is done, for once and for all. Vault City can sleep safely at night.}
 {344}{}{It is done. Let's hope that's the last we hear about them.}
 
-#Переселение Джерлака
+#ГЏГҐГ°ГҐГ±ГҐГ«ГҐГ­ГЁГҐ Г„Г¦ГҐГ°Г«Г ГЄГ 
 {350}{}{Really? Hmm... Now that I think about it, that's not so surprising. They try to live as a small, tight-knit community. Maybe that's why they left big cities. Maybe we should get acquainted more closely.}
 {351}{}{More closely? What do you mean?}
 {352}{}{I'll let you handle that without me.}
