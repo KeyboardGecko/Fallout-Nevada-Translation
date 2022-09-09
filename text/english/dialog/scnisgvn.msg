@@ -127,7 +127,7 @@
 #
 #########################################################
 
-{360}{}{Radio?... No, I do not know.}
+{360}{}{Radio?... No, I don't know.}
 {361}{}{You're lying! Take me to it! Now!}
 {362}{}{Another question then.}
 {363}{}{Fine. I'll come back.}
