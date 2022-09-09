@@ -42,7 +42,7 @@
 ####################################################################
 
 {135}{}{Do you have *special* weapons for a *special* price?}
-{136}{}{Heh... Funny. All the *special* weaponry is stocked in the base warehouses, and here is only the most primitive one. Our boss is no fool, he realizes that sold weapons could be used directly against us, so it's the other way around - that's him who is buying "special weapons for special prices". Got it?}
+{136}{}{Heh... Funny. All the *special* weaponry is stocked in the base warehouses, here we have only the most primitive weapons. Our boss is no fool, he realizes that sold weapons could be used directly against us, so it's the other way around - it's him who is buying "special weapons for special prices". Got it?}
 {137}{}{As if you can't take something from the warehouse. [wink]}
 {138}{}{Okay.}
 {139}{}{Well... I can [leans towards you and lowers his voice] get some plasma grenades. Small loss, no one will notice. And as for the rest - I'll pass. It is dangerous.}
