@@ -1,13 +1,13 @@
 {100}{}{You see Bobby.}
 {101}{}{You see old pal Bobby.}
 
-{110}{}{Hello, stranger! Be my guest. Everyone is always in a hurry, running somewhere... Are you one of them? Why don't you stay for a chat with an old man? Time flows slowly, telling interesting stories, but are you ready for them?}
+{110}{}{Hello, stranger! Be my guest. Everyone is always in a hurry, running somewhere... Are you in a hurry too? Why don't you stay for a chat with an old man? Time flows slowly, telling interesting stories, but are you ready for them?}
 {111}{}{Only smoke goes to the sky irrevocably, but a man is free to choose his path in any direction... Would you like a story about that?}
 {112}{}{Uh, okay, I'll listen.}
 {113}{}{And you seem to be an expert on wasteland weed? This is going to be fun.}
-{114}{}{Wow, easy! I only here to look around. Don't strain yourself too soon.}
+{114}{}{Wow, easy! I'm only here to look around. Don't strain yourself too hard.}
 
-{115}{}{Anyway, there were two brothers. Their names were... Well, let's say Dick and Tom. One of them named Tom was always helping the closest... or even distant. He was a humble man at heart, unique. And his brother couldn't resist taking advantage of someone. He sued his own mother for money that belonged to her.}
+{115}{}{Anyway, there were two brothers. Their names were... Well, let's say Dick and Tom. One of them, Tom, was always helping the poorest... or even richest. He was a humble man at heart, unique. And his brother couldn't resist taking advantage of someone. He even conned his own mother out of her money.}
 {116}{}{[Next]}
 {117}{}{And then came the day, when God, as many believed, gave everyone what they deserved. Tommy, who had driven a crowd of clowns to their circus, was eaten by those same clowns, even without salt and pepper... But Dick died, too. In his sleep. After earning his way to the pharmaceutical warehouse and amassing wealth through skillful speculation. That's the story.}
 {118}{}{Tell me it's just a fiction. I really need to hear it from you. Hey, I'm talking to you!}
@@ -40,7 +40,7 @@
 {141}{}{Whatever is hiding around the corner had better run in fear. Be healthy, don't smoke too much.}
 {142}{}{Thank you, the wisest one, for the opportunity to joint to the source knowledge. Well, I need to go.}
 
-#Ñëó÷àéíûå ôðàçû
+#Ã‘Ã«Ã³Ã·Ã Ã©Ã­Ã»Ã¥ Ã´Ã°Ã Ã§Ã»
 {150}{}{Why didn't anyone think of selling empty cigs?}
 {151}{}{In this wilderness, there's no one to smoke a joint with...}
 {152}{}{Life is way simpler than everyone thinks.}
@@ -49,7 +49,7 @@
 {155}{}{Be happy, for Pete's sake!}
 {156}{}{Don't worry!}
 
-#Æåíñêèå ðåïëèêè
+#Ã†Ã¥Ã­Ã±ÃªÃ¨Ã¥ Ã°Ã¥Ã¯Ã«Ã¨ÃªÃ¨
 {1110}{}{Hello, stranger! Be my guest. Everyone is always in a hurry, running somewhere... Are you one of them? Why don't you stay for a chat with an old man? Time flows slowly, telling interesting stories, but are you ready for them?}
 {1114}{}{Wow, easy! I only here to look around. Don't strain yourself too soon.}
 {1119}{}{Excellent! I was ready for some snotty sermon, and how well you turned it around!}
