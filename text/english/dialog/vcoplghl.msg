@@ -17,7 +17,7 @@
 {117}{}{I'm interested in something else - how about answering some questions?}
 {118}{}{I was just leaving, anyway.}
 
-{119}{}{Questions... [you see a spark of memory in his eyes, and he look distracted for a moment] "I refuse to speak without my lawyer!" [shakes his head] Why did I say that? It just popped into my head... Alright, I don't mind talking a bit. I haven't talked to anyone since the war.}
+{119}{}{Questions... [you see a spark of memory in his eyes, and he looks distracted for a moment] "I refuse to speak without my lawyer!" [shakes his head] Why did I just say that? It just popped into my head... Alright, I don't mind talking a bit. I haven't talked to anyone since the war.}
 {120}{}{Tell me a little about yourself.}
 {121}{}{What is this place?}
 {122}{}{Maybe later.}
@@ -85,13 +85,13 @@
 {179}{}{Well, let's suppose you're not lying. But I still have more questions.}
 {180}{}{Well, if they're gone, then there's nothing to talk about. Bye.}
 
-{181}{}{[His eyes narrow and he goes silent for several seconds] You just had to dig around, hadn't you? [clutches his shotgun] For half a century I saw them every time I closed my eyes. And then you show up, opening old wounds! Don't you at least want to hear my side of the story?}
+{181}{}{[His eyes narrow and he goes silent for several seconds] You just had to dig around, didn't you? [clutches his shotgun] For half a century I saw them every time I closed my eyes. And then you show up, opening old wounds! Don't you at least want to hear my side of the story?}
 {182}{}{You can tell it from ten feet under, you murdering piece of shit! [Attack]}
 {183}{}{Interesting. Don't make any sudden moves, and I'll hear your side of the story.}
 {184}{}{I wouldn't have touched them, but I was in the middle of the desert with no car, no help, and a nuclear war going on! You have no idea what it was like. Look at what it did to me! Eight people, all against me because of that dirty cop and his stories. But I was smarter than all of them. They didn't even know what happened to the world.}
 {185}{}{It sounds like a confession. And I'm the one who will carry out your sentence. [Attack]}
 {186}{}{Go on... }
-{187}{}{I managed to get to Reno. The bombs hadn't touched it, but the people there... It was hell. When I got back to the mine, I hid in a small cave, only coming out at night. When I ran out of food, I snuck into the kitchen through the window... But one of the workers surprised me. I had to deal with him before he could call the others. The second one got too close to my cave, but he wounded me in the fight. I cut off his head and tossed it in the washing machine, and took the medicine I needed while they were distracted. Clever, huh? But on the way back, I tripped over another worker... On and on, until in a week they were all dead. I know what you're thinking. How could I live with myself? Am I even human?... Hmm. I don't know how to answer that.}
+{187}{}{I managed to get to Reno. The bombs hadn't touched it, but the people there... It was hell. When I got back to the mine, I hid in a small cave, only coming out at night. When I ran out of food, I snuck into the kitchen through the window... But one of the workers surprised me. I had to deal with him before he could call the others. The second one got too close to my cave, but he wounded me in the fight. I cut off his head and tossed it in the washing machine, and took the medicine I needed while they were busy. Clever, huh? But on the way back, I tripped over another worker... On and on, until in a week they were all dead. I know what you're thinking. How could I live with myself? Am I even human?... Hmm. I don't know how to answer that.}
 {188}{}{I'd like to see you try.}
 {189}{}{You're going to answer for it, alright. With your blood. [Attack]}
 
