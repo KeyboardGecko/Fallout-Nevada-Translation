@@ -1214,7 +1214,7 @@
 {19123}{}{western wall... Left leg partially skinned...}
 {19124}{}{Multiple bite marks on face, neck, abdominal areas...}
 {19125}{}{Woman... Head missing... Based on the type of wound,}
-{19126}{}{it was probably torn off...}
+{19126}{}{it was probably chopped off...}
 {19127}{}{}
 {19128}{}{Examination...}
 {19129}{}{}
