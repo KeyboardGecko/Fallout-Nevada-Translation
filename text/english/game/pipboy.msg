@@ -1234,16 +1234,16 @@
 {19143}{}{The other side of it covered with impeccable}
 {19144}{}{calligraphic handwriting:]}
 {19145}{}{}
-{19146}{}{"Good day, Sheriff Crouch! Bringing to your}
+{19146}{}{"Good day, Sheriff Crouch! I'm bringing to your}
 {19147}{}{attention, that I, together with detective Hastings,}
-{19148}{}{am going on search for our John Doe. Case file}
+{19148}{}{am going on a search for our John Doe. Case file}
 {19149}{}{records helped us establish his estimated whereabouts}
-{19150}{}{and also the fact, that he probably will soon go}
-{19151}{}{hunting again; we decided not to wait for your}
+{19150}{}{and also the fact that he will probably go}
+{19151}{}{hunting again soon; we decided not to wait for your}
 {19152}{}{squad to return from the Rotten Crag.}
-{19153}{}{I'm assuming you will question loudly:}
-{19154}{}{And why would some priest poke into this business?}
-{19155}{}{(of course, you will use not so gentle expressions}
+{19153}{}{I'm assuming you will be asking loudly:}
+{19154}{}{"Why would some priest poke into this business?"}
+{19155}{}{(of course, you won't use gentle expressions}
 {19156}{}{and won't be as elegant at all).} 
 {19157}{}{Well, what could I say...}
 {19158}{}{That poor man was once my brother-in-faith,}
@@ -1265,9 +1265,9 @@
 {19174}{}{you would need to write a letter, probably the last}
 {19175}{}{one, on a picture of a sinful damsel (not that}
 {19176}{}{attractive too, I must say!) Although, knowing your}
-{19177}{}{tastes, I suppose that would be your most}
-{19178}{}{preferable option. Therefore, if I shall not return}
-{19179}{}{safely, my assistant will impose 10-year penance}
+{19177}{}{tastes, I suppose that would be your prefferred}
+{19178}{}{option. Therefore, if I do not return safely}
+{19179}{}{my assistant will impose a 10-year penance}
 {19180}{}{upon you. So, it's in your best interests to pray}
 {19181}{}{for our success."}
 {19182}{}{**END-DISK**}
