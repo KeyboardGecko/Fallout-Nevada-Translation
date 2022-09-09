@@ -75,7 +75,7 @@ Alexey Trofimov
 ("NOBODY'S NAIL MACHINE")
 
 @Narrator
-Keyboard Gecko
+Neuron P. Erlman
 
 @Narrator of Russian version
 Ivan "Yersinia Pestis" Sullivan
