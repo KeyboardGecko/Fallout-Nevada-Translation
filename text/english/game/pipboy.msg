@@ -1101,7 +1101,7 @@
 {19010}{}{}
 {19011}{}{Today Emily confessed that she took a flower from our}
 {19012}{}{neighbor's garden, Mr. Flowers, without allowance.}
-{19013}{}{Our whole amily gave apologies to}
+{19013}{}{Our whole family gave apologies to}
 {19014}{}{this worthy man, and he favorably accepted it.}
 {19015}{}{As I'm writing this, Emily strenuously prays to our}
 {19016}{}{Lord for forgiveness. She does it voluntarily, as}
@@ -1116,12 +1116,12 @@
 {19025}{}{}
 {19026}{}{Bitter news came to our little town - Mrs. Schultz's}
 {19027}{}{son, major Otto Schultz, perished in the Gilan}
-{19028}{}{province... I will definitely visit this poor sob}
+{19028}{}{province... I will definitely visit this poor SOB}
 {19029}{}{by today's evening.}
-{19030}{}{Hope I could relieve her sorrows and help to}
+{19030}{}{Hope I can relieve her sorrows and help her to}
 {19031}{}{reconcile with our Lord...}
-{19032}{}{Why can't people live in peace? After all, we are}
-{19033}{}{brothers, in the all-seeing eyes of our Father...}
+{19032}{}{Why can't people live in peace? After all we are}
+{19033}{}{brothers in the all-seeing eyes of our Father...}
 {19034}{}{}
 {19035}{}{Day III}
 {19036}{}{}
@@ -1129,8 +1129,8 @@
 {19038}{}{can only recollect in fragments... Alarm sirens, akin}
 {19039}{}{to the trumpets of Jericho... My poor Mary and Emily,}
 {19040}{}{packing their belongings hastily... Stampede...}
-{19041}{}{Elderly couple, trampled by cattle in fear-induced}
-{19042}{}{rage... Pavements, covered in blood... Doors to}
+{19041}{}{Elderly couple, trampled like cattle in a fear-induced}
+{19042}{}{frenzy... Pavements, covered in blood... Doors to}
 {19043}{}{Mr. Flowers' family shelter, which granted asylum to}
 {19044}{}{almost three dozen refugees... But there is one}
 {19045}{}{thing I remember clearly - before the power}
@@ -1180,14 +1180,14 @@
 {19089}{}{Maker, called "radiation" by ignorant fools, to shine}
 {19090}{}{upon this condemned place. The Devil's spawn, disguised}
 {19091}{}{as Mr. Flowers, tried to stop me, but a fire axe in my}
-{19092}{}{hands, like a blazing sword of Archangel, chopped the}
-{19093}{}{squealing messenger of Satan to pieces.}
+{19092}{}{hands, like the blazing sword of an Archangel, chopped}
+{19093}{}{Satan's squealing messenger to pieces.}
 {19094}{}{Oh yes, many of them died by my hand that day...}
 {19095}{}{There is no food left, but with the power of our Lord}
 {19096}{}{I communed with their flesh and blood, which tasted}
 {19097}{}{better than any wine to me...}
 {19098}{}{But Mary, the most important thing! Our sweet and }
-{19099}{}{lovely child is on the way to you!}
+{19099}{}{lovely child is on her way to you!}
 {19100}{}{For some reason, she resisted stubbornly while}
 {19101}{}{I was squeezing the last breath from her mortal flesh...}
 {19102}{}{Maybe I should've cleared the blood from my face}
@@ -1199,7 +1199,7 @@
 {19108}{}{left for me to send to the Pearly Gates of Heaven...}
 {19109}{}{This flesh of mine is changing under the influence of}
 {19110}{}{our Lord, which makes some things...inconvenient...}
-{19111}{}{But I believe - it's all for the best cause!}
+{19111}{}{But I believe - it's all for this holy crusade!}
 {19112}{}{Rejoice, righteous men! Faithless, be frightened!}
 {19113}{}{Because I am coming for you...}
 {19114}{}{}
