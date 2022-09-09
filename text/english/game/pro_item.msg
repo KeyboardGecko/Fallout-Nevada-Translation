@@ -1207,7 +1207,7 @@
 {62900}{}{Reinforced jacket}
 {62901}{}{Black strong leather jacket, reinforced with various armored plates.}
 {63000}{}{Hand made jacket}
-{63001}{}{Black strong leather jacket, which is fully made for your body. This jacket will be much more comfortable.}
+{63001}{}{Strong Black leather jacket, bespoke tailored to your body. This jacket will be much more comfortable.}
 {63100}{}{Concert outfit}
 {63101}{}{In this smoking suit you are irresistible! Wear it, if you want to impress your interlocutor.}
 {63200}{}{Leather armor M3}
