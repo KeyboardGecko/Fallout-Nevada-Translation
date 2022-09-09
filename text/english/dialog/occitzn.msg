@@ -1,7 +1,7 @@
 {100}{}{You see a villager.}
 {101}{}{You see a gloomy citizen of Gerlach wearing dirty clothes.}
 
-#Попы'ка заговори'ь во время казни
+#ГЏГ®ГЇГ»'ГЄГ  Г§Г ГЈГ®ГўГ®Г°ГЁ'Гј ГўГ® ГўГ°ГҐГ¬Гї ГЄГ Г§Г­ГЁ
 {102}{}{You don't belong here.}
 {103}{}{This doesn't concern you.}
 {104}{}{Keep moving.}
@@ -11,7 +11,7 @@
 {108}{}{What are you doing here?}
 {109}{}{}
 
-#Попы'ка заговори'ь после казни:
+#ГЏГ®ГЇГ»'ГЄГ  Г§Г ГЈГ®ГўГ®Г°ГЁ'Гј ГЇГ®Г±Г«ГҐ ГЄГ Г§Г­ГЁ:
 {110}{}{I've got nothing to say to you, outsider. Talk to Gerlach, he's in charge here.}
 {111}{}{What can you tell be about this place?}
 {112}{}{Where and who is Gerlach?}
@@ -26,12 +26,12 @@
 {119}{}{Oh, it's you! It's good to see you around here again. Can I help you with something?}
 {120}{}{I'm just passing by.}
 
-#Джерлак мер'в
+#Г„Г¦ГҐГ°Г«Г ГЄ Г¬ГҐГ°'Гў
 {121}{}{Gerlach's gone. We'll probably join him soon enough.}
 {122}{}{That was so stupid!! How are we going to live without our leader? Get the hell out of here!}
 {123}{}{Fine, I'm going.}
 
-#Предложение о' Города Убежища
+#ГЏГ°ГҐГ¤Г«Г®Г¦ГҐГ­ГЁГҐ Г®' ГѓГ®Г°Г®Г¤Г  Г“ГЎГҐГ¦ГЁГ№Г 
 {124}{}{Would you like to move somewhere safer?}
 {125}{}{Safer than this? In a heartbeat. Why?}
 {126}{}{Then congratulations on being the first to move to our vault!}
@@ -48,7 +48,7 @@
 {136}{}{Uh... Well, I can't really prove it, but it really is better than this place! I pinky swear!}
 
 {137}{}{Prove it. We've got no reason to trust you.}
-{138}{}{Take a look at by Pip-Boy. These were only given to vault dwellers.}
+{138}{}{Take a look at my Pip-Boy. These were only given to vault dwellers.}
 {139}{}{Then I've got no reason to help you. Your loss.}
 
 {140}{}{He did earn a little respect, didn't he? [The crowd shouts in agreement] Okay, we'll do it. We have nothing to lose anyway. This place can't hold out forever.}
