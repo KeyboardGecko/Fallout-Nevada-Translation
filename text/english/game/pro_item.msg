@@ -552,7 +552,7 @@
 {28100}{}{Hairpin}
 {28101}{}{Easily bends in any shape or form.}
 {28200}{}{Welding machine}
-{28201}{}{Welding machine with electromagnetic principle of operation. Precautions: Keep away from children and electronic devices. Min. ST: 6.}
+{28201}{}{Arc welder that operates based on electromagnetic principles. Precautions: Keep away from children and electronic devices. Min. ST: 6.}
 {28300}{}{Tommy Gun}
 {28301}{}{This Thompson M1928 submachine gun is a sinister looking weapon; every time you hold it, you have an urge to put on a fedora hat and crack your knuckles. The Thompson is well-fed by a large 50 round drum magazine. Min. ST: 5.}
 {28400}{}{Meat Jerky}
