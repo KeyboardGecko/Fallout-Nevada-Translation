@@ -869,31 +869,31 @@
 {16000}{}{Officer's audio logs}
 {16001}{}{}
 {16002}{}{[Someone's confident, husky voice is heard}
-{16003}{}{through noise in the background]}
+{16003}{}{through a noisy in the background]}
 {16004}{}{}
 {16005}{}{**END-PAR**}
 {16006}{}{}
 {16007}{}{August 3,  2077}
 {16008}{}{}
-{16009}{}{[Sound of boots rumbling the ground is faintly heard;}
-{16010}{}{then goes the order "Atten-Shun! Double time, MARCH!"}
-{16011}{}{You can't hear the words well, but looks like}
+{16009}{}{[Sound of boots marching is faintly heard;}
+{16010}{}{then an order: "Atten-Shun! Double time, MARCH!"}
+{16011}{}{You can't hear the words well, but it sounds like}
 {16012}{}{the squadrons are singing some kind of army song]}
 {16013}{}{}
 {16014}{}{So, after the morning drill, our three-starred}
-{16015}{}{vicar of god on earth wielding general straps made}
+{16015}{}{vicar of god on earth wielding general straps, made}
 {16016}{}{me happy with the fact that instead of my planned}
-{16017}{}{Chinese vacation, keeping company to almost}
+{16017}{}{Chinese vacation, keeping company with almost}
 {16018}{}{dead-beaten gooks, I'm going to headline the}
 {16019}{}{second platoon into "Area 51". Why'd they think it's}
 {16020}{}{insufficient to have just local guards is beyond me.}
-{16021}{}{And, if it's still not enough, we got some civilian }
-{16022}{}{science guys attached to us - what's they called...}
-{16023}{}{Zeeno... Shmeeno... -tists, something like that.}
+{16021}{}{And, if that wasn't enough, we got some civilian }
+{16022}{}{science guys attached to us - what're they called...}
+{16023}{}{Zeeno... Shmeeno... -gists, something like that.}
 {16024}{}{One of them dickheads asked me to supply them}
 {16025}{}{with weapons. I got my laughs. They can't even hold}
-{16026}{}{their thing straight by the toilet, what to say about}
-{16027}{}{rifles. Well, let's see how it's gonna turn out...}
+{16026}{}{their thing straight at the toilet, let alone their}
+{16027}{}{rifles. Well, let's see how this turns out...}
 {16028}{}{}
 {16029}{}{**END-PAR**}
 {16030}{}{}
@@ -903,39 +903,39 @@
 {16034}{}{we have to guard aliens. And no, I didn't get myself}
 {16035}{}{drunk until I could see little green men, although}
 {16036}{}{I strongly feel like I want to. That's the nickname}
-{16037}{}{locals gave them. If that was somebody's stupid}
-{16038}{}{fucking joke, he did it right.}
-{16039}{}{When we arrived, head of security ditched any}
-{16040}{}{briefings - he just took us to the cells with that}
+{16037}{}{the locals gave them. If that was somebody's stupid}
+{16038}{}{fucking joke, it was a good one.}
+{16039}{}{When we arrived the head of security ditched any}
+{16040}{}{briefings - he just took us to the cells with those}
 {16041}{}{creatures. What a brilliant plan that was.}
-{16042}{}{I got full pants of experience.One stare in their} 
+{16042}{}{I got the "full pants" experience. One stare in their} 
 {16043}{}{pie hole - and you instantly have the desire to}
-{16044}{}{do heroics deeds somewhere in war zones of China,}
+{16044}{}{do heroic deeds somewhere in the China war zones,}
 {16045}{}{or storm Anchorage's cliffs for the second time,}
 {16046}{}{only let it be many, many miles away from here.}
-{16047}{}{Official version says that their ship crash-landed}
-{16048}{}{somewhere around here, nearby the Groom lake.}
+{16047}{}{Official version says their ship crash-landed}
+{16048}{}{somewhere around here, nearby Groom lake.}
 {16049}{}{Fellow intelligent beings, blah-blah-blah...}
-{16050}{}{What a load of crap! If you ask me, it's all}
-{16051}{}{created by experiments of some eggheads, like}
-{16052}{}{those who are dragged with us here. Just look at}
-{16053}{}{them, glued to that cells. Researchers, my ass...}
+{16050}{}{What a load of crap! If you ask me, these were all}
+{16051}{}{created by some eggheads experiments, like}
+{16052}{}{those who were dragged here with us. Just look at}
+{16053}{}{them, eyes glued to that cell. Researchers, my ass...}
 {16054}{}{}
 {16055}{}{**END-PAR**}
 {16056}{}{}
 {16057}{}{September 2, 2077}
 {16058}{}{}
 {16059}{}{Already got fed up with the scientists. They are}
-{16060}{}{always complaining - about the strict security,}
-{16061}{}{escort... Oh, and also, that assholes - PFC Jones}
+{16060}{}{always complaining about the strict security}
+{16061}{}{escort... Oh, and also, those assholes - PFC Jones}
 {16062}{}{and corporal Sterling - managed to get wasted with}
 {16063}{}{booze... Sterling now gets dicks instead of}
 {16064}{}{sergeant's skits. McCoy, the head of security,}
-{16065}{}{suddenly helped - got us camera footage showing}
-{16066}{}{one of this alien monsters breaking loose around}
+{16065}{}{was helpful - got us camera footage showing}
+{16066}{}{one of these alien monsters breaking out around}
 {16067}{}{six months ago. While it got dealt with, cornered}
 {16068}{}{near the sealed shut rooms in C-sector (by the}
-{16069}{}{way, why they are sealed? What a good question),}
+{16069}{}{way, why are they sealed? What a good question),}
 {16070}{}{it massacred most of the security guards there.}
 {16071}{}{So, everyone's calmed down for a while. How long}
 {16072}{}{will it last?...}
@@ -946,25 +946,25 @@
 {16077}{}{September 10, 2077}
 {16078}{}{}
 {16079}{}{Doing the homework. Checking durability of these}
-{16080}{}{things. 5mm, 7,62 or even 9 are of little use -}
-{16081}{}{like flies to elephant, armor-piercing included.}
-{16082}{}{Of course, you have some effect, but to spend half}
-{16083}{}{of squad's ammo on one target is definitely not a}
-{16084}{}{good choice. Laser or electricity - all the same.}
-{16085}{}{High-foreheads are trying poisons and radiation,}
+{16080}{}{things. 5mm, 7.62 or even 9mm are of little use -}
+{16081}{}{like flies to an elephant, armor-piercing included.}
+{16082}{}{Of course, they have some effect, but to spend half}
+{16083}{}{of a squad's ammo on one target is definitely not}
+{16084}{}{a good choice. Laser, electricity - all the same.}
+{16085}{}{The giant-foreheads are trying poison and radiation,}
 {16086}{}{but still to no visible effect. Well, tomorrow}
-{16087}{}{we're gonna get our hands on heavy weaponry.}
-{16088}{}{By the way, managed to get some steam off - one of}
-{16089}{}{these local snitches tried to break in my tablet.}
-{16090}{}{It turned out pretty well for him - any bones can}
-{16091}{}{grow back together just in a couple of weeks.}
+{16087}{}{we're gonna get our hands on some heavy weaponry.}
+{16088}{}{By the way, managed to let some steam off - one of}
+{16089}{}{these local snitches tried to hack into my tablet.}
+{16090}{}{It turned out pretty well for him - I hear bones}
+{16091}{}{can grow back together in just a couple of weeks.}
 {16092}{}{}
 {16093}{}{**END-PAR**}
 {16094}{}{September 12, 2077}
 {16095}{}{}
 {16096}{}{Things became a little more lively. Couldn't help}
-{16097}{}{it - shot one dead using Bozar. By now, the best}
-{16098}{}{proven option is flamethrowers. Guys are having}
+{16097}{}{it - shot one dead using a Bozar. By now the best}
+{16098}{}{proven option is a flamethrower. Guys are having}
 {16099}{}{a lot of fun, even drew a couple of big-brains to}
 {16100}{}{hang around. One said that these creatures see us}
 {16101}{}{in infrared, or kind of.}
@@ -973,9 +973,9 @@
 {16104}{}{of these nerds in all our time here, by the way.}
 {16105}{}{And everything seems normal, but...}
 {16106}{}{I am not especially easy to impress or scare, but}
-{16107}{}{lately I have a feeling like somebody tries to}
-{16108}{}{rack my brain or something...}
-{16109}{}{Maybe this place weighs on me?}
+{16107}{}{lately I have this feeling like somebody is trying}
+{16108}{}{to scan my brain or something...}
+{16109}{}{Maybe this place is weighing on me?}
 {16110}{}{}
 {16111}{}{**END-PAR**}
 {16112}{}{}
@@ -985,18 +985,18 @@
 {16116}{}{He started yelling at us, like, we are destroying}
 {16117}{}{a sentient life form, and, like, we should try to}
 {16118}{}{negotiate some kind of peaceful agreements, then}
-{16119}{}{jiggled around with that silly reports... somehow}
+{16119}{}{jiggled around with those silly reports... somehow}
 {16120}{}{he found out about my Russian ancestry and called}
-{16121}{}{me a communist pig. After that, he made his best}
-{16122}{}{decision to enter into one of the cells. [laughs]}
-{16123}{}{I can make a proud statement that special forces}
-{16124}{}{didn't become an obstacle in the way of scientific}
-{16125}{}{progress. I believe that the diplomacy is far more}
-{16126}{}{effective nowadays than any weapon. Love and peace}
-{16127}{}{and such. Don't mind alien flaying guy's bloody}
-{16128}{}{guts all around its cell - these must be, like,}
-{16129}{}{their local customs, you should, like, treat them}
-{16130}{}{with respect and such.}
+{16121}{}{me a communist pig. After that, he made the}
+{16122}{}{brilliant decision to enter one of the cells.}
+{16123}{}{[laughs] I can make a honest statement the special}
+{16124}{}{forces weren't an obstacle in the path of}
+{16125}{}{scientific progress. "I believe that diplomacy}
+{16126}{}{is far more effective nowadays than any weapon."}
+{16127}{}{Love and peace and such. Don't mind the alien}
+{16128}{}{flaying your bloody guts all around its cell -}
+{16129}{}{these must be, like, their local customs, you}
+{16130}{}{should, like, treat them with respect and such.}
 {16131}{}{----}
 {16132}{}{Around flight level 117 UAV detected some kind of}
 {16133}{}{suspicious activity in its patrol area.}
@@ -1007,13 +1007,13 @@
 {16138}{}{October 19, 2077}
 {16139}{}{}
 {16140}{}{Jones is missing. Together with one of the guards.}
-{16141}{}{This base has some "blind zones" near C-sector,}
+{16141}{}{This base has some "blind spots" near C-sector,}
 {16142}{}{with restricted access. Still, why would they go}
-{16143}{}{in there? Now we are walking around in groups of}
+{16143}{}{in there? Now we're walking around in groups of}
 {16144}{}{two, patrolling the perimeter...}
 {16145}{}{My head is a damn mess. Everyone stays on alert...}
-{16146}{}{New order has arrived from HQ -}
-{16147}{}{await for further instructions...}
+{16146}{}{New order arrived from HQ -}
+{16147}{}{await further instructions...}
 {16148}{}{}
 {16149}{}{**END-PAR**}
 {16150}{}{}
@@ -1024,9 +1024,9 @@
 {16155}{}{bloodbath from floor to ceiling, shredded meat}
 {16156}{}{and innards everywhere... Communication with HQ is}
 {16157}{}{gone... Security systems are constantly failing,}
-{16158}{}{we partially lost control over the base... Now we}
-{16159}{}{are sweeping the perimeter with two units, the}
-{16160}{}{remaining two are holding the position...}
+{16158}{}{we partially lost control over the base... Now}
+{16159}{}{we're sweeping the perimeter with two units, the}
+{16160}{}{remaining two are holding their position...}
 {16161}{}{}
 {16162}{}{**END-PAR**}
 {16163}{}{}
@@ -1038,7 +1038,7 @@
 {16169}{}{turning into hissing]}
 {16170}{}{}
 {16171}{}{So, no more questions left, but the answers are also}
-{16172}{}{no joy... That thing, which has been murdered half}
+{16172}{}{no joy... That thing, which was murdered half}
 {16173}{}{a year ago, turned out to be the female of the }
 {16174}{}{species... she somehow managed to lay eggs into}
 {16175}{}{the sealed facilities before meeting her demise...}
@@ -1047,34 +1047,34 @@
 {16178}{}{wave with flamethrowers, but then these maggots}
 {16179}{}{got us from the rear... I kept tearing them with}
 {16180}{}{bursts, until one of them caught my hand and }
-{16181}{}{chewed it... I got away with stabbing the thing...}
-{16182}{}{Hid in some warehouse of H-block...}
+{16181}{}{chewed it up... I got away with stabbing the}
+{16182}{}{thing... Hid in some warehouse in H-block...}
 {16183}{}{}
 {16184}{}{**END-PAR**}
 {16185}{}{}
 {16186}{}{}
 {16187}{}{October 25, 2077}
 {16188}{}{}
-{16189}{}{[For some time, only raspy breathing is heard]}
+{16189}{}{[For some time only raspy breathing is heard]}
 {16190}{}{}
 {16191}{}{I'm the only one left. Shootings turned into melee,}
 {16192}{}{then I got knocked out... now it's all quiet...}
 {16193}{}{Barely holding on my feet, my hand won't obey me...}
 {16194}{}{Drugged myself to the point of seeing}
 {16195}{}{hallucinations... Can't think straight...}
-{16196}{}{I don't hope for the rescue - after we skipped a}
+{16196}{}{I don't hope for rescue - after we missed a}
 {16197}{}{response to the status report signal, ERT should}
 {16198}{}{have been here already...}
 {16199}{}{But there's something even I can do...}
 {16200}{}{Put some cordex on myself, as much as I}
-{16201}{}{managed to lift...}
-{16202}{}{Aiming to get more of these bastards with me,}
+{16201}{}{could carry...}
+{16202}{}{Aiming to take more of these bastards with me,}
 {16203}{}{so wish me luck...}
 {16204}{}{One of my ancestors destroyed the whole "Tiger"}
-{16205}{}{tank in the World War II in a similar way... in}
+{16205}{}{tank in World War II in a similar way... in}
 {16206}{}{the end, even alone, one special forces officer is}
 {16207}{}{a capable battle unit by itself...}
-{16208}{}{So... Commence the operation!}
+{16208}{}{So... Commence operation!}
 {16209}{}{**END-DISK**}
 
 
