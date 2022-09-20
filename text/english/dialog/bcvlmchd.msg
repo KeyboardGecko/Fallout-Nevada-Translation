@@ -20,7 +20,7 @@
 {131}{}{It's a mystery, alright.}
 
 {132}{}{You'll find it, right? My father will be mad if you don't!}
-{133}{}{Maybe, maybe not. I might get lucky.}
+{133}{}{Maybe, maybe not. I might get lucky [You notice a broken board in the brahmin pen].}
 {134}{}{I'll do everything I can.}
 {135}{}{I told you everything! Honest!}
 {136}{}{Fine, wait here.}
