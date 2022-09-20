@@ -97,7 +97,7 @@
 {212}{}{You almost sound happy about what happened.}
 {213}{}{How do I know you didn't do it? Weren't you seen around the stables?}
 {214}{}{Who do you think could have done it?}
-{215}{}{Do you know who uses shotgun shells filled with nails?}
+{215}{}{Do you know anyone who uses shotgun shells filled with nails?}
 {216}{}{Sure I do. I've got the only workshop in town - if you need to make anything more complex than a club, you come to me. But ammo's hard. Only Bolt made some shotgun shells for himself once.}
 {217}{}{I *will* be happy if William learns something from this. It was probably stolen by one of the outsiders he let in. Maybe he'll be a little less trusting now.}
 {218}{}{Look how close the toilet is to the stables! Anyone could be there at any time. Even me.}
