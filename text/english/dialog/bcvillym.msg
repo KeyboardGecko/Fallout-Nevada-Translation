@@ -161,7 +161,7 @@
 {259}{}{They're dead. It's better for everyone this way, believe me.}
 {260}{}{}
 {261}{}{I've sent them away. They would have brought slavers here.}
-{262}{}{I’m still working on it.}
+{262}{}{IÂ’m still working on it.}
 
 {263}{}{That's just what I wanted to hear! And it's not about cheap labor - we're all equal here. It's about safety. And if you're telling me they're trustworthy and won't attract slavers, then I'm more than happy.}
 {264}{}{Good.}
@@ -200,7 +200,7 @@
 {311}{}{Any news?}
 {312}{}{Nothing yet.}
 
-{313}{}{Does anyone in Black Rock makes shotgun shells with rusty nails?}
+{313}{}{Does anyone in Black Rock make shotgun shells with rusty nails?}
 {314}{}{Hmm, that's a good question... It's hard to get ammunition here, so we usually keep it for special occasions. If anyone's making ammo, Justin would know. He has all the town's tools and machinery.}
 {315}{}{That's all the information I needed.}
 {316}{}{I found the thief.}
@@ -283,7 +283,7 @@
 {401}{}{Without pelts from Evan, I don't have much. I can give you two hundred bucks and a 20% discount in my eatery. Keep it in mind when nearby!}
 {402}{}{What if you give me that old energy pistol instead?}
 {403}{}{I need money. Give me all you can.}
-{404}{}{Keep the money, I don’t need it.}
+{404}{}{Keep the money, I donÂ’t need it.}
 
 {405}{}{You already bought it, remember? Do you think I have two? Well, sorry, but I don't.}
 {406}{}{Take care.}
