@@ -210,7 +210,7 @@
 {320}{}{}
 {321}{}{You should consider they'd have killed him if he hadn't done what they said. It's hard to do things your way when you have a shotgun pointed at you. He was a prisoner of the situation, can't you see?}
 {322}{}{He's dangerous. Even his presence attracts raiders. We have to get rid of him.}
-{323}{}{You mean I should forgive him? After all that he's done? [he puts a hand on his chin and frowns] Well... He was forced to do it. And this gang, the Molerats - they don't fuck around. No, he's as much a victim as I am... I forgive him, he can stay. And about brahmin - I think he'll make up for it.}
+{323}{}{You mean I should forgive him? After all that he's done? [he puts a hand on his chin and frowns] Well... He was forced to do it. And this gang, the Molerats - they don't fuck around. No, he's as much a victim as I am... I forgive him, he can stay. And about the brahmin - I think he'll make up for it.}
 {324}{}{Good. I'll go tell him the good news.}
 {325}{}{Yes... Yes, you're right. Maybe he left the gang, but the gang didn't leave him. I don't like it, but... We have to make him leave.}
 {326}{}{Remember, it was your decision. I'll go tell him now.}
