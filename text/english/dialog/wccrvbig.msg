@@ -44,7 +44,7 @@
 {276}{}{Of course. I want to rob this son of a bitch. Will you help me climb over the fence to his garage?}
 {277}{}{Are you afraid of a little fighting? Nevermind then.}
 
-{278}{}{Are you out of your mind? Stealing is a risky business!}
+{278}{}{Are you out of your mind? Stealing is risky business!}
 {279}{}{If you want to get some revenge, this is your only chance.}
 {280}{}{Trust me, I know what to do.}
 {281}{}{Then the deal is off.}
@@ -59,7 +59,7 @@
 {290}{}{You convinced the caravaneer to commit robbery. He will wait for you near the fence next to the garage.}
 {291}{}{Yeah, it would be very good...}
 
-{292}{}{This is the best place to climb over the fence. It seems that there are stairs on the other side, so it should be easy to go back.}
+{292}{}{This is the best place to climb over the fence. It looks like there are stairs on the other side, so it should be easy to get back.}
 {293}{}{Help me to climb up and get back to the tent. You saw nothing and heard nothing.}
 {294}{}{It is too early to commit sabotage. I'll tell you when we start.}
 {295}{}{For your actions, you lose karma, but increase your sneak skill by 2%.}
