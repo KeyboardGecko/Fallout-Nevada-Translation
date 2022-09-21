@@ -20,8 +20,8 @@
 {121}{}{What have you done?! Now this filth is never gonna leave! What was the point of curing her? Believe me, everyone would be better off with her gone!}
 {122}{}{You promised you'd pay me!}
 {123}{}{But why?!}
-{124}{}{I see you're not happy. I'll go then, to not make you nervous any further.}
-{125}{}{Hey, maybe this felt all warm and fuzzy for you, but *I* have to *live* here! And I don't want some dirty whore as a neighbor, who has who-knows-what diseases in her! And all these flirty manners of her - it makes me sick!}
+{124}{}{I see you're not happy. I'll go then, so you don't get sick on my shoes.}
+{125}{}{Hey, maybe this felt all warm and fuzzy for you, but *I* have to *live* here! And I don't want some dirty whore as a neighbor, who has who-knows-what diseases in her! And all these flirty manners of hers - it makes me sick!}
 {126}{}{Like hell! I promised a hundred bucks to you for getting *rid* of her! You made things worse! If you want to hold hands and hug over your random acts of kindness, go to William, because I don't tolerate this shit!}
 {127}{}{Sorry, I misunderstood you. Now she's dead. You can go and see for yourself.}
 {128}{}{Really?}
