@@ -224,7 +224,7 @@
 {353}{}{Don't worry. I can do it.}
 {354}{}{Great! A courier is scheduled to make a delivery, but he's a couple days late. Someone needs to find him and the packages he was carrying. He can't be too far. What do you say?}
 {355}{}{I'll do my best.}
-{356}{}{To run around the desert looking for a delivery boy? Not today.}
+{356}{}{Run around the desert looking for a delivery boy? Not today.}
 
 {357}{}{Excellent! The courier's name is Milo. He's from Gerlach, so I'd start looking there. Ask around and see if anyone knows anything.}
 {358}{}{I have more questions about this job.}
