@@ -42,7 +42,7 @@
 {149}{}{We talked. That's enough. Let's get busy.}
 
 {150}{}{I'm just wondering how someone like you ended up in this place.}
-{151}{}{Almost by accident. I had to find a quiet place for living. But this is none of your concern.}
+{151}{}{Almost by accident. I had to find a quiet place to live, but that doesn't concern you.}
 {152}{}{I'll tell you how it is - it's weird. You have a good weapon, ammunition, excellent marksmanship and a cold calculating mind - and still you are rotting in a half-destroyed settlement. What gives?}
 {153}{}{I never thought I would meet a detective here. Well, you already guessed that I'm hiding. Someone put a hit on someone, and I took the job. Now I need a quiet place to sit tight. But don't try to fish the details out of me - I won't say anything.}
 {154}{}{You have gained experience for applying the methods of investigation, justifying the deserved reputation of a private detective.}
