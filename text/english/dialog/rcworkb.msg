@@ -3,7 +3,7 @@
 
 {110}{}{Hey, hey! What brings you here?}
 {111}{}{I have a similar question - how was the trip?}
-{112}{}{I want to ask how the things are going.}
+{112}{}{I wanted to ask how things are going.}
 {113}{}{Bye.}
 
 {114}{}{Well, my wife didn't even want me to leave the house, but I persuaded her and left her all my money. Pretty risky move, but you gave me new hope for life in this town. So I fully expect to get 'em back, even if I die from radiation after a year.}
