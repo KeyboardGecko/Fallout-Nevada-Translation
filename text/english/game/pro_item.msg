@@ -1073,7 +1073,7 @@
 {56100}{}{Gas protection suit}
 {56101}{}{Protective jumpsuit for workers engaged in dirty and stinky work. It is supplied with a gas mask, rubber boots and removable glasses. Protects  well from harmful fumes in the air and is very uncomfortable to use.}
 {56200}{}{"Atomic Blades"}
-{56201}{}{Set of razor blades. Manufactured by "Pretty & Glamour" in the city of Knoxville, Tennessee. The box depicts an atomic bomb tests in the Pacific Ocean.}
+{56201}{}{Set of razor blades. Manufactured by "Pretty & Glamour" in the city of Knoxville, Tennessee. The box depicts an atomic bomb test in the Pacific Ocean.}
 {56300}{}{Soap scraps}
 {56301}{}{Aromatic soap from the company "Pretty & Glamour" with bite marks. Judging by the imprints of teeth, it was bit by an adult.}
 {56400}{}{Toothpaste}
@@ -1327,7 +1327,7 @@
 {68900}{}{Eli's key #10}
 {68901}{}{Standart key from a door lock.}
 {69000}{}{Slave collar}
-{69001}{}{Pre-war manufactured tazer in the form of a collar. In former times it has been used in prisons, now it is a great tool for the slave trade and exploitation.}
+{69001}{}{Pre-war manufactured tazer in the form of a collar. In former times it was used in prisons, now it's a great tool for the slave trade and other...exploitations.}
 {69100}{}{Old revolver}
 {69101}{}{Very old model of once popular revolver. Perhaps the museum exhibit. Min. ST: 3.}
 {69200}{}{Training rifle}
