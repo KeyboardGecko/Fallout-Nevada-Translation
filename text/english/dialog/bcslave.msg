@@ -55,7 +55,7 @@
 {155}{}{Whoops! [deliberately activate both collars]}
 {156}{}{I can't help you.}
 
-{157}{}{We're free! [he laughs in joy] I can't believe it! You saved us! [he moves his head around, stretching his neck like it's the first time he's ever doing it] Oh, this is... Amazing!}
+{157}{}{We're free! [he laughs in joy] I can't believe it! You saved us! [He moves his head around, stretching his neck like it's the first time he's ever done it] Oh, this is... Amazing!}
 {158}{}{Enjoy, guys.}
 
 #Female character
