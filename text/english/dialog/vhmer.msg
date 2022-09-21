@@ -194,10 +194,10 @@
 {273}{}{Why don't you think I'll be able to handle it?}
 {274}{}{Alright then.}
 
-{275}{}{This job will require a careful approach to many people. Careful, *delicate* approach.}
-{276}{}{You don't seem to be one gifted with a silver tongue. And this is a key skill in this task.}
+{275}{}{This job will require a careful approach to many people. A careful, *delicate* approach.  }
+{276}{}{You don't seem to be one gifted with a silver tongue. And this skill is key for this task.  }
 {277}{}{Ahem, sorry if this will hurt your feelings, but your intellectual abilities seem rather... Lacking. Not what's needed for the job.}
-{278}{}{You seem to be lacking the experience to undertake such an important and dangerous task.}
+{278}{}{You seem to be lacking the experience to undertake such an important and dangerous task.  }
 {279}{}{How about you take on something more suitable to your abilities.}
 {280}{}{}
 
@@ -210,10 +210,10 @@
 
 #Vendor's Cart
 {300}{}{I'm here for a personal issue. An acquaintance of mine, a sandwich vendor, has a debt she's having trouble settling. Could you help?}
-{301}{}{As a fellow human being, I am very sorry about your friend. But she has obligations which need to be followed. Before taking the loan she should have read the agreement.}
-{302}{}{But it's only thanks to the immense payments that she can't get any profits. Could the Clean City give her a few months? She could expand her business and provide more money to the budget.}
+{301}{}{As a fellow human being, I am very sorry about your friend. But she has obligations she needs to fulfill. Before taking the loan she should have read the agreement.}
+{302}{}{But it's only because of the immense payments that she can't make any profits. Could the Clean City give her a few months? She could expand her business and provide more money to the budget.}
 
-{303}{}{I'll be frank - it's not my responsibility. I can't spend my time convincing the city council to change the contract of some minor trader. She should put an application to the administration, so it could be processed according to the procedures.}
+{303}{}{I'll be frank - it's not my responsibility. I can't spend my time convincing the city council to change the contract of some minor trader. She should put in an application to the administration, so it can be processed according to the regulations.}
 {304}{}{Is that so? Well, I have a business of my own here - I'm selling Nuka-Cola. I could pledge some of my own product if the layoff won't bear any results.}
 {305}{}{I know about business, so I think I can convince your Council in profits from this, using real statistics.}
 {306}{}{It is way better to give the trader a post-ponement than to lose income from her taxes forever. I think I can convince your Council.}
@@ -221,7 +221,7 @@
 {308}{}{You could help with sorting this out with the Council as an experienced leader.}
 {309}{}{Well, looks like you can't be convinced. In that case, I'll be going.}
 
-{310}{}{I don't see any reason to do so. The council simply won't listen to you without some powerful arguments. If you, for instance, would have had a business in Vegas, or your name carried any weight in the city, then you might have had some hope to affect the decisions of some members.}
+{310}{}{I don't see any reason to do so. The council simply won't listen to you without some powerful arguments. If, for instance, you had a business in Vegas, or your name carried any weight in the city, then you might have had some hope to affect the decisions of some members.}
 {311}{}{Hmm... This certainly changes things. I'll give the word and you give the documents to my secretary.}
 {312}{}{Perfect.}
 {313}{}{I'd like to sort some things out on my end first.}
