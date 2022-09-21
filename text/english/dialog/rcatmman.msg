@@ -70,15 +70,15 @@
 {178}{}{Well? Any suggestions?}
 {179}{}{No, let's talk about something else.}
 {180}{}{I have one. Marilyn said miners were consuming a lot of alcohol...}
-{181}{}{Ha! This is the same kind of anti-scientific heresy as the belief that Brahmin were once one-headed! Nonsense. Alcohol is not a cure. We have already tested it at the Hub. The local brew did show some effect, but it was too weak. To use a rot gut as a medicine against radiation sickness - don't make the scientist laugh!}
-{182}{}{Unlike other drinks, local "rot gut" traditionally contains a lot of ethanol.}
+{181}{}{Ha! This is the same kind of anti-scientific heresy as the belief that Brahmin were once mono-headed! Nonsense. Alcohol is not a cure. We have already tested it at the Hub. The local brew did show some effect, but it was too weak. Using rot gut as a medicine for radiation sickness - don't make this scientist laugh!}
+{182}{}{Unlike other drinks, the local "rot gut" traditionally contains a lot of ethanol.}
 {183}{}{Uhh, I don't understand how...}
 {184}{}{Its radioprotective properties can increase resistance to radiation, for example, by reducing the oxygen content of tissues due to the easy oxidizability of alcohol compounds.}
 {185}{}{Ehh, let me ret... }
-{186}{}{However, alcohol does not really have a special anti-radiation effect. But inhibits the activity of nerve cells, which means that any stressor, including radiation, is less harmful to the organism.}
+{186}{}{However, alcohol does not really have a special anti-radiation effect, but inhibits the activity of nerve cells, which means that any stressor, including radiation, is less harmful to the organism.}
 {187}{}{Well... Ugh... Well, if you really think about it, there is some common sense in what you say. However, I am sure that ethanol would only be effective in cases of severe and short-term exposure, when the body receives a dose of radiation in a short period of time. On the other hand, if these workers regulated their time in the mine... But... If... It's still not known what that drink might contain that could amplify the effect so much, you know...}
 {188}{}{Uh-huh...}
-{189}{}{[Straightens the hair and takes an academic look] Well, the idea is certainly deserves attention. When I get back to the Hub, I'll try to conduct a series of experiments. It's worth to test this hypothesis.}
+{189}{}{[Straightens his hair and takes on an academic air] Well, the idea is certainly deserves attention. When I get back to the Hub, I'll try to conduct a series of experiments. It's worth to test this hypothesis.}
 {190}{}{See...}
 {191}{}{I must say, it was an enlightening conversation, but a bigger surprise for me is to meet a chemistry connoisseur in such a shithole. If you'll come to the Hub - be sure to visit us.}
 {192}{}{I'll consider it.}
