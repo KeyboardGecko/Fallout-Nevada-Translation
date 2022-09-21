@@ -83,7 +83,7 @@
 {383}{}{Well, if you're so confident about them... Considering their current position, they won't ask much... Alright, you've convinced me. I'll give the freaks a chance and see how it goes. Thank you wanderer.}
 {384}{}{Great!}
 {385}{}{You convinced Bob Neil to hire the freaks.}
-{386}{}{Unconvincing. To base views on someone's inspiring speech is not the best idea. I hope you understand.}
+{386}{}{That's unconvincing. Basing your views on someone's inspiring speech is not a good idea. I hope you understand.}
 {387}{}{Hm, I'll need to think about this.}
 
 {388}{}{Oh, this is interesting! If they have more endurance and are less affected by environment and radiation, then they'll make excellent workers. And considering their social position, they won't ask much... Alright, you've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
