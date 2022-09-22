@@ -7,9 +7,9 @@
 {112}{}{Regarding the case of Sam Phillips.}
 
 #Äåëî î Ñýìå Ôèëëèïñå
-{113}{}{[The policeman's interest is suddenly sparked] This is the toughest subject... So what did you want me to tell you about Sam Phillips?}
-{114}{}{I have a substance, that proves his involvement with drugs in the city! He buys this from a caravan from Salt Lake.}
-{115}{}{I have a substance, that proves his innocence regarding his involvement with drugs in the city! Seems like someone mistook this food supplement for a drug.}
+{113}{}{[The policeman's interest is suddenly sparked] This is a tough subject... So what did you want me to tell you about Sam Phillips?}
+{114}{}{I have evidence that proves his involvement with drugs in the city! He buys this substance from a caravan from Salt Lake.}
+{115}{}{I have evidence that proves his innocence regarding his involvement with drugs in the city! Seems like someone mistook this food supplement for a drug.}
 {116}{}{I just wanted to ask - how is the case going?}
 {117}{}{Hmm, nothing, I suppose. Just asking.}
 {118}{}{So that's what it is! Then I'll simply put handcuffs on you and put you in a cell, so you think next time before wasting police officer's time.}
@@ -27,10 +27,10 @@
 {128}{}{Hmm. Okay.}
 {129}{}{Then you'll have to hurry, because during the search in the cafe we found a dubious yellow substance resembling one of the components for the production of drugs. Most likely, he will be sent to prison.}
 {130}{}{Oh shit, is it really that bad?}
-{131}{}{Oh so it's your friend! Well then, guys, you'll have to say goodbye to each other. Because soon Sam Phillips will be behind bars in prison. End of story.}
+{131}{}{Oh so he's your friend! Well then, guys, you'll have to say goodbye to each other, because soon Sam Phillips will be behind bars in prison. End of story.}
 {132}{}{Damn it, is it really that bad?}
-{133}{}{Drugs?! I don't believe it! You're lying!}
-{134}{}{[Looks at you from head to bottom] Independent detective? How interesting. Well, here's how it is. We have been contacted by an anonymous individual, he said that Sam Phillips makes drugs. We went to the cafe, searched it and found some of that yellow stinky crap there. We're not sure yet what it is, but most likely his guilt will be proven by that thing alone.}
+{133}{}{Drugs?! I don't believe you! You're lying!}
+{134}{}{[Examines you from head to foot] Independent detective? How interesting. Well, here's how it is. We have been contacted by an anonymous individual, he said that Sam Phillips makes drugs. We went to the cafe, searched it and found some of that yellow stinky crap there. We're not sure yet what it is, but most likely his guilt will be proven by that alone.}
 {135}{}{Now I see. Thanks.}
 
 {136}{}{Yes. It is exactly the same thing we found at Phillips cafe! Where did you get that?}
@@ -80,7 +80,7 @@
 {186}{}{Okay. The daughter of an archivist and a thief. I'll see what I can do.}
 
 {190}{}{What can you say about Anna Clark's disappearance?}
-{191}{}{Daughter disappeared without a trace. In the "Hard Rock" no one has seen her, in "Monte" she didn't appear for a long time, and there is no more places to search for girls like her. We gave up on the matter, because of absence of any clues.}
+{191}{}{She disappeared without a trace. No one has seen her in the "Hard Rock Cafe", she's been missing from her job at "3 Card Monte" for a long time, and there is no-where else to search for girls like her. We gave up on the matter because of a lack of clues.}
 {192}{}{Okay.}
 
 #Äåëî î âûðîäêàõ
