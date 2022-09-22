@@ -1129,25 +1129,25 @@
 {58900}{}{Emulsifier E30}
 {58901}{}{A crumbling yellow substance with an unbearable smell of hundreds of garbage cans. The appearance does not inspire confidence either.}
 {59000}{}{Geller's confession}
-{59001}{}{Holodisk with a record you made during a conversation with Larry Geller. In the conversation, Larry confessed that he once produced drugs. This will be enough to the police.}
+{59001}{}{Holodisk with a recording you made during your conversation with Larry Geller. In the conversation, Larry confessed that he once produced drugs. This will be enough for the police.}
 {59100}{}{Slaver's receipt}
 {59101}{}{The business memos and notes, maintained by head of the slavers guild. Some information seems interesting to you: "...Boss ordered to wait for the ghouls to be set up with drugs. After that they won't be a problem. We should be ready to sell the necessary amount of slaves to the Dam for a really good price."}
 {59200}{}{Suspicious package}
 {59201}{}{This drug was given to you by Hal Wallace so you could put it in a freaks' hotel.}
 {59300}{}{Compromising evidence on H. Wallace}
-{59301}{}{Holodisk with a record you made while talking to Hal Wallace about getting a job on freaks. Police will find it interesting.}
+{59301}{}{Holodisk with a recording you made while talking to Hal Wallace about getting a job for the freaks. Police will find it interesting.}
 {59400}{}{"Desert Eagle"}
 {59401}{}{"Desert Eagle" .44 Magnum, owned by Bob Neil. In addition to its impressive appearance, it has an enhanced mechanism that increases the fire power of this weapon. Min. ST: 5.}
 {59500}{}{H. Wallace confession}
-{59501}{}{A holodisk with a record you made while talking to Hal Wallace about getting a job on Bob Neil. Direct evidence.}
+{59501}{}{A holodisk with a recording you made while talking to Hal Wallace about getting a job for Bob Neil. Direct evidence.}
 {59600}{}{O. Davis receipt}
 {59601}{}{This document contains the information about unusually high fees from the Las Vegas municipality to O. Davis. The point is to prioritize the police on cases about drugs. The note is signed by T. Parker. But why such costs? And why the mayor's office is so interested in this matter?}
 {59700}{}{Tom Parker's Receipt}
 {59701}{}{A document of Las Vegas municipality, containing the order about transferring 6% of municipality's shares to the head of the Slavertown. Draft prepared by T. Parker. Fulfillment signature is not present yet.}
 {59800}{}{Larry on Phillips}
-{59801}{}{Holodisk with a record that you secretly made during a conversation with Larry Geller about Sam Phillips. He testified that Phillips once had contact with drug dealers.}
+{59801}{}{Holodisk with a recording you secretly made during a conversation with Larry Geller about Sam Phillips. In it he states that Phillips once had contact with drug dealers.}
 {59900}{}{Drug dealer about Phillips}
-{59901}{}{Holodisk with a record that you secretly made during a conversation with the drug dealer about Sam Phillips. He testified that Phillips once had contact with drug dealers.}
+{59901}{}{Holodisk with a recording you secretly made during a conversation with the drug dealer about Sam Phillips. In it he states that Phillips once had contact with drug dealers.}
 {60000}{}{Notes from The Pound}
 {60001}{}{The notes and recordings found in "The Pound" laboratory. They contain information regarding production and shipment of narcotic substanses in large quantities during the last few months. You notice a mention of an unusual buyer among others - the "Three-card Monte" casino.}
 {60100}{}{Dirt on Bob Neil}
