@@ -11,8 +11,8 @@
 {116}{}{Hey, do not rush with the decision! Today I have a real sale. You just have to admire these beautiful shiny guns! Powerful energy gun straight out of Area 51. How? Well, there were some desperate miners who managed to penetrate the facility and steal everything they could carry on their feet. But it is not so important. The important thing is that now you can choose a truly excellent weapon.}
 {117}{}{Doesn't sound bad.}
 
-{118}{}{Oh! Pal, I see you've already succeeded in your life, if you travel on four wheels. What does your baby runs on? Microfusion battery? Look, I can make an additional power supplies specifically for you and your beauty.}
-{119}{}{Wow, must remember this for the future.}
+{118}{}{Oh! Pal, I see you've already succeeded in life if you're traveling on four wheels. What does your baby run on? Microfusion batteries? Hey, I can make additional power supplies specifically for you and your beauty.}
+{119}{}{Wow, I must remember this for the future.}
 
 {120}{}{Let me look at your stuff.}
 {121}{}{I think I entered the wrong place. Bye.}
@@ -54,7 +54,7 @@
 {153}{}{Yes! But the greatness of gleaming pre-war city faded soon after the Great War. Now it's a lot different. That's why I say - this is a new Vegas. The new city, an oasis in the desert. However, no one has yet realized the idea. Believe an old man, the time will come - and everyone will call it this way.}
 {154}{}{You're doing the right thing, to trust me. Now let's take a look at the goods...}
 
-#Применение навыка бартер
+#ГЏГ°ГЁГ¬ГҐГ­ГҐГ­ГЁГҐ Г­Г ГўГ»ГЄГ  ГЎГ Г°ГІГҐГ°
 {158}{}{You have such a wide assortment. The trade in these parts must be a very profitable business.}
 {159}{}{Not quite... Hey, how much longer are you gonna watch? As far as I can see, it's time to buy something.}
 {160}{}{Hmm, let me think: the shop in the most comfortable place, cops are not far, and you are selling guns. You're definitely connected, right?}
@@ -68,7 +68,7 @@
 {168}{}{I knew for some reason, you'll say that.}
 {169}{}{[Thinks] You're not a usual customer, right? Such skills as yours are a rare find. I respect your business - that why I'll trust you. Okay, here I stashed this for the cops. If you need some of it, you can buy it. Just don't tell anyone, that you bought it of me.}
 
-#Координаты Свалки покрышек
+#ГЉГ®Г®Г°Г¤ГЁГ­Г ГІГ» Г‘ГўГ Г«ГЄГЁ ГЇГ®ГЄГ°Г»ГёГҐГЄ
 {170}{}{Hey, do you have anything special for my ride?}
 {171}{}{Hmm, let me think. I don't have anything, except batteries, but I'm sure you can find something at my old pal. Ex-mechanic, he used to be called Skitter, until he... Underwent ghoulification. Terrible story. The locals don't like ghouls here, that's why he lives not far from Vegas - he decided to isolate himself in a tire dump, when he became sick of people.}
 {172}{}{Why didn't you say that in the first place! Great, tell me, where is your friend.}
@@ -82,12 +82,12 @@
 {178}{}{Ha! You'll break your legs running around looking for it. But, it's your business - whether you look by yourself in the whole wasteland, relying on your scouting skills, or just to pay me for the exact coordinates. Just saying.}
 {179}{}{My choice is obvious. I'll manage without you.}
 
-#Шлем для силовухи
+#ГГ«ГҐГ¬ Г¤Г«Гї Г±ГЁГ«Г®ГўГіГµГЁ
 {190}{}{What is that helm that you got for sale?}
 {191}{}{Well, lately, strange things started to appear. They say, some brave souls began looting in the north-west - there, where the aliens come from. People are not all right in the head. But I only benefit from this.}
 {192}{}{Okay. That is all I was interested in. Bye.}
 
-#Пица
+#ГЏГЁГ¶Г 
 {200}{}{[With amazement, he looks at the pizza in your hands, then at the clock] Boy, you're slower than a brahmin wagon, loaded with old junk. Where were you all this time? You're late. So you can carry it back to the cafe and to declare my dismissal. I'm not going to pay.}
 {201}{}{[Leave]}
 {202}{}{Pizza! Just in time, give it here, now I'll get even with it, he-he.}
