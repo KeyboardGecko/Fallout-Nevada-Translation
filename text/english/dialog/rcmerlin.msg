@@ -90,7 +90,7 @@
 {180}{}{Can I rent a room?}
 {181}{}{Yes. 50 bucks and you can have a room for the night.}
 {182}{}{Do you have anything to eat?}
-{183}{}{I only can offer meat and Rot Gut. I keep clean water for myself, sorry.}
+{183}{}{I can only offer meat and Rot Gut. I keep the clean water for myself, sorry.}
 {184}{}{Okay, let's trade.}
 {185}{}{Nothing I need.}
 {186}{}{That's all? One can starve like this.}
