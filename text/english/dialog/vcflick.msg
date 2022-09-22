@@ -42,7 +42,7 @@
 {155}{}{[Sniff] Learn to play the games, for a start. You think it's all about math? Oh no. Gambling skill is just like any other skill. You should be able to take a clear look at the situation in the game, assess your chances, and anticipate the opponent's turn. It's important to make use of your good memory and a lot of other shit. Are you interested? Or you shiver just at the sight of a card table?}
 {156}{}{Can you teach me?}
 {157}{}{Is there any other way? A simpler way?}
-{158}{}{Of course, but I remember what I told you about the risks! Sure, you can take special cards and dice, but without certain skills you won't be able to do anything with them, or worse, you'll end up in a body bag.}
+{158}{}{Of course, but remember what I told you about the risks! Sure, you can take special cards and dice, but without certain skills you won't be able to do anything with them, or worse, you'll end up in a body bag.}
 {159}{}{Sure, a tempting offer, but I will do without these tricks. Take care.}
 {160}{}{Can I teach you? Hell, I was the only one who almost managed to beat that casino! Unfortunately, at the last moment I started losing and ended up with nothing... But Mr. Wallace appreciated my talent and let me stay in the casino without the right to gamble. So -  yes, I can teach you a few things for $1,000. Believe me, you'll get it back quickly, if you play well.}
 {161}{}{Here is my last money for the lesson! I'm counting on your talent, Maurice!}
