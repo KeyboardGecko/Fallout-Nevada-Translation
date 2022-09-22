@@ -1012,7 +1012,7 @@
 {52200}{}{Rusty machete}
 {52201}{}{Someone worked the lawnmower blade, sharpening one edge, and tightly wrapped the hilt of the brahmin skin. Min. ST: 5.}
 {52300}{}{"Trade" magazine}
-{52301}{}{Pre-war weekly magazine, issued for people running their own business. And even while the times has changed, you can still draw useful information about the trade from this edition.}
+{52301}{}{Pre-war weekly magazine, issued for people running their own business. And even though the times have changed, you can still draw useful information about bartering from this edition.}
 {52400}{}{Worn jacket}
 {52401}{}{This dirty smelly jacket once belonged to a raider. It is so worn out that you can hear how the threads break when you move.}
 {52500}{}{Afterburner's gum}
