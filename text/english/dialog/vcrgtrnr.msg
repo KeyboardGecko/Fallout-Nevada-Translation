@@ -12,7 +12,7 @@
 {114}{}{I don't need anything.}
 
 #First workout
-{115}{}{My time is money. I take $1000 for one training.}
+{115}{}{Time is money. I want $1000 for one training session.}
 {116}{}{I have the amount. Shall we start right now?}
 {117}{}{I see. I will return when I decide to train.}
 {118}{}{Now! To the shower! Move!}
