@@ -42,8 +42,8 @@
 {156}{}{[Grins] One just has to know where to look. Not all chemicals in the world are from before the war.}
 {157}{}{Wait, are you saying that there is an active chem manufacturer?!}
 {158}{}{Indeed. And that's all you need to know. Are you satisfied? Now you can safely choose a product. It's clean, don't worry.}
-{159}{}{And still, tell me about the manufacturer. I need to know who it is and where to find it.}
-{160}{}{[He gives you a stern look] Are you out of your mind? Who tells such things to a complete stranger? Besides, I know very little. The products are delivered with a courier, I have never even been in the lab.}
+{159}{}{But still, tell me about this manufacturer. I need to know who it is and where to find them.}
+{160}{}{[He gives you a stern look] Are you out of your mind? Who would talk about that with a complete stranger? Besides, I know very little. The products are delivered by courier, I've never even been in the lab.}
 {161}{}{Of course... Of course... You see, I'm interested in chems, not as a consumer but as a chemist. I would like to contact this laboratory - there can be a vacant position for me.}
 {162}{}{[Raises an eyebrow skeptically] Well, tell me, weirdo, what do you know about methamphetamine from a scientific point of view.}
 {163}{}{N-methyl-alpha-methylfentanyl, a derivative of amphetamine, it's a white crystalline substance, a strong psychostimulant.}
