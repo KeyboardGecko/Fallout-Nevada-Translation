@@ -8,7 +8,7 @@
 
 {112}{}{Well... You can say that. My name is Maurice. Nice to meet you... [looks around and starts whispering] Listen, I know why you're here. I see it in your eyes, I know what you want. Otherwise, why would you be in this casino, right? If you need help, I'm at your service - I will get you what you came for. For a reasonable price, of course.}
 {113}{}{What are you talking about?}
-{114}{}{Eh, no, that won't do. [He gets you to the room and opens his jacket, showing you the goods] All of these things will help you to ride Ms Fortune and own her in every position. So, choose if you have the money.}
+{114}{}{Eh, no, that won't do. [He gets you to the room and opens his jacket, showing you the goods] All of these things will help you to ride Miss Fortune and own her in every position. So, choose if you have the money.}
 {115}{}{[Trade]}
 {116}{}{No, thanks, I prefer the honest route.}
 {117}{}{[Laughs] Honest? Well, okay. But when the honesty turns you into a slave, remember about me.}
@@ -20,7 +20,7 @@
 {122}{}{Good luck, friend.}
 {123}{}{[Walk away]}
 
-#Êëàä
+#ÃŠÃ«Ã Ã¤
 {130}{}{Listen, Maurice, do you know where I can make some decent money?}
 {131}{}{Well, besides gambling, I only can think of some old story about the treasure. Or, if you're good at bullshitting people, there's a chance to get a job at City Hall, they pay very well.}
 {132}{}{Thanks. You said something about a treasure. Care to tell me more?}
@@ -33,7 +33,7 @@
 {139}{}{[Smiles] Don't mention it. But if you find the treasure, don't forget to share a little, hehe.}
 {140}{}{We'll see.}
 
-#Îáó÷åíèå èãðå
+#ÃŽÃ¡Ã³Ã·Ã¥Ã­Ã¨Ã¥ Ã¨Ã£Ã°Ã¥
 {150}{}{Maurice, friend, I need to earn money as fast as possible! Can you help?}
 {151}{}{Help? Ha! I could find you a ghoul for anal pleasure, but to find money... Sorry, but if you can't earn it, then you just have two ways - to rob someone, or to make love with a whore named Fortuna.}
 {152}{}{Who, with who?}
