@@ -50,7 +50,7 @@
 
 {143}{}{Well, it's... Nobody knows... He is a secretive person, no one ever sees him entering or leaving. But I can tell you this - I've heard there's a secret passage in his office! Yup. But still, no one knows who he is.}
 {144}{}{That's the production facility. They make all their drugs there, yeah.}
-{145}{}{Hm... 18-22 says: yes, if quietly! Yup. The patrolman walks in circles, so you can avoid him. And those fellas at the door probably won't see if you try it at night. Yeah. Still, it's, like, a big risk. But if you get to the chief's office, you can exit through secret passage. But I don't know where is it or how to use it...}
+{145}{}{Hm... 18-22 says: yes, if quietly! Yup. The patrolman walks in circles, so you can avoid him. And those fellas at the door probably won't see if you try it at night. Yeah. Still, it's, like, a big risk. But if you get to the chief's office, you can exit through secret passage. But I don't know where it is or how to use it...}
 
 {150}{}{Now shut up and listen to me, you pathetic slug: Either you tell me everything, or I'll smash you against the wall!}
 {151}{}{No, no! 18-22 don't want to be smashed against the wall! I'll tell! Tell everything! [starts crying]}
