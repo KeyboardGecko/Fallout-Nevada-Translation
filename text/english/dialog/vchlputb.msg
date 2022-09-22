@@ -1,6 +1,6 @@
 {100}{}{You see a resident.}
 {101}{}{You see a local resident. He looks somewhat unhealthy.}
-{102}{}{Oh, I feel so sick... Why there is no doctor?}
+{102}{}{Oh, I feel so sick... Why is there no doctor?}
 
 {103}{}{This patient's symptoms are somewhat confusing. You are not experienced enough to understand them.}
 {104}{}{It's that difficult, huh?}
