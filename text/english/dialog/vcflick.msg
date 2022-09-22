@@ -22,7 +22,7 @@
 
 #Êëàä
 {130}{}{Listen, Maurice, do you know where I can make some decent money?}
-{131}{}{Well, besides gambling, I only can think of some old story about the treasure. Or, if you're good at bullshitting people, there's a chance to get a job at City Hall, they pay very well.}
+{131}{}{Well, besides gambling, I can only think of some old story about treasure. Or, if you're good at bullshitting people, you can get a job at City Hall, they pay very well.}
 {132}{}{Thanks. You said something about a treasure. Care to tell me more?}
 {133}{}{It's an old story. After the war, there was one man that managed to win big at the casino... I can't remember the name, but it doesn't really matter. According to one version, when he took his prize and went outside, a group of bounty hunters followed him. But the son of a bitch was smart and dropped the tail, disappearing in the dark alley.}
 {134}{}{So?}
@@ -35,18 +35,18 @@
 
 #Îáó÷åíèå èãðå
 {150}{}{Maurice, friend, I need to earn money as fast as possible! Can you help?}
-{151}{}{Help? Ha! I could find you a ghoul for anal pleasure, but to find money... Sorry, but if you can't earn it, then you just have two ways - to rob someone, or to make love with a whore named Fortuna.}
-{152}{}{Who, with who?}
-{153}{}{Stop it, you know, what I'm talking about. Come to any slot machines, or talk to a croupier at the roulette table. You have a chance to become a millionaire... Or to lose more than you have. It's always a risk, babe. All you can do is try to reduce your chances of losing.}
+{151}{}{Help? Ha! I could find you a ghoul for anal pleasure, but money.... Sorry, but if you can't earn it, then you just have two ways - rob someone, or make love to a whore named Fortuna.}
+{152}{}{What? With who?}
+{153}{}{Stop it, you know what I'm talking about. Go to any slot machines, or talk to a croupier at the roulette table. You have a chance to become a millionaire... Or to lose more than you have. It's always a risk, babe. All you can do is try to reduce your chances of losing.}
 {154}{}{How?}
-{155}{}{[Sniff] Learn to play games, for a start. You think it's all about math? Oh no. Gambling skill is just like any other skill. You should be able to take a clear look at the situation in the game, assess your chances, anticipate the opponent's turn. It's important to make use of your good memory and a lot of other shit. Are you interested? Or you shiver just at the sight of a card table?}
+{155}{}{[Sniff] Learn to play the games, for a start. You think it's all about math? Oh no. Gambling skill is just like any other skill. You should be able to take a clear look at the situation in the game, assess your chances, and anticipate the opponent's turn. It's important to make use of your good memory and a lot of other shit. Are you interested? Or you shiver just at the sight of a card table?}
 {156}{}{Can you teach me?}
 {157}{}{Is there any other way? A simpler way?}
 {158}{}{Of course, but I remember what I told you about the risks! Sure, you can take special cards and dice, but without certain skills you won't be able to do anything with them, or worse, you'll end up in a body bag.}
 {159}{}{Sure, a tempting offer, but I will do without these tricks. Take care.}
 {160}{}{Can I teach you? Hell, I was the only one who almost managed to beat that casino! Unfortunately, at the last moment I started losing and ended up with nothing... But Mr. Wallace appreciated my talent and let me stay in the casino without the right to gamble. So -  yes, I can teach you a few things for $1,000. Believe me, you'll get it back quickly, if you play well.}
 {161}{}{Here is my last money for the lesson! I'm counting on your talent, Maurice!}
-{162}{}{[Maurice takes you to his room, and you spend the whole day learning how to play cards properly. Of course, Maurice always won, but in the end you still managed to get a draw] You're a good student. Don't mind the failures. Sometimes they keep you sober when success blinds your eyes.}
+{162}{}{[Maurice takes you to his room, and you spend the whole day learning how to play cards properly. Of course, Maurice always won, but in the end you still managed to get a draw] You're a good student. Don't mind the failures. Sometimes they keep you sober when success leaves you blind.}
 {163}{}{Thanks, Maurice, it was an important lesson.}
 {164}{}{Your gambling skill is raised by 10%.}
 
