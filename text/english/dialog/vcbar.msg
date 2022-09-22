@@ -65,7 +65,7 @@
 {249}{}{You're well rested and gained strength.}
 {250}{}{Damn! You vomited all over the floor! Now who is going to clean it?!!}
 {251}{}{Tell me, who lives in room 26 on the third floor?}
-{252}{}{Oh, that's Barney Hill. I hope he haven't caused any inconveniences? I understand that his somewhat eccentric appearance may be... Off-putting, but he doesn't do any harm. He claims that he was abducted by aliens from outer space, can you imagine? Heh. He was even waving some pre-war toy around, stylized as an alien blaster. Apparently, he's obsessed with the theory of an alien invasion. A strange person, but always amusing nonetheless.}
+{252}{}{Oh, that's Barney Hill. I hope he hasn't caused any inconvenience? I understand that his somewhat eccentric appearance may be... off-putting, but he doesn't do any harm. He claims that he was abducted by aliens from outer space, can you imagine? Heh. He was even waving some pre-war toy around, stylized as an alien blaster. Apparently, he's obsessed with the theory of an alien invasion. A strange person, but always amusing nonetheless.}
 {253}{}{I see. Would you answer another question?}
 {254}{}{Hmm, how curious. Thanks for the tip and bye.}
 {255}{}{I'm dealing with Nuka-Cola. We could make a joint business.}
