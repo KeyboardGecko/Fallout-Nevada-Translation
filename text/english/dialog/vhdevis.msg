@@ -2,14 +2,14 @@
 {101}{}{You see Oscar Davis, chief of the police. So says the name badge on his chest.}
 
 #Íà÷àëüíûå âîïðîñû:
-{110}{}{So, citizen. I am listening.}
+{110}{}{Hello, citizen. I am listening.}
 {111}{}{I did nothing. I'm leaving.}
 {112}{}{Do you know that Hal Wallace was involved in dirty business?!}
 {113}{}{Mr. Davis, I'm looking for a job. Could you help me?}
 {114}{}{One of your policemen attacked me. It's outrageous!}
 {115}{}{I'm looking for the coordinates of Area 51. Could you possibly know where it is?}
 {116}{}{Regarding the problem with ghouls.}
-{117}{}{About the "black" market chems.}
+{117}{}{About the "black market" chems.}
 {118}{}{Regarding the problem with Sam Phillips.}
 {119}{}{I'm curious - why the mayor hired *me* as a private investigator?}
 
