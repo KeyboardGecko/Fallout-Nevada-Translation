@@ -20,7 +20,7 @@
 {114}{}{I'll beat the information out of you with these hands! Better tell me!}
 {115}{}{Sorry, I overreacted.}
 
-{116}{}{Damn, where the hell such an asses even come from?! I don't know about any labs!}
+{116}{}{Damn, where the hell such an asshole even come from?! I don't know about any labs!}
 {117}{}{You lie!!! Here's a note about the freaks! What the fuck is going on here? Tell me!}
 
 {118}{}{Well... Damn! Okay, that's how it was - some weasel from the City Hall came here once! He wanted to kick the freaks out of the city! So we hired a boy, he planted the drugs on them, I don't know anything else! I swear!}
