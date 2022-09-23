@@ -1,18 +1,18 @@
 {100}{}{You see a visitor.}
 {101}{}{You see Barney Hill.}
 {102}{}{Tin foil hat, wild look - are you sure you want to talk to him?}
-{103}{}{You see Barney Hill. He still anxiously looks around.}
-{104}{}{Huh? What? Wait a minute, I do not remember you...}
+{103}{}{You see Barney Hill. He's still anxiously looking around.}
+{104}{}{Huh? What? Wait a minute, I don't remember you...}
 
-{105}{}{Your vile behavior with an inadequate man causes others to behave more cautiously toward you.}
-{106}{}{Your delicate behavior with an inadequate man leads to respect from others.}
+{105}{}{Your vile behavior with a mentally disturbed man causes others to behave more cautiously toward you.}
+{106}{}{Your delicate behavior with a mentally disturbed man leads to respect from others.}
 
-#Новая версия, автор Kerb, редакция Black Designer
+#ГЌГ®ГўГ Гї ГўГҐГ°Г±ГЁГї, Г ГўГІГ®Г° Kerb, Г°ГҐГ¤Г ГЄГ¶ГЁГї Black Designer
 {120}{}{[Pulls tin foil hat over his ears, then bounces back] Ah! Stay away! You won't make fun of me again! Neither you, nor those stupid snobs, nor the aliens again!}
 {121}{}{You made fun of yourself when you put that foil over your skull.}
 {122}{}{Calm down, buddy! No one is going to make fun of you! I will look into it personally.}
 
-{123}{}{You... I know the likes of you! Cunning, so cunning... Give me your hand – I need to see the color of your blood! I won't live through another anal probing. [He pulls out a knife]}
+{123}{}{You... I know the likes of you! Cunning, so cunning... Give me your hand вЂ“ I need to see the color of your blood! I won't live through another anal probing. [He pulls out a knife]}
 {124}{}{Hey, you do know your stuff about perversions. No, seriously - one more wrong move and I'll anal probe you with your own knife.}
 {125}{}{Wow, take it easy, fella... Why don't you calm down? My hands are empty, maybe you can empty yours?}
 
