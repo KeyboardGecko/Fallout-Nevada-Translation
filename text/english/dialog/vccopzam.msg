@@ -1,6 +1,6 @@
 {100}{}{You see a policeman.}
 {101}{}{You see a policeman receptionist behind the desk.}
-{102}{}{False evidence have been placed in Dead hotel, waiting for its time.}
+{102}{}{False evidence has been placed in the Dead hotel, waiting for its time.}
 
 {110}{}{Who are you searching for?}
 {111}{}{Goodbye.}
@@ -108,8 +108,8 @@
 {222}{}{You are just in time. Thank you for the information, on behalf of the Las Vegas police. You are entitled to a reward. Here's 1,000$. As for the freaks - you can rest assured. We are now getting ready to go on a punitive operation.}
 
 #Óëèêè ïðîòèâ Óîëëèñà
-{223}{}{Do you know that Hal Wallace is involved in dirty business? I have proof!}
-{224}{}{Hal Wallace?! This great man was involved in criminal activities? Do you understand that you are responsible for your words right now?}
+{223}{}{Did you know that Hal Wallace is involved in some dirty business? I have proof!}
+{224}{}{Hal Wallace?! This upstanding citizen was involved in criminal activities? You understand that you will be held to account for your words right now?}
 {225}{}{Here is a record of our conversation. He persuaded me to illegally snitch on the freaks!}
 {226}{}{Here is a record of our conversation. He hired me to steal Bob Neil's gun!}
 {227}{}{If everything is so serious, perhaps, I should refuse to present further evidence.}
@@ -120,7 +120,7 @@
 {231}{}{Yes, of course.}
 {232}{}{Yes, it is a serious offense. Unfortunately, I cannot take any immediate action. I will give the evidence to our boss, and he will have to make a final decision. Thank you, citizen, for your assistance. We will take it from here.}
 {233}{}{Don't I deserve some sort of a reward?}
-{234}{}{What do you think, why Wallace needed the pistol?}
+{234}{}{Why do you think Wallace needed the pistol?}
 {235}{}{I hope your chief will figure it out.}
 {236}{}{No.}
 {237}{}{WHAT?! I risked my life and all was in vain! Fucking cop! Shove that evidence up your ass!}
@@ -130,7 +130,7 @@
 
 #Ëàáîðàòîðèÿ Âåãàñà
 {241}{}{About the drugs that flood Vegas.}
-{242}{}{Well, well, well! What do you have to tell?}
+{242}{}{Well, well, well! What do you have to tell me?}
 {243}{}{I know who supplies drugs to the city. They are called "black caravan".}
 {244}{}{I know where the laboratory is and I can show it on the map.}
 {245}{}{Uh... I see, it's an important matter to you. But I just wanted to ask how things are going.}
