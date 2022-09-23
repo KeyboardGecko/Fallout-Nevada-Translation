@@ -139,12 +139,12 @@
 {456}{}{What are you talking about?}
 {457}{}{I don't care. Tell me, why shouldn't I do this?}
 
-{458}{}{Is he ready to act openly now? Hmm, did he manage to find a few more aces up his sleeve?}
+{458}{}{Is he ready to act openly now? Hmm, did he manage to hide a few more aces up his sleeve?}
 {459}{}{This city loves to make shady dealings behind your back. And you can bet your bottom dollar on the fact that Wallace is involved in them.}
 {460}{}{What are you talking about?}
-{461}{}{All the influential people in Vegas, including Hal, are trying to take over the Hoover Dam. Usually they try to do it legally, but recently someone resorted to sabotage.}
+{461}{}{All the influential people in Vegas, including Hal, are trying to take over Hoover Dam. Usually they try to do it legally, but recently someone resorted to sabotage.}
 {462}{}{How? What do you mean?}
-{463}{}{First we began to lose important workers. Then obscene insults and false accusations began to appear on city walls. There was some confusion at City Hall about the redistribution of shares, and the police opened several dirty cases designed to tarnish our reputation. Those who want to make us bankrupt definitely know what they are doing.}
+{463}{}{First we began to lose important workers. Then obscene insults and false accusations began to appear in grafiti on city walls. There was some confusion at City Hall about the redistribution of shares, and the police opened several dirty investigations designed to tarnish our reputation. Those who want to make us bankrupt definitely know what they're doing.}
 {464}{}{But why?}
 {465}{}{If we go bankrupt, then a war for the dam will start for real. The city will be shattered, people will die. But, anyone who wins will be the most influential man in the city. Some would consider the risk justified.}
 {466}{}{What about Wallace?}
