@@ -1245,7 +1245,7 @@
 {64800}{}{Body of a policeman}
 {64801}{}{Body of a policeman, killed by an accurate shot in the head.}
 {64900}{}{Bob Neil's key card}
-{64901}{}{The key card from the door of Bob Neil's private office in the Hoover Dam.}
+{64901}{}{The key card to the door of Bob Neil's private office in Hoover Dam.}
 {65000}{}{Factory keys}
 {65001}{}{A bunch of different keys from the Nuka-Cola factory in Salt Lake City.}
 {65100}{}{Mom's key}
