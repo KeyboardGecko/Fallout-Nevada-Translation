@@ -28,11 +28,11 @@
 {133}{}{What a creative story! Who has the skill to do that?}
 {134}{}{It is difficult even to imagine this, my friend... And "they" - who are they? Did you see them?}
 
-{135}{}{I... I'm not sure. My vision was blurred... I only saw two gray silhouettes. And I couldn't hear them talking - just some strange chirping... I couldn't even spit in their faces - they sewn my mouth up... But I did it! I ran away from them! [He hoarsely laughs]}
+{135}{}{I... I'm not sure. My vision was blurred... I only saw two gray silhouettes. And I couldn't hear them talking - just some strange chirping... I couldn't even spit in their faces - they sewn my mouth up... But I did it! I ran away from them! [He laughs hoarsely]}
 {136}{}{Uh-huh, sure. Looks like they just used you and threw you away.}
 {137}{}{Really?! How did you do that? It must have been something very extraordinary!}
 
-{138}{}{They dragged me somewhere outside... In the wasteland... Dropped me on the ground. They must have thought that the piece of meat I had turned into would no longer be dangerous. Only one of them stayed with me... And I lunged at him, clung into his slimy head and crushed it like a rotten mutafruit! A fountain of green ooze sprayed me all over... And then I crawled... For a long, long time...}
+{138}{}{They dragged me somewhere outside... In the wasteland... Dropped me on the ground. They must have thought that the piece of meat I had turned into would no longer be dangerous. Only one of them stayed with me... And I lunged at him, clung into his slimy head and crushed it like a rotten mutfruit! A fountain of green ooze sprayed me all over... And then I crawled... For a long, long time...}
 {139}{}{And that's it? Who would believe this bullshit?}
 {140}{}{This... Truly sounds incredible, friend.}
 
