@@ -72,12 +72,12 @@
 {161}{}{Hell no! Some dubious affairs are going on here! It's time to end it!}
 
 {162}{}{I came to find out whether there is a "special" task for me.}
-{163}{}{There is one man who insulted me greatly. I cannot get back at him openly. I need a compromising material on him.}
+{163}{}{There is one man who insulted me greatly. I cannot get back at him openly. I need compromising material on him.}
 {164}{}{Excellent. Who is this person?}
 {165}{}{Hell no! I don't do things like this!}
 {166}{}{His name is Bob Neil. He is in charge of the local dam. A very tricky person, be careful with him.}
 {167}{}{Okay. What kind of compromising material you need?}
-{168}{}{I need his personal gun. But the Bob Neil himself must stay alive!}
+{168}{}{I need his personal gun. But Bob Neil himself must stay alive!}
 {169}{}{It will not be easy. Why not to just kill him? Why such complications?}
 {170}{}{Okay. I'll do everything.}
 {171}{}{A lot of questions always do harm to those who ask them.}
