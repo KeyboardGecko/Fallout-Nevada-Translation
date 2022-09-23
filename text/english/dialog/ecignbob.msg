@@ -31,8 +31,8 @@
 {132}{}{Yeah.}
 {133}{}{Here's $50.}
 {134}{}{Here is a flask of clean water.}
-{135}{}{Oh, come on! Two good people will be able to understand each other, aren't they?}
-{136}{}{Then you'll *have* to tell, otherwise you won't leave this desert alive.}
+{135}{}{Oh, come on! Two good people will be able to understand each other, won't they?}
+{136}{}{Then you'll *have* to tell me, otherwise you won't leave this desert alive.}
 {137}{}{[Slowly turns his head] Nah, that won't work.}
 {138}{}{[With pouty lips, his face doesn't look so evil, more as childish] Yes, I'll tell... Ugh...}
 {139}{}{[Next]}
