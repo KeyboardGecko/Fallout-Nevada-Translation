@@ -1095,7 +1095,7 @@
 {57200}{}{Flail}
 {57201}{}{The brutal weapon of bikers is a large-caliber chain with a heavy metal ball at the end. Min. ST: 5.}
 {57300}{}{Rusty Katana}
-{57301}{}{Sword from the gift set from the company "Hattori Souvenirs". Although the weapon is clearly inferior in quality to its Japanese progenitor, in a strong hand it can permanently eliminate the enemy from the battlefield, even if he is in the armor. Min. ST: 4.}
+{57301}{}{A Sword that used to be part of a gift set from the company "Hattori Souvenirs". Although the weapon is clearly inferior in quality to its Japanese progenitor, in strong hands it can permanently eliminate the enemy from the battlefield, even if he is in the armor. Min. ST: 4.}
 {57400}{}{Beatnik's glasses}
 {57401}{}{Round glasses. Nothing special, but looks stylish.}
 {57500}{}{Straight razor}
