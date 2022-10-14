@@ -67,12 +67,12 @@
 {172}{}{Tell me, what is a "psychedelic"?}
 {173}{}{I do not understand, Why do you like acting crazy?}
 {174}{}{Where did you get such a strong dose?}
-{175}{}{Why would they need that?}
+{175}{}{Why would they never rest?}
 {176}{}{I think, I'm not interested in that.}
 
 {180}{}{Ah, so you're a stranger here... Well, then you should know that it's a medication... With some side effects. The user experiences hallucinations that cannot be invented in any science fiction world. An amazing experience!}
 {181}{}{Why? To escape this damn reality! Just one drop - and you become happy and free! It's worth it... Unless you abuse it, of course.}
-{182}{}{It was some dealer... I don't remember, who exactly, there is so many of them lately, and there are always new faces in the business. Looks like the police of Clean City never rest.}
+{182}{}{It was some dealer... I don't remember who exactly, there are so many of them lately, and there are always new faces in the business. Looks like the police of Clean City never rest.}
 {183}{}{First, not everyone likes to live beside crazy idiots. Second, the Clean City tries to establish a monopoly on everything. Perhaps, they are trying to take control of the laboratory, too...}
 {184}{}{The laboratory?}
 {185}{}{Oops... Yes, there is talk that such large stocks cannot remain from pre-war times, that there is some manufacturer. But that's just a rumor.}
