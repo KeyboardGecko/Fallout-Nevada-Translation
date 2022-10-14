@@ -1105,7 +1105,7 @@
 {57700}{}{Wet wipes}
 {57701}{}{Sealed packaging with sanitary napkins. Can replace a bath when wandering through the wasteland. Production of the company "Pretty & Glamour".}
 {57800}{}{Old food can}
-{57801}{}{An opened can in which over 70 years old dog food was stored. It seems that guy fooled you! (Everyone is mockingly pointing finger at you, making a lingering "ewwww!" sound)}
+{57801}{}{An opened can in which over 70 year old dog food was stored. It seems that guy fooled you! (Everyone is mockingly pointing finger at you, making a lingering "ewwww!" sound)}
 {57900}{}{Warehouse pass}
 {57901}{}{NPP "Poseidon Oil" electronic access card.}
 {58000}{}{Operational staff pass}
