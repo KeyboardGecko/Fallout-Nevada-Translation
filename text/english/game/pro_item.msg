@@ -646,7 +646,7 @@
 {32800}{}{DVR records}
 {32801}{}{Robot guard's holodisk with records of accompanying a stagecoach from Salt Lake City to New Reno. Perhaps, some information has been preserved here, however, in an encrypted form. Your Pip-Boy could read it.}
 {32900}{}{Stranglehold}
-{32901}{}{Ordinary silver guitar string, tunable to a note re. However, it has long been not used for its intended purpose.}
+{32901}{}{Ordinary silver guitar string, tunable to a high e. Its been a long time since it was used for its intended purpose.}
 {33000}{}{Small chest}
 {33001}{}{Old rusted chest, designed for storage.}
 {33100}{}{"Super-science"}
