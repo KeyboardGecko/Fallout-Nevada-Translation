@@ -656,7 +656,7 @@
 {33300}{}{Heart Pills}
 {33301}{}{These pills are used by people with heart problems.}
 {33400}{}{"Horsekiller"}
-{33401}{}{A hypodermic syringe with needle, full of powerful poison.}
+{33401}{}{A hypodermic syringe with a needle full of powerful poison.}
 {33500}{}{Courier's suitcase}
 {33501}{}{This suitcase was carried by a secret courier from Vegas to Reno. You couldn't open it. Interesting, what is inside?}
 {33600}{}{Maxson's sawed-off shotgun}
