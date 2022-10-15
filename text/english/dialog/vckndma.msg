@@ -1,5 +1,5 @@
 {100}{}{You see Orris.}
-{101}{}{This guy does not look particularly friendly. But must say, manners, hair and leather jacket make him look stylish.}
+{101}{}{This guy does not look particularly friendly. But you must say, manners, hair and leather jacket all make him look stylish.}
 {102}{}{Come closer... Time to die!}
 
 {110}{}{What is it?}
