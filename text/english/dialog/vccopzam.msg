@@ -7,7 +7,7 @@
 {112}{}{Regarding the case of Sam Phillips.}
 
 #Äåëî î Ñýìå Ôèëëèïñå
-{113}{}{[The policeman's interest is suddenly sparked] This is a tough subject... So what did you want me to tell you about Sam Phillips?}
+{113}{}{[The policeman's interest is suddenly sparked] That's a tough subject... So what did you want to know about Sam Phillips?}
 {114}{}{I have evidence that proves his involvement with drugs in the city! He buys this substance from a caravan from Salt Lake.}
 {115}{}{I have evidence that proves his innocence regarding his involvement with drugs in the city! Seems like someone mistook this food supplement for a drug.}
 {116}{}{I just wanted to ask - how is the case going?}
@@ -18,7 +18,7 @@
 {120}{}{Can I know why you are interested in this case?}
 {121}{}{Sam Phillips... Er... Owes me money, and I'm worried.}
 {122}{}{Sam Phillips is my friend and I don't want him to go to prison!}
-{123}{}{I'm investigating the crime with order of the mayor himself.}
+{123}{}{I'm investigating the crime under orders from the mayor himself.}
 {124}{}{No reason. Why?}
 {125}{}{Your boss has given me a civil job to snitch Phillips.}
 
@@ -65,32 +65,32 @@
 {173}{}{No use talking to you. See you.}
 {174}{}{Prisoner Murphy! You're free to go.}
 {175}{}{Thank you.}
-{176}{}{The money is more important than your health? And if you get infected?}
+{176}{}{Money is more important than your health? And if you get infected?}
 {177}{}{Ha-ha-ha, you don't say? This trick is a hundred years old. I've heard everything: "Wasteland disease", "shakes", "Narg syndrome"... What did you come up with this time?}
-{178}{}{You're telling me that, the "Wasteland disease" is not real? I'm a doctor with many years of experience, we have seen the whole villages die from that. Just like in Tonopah or Mesquite. Have you ever been there?}
-{179}{}{Hmm. I heard something about Tonopah. Something about mad people, consuming their own flesh... Or it was really the whole village, which just died out there... But since you're a doctor, I have to believe you. First, write a receipt that you vouch for the diagnosis.}
+{178}{}{You're telling me "Wasteland disease" isn't real? I'm a doctor with many years of experience, I've have seen whole villages die from that. Just like in Tonopah or Mesquite. Have you ever been there?}
+{179}{}{Hmm. I heard something about Tonopah. Something about mad people, consuming their own flesh... Or was it really the whole village that just died out there?... Well since you're a doctor I have to believe you. But first, write a receipt stating you vouch for the diagnosis.}
 
 #Êâåñò àðõèâàðèóñà è óëè÷íûé âîðèøêà
 {180}{}{Is there any work here for a private detective?}
 {181}{}{Usually we don't hire anyone and work by ourselves. But there are two cases where your help would be appreciated.}
 {182}{}{Interesting. Can you say more?}
-{183}{}{First, the daughter of the mayor's office archivist went missing. We haven't been able to find her. You can ask the archivist himself about his daughter. He is located on the second floor of City Hall.}
+{183}{}{First, the daughter of the archivist for the mayor's office  went missing. We haven't been able to find her. You can ask the archivist himself about his daughter. He is located on the second floor of City Hall.}
 {184}{}{Okay. And what's the other one?}
 {185}{}{There is an experienced pickpocket in Clean City. We received five reports of petty theft. That rascal needs to be caught as soon as possible. If you're careful you may be able to catch him in the act.}
 {186}{}{Okay. The daughter of an archivist and a thief. I'll see what I can do.}
 
-{190}{}{What can you say about Anna Clark's disappearance?}
+{190}{}{What can you tell me about Anna Clark's disappearance?}
 {191}{}{She disappeared without a trace. No one has seen her in the "Hard Rock Cafe", she's been missing from her job at "3 Card Monte" for a long time, and there is no-where else to search for girls like her. We gave up on the matter because of a lack of clues.}
 {192}{}{Okay.}
 
 #Äåëî î âûðîäêàõ
-{205}{}{Regarding freaks.}
+{205}{}{Regarding the freaks.}
 {206}{}{I've got proof of their innocence. They have been framed!}
 {207}{}{I've got proof of their guilt. This record I made during a conversation with Larry Geller.}
 {208}{}{What's the problem with them at the police?}
 {209}{}{Ah, the old sore problem.}
 
-{210}{}{They produce drugs and distribute them around the city. The mayor is against that, and therefore seeks to suppress such scum, so they learn to respect the law.}
+{210}{}{They produce drugs and distribute them around the city. The mayor is against that, and wants to suppress the drug-dealing scum so they learn to respect the law.}
 {211}{}{I see. Another question.}
 
 {212}{}{What are you saying, freaks' favorite? How doubtful. Well, let's see what you got there...}
@@ -98,23 +98,23 @@
 {214}{}{Oh! How unexpected. I don't know what the slavers want, but we will deal with them. I'll give this evidence to the chief. Thank you, citizen. In such cases one must be rewarded. Here, take it. [Gives you 1000$]}
 {215}{}{One thousand bucks!}
 
-{216}{}{Very cunning of you. Good job! Underworld must be punished... And you should be rewarded. [Gives you $ 2000] As for those freaks - do not worry. We now arrange to round them up and they won't do any harm to anyone from now on.}
-{217}{}{I want to participate! I'm sick of my gun collecting dust.}
+{216}{}{Very cunning of you. Good job! The criminial underworld must be punished... And you should be rewarded. [Gives you $ 2000] As for those freaks - don't worry. We're making arrangements to round them up. They won't do any harm to anyone from now on.}
+{217}{}{I want to join! I'm sick of my gun collecting dust.}
 {218}{}{Great!}
 {219}{}{An additional gun won't hurt.  I think the freaks' expulsion will be easy.}
-{220}{}{[You are waiting, while the police squad gets ready for a punitive operation at the Dead Hotel]}
+{220}{}{[You wait while the police squad gets ready for their sting operation at the Dead Hotel]}
 
-{221}{}{I visited the freaks' hotel. They've got dope laying even in boxes! You should investigate immediately!}
-{222}{}{You are just in time. Thank you for the information, on behalf of the Las Vegas police. You are entitled to a reward. Here's 1,000$. As for the freaks - you can rest assured. We are now getting ready to go on a punitive operation.}
+{221}{}{I visited the freaks' hotel. They've got dope laying around in boxes! You should investigate immediately!}
+{222}{}{You are just in time. On behalf of the Las Vegas police, thank you for the information. You are entitled to a reward. Here's 1,000$. As for the freaks - you can rest assured. We are getting ready to go on a sting operation.}
 
 #Óëèêè ïðîòèâ Óîëëèñà
 {223}{}{Did you know that Hal Wallace is involved in some dirty business? I have proof!}
-{224}{}{Hal Wallace?! This upstanding citizen was involved in criminal activities? You understand that you will be held to account for your words right now?}
+{224}{}{Hal Wallace?! This upstanding citizen was involved in criminal activities? You understand that you will be held accountable for your words right now?}
 {225}{}{Here is a record of our conversation. He persuaded me to illegally snitch on the freaks!}
 {226}{}{Here is a record of our conversation. He hired me to steal Bob Neil's gun!}
-{227}{}{If everything is so serious, perhaps, I should refuse to present further evidence.}
+{227}{}{If everything is this serious, perhaps I should refuse to present further evidence.}
 
-{228}{}{I don't think any of the police will seriously blame Mr. Wallace in these actions. Quite the contrary. But I must give the evidence to our boss. Thank you, citizen. You're now free to go.}
+{228}{}{I don't think any of the police will seriously blame Mr. Wallace for his actions. Quite the contrary. But I must give the evidence to our boss. Thank you, citizen. You're now free to go.}
 {229}{}{Can my anonymity be guaranteed?}
 {230}{}{Okay.}
 {231}{}{Yes, of course.}
@@ -142,7 +142,7 @@
 {249}{}{*Very* good! Now we got these scum. Well, I thank you on behalf of the Clean City! You did the right thing by informing us about this. Traditionally, you deserve a reward. Here, this is for you.}
 {250}{}{Now that's a reward! Oh yes!}
 
-{251}{}{Now we got 'em! The Black Caravan will soon be reduced to ashes. Ha! Who would have thought that in our times there is such honorable people left, like you. Here, take this reward. The whole Las Vegas is thankful to you. I hope you will continue to inform us about such criminal individuals.}
+{251}{}{Now we got 'em! The Black Caravan will soon be reduced to ashes. Ha! Who would have thought that in these times there were still honorable people left, like you. Here, take this reward. The whole of Las Vegas is greatful to you. I hope you will continue to inform us about such criminals.}
 {252}{}{Now that's a reward.}
 
 {253}{}{Can I count on the reward for the disclosure of the laboratory?}
@@ -169,10 +169,10 @@
 {273}{}{Yes, it's not against the rules. You have three minutes.}
 {274}{}{Thanks.}
 
-{275}{}{Stop! Don't move! I've got you at gunpoint, you move - I kill. Now answer, what's the meaning of this?}
+{275}{}{Stop! Don't move! I've got you at gunpoint, you move - I shoot. Now answer me, what's the meaning of this?}
 {276}{}{Hey, do not make hasty decisions! That bastard still got what he deserved...}
 {277}{}{If I tell, I'll have to kill you, too.}
-{278}{}{Well, well. So, personal matter, huh? Something does not look believable. Now tell me, who ordered his assassination? Now!}
+{278}{}{Well, well. So, personal matter, huh? Something doesn't add up. Tell me, who ordered his assassination? Now!}
 {279}{}{It was Orris, one of the Kings gang. He wanted to shut his mouth, just in case. I don't interfere in their affairs, I only follow orders.}
 
 {280}{}{[Hesitatingly] Really?}
