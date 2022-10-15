@@ -34,7 +34,7 @@
 {135}{}{Hmm. Maybe.}
 {136}{}{Fine.}
 
-#Çàêëþ÷åííûé
+#Ã‡Ã ÃªÃ«Ã¾Ã·Ã¥Ã­Ã­Ã»Ã©
 {150}{}{Your friend Murphy is in jail. He asks you for help.}
 {151}{}{Murphy... What did that cretin do again?}
 {152}{}{Cops say that he stole some money, but the story seems pretty shady.}
@@ -43,25 +43,25 @@
 {154}{}{Well, Murphy said I would get a reward...}
 {155}{}{It's just what I am. I like helping people.}
 {156}{}{It's hard for me to say no to people. I lose the feeling of purpose and self-esteem in life.}
-{157}{}{Ha! I'm not going to pay you anything. Now, if you do me a favor and help to deal with Murphy, THEN we can talk about a reward.}
-{158}{}{I don't know what the fuck are you talking about. Nobody does anything without personal gain in Vegas. You do something for me, I do something for you. Get it? So, maybe we can make a deal.}
-{159}{}{You're conceited type. Usually I like such people... Until they start getting in my way. But we can find a common interest. Do you want to hear my offer?}
+{157}{}{Ha! I'm not going to pay you anything. Now, if you do me a favor and help me deal with Murphy, THEN we can talk about a reward.}
+{158}{}{I don't know what the fuck you're talking about. Nobody does anything without personal gain in Vegas. You scratch my back, I scratch yours. Get it? So, maybe we can make a deal.}
+{159}{}{You're the conceited type. Usually I like that... Until they start getting in my way. But we can find a common interest. Do you want to hear my offer?}
 {160}{}{What do you have in mind?}
 
-{161}{}{Murphy is dangerous. It was great dealing with him, sure. We had known each other since we were kids... But if he cracks and gives all our secrets to cops, we will have to leave the city.}
+{161}{}{Murphy is dangerous. It was great dealing with him, sure. We had known each other since we were kids... But if he cracks and gives all our secrets to the cops, we'll have to leave the city.}
 {162}{}{Really, the most simple thing to do is to kill him.}
 {163}{}{I don't do murder, it's not really my thing.}
 {164}{}{Wait, that's not my problem. My job is to deliver the message from Murphy. You figure it out on your own.}
 
-{165}{}{You must be tough to say things like this. How about a deal? If you kill Murphy before he snitches us out, I will try to do you a favor in return. Deal?}
+{165}{}{You must be tough to say things like that. How about a deal? If you kill Murphy before he snitches us out, I will try to do you a favor in return. Deal?}
 {166}{}{Whatever you say, I can't make you. But if you find a way to get Murphy out of trouble, you will get what you deserve. Deal?}
 {167}{}{Yeah... Sure... You're useless. Go away! But if you change your mind - come up with a way to eliminate that cretin.}
-{168}{}{How would I do that in guarded area full of people?}
+{168}{}{How would I do that in a guarded area full of cops?}
 {169}{}{Judging by your looks, you can't pay. What's the catch?}
 {170}{}{I will think about it.}
-{171}{}{I've been in jail once, when I was a kid. So, I know they don't give water to prisoners from the common tap, but from another canister. If you poison the water, every person in a cage will end up dead. Not an ideal solution, but it is better than going against a building full of cops. But maybe for you it's not. I don't know what to expect from you.}
-{172}{}{I have the right connections to get some military drugs. Psycho, Buffout, that kind of thing. I will look everywhere, but I will get it, no matter the costs.}
-{173}{}{What can you repay me with, if I solve the problem with Murphy?}
+{171}{}{I've been in jail once, when I was a kid. So, I know they don't give water to prisoners from the common tap, but from another canister. If you poison the water, every person in the cage will end up dead. Not an ideal solution, but it is better than going against a building full of cops. But maybe for you it's not. I don't know what to expect from you.}
+{172}{}{I have the right connections to get some military drugs. Psycho, Buffout, that kind of thing. I will look everywhere, and I will get it, no matter the cost.}
+{173}{}{What can you repay me with if I solve the...Murphy problem...?}
 {174}{}{[Leave]}
 {175}{}{Did you hear the news? Murphy managed to avoid the prison. Now he's free and happy.}
 
