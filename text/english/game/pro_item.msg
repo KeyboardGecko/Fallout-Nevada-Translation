@@ -1153,7 +1153,7 @@
 {60100}{}{Dirt on Bob Neil}
 {60101}{}{Recording of your conversation with Bob Neil, in which Bob Neil openly asks you to eliminate Hal Wallace.}
 {60200}{}{Soldier badge}
-{60201}{}{This token is engraved with personal information about its owner - name, date of birth, some serial number and other exact data.}
+{60201}{}{This token is engraved with personal information about its owner - name, date of birth, some serial number and other identifying data.}
 {60300}{}{---}
 {60400}{}{---}
 {60500}{}{Power Armor}
