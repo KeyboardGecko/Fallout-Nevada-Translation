@@ -100,27 +100,27 @@
 {215}{}{Very interesting, but I have to go.}
 
 #Âîïðîñû ïðî "Ñêîðîñòíîãî ßñòðåáà" -- Âåòåð Âîéíû è Âåãàñ:
-{216}{}{Have you heard anything about the "Speed Hawk"? Some say the guys were attacked by raiders...}
+{216}{}{Have you heard anything about the "Speed Hawk" caravan? Some say the guys were attacked by raiders...}
 {217}{}{I did. Everyone here have already heard this story. To lose both product and people at the same time is bad luck. Those who's left must be scattered around. I saw one of them recently, looking for his own.}
 {218}{}{One of them is here? I should go look for him...}
-{219}{}{Have you seen any survivors of the "Speed Hawk"?}
+{219}{}{Have you seen any survivors of the "Speed Hawk" caravan?}
 {220}{}{I saw one. The poor guy was wandering around. I think he's gone to Vegas by now. But you can ask people here, maybe you'll learn something.}
 {221}{}{Right. Thanks.}
-{222}{}{Have you heard about what happened to "Speed Hawk"?}
-{223}{}{Yes, the boys got extremely unlucky. A shame, it was a good caravan. I don't think they'll find the rest of the guys. If they didn't show up by now, that means none of them survived. Otherwise they would have made it to Vegas by now.}
+{222}{}{Have you heard about what happened to the "Speed Hawk" caravan?}
+{223}{}{Yes, the boys got extremely unlucky. A shame, it was a good caravan. I don't think they'll find the rest of the guys. If they didn't show up by now, that means none of them survived. Otherwise they would have made it to Vegas already.}
 {224}{}{Yeah, sad story.}
 
 #Âîïðîñû ïðî Ëûñîãî Ìàêñîíà -- Âåãàñ:
 {225}{}{Remind me, were you accompanied from New Reno to Vegas by a bald weirdo with a scar on his neck?}
-{226}{}{No, nothing like this. I would remember.}
+{226}{}{No, nothing like that. I would remember.}
 {227}{}{Damn, no luck.}
 {228}{}{Wait a minute! I think I've seen someone matching this description with another caravan. Ask around, maybe you'll learn something.}
 {229}{}{Okay!}
-{230}{}{Wait a minute! There was one fella. I do not know his name, but he traveled with us all the way from New Reno to Vegas... And he was definitely bald. But I do not know where he went after that. Probably he's having a good time in Clean City.}
-{231}{}{Hmm, thanks! I should look for him there...}
+{230}{}{Wait a minute! There was one fella. I don't know his name, but he traveled with us all the way from New Reno to Vegas... And he was definitely bald. But I don't know where he went after that. He's probably having a good time in Clean City.}
+{231}{}{Hmm, thanks! I'll look for him there...}
 
 #Âîïðîñû ïðî àðòåçèàíñêèé ÷èï -- Ñîëò-Ëåéê:
-{232}{}{Do you know, where to get a filter for artesian tower in Salt Lake?}
+{232}{}{Do you know where to get a filter for the artesian tower in Salt Lake?}
 {233}{}{If I knew, I would be bathing in gold.}
 {234}{}{Wow, okay.}
 
@@ -152,23 +152,23 @@
 
 {294}{}{Around the outskirts of Reno and Vegas there is always some small gang waiting for you. The most famous ones are the Windmill people, the Caverners, the Sanders, the Bighorns and the Scorpions. Besides, to the south of highway there is a tribe of savages. Sometimes they come down from the mountains to hunt people. Luckily, they don't have the guts to attack caravans, which can't be said about lone travelers.}
 {295}{}{Savages?}
-{296}{}{They are called Coyotes, even though nobody know anything about them. We know for sure that they are cannibals and that they are using custom weapons made from the old agricultural tech. They live high in the mountains, so nobody goes there. Some were lucky to stumble upon abandoned camps of those animals. That is all that is known. Nobody cares about them, besides, maybe, the slavers.}
+{296}{}{They are called Coyotes, even though nobody knows anything about them. We know for sure that they are cannibals and that they're using custom weapons made from some old agricultural tech. They live high in the mountains, so nobody goes there. Some were lucky to stumble upon the abandoned camps of those animals. That's all I know. Nobody cares about them besides, maybe, the slavers.}
 
 {300}{}{Tell me, how is it out there - in the Wasteland?}
-{301}{}{It is harsh. We are forced to travel on pre-war highways because it is faster and more convenient than walking across the desert. But the raiders know this too, so we are always on guard when approaching gas stations and small settlements.}
+{301}{}{It is harsh. We are forced to travel on pre-war highways because it's faster and more convenient than walking across the desert. But the raiders know this too, so we are always on guard when approaching gas stations and small settlements.}
 {302}{}{Between which cities do you trade?}
-{303}{}{So, most travelers are using the highways? I will remember that. Bye.}
+{303}{}{So, most travelers are using the highways? I'll remember that. Bye.}
 
 {304}{}{What settlements have you seen on your travels?}
-{305}{}{Right. That is all, I wanted.}
+{305}{}{Right. That's all I wanted.}
 
 {306}{}{I trade between New Reno and Salt Lake.}
 {307}{}{I trade between New Reno and Las Vegas.}
-{308}{}{I trade between New Reno and Las Vegas. And here, in the Wind of War, we have a temporary stopover.}
+{308}{}{I trade between New Reno and Las Vegas. And we have a temporary stopover here, in Wind of War.}
 {309}{}{I trade between Las Vegas and Salt Lake.}
 
-{310}{}{Can you show me, where is the second city?}
-{311}{}{[Caravan merchant marks the final destination point of their caravan on the map] Here.}
+{310}{}{Can you show me where the second city is?}
+{311}{}{[Caravan merchant marks the final destination point of their caravan on your pipboy] Here.}
 {312}{}{Thanks! I have another question.}
 {313}{}{Thanks! That's exactly what I needed.}
 
