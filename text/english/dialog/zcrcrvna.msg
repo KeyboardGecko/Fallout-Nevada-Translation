@@ -51,7 +51,7 @@
 {171}{}{Salt Lake. Dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of being stabbed in the back - and you can make a fine trade.}
 {172}{}{Salt Lake. The city may be a little dirty but, if not for my work, it would be where I'd settle down. You won't find a better place to live in the whole region. Everyone has a job and way to make a living, without worrying about being stabbed in the back. A good place.}
 
-{175}{}{Wind of War. A military settlement. These are people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
+{175}{}{Wind of War. A military settlement. These are people who consider themselves Kings of the Wasteland, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
 
 {179}{}{Fine, let's go back a little.}
 
