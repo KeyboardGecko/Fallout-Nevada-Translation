@@ -650,7 +650,7 @@
 {33000}{}{Small chest}
 {33001}{}{Old rusted chest, designed for storage.}
 {33100}{}{"Super-science"}
-{33101}{}{Perhaps the only pre-war magazine, entirely dedicated to the topic of energy weapons. Readers snapped it up like hotcakes, so to find one is a great luck!}
+{33101}{}{Perhaps the only pre-war magazine entirely dedicated to the topic of energy weapons. Readers snapped it up like hotcakes, so finding one is remarkably good luck!}
 {33200}{}{M3A1 "Grease Gun" SMG}
 {33201}{}{This submachine gun filled National Guard arsenals after the Army replaced it with newer weapons. However, the "Grease Gun" was simple and cheap to manufacture so there are still quite a few still in use. Min. ST: 4.}
 {33300}{}{Heart Pills}
