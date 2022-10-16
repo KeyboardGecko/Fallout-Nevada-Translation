@@ -5,4 +5,4 @@
 {104}{}{Die, you scum!}
 {105}{}{Screw this - they can keep the bounty.}
 {106}{}{I'm outta here.}
-{107}{}{The job isn't worth it.}
+{107}{}{This job isn't worth it.}
