@@ -187,7 +187,7 @@
 {289}{}{Oh no! [Attack]}
 
 {290}{}{Murphy is innocent. I have evidence.}
-{291}{}{Very unpleasant story. City Hall employees are usually the standard of a respectable citizen. I hope you understand that this should stay private. The matter is not only in Irvine's crime, but also in the general situation. His example may be followed by others, not to mention the reputation of a Clean City. As for Murphy, we'll have to let him go. Although, I think it will bite us in the ass later.}
+{291}{}{That's a very unpleasant story. City Hall employees are usually the model of a respectable citizen. I hope you understand this should stay private. Not only about Irvine's crime, but also in general. His example may be followed by others, not to mention the reputation of the Clean City. As for Murphy, we'll have to let him go. Even though I think it will bite us in the ass later.}
 {292}{}{Great.}
 
 {293}{}{I had personal grievances. It's the truth.}
