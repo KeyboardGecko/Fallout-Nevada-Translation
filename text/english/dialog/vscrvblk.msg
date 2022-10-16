@@ -1,17 +1,17 @@
 {100}{}{A covered wagon.}
-{101}{}{A wagon is tightly covered, so no one could see what's inside.}
+{101}{}{The wagon is tightly covered so no one could see what's inside.}
 {102}{}{Hmm... Are you sure you want to do that?}
 {103}{}{Not in combat!}
 {104}{}{You won't get anything from this wagon.}
 
-#после юзанья повозки
-{105}{}{You see a caravan wagon, but it carries not the things many would think it should!}
+#ГЇГ®Г±Г«ГҐ ГѕГ§Г Г­ГјГї ГЇГ®ГўГ®Г§ГЄГЁ
+{105}{}{You see a caravan wagon, but it doesn't carry what many would think it should!}
 {106}{}{[Hide in the wagon and wait for the caravan merchants to move out]}
-{107}{}{Now I know, who supplies drugs to Vegas!}
+{107}{}{Now I know who supplies drugs to Vegas!}
 {108}{}{Leave it alone.}
 
 {109}{}{Just a wagon. What's next?}
-{110}{}{You discovered a drug supplier in Vegas. Interesting, would the police be interested in that?}
+{110}{}{You discovered a drug supplier in Vegas. Interesting...would the police be interested in that?}
 
 {111}{}{This wagon is now just junk, because it's owners are dead and the content is stolen.}
 {112}{}{}
