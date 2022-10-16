@@ -29,7 +29,7 @@
 {117}{}{[Sighs] Well, okay! Ask your stupid question!}
 {118}{}{Hello. What do you want?}
 {119}{}{Hello. Wanna make 10 bucks? We need someone to replace a Brahmin... HA-HA-HA!!!}
-{120}{}{Oh! Just when we need free labor! You're just in time!... HA-HA-HA!!!}
+{120}{}{Oh! Just in time! We needed some free labor!... HA-HA-HA!!!}
 
 ###############################################################
 #       Ðàññïðîñû ïðî òåêóùèé ãîðîä
@@ -40,9 +40,9 @@
 #Îòâåòû äëÿ êàæäîãî ãîðîäà:
 {151}{}{What's there to say? It's nothing special. Not the best city around these parts.}
 
-{152}{}{New Reno. City on a par with hell. There is even a similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Even the Wasteland is safer than this!}
-{153}{}{New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. In short, you have to be careful here. Now's not the best time to be in this city, that's for sure.}
-{154}{}{New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can easily get a lot of trouble on your ass.}
+{152}{}{New Reno. City on par with hell. There's even a similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Even the Wasteland is safer than this!}
+{153}{}{New Reno. City on par with hell. Even has its own Devil, despite that not long ago there were two of them. In short, you have to be careful here. Now's not the best time to be in this city, that's for sure.}
+{154}{}{New Reno. City on par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can easily get a lot of trouble on your ass.}
 
 {160}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading.}
 {161}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading... Except there are some strange things going on. But that's not our problem.}
