@@ -71,7 +71,7 @@
 
 #After obtaining permission to enter
 {170}{}{Come in, come in, don't just stay in there.}
-{171}{}{Wait, let me piss on your leg first. This is the local custom in the wasteland.}
+{171}{}{Wait, let me piss on your leg first. It's the local custom in the wasteland.}
 {172}{}{Okay.}
 
 {173}{}{Eh?! Ew! Get away from me!}
