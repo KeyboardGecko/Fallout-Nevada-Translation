@@ -84,12 +84,12 @@
 {180}{}{Did you know that some of your subordinates attacked one of the Vegas caravans?}
 
 {181}{}{I've heard the rumors. I wonder who is spreading this misinformation and why.}
-{182}{}{Misinformation? So you straight out deny that possibility? I happened to had a chance to visit the site of the attack and found a personal tag of one of your soldiers. What do you say to that?}
+{182}{}{Misinformation? So you straight out deny that possibility? I happened to have a chance to visit the site of the attack and found a personal tag from one of your soldiers. What do you say to that?}
 {183}{}{[Pauses] I should have known. My men are not the same as before.}
 {184}{}{What does it mean? I thought Wind of War is known as a defender of the offended and helpless...}
-{185}{}{It is. But to keep order in our region is hard work. And sometimes the guys need to let off some steam. Apparently, they smelled easy money and succumbed to temptation.}
+{185}{}{It is. But its hard work keeping order in our region. And sometimes the guys need to let off some steam. Apparently, they smelled easy money and succumbed to temptation.}
 {186}{}{It's not the first time, right? Does it mean that your men are gradually turning into raiders?}
-{187}{}{I have to admit that this is partly true. I try to restrain them, put worthy ideas in their heads, give them something to look up to, but the level of motivation and discipline keeps dropping. This problem did not occur just yesterday.}
+{187}{}{I have to admit that this is partly true. I try to restrain them, put worthy ideas in their heads, give them something to look up to, but the level of motivation and discipline keeps dropping. This problem didn't start yesterday.}
 {188}{}{Right. So what about the stolen goods?}
 {189}{}{Let me see what I can do about that.}
 {190}{}{I'll wait...}
