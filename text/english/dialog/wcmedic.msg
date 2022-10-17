@@ -105,13 +105,13 @@
 #Medical aid to the beaten up caravaneer
 {250}{}{Hurry! One of the caravaneers needs medical help!}
 
-{251}{}{Uh... [shakes his head] Another one was painted? It often happens here.}
+{251}{}{Uh... [shakes his head] Another one was beaten? Happens a little too often here.}
 {252}{}{Here's $100. Help him!}
 {253}{}{}
-{254}{}{I'll paint you worse, if you don't help him. Hurry up, old fart!}
+{254}{}{I'll beat you worse if you don't help him. Hurry up, old fart!}
 {255}{}{You shouldn't be so heartless!}
 
-{256}{}{To think about it - why not...}
+{256}{}{I'm thinking about it - alright, why not...}
 {257}{}{That's right. Come on! Come on!}
 
 #Women's replies
