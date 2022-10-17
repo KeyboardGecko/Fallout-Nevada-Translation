@@ -19,23 +19,23 @@
 # About the stones with symbols
 ####################################################################
 
-{118}{}{I found a stone with the coat of arms on it. You know what is it?}
+{118}{}{I found this stone with a coat of arms on it. You know what it is?}
 {119}{}{[With bulging eyes he studies the stone for some time] You know, I won't tell you what it is, but I'll buy it. I can only say that you *definitely* can't make any use of it.}
 {120}{}{Hmm, what a confidence. And what's the price?}
 {121}{}{Two hundred.}
 {122}{}{I'll think about your offer.}
 {123}{}{Okay. Let's exchange.}
-{124}{}{What is there to think about? For you it's a useless piece of stone. And I'll even pay for it a little. Who else would buy a piece of stone?}
+{124}{}{What is there to think about? For you it's a useless piece of stone. And I'll even pay a little for it. Who else would buy a piece of stone?}
 {125}{}{Fair enough, let's exchange.}
-{126}{}{Hmm, isn't there a catch? Perhaps I won't be in a hurry to make the exchange.}
-{127}{}{Careful! He can roll away into some crevice!}
+{126}{}{Hmm, is there a catch? Maybe I shouldn't be in a hurry to make this exchange.}
+{127}{}{Careful! He might roll away into some crevice!}
 {128}{}{Don't worry! I'll get it back...}
-{129}{}{Here is the money. By the way, if you find the second one, also carry it to me, okay?}
+{129}{}{Here's the money. By the way, if you find the second one bring it to me, okay?}
 {130}{}{Okay.}
 {131}{}{I decided to sell you this piece of stone. Here.}
 {132}{}{I have found the second stone! Will you buy it?}
 {133}{}{Well, thank you!}
-{134}{}{You are welcome... Although it's all somehow strange. I have a feeling that something very important has been hidden from me. Goodbye.}
+{134}{}{You're welcome... though it's all strange somehow. I have a feeling that something very important has been hidden from me. Goodbye.}
 
 ####################################################################
 # Purchasing a batch of grenades
@@ -45,7 +45,7 @@
 {136}{}{Heh... Funny. All the *special* weaponry is stocked in the base warehouses, here we have only the most primitive weapons. Our boss is no fool, he realizes that sold weapons could be used directly against us, so it's the other way around - it's him who is buying "special weapons for special prices". Got it?}
 {137}{}{As if you can't take something from the warehouse. [wink]}
 {138}{}{Okay.}
-{139}{}{Well... I can [leans towards you and lowers his voice] get some plasma grenades. Small loss, no one will notice. And as for the rest - I'll pass. It is dangerous.}
+{139}{}{Well... I can [leans towards you and lowers his voice] get some plasma grenades. Small loss, no one will notice. And as for the rest - I'll pass. It's too dangerous.}
 {140}{}{I agree on the grenades. How much time do you need?}
 {141}{}{No, I do not need this.}
 {142}{}{Two days and 2500 bucks. It's expensive, considering the actual cost of the grenades, but the risk is on me and I have to share with others, you know what I'm saying?}
