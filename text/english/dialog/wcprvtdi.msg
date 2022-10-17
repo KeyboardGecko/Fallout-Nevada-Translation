@@ -11,7 +11,7 @@
 # Åñëè èãðîê íå ïîëó÷èë êâåñò îò êàðàâàíùèêà
 #======================================================
 
-{110}{}{[The man looks at you inhospitably from under his eyebrows as he continues to carefully clean his "Desert Eagle" with a piece of cloth.] What do you want? If it's about that caravaneer again, you'd better be passing by. Today I can't stand the civilians especially hard.}
+{110}{}{[The man looks at you inhospitably from under his eyebrows as he continues to carefully clean his "Desert Eagle" with a piece of cloth.] What do you want? If it's about that caravaneer again, you'd better be passing by. Today I can't stand civilians especially hard.}
 {111}{}{Calm down, I AM passing by.}
 
 #======================================================
@@ -28,12 +28,12 @@
 #Ðàçãîâîð äî îïîçíàíèÿ âîÿêè
 {120}{}{[The man looks at you inhospitably from under his eyebrows as he continues to carefully clean the "Desert Eagle" with a piece of cloth.] What do you want? If it's about that caravaneer again, you'd better be passing by. Today I can't stand the civilians especially hard.}
 {121}{}{And what if it's about him? Rumor has it that the military was involved.}
-{122}{}{Just wanted to take a closer look on your gun. You don't see a good weapon often these days.}
+{122}{}{Just wanted to take a closer look at your gun. You don't see a good weapon often these days.}
 {123}{}{Why are you so nervous? Okay, I'm leaving... Bye.}
 
 {124}{}{Yeah, it's a cool gun... Got it for honorable service. You civilians don't understand what a gun can mean to a soldier! On the battlefield, separately, we are useless. But together we are a walking death factory! That's right, you bastards!!!}
 {125}{}{You don't say? For what honorable services? Wasn't it for the recent cleanup at the train station? Well, don't worry - I'll ask Wesker over a glass of whiskey.}
-{126}{}{So you value your personal weapon? Can you ever remember its ID?}
+{126}{}{So you value your personal weapon? Can you even remember its ID?}
 {127}{}{Then I'll leave you with *your* piece... Ahem... Anyway, bye.}
 
 {128}{}{Eh... 20... Hey, what are you trying to sniff out here? That's my trophy, okay?! The enemy can attack at any time, and guns should be in the hands of someone who knows how to use them! And that idiot in the caravan didn't even take the safety off... Oh, fuck...}
@@ -53,15 +53,15 @@
 {139}{}{}
 
 {140}{}{He looks at you inhospitably from under his eyebrows as he continues to carefully clean the "Desert Eagle" with a piece of cloth.] Is there a problem, civilian ape?}
-{141}{}{About that assault on a caravan - do you know something? Rumor has it that the military was involved.}
+{141}{}{About that assault on the caravan - do you know something? Rumor has it the military was involved.}
 {142}{}{Just wanted to take a closer look on your gun. You don't see a good weapon often these days.}
-{143}{}{Is there a reason for such hate burst? Okay, I'll go... Bye.}
+{143}{}{Is there a reason for such an out-burst? Okay, I'll go... Bye.}
 
-{150}{}{What would you know about honor, you desert hobo?! If it weren't for us, you would all have been slaves long ago. And what thanks do we get? These hagglers from the wastelands rip us off every time! So it's only fair to take what's ours, even by force.}
+{150}{}{What would you know about honor, you desert hobo?! If it weren't for us, you all would have been slaves long ago. And what thanks do we get? These hagglers from the wastelands rip us off every time! So it's only fair to take what's ours, even by force.}
 {151}{}{You did the right thing, letting it slip. Now back to the point.}
 {152}{}{You go on – I'll be back soon.}
 {153}{}{What are you babbling about? Watch yourself - one kick to the jaw and you won't be able to speak for a week.}
-{154}{}{...And on top of that - unauthorized abandonment of a military unit. What was that talk about an "untarnished honor of the uniform"?}
+{154}{}{...And on top of that - abandoning your military unit. What was that talk about the "untarnished honor of the uniform"?}
 {155}{}{Just like that, in full view of everyone? Aren't you afraid of the general's spies?}
 {156}{}{[He looks around] They won't turn in one of their own.}
 {157}{}{You say "won't turn in"? You are fighting for values of the old America! Where's your honor!? What about your conscience!?}
@@ -69,13 +69,13 @@
 {159}{}{}
 
 #Ðàçãîâîð ïîñëå îïîçíàíèÿ âîÿêè
-{160}{}{[Spits under your feet] You think some civilian rat can press me against the wall? Don't forget which turf you're standing on!}
+{160}{}{[Spits under your feet] You think some civilian rat can push me against the wall? Don't forget who's turf you're standing on!}
 {161}{}{You can only babble while surrounded by your friends! Let's go out of the perimeter, you and me!}
 {162}{}{It's a good gun, of course, but it's not suitable for large-scale combat. Maybe you could trade it in for something better?}
-{163}{}{Let's go ask Wesker? Let him explain when he sold the territory to marauders and deserters.}
+{163}{}{Let's go ask Wesker? Let him explain why he sold the territory to marauders and deserters.}
 {164}{}{Take it easy - I'm leaving.}
 
-{165}{}{Ha! Someone's got a death wish? Alright, I'm always ready to beat some shit out of pesky civilians!}
+{165}{}{Ha! Someone's got a death wish? Alright, I'm always ready to beat the shit out of some pesky civilian!}
 {166}{}{Well, move your ass out of the perimeter. It's time to find out who's right.}
 {167}{}{A bit later, Jimmy, a bit later...}
 
