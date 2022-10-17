@@ -6,7 +6,7 @@
 {111}{}{I just want to know how is the life in these slums.}
 {112}{}{Just passing through. So I better get out of here.}
 
-{113}{}{Shitty, as you can see. This is not Clean City - we have no electricity, no water, the houses crumble as we speak. I don't know how long we can last in these conditions.}
+{113}{}{Shitty, as you can see. This is not Clean City - we have no electricity, no water, the houses crumble as we speak. I don't know how long we can last under these conditions.}
 {114}{}{What is this place? A hostel?}
 {115}{}{Is there anyone in charge?}
 {116}{}{Why is Clean City thriving while you live in conditions like this?}
