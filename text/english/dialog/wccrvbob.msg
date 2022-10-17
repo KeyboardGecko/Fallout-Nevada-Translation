@@ -1,7 +1,7 @@
 {100}{}{You see a caravaneer Bobby.}
 {101}{}{You see a badly beaten up caravan merchant.}
 
-#Случайные фразы:
+#Г‘Г«ГіГ·Г Г©Г­Г»ГҐ ГґГ°Г Г§Г»:
 {110}{}{::moans::}
 {111}{}{Oh, my teeth hurt...}
 {112}{}{Time to quit this job.}
@@ -19,7 +19,7 @@
 {124}{}{Why me?!}
 {125}{}{I'm going to avoid this settlement from now on.}
 
-#Начало диалога
+#ГЌГ Г·Г Г«Г® Г¤ГЁГ Г«Г®ГЈГ 
 {200}{}{[You see a beaten up man. He's hurt, he groans, but no one helps him for some reason.]}
 {201}{}{Don't twitch, I'll heal you. I'm a doctor.}
 {202}{}{Hold on, I'll call the doctor to help.}
@@ -33,32 +33,32 @@
 {208}{}{Thanks for the help.}
 {209}{}{See you in Vegas, maybe.}
 
-#После оказания медпомощи
+#ГЏГ®Г±Г«ГҐ Г®ГЄГ Г§Г Г­ГЁГї Г¬ГҐГ¤ГЇГ®Г¬Г®Г№ГЁ
 {210}{}{Oh... That's so much better. Thanks for the help.}
-{211}{}{Now tell me, who painted you like this?}
+{211}{}{Now tell me, who beat you up like this?}
 
 {212}{}{A couple of soldiers from the garrison! Who else?}
 {213}{}{I bet you provoked them. Am I right?}
 {214}{}{For real? How could they! They didn't have any reason to do that, right?}
 {215}{}{Pretty strange behavior for a paramilitary settlement. Aren't they supposed to protect the caravan merchants here? }
 
-{216}{}{Are you crazy?! Why would I do that?! No matter what you do, you'll still get a boot in your face for no reason.}
-{217}{}{You're a good person, but you still don't get it. They don't need a *reason*. They'll come up with something, if needed.}
+{216}{}{Are you crazy?! Why would I do that?! No matter what you do, you'll still get a boot in your face...and for no reason.}
+{217}{}{You're a good person, but you still don't get it. They don't need a *reason*. They'll come up with something if necessary.}
 {218}{}{Yes, many still share this common misconception. But the truth is, they are no longer people who care about your safety. Just give them a reason, and they'll rob you blind.}
 {219}{}{Why are the locals so fierce?}
-{220}{}{Because they can. They think they are better than everyone. Whoever has better weapons and thicker armor is the hero of the wasteland, get it? So, they act like they own these parts.}
+{220}{}{Because they can be. They think they're better than everyone. Whoever has better weapons and thicker armor is the hero of the wasteland, get it? So, they act like they own these parts.}
 {221}{}{So, why did they do this to you?}
 
-{222}{}{For my gun and some money. I shouldn't have shown it. Somebody told the military, and soon this Jimmy and his gang showed up. They demanded I hand over my gun. I refused, and that's the result.}
+{222}{}{For my gun and my money. I shouldn't have shown it off. Somebody told the military, and soon this Jimmy and his gang showed up. They demanded I hand over my gun. I refused, and this is the result.}
 {223}{}{Tell me about your gun.}
-{224}{}{Who's that Jimmy and where to find him?}
+{224}{}{Who's this Jimmy and where do I find him?}
 {225}{}{Is it forbidden to carry a gun in these parts?}
 {226}{}{Now I get it. Okay, bye.}
 {227}{}{A "Desert Eagle" with a leather grip and improved barrel. Mutated ant drops dead from a single shot. Great gun.}
 {228}{}{One of the privates. He always hangs around the checkpoint. Young and brassy bastard.}
-{229}{}{No! Not exactly. It's forbidden only within their garrison. They'll shoot you up for this. And this is a free parking, such rules do not apply here. But does Jimmy care?}
+{229}{}{No! Not exactly. It's forbidden only within their garrison. They'll shoot you up for this. But this is the parking area, the same rules don't apply here. But does Jimmy care?}
 
-#Завершение квеста
+#Г‡Г ГўГҐГ°ГёГҐГ­ГЁГҐ ГЄГўГҐГ±ГІГ 
 {230}{}{Hey, thanks for the help. Soon I'll leave this place and try to not come back.}
 {231}{}{Hey, thanks for the help. Soon I'll leave this place and try to not come back. I miss my gun, though. It's not reasonable to walk around the wasteland without a gun.}
 {232}{}{Right. Bye.}
