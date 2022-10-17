@@ -3,7 +3,7 @@
 
 {105}{}{Thank you so much!}
 
-#Плавающие реплики:
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ:
 {110}{}{I fucked up royally!}
 {111}{}{How could I get myself into this!}
 {112}{}{18 carat run of bad luck...}
@@ -25,7 +25,7 @@
 {128}{}{We were transporting some thing to Salt Lake...}
 {129}{}{Why no one wants to take me to Vegas? I'm an experienced caravaneer!}
 
-#Начальный диалог:
+#ГЌГ Г·Г Г«ГјГ­Г»Г© Г¤ГЁГ Г«Г®ГЈ:
 
 {200}{}{[You see a worried caravaneer] Uh... Hello, wanderer! I guess you came to me for a reason, but believe me, I'm not in the mood to help anybody.}
 {201}{}{What do you mean?}
@@ -42,13 +42,13 @@
 {213}{}{Tell me your story.}
 {214}{}{On a second thought, I don't need anything.}
 
-{215}{}{My name's Bibbit. I'm a caravaneer. What else to say? Cool guy and all that, but that's beside the point.}
+{215}{}{My name's Bibbit. I'm a caravaneer. What else can I say? Cool guy and all that, but that's beside the point.}
 {216}{}{Licking my wounds after a tough caravan run. Wasteland turned out to be a ruthless bitch this time. If not for my survival skills, I'd be already eaten by pig rats or something worse.}
 {217}{}{I'm in big trouble, that's my story. If you want details, it's gonna take a while, as I'm unable to tell it any other way. It'll cost you only a small fee... Hehe. I'm just kidding. But I really need the money. A lot.}
 {218}{}{If you need money, sell something.}
 {219}{}{}
 
-{220}{}{Looks like quite a situation. Shit happens, I guess?}
+{220}{}{Looks like I'm in quite a situation. Shit happens, I guess?}
 {221}{}{That's your problem. I'm interested in something else.}
 {222}{}{Could you elaborate?}
 {223}{}{Help? Me?! Not that I am a wimp or piss-pants, but it's a difficult situation, you see. And in this case... I do need a little support, so to speak.}
@@ -67,17 +67,17 @@
 
 {234}{}{You think I'm enjoying this?! Every peanut in my life was honestly earned, and now I'm in a dire situation with no obvious way out.}
 {235}{}{How much do you need?}
-{236}{}{I need to get to Vegas very badly. But caravaneers don't help for free, they ask for a prepayment. Here it's every man for himself. That's how it is.}
+{236}{}{I need to get to Vegas very badly. But the caravaneers won't help for free, they ask for payment in advance. Here it's every man for himself. That's how it is.}
 {237}{}{How much do you need?}
 {238}{}{You're a caravaneer, right? So, what's stopping you from reaching Vegas?}
-{239}{}{By myself?! Oh no, I'm not that stupid. My fellows are lost, and other caravans refuse to pick me up without prepayment, because I'm a stranger to everyone else.}
+{239}{}{By myself?! Oh no, I'm not that stupid. My fellows are lost, and other caravans refuse to pick me up without pre-paying, because I'm a stranger to everyone else.}
 
 {240}{}{Too bad, the only one thing I could offer is this comic book.}
 {241}{}{Just what I need. Here's your 200 bucks for a comic book.}
 {242}{}{No, I don't need it.}
 {243}{}{I'd better go, until you start to sell me your pants.}
 
-{244}{}{Okay, that's fair. But now I can pay for the escort - that's what really matters. Thanks, wanderer.}
+{244}{}{Okay, that's fair. Now I can pay for the escort - that's what really matters. Thanks, wanderer.}
 {245}{}{Now, are you going to tell me what happened to your caravan?}
 {246}{}{You're welcome. Happy trails.}
 
@@ -86,7 +86,7 @@
 {249}{}{Go on.}
 {250}{}{Then tell me another time.}
 
-#История каравана
+#Г€Г±ГІГ®Г°ГЁГї ГЄГ Г°Г ГўГ Г­Г 
 {300}{}{So, we were transporting goods from Reno to Vegas. And, as always, we stopped at Wind of War to refill our water supply and get some sleep.}
 {301}{}{What, too scared to sleep in the wasteland?}
 {302}{}{I understand. It is a smart move.}
@@ -96,44 +96,44 @@
 {305}{}{Okay, pretty reasonable. What's next?}
 {306}{}{Good excuse. What's next?}
 
-{307}{}{We spent the night here at the train station. By morning we were ready to leave. But suddenly a soldier comes up to us and starts asking us where we're going and what we're transporting. And you should keep your mouth shut with these military.}
+{307}{}{We spent the night here at the train station. By morning we were ready to leave. But suddenly a soldier comes up to us and starts asking us where we're going and what we're transporting. And you should keep your mouth shut with this military.}
 {308}{}{Why are these soldiers so insolent?}
-{309}{}{Does this story lead to something or not?}
-{310}{}{Sound familiar. Oh, these militant to the bone...}
+{309}{}{Does this story go somewhere or not?}
+{310}{}{Sounds familiar. Oh, those militants to the bone...}
 
-{311}{}{Ask them. They probably think that they are in charge here and run the show. Did you see that guy with the broken face in the next room? Here's how it is.}
+{311}{}{Ask them. They probably think they're in charge here and run the show. Did you see that guy with the broken face in the next room? That's how it is.}
 {312}{}{Of course, I told you it's gonna be a long story!}
-{313}{}{Oh, these soldiers... But let's get back to your caravan.}
+{313}{}{Oh, those soldiers... But let's get back to your caravan.}
 
-{314}{}{Right. So, this guy comes to us, starts to get on our nerves with his questions, all that important, ugh... And he was also drunk. We barely managed to fend him off. It's good that we didn't get into a fistfight.}
+{314}{}{Right. So, this guy comes to us, starts to get on our nerves with his questions, all self important, ugh... And he was also drunk. We barely managed to fend him off. It's a good thing we didn't get into a fistfight.}
 {315}{}{So?}
 {316}{}{Things could become worse right there. You were lucky.}
 {317}{}{Wait a moment, I'm trying to recall the sequence of events...}
 {318}{}{Sure.}
 
-{319}{}{Then we moved on to Vegas, taking the route along the highway. But then our leader said that's where the raiders usually set up ambushes. Let's go through the desert, he said, off-road.}
+{319}{}{Then we moved on to Vegas, taking the route along the highway. But then our leader said that's where the raiders usually set up ambushes. Let's go through the desert, he said, off-road, he said.}
 {320}{}{Yeah-yeah, I've seen such leaders. Any signs of danger - and...}
 {321}{}{Hmm. Safer, but slower.}
-{322}{}{Hey, don't start! If you get into that kind of trouble a couple of times, you'll become cautious, too.}
+{322}{}{Hey, don't start! If you get into that kind of trouble more than once, you'ld be cautious, too.}
 {323}{}{Okay-okay, go on.}
 
-{324}{}{We told him that to change the route meant losing a day. So we got to the gas station in the evening, by dusk.}
+{324}{}{We told him that changing the route meant losing a day. So we got to the gas station in the evening, by dusk.}
 {325}{}{You really like talking to yourself, don't you?}
 {326}{}{Gas station?}
 {327}{}{Go on.}
 
-{328}{}{An old gas station. We always make a stop there on the way from Wind of War to Vegas. A convenient checkpoint. It's always nice to sleep under the roof than in the tent in the middle of desert.}
+{328}{}{An old gas station. We always make a stop there on the way from Wind of War to Vegas. A convenient checkpoint. It's always nice to sleep under a roof than in a tent in the middle of the desert.}
 {329}{}{I'm gonna fall asleep because of your story... Eh... Go on!}
 {330}{}{Of course.}
 
-{331}{}{So, we went to sleep... When suddenly I hear - someone's coming!}
+{331}{}{So, we went to sleep... When suddenly I hear - someone coming!}
 {332}{}{Finally, something interesting in your story!}
-{333}{}{And? Who was that?}
+{333}{}{And? Who was it?}
 
-{334}{}{While the others were asleep, I got up, went outside, and suddenly got it right in the face - BA-AAM!!! A shin of a fucking boot! And I'm falling on the floor! All the guys jumped up and grabbed their guns. Well, I thought, here comes the fun part.}
+{334}{}{While the others were asleep, I got up, went outside, and suddenly got it right in the face - BA-AAM!!! The shin of a fucking boot! And I'm falling on the floor! All the guys jumped up and grabbed their guns. Well, I thought, here comes the fun part.}
 {335}{}{A shootout?}
 
-{336}{}{These bastards got us surrounded from every side. Two of ours got shot right away, others started running away. Good thing I made it into the bu... Eh... As I said, I know a lot of tricks, so I disappeared in the most appropriate time.}
+{336}{}{These bastards got us surrounded from every side. Two of ours got shot right away, the others started running away. Good thing I made it into the bu... Eh... As I said, I know a lot of tricks, so I disappeared at the most appropriate time.}
 {337}{}{What happened next?}
 
 {338}{}{I don't know! Darkness, shots, bustle. The raiders at the gas station were still kicking the shit out of someone when I left.}
@@ -152,19 +152,19 @@
 
 {349}{}{Hello, wanderer!}
 
-#Определение каравана
+#ГЋГЇГ°ГҐГ¤ГҐГ«ГҐГ­ГЁГҐ ГЄГ Г°Г ГўГ Г­Г 
 {350}{}{You were saying that you're a caravaneer...}
 {351}{}{Yes, that's it... I mean, I was. Now I'm not so sure. Our guys ran away and I don't know if they are still live.}
 {352}{}{And what was that caravan called?}
 {353}{}{Right, bye.}
 
 {354}{}{"Speed Hawk". A pretty small team.}
-{355}{}{I know them. Four of your friends have recently been parked in Vegas.}
+{355}{}{I know them. Four of your friends were parked in Vegas recently.}
 {356}{}{Oh, so you don't know... Friend, be strong, all your comrades were killed. Everyone.}
 {357}{}{Sounds familiar. I'll return if I remember something about it.}
 
 {358}{}{You've found the last remaining member of "Speed Hawk".}
-{359}{}{Great news! I'll go to them as soon as possible! Thank you, wanderer, I'm so glad I've met you!}
+{359}{}{Great news! I'll go to them as soon as possible! Thank you, wanderer. I'm so glad I met you!}
 {360}{}{You don't want to add anything?}
 {361}{}{So long.}
 
