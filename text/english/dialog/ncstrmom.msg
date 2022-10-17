@@ -1,19 +1,19 @@
 {100}{}{You see Mom.}
 {101}{}{You see the owner of the night club.}
 
-#После изнасилования 'олпой фана'ов
+#ГЏГ®Г±Г«ГҐ ГЁГ§Г­Г Г±ГЁГ«Г®ГўГ Г­ГЁГї 'Г®Г«ГЇГ®Г© ГґГ Г­Г 'Г®Гў
 {102}{}{Oh my God! What have they done to you?!}
 
-#В момен' убийс'ва Мамаши
+#Г‚ Г¬Г®Г¬ГҐГ­' ГіГЎГЁГ©Г±'ГўГ  ГЊГ Г¬Г ГёГЁ
 {103}{}{After this the club will be closed to you forever.}
 
 ################################################################3
 #
-# С'ар'овые диалоги
+# Г‘'Г Г°'Г®ГўГ»ГҐ Г¤ГЁГ Г«Г®ГЈГЁ
 #
 ################################################################3
 
-#Для ГГ-мужчины:
+#Г„Г«Гї ГѓГѓ-Г¬ГіГ¦Г·ГЁГ­Г»:
 {110}{}{[Looks you up and down] Young man, this is a staff only room. I allow visitors here only for business, so if you have no business with me, I have to ask you to leave.}
 {111}{}{I need to talk to you.}
 {112}{}{No, I have no business with you... }
@@ -24,7 +24,7 @@
 
 {116}{}{Every girl has potential, you are no exception. But you'll have to put in some work. Girls with a look like yours have trouble turning the crowd on.}
 
-#Для ГГ-женщины
+#Г„Г«Гї ГѓГѓ-Г¦ГҐГ­Г№ГЁГ­Г»
 {120}{}{[Studies you from the legs up] What is it, girl?}
 {121}{}{I would like to perform in the club.}
 {122}{}{I don't even know, I just walked into the wrong room.}
@@ -46,7 +46,7 @@
 {134}{}{Okay!}
 {135}{}{Maybe later. I have some things to do.}
 
-#Первые смо'рины в каморке
+#ГЏГҐГ°ГўГ»ГҐ Г±Г¬Г®'Г°ГЁГ­Г» Гў ГЄГ Г¬Г®Г°ГЄГҐ
 {136}{}{What confidence! Okay, show me what you got. }
 {137}{}{[Change clothes and demonstrate your potential]}
 
@@ -68,30 +68,30 @@
 {151}{}{Mmm! I believe in you. Well, then come back in the morning any day you're ready, we'll put you on the stage.}
 {152}{}{Thank you! I will! Be sure about that!}
 
-#Для де'оубийц
+#Г„Г«Гї Г¤ГҐ'Г®ГіГЎГЁГ©Г¶
 {160}{}{Just like me, all of my girls are very caring towards children. We've seen your face on wanted posters all over the city. Get out of my club.}
 {161}{}{[Leave quietly.]}
 {162}{}{[Lie] I will explain! This is a setup from my rivals... }
 {163}{}{Oh, I understand. If this is true, it explains a lot. I'm not sure I can trust you, but at least you can stay in the club.}
 {164}{}{Better than nothing.}
 
-#Для де'оубийц
+#Г„Г«Гї Г¤ГҐ'Г®ГіГЎГЁГ©Г¶
 {170}{}{You had a drunken fight here recently. Do you know anything about it?}
-{171}{}{Yes, one of Stryker's men started bothering the girls. When the guards tried to calm him down, he provoked a fight and injured one of the guards with a piece of a broken glass. Our boys threw him out onto the street.}
-{172}{}{You do know that Stryker is one of the most powerful people in the city, right? One think you'd be more careful with his men.}
+{171}{}{Yes, one of Stryker's men started bothering the girls. When the guards tried to calm him down, he provoked a fight and injured one of the guards with a piece of broken glass. Our boys threw him out onto the street.}
+{172}{}{You do know that Stryker is one of the most powerful people in the city, right? One would think you'd be more careful with his men.}
 {173}{}{}
 {174}{}{Did he wear shades?}
 {175}{}{Thanks, that's all I wanted to know.}
-{176}{}{Typically we tolerate drunken antics. But with this guy it was different. He thinks too much of himself because of his relationship with Stryker. He thought it would make him invincible. We needed to show that even people like him should follow the rules and behave. If not, then they know that they will receive a baton to the head and be out on the street.}
+{176}{}{Typically we tolerate drunken antics. But with this guy it was different. He thinks too much of himself because of his relationship with Stryker. He thought it would make him invincible. We needed to show that even people like him need to follow the rules and behave. If not, then they know they'll receive a baton to the head and be out on the street.}
 {177}{}{I don't know anything about it. There was a fight, I didn't care about shades or anything.}
 
 ################################################################3
 #
-# Выс'упления ГГ на 'анцполе
+# Г‚Г»Г±'ГіГЇГ«ГҐГ­ГЁГї ГѓГѓ Г­Г  'Г Г­Г¶ГЇГ®Г«ГҐ
 #
 ################################################################3
 
-#Общая с'ар'овая реплика
+#ГЋГЎГ№Г Гї Г±'Г Г°'Г®ГўГ Гї Г°ГҐГЇГ«ГЁГЄГ 
 {200}{}{Here is our sweet girl! How are you feeling?}
 {201}{}{Here is our sweet girl! How are you?}
 {202}{}{Here is our sweet girl! Came to conquer the dance floor?}
@@ -102,7 +102,7 @@
 {210}{}{I want to perform!}
 {211}{}{Just came by to say hi.}
 
-#Попы'ка напроси'ься на следующее выс'упление
+#ГЏГ®ГЇГ»'ГЄГ  Г­Г ГЇГ°Г®Г±ГЁ'ГјГ±Гї Г­Г  Г±Г«ГҐГ¤ГіГѕГ№ГҐГҐ ГўГ»Г±'ГіГЇГ«ГҐГ­ГЁГҐ
 {219}{}{Have you missed the dance floor? But it's not the right time yet. Come around 9 to 10 pm.}
 {220}{}{Very good, but this is not a good time. Come by in the morning before lunch, between 8 and 12 am.}
 {221}{}{Okay.}
@@ -116,7 +116,7 @@
 {228}{}{Wait, I'm not ready.}
 {229}{}{Can't believe you missed the dance floor so much, right? But it's not the time yet. Come by at 1 am tonight.}
 {230}{}{Oh, I like your passion! Well, it's the exact time to entertain the audience.}
-{231}{}{Wait... [her face changes] You know... I want to say... I'm glad that you still do this. Now is a very tough time for everyone in the city, and to make a whole club work is even harder. But, you see... Only don't be scared! I didn't mention troublesome clients just for show. There is one really nasty guy. Stay away from him. I wish I could find that son of a bitch. The things I would do to him... He appears from nowhere and does such horrible things to our girls! Look out for... Ted Bundy. Remember this name and avoid it. Okay? Now go to the dance floor. You've got this, sweetie!}
+{231}{}{Wait... [her face changes] You know... I want to say... I'm glad that you still do this. Now is a very tough time for everyone in the city, and to make a whole club work is even harder. But, you see... Only don't be scared! I didn't mention troublesome clients just for show. There is one really nasty guy. Stay away from him. I wish I could find that son of a bitch. The things I would do to him... He appears out of nowhere and does horrible things to our girls! Look out for... Ted Bundy. Remember this name and avoid it. Okay? Now head to the dance floor. You've got this, sweetie!}
 {232}{}{I'm not afraid of any Ted Bundy. Let's go!}
 {233}{}{Great! Let's not waste time - change your clothes and go to your audience. They are waiting for you.}
 
@@ -140,7 +140,7 @@
 {248}{}{I remember our talk, but now is not the best time for dancing. Come by as usual - 9 to 10 pm.}
 {249}{}{Everything is ready. The audience is waiting! Come on, baby, make me proud! This is your chance to shine!!!}
 
-#Завершение выс'уплений и получение гонорара
+#Г‡Г ГўГҐГ°ГёГҐГ­ГЁГҐ ГўГ»Г±'ГіГЇГ«ГҐГ­ГЁГ© ГЁ ГЇГ®Г«ГіГ·ГҐГ­ГЁГҐ ГЈГ®Г­Г®Г°Г Г°Г 
 {250}{}{Honey, you're going to make it, if you work hard. Here is your first payment. I hope you will come again. Come at earlier in the afternoon, we'll see how you do when there are more customers.}
 {251}{}{My first payment! Thanks!}
 {252}{}{Not bad for the first performance! Girls like you have a future. Come by at the later at the same time and we'll make another show. Oh, yes, here is your money. [She winks and whispers in your ear] You did good!}
@@ -154,11 +154,11 @@
 
 {259}{}{You earn an achievement for mastering the art of burlesque.}
 
-#Прокаженный
+#ГЏГ°Г®ГЄГ Г¦ГҐГ­Г­Г»Г©
 {260}{}{I'm so sorry, but I can't let you in looking like this. Look at you - not one spot is untouched by illness. Nobody will look at your performance, even under a layers of makeup. Sorry.}
 {261}{}{Oh no... }
 
-#Плавающие фразы Мамаши во время выс'уплений ГГ
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГґГ°Г Г§Г» ГЊГ Г¬Г ГёГЁ ГўГ® ГўГ°ГҐГ¬Гї ГўГ»Г±'ГіГЇГ«ГҐГ­ГЁГ© ГѓГѓ
 {270}{}{What a body!}
 {271}{}{Good girl!}
 {272}{}{Yes, slower, honey, slower!}
@@ -181,11 +181,11 @@
 
 ################################################################3
 #
-# Расспросы по линейке квес'ов клуба
+# ГђГ Г±Г±ГЇГ°Г®Г±Г» ГЇГ® Г«ГЁГ­ГҐГ©ГЄГҐ ГЄГўГҐГ±'Г®Гў ГЄГ«ГіГЎГ 
 #
 ################################################################3
 
-#Про убийс'во Банди
+#ГЏГ°Г® ГіГЎГЁГ©Г±'ГўГ® ГЃГ Г­Г¤ГЁ
 {300}{}{I have to tell you something about Ted Bundy.}
 
 {302}{}{[Her eyes widen in shock] My God, baby, have you seen him?!}
@@ -211,14 +211,14 @@
 {319}{}{Of course, as you wish. But if you change your mind - remember, the proposition still stands.}
 {320}{}{I will think about it.}
 
-#Про фо'ографию с 'ела Банди
+#ГЏГ°Г® ГґГ®'Г®ГЈГ°Г ГґГЁГѕ Г± 'ГҐГ«Г  ГЃГ Г­Г¤ГЁ
 {350}{}{I found a photo on that freak. Do you know who is she?}
 {351}{}{Oh, yes. That's Susie, she had such a great body. But she disappeared a long time ago. Pretty girls like her don't live long in Reno... [she sighs sadly] You know, this is a very sad story. I don't want to talk about it.}
 {352}{}{I understand... }
 {353}{}{I told you already, I have nothing else to say. Susie disappeared six months before Ted began his attacks. I don't know what happened to her. But I don't think it was something good.}
 {354}{}{Right... }
 
-#Девушка найдена в Вегасе
+#Г„ГҐГўГіГёГЄГ  Г­Г Г©Г¤ГҐГ­Г  Гў Г‚ГҐГЈГ Г±ГҐ
 {360}{}{That girl from the photo - Susie. I found her in Vegas!}
 {361}{}{Oh God! It's been so long. It means she survived, did she escape Ted?}
 {362}{}{It seems she was the reason Ted lost his mind. Susie couldn't satisfy his sexual desires and they broke up. Then Ted began taking revenge on beautiful women. He cut out their eyes because he always loved to kiss Susie's eyelashes.}
@@ -231,11 +231,11 @@
 
 ################################################################3
 #
-# Прочее
+# ГЏГ°Г®Г·ГҐГҐ
 #
 ################################################################3
 
-#Биле' для Хардинга
+#ГЃГЁГ«ГҐ' Г¤Г«Гї Г•Г Г°Г¤ГЁГ­ГЈГ 
 {380}{}{I would like to talk to you about a... Troublesome person. His name is Harding.}
 {381}{}{Harding? I can't remember anyone by that name.}
 {382}{}{He visits the anonymous club for the mentally ill.}
