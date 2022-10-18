@@ -73,4 +73,4 @@
 {176}{}{Really?! Great... Did you do that? I wish I could be like you. Fearless. So I could defend myself... Thank you. I will quit stealing now. I will try to find a job. If I won't... I don't know, what I will do. But I definitely won't steal anymore!}
 {177}{}{Good boy.}
 {178}{}{Orris forgave your "debt". Now you don't have to steal.}
-{179}{}{Really?! Great... How did you do that? If not for you, I would do this for two more years at least, that's for sure. I wish I was like that - fearless, so I could decide by myself what to do... Thank you. I will quit stealing now. I will try to find a job. If I won't... I don't know, what I will do. But I definitely won't steal anymore!}
+{179}{}{Really?! Great... How did you do that? If not for you, I'd be doing this for two more years at least, that's for sure. I wish I was like that - fearless, so I could decide by myself what to do... Thank you. I'll quit stealing now. I will try to find a job. If I can't... I don't know what I will do. But I definitely won't steal anymore!}
