@@ -3,7 +3,7 @@
 {102}{}{Hello.}
 
 {110}{}{Hello. [coughs] Just coming by? Or you're here for a reason?}
-{111}{}{I just want to know how life is in these slums.}
+{111}{}{I just wanted to know: How's life in the slums?}
 {112}{}{Just passing through. So I better get out of here.}
 
 {113}{}{Shitty, as you can see. This is not Clean City - we have no electricity, no water, the houses crumble as we speak. I don't know how long we can last under these conditions.}
