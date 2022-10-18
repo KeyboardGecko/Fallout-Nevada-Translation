@@ -1397,7 +1397,7 @@
 {72700}{}{Tire armor}
 {72701}{}{Pretty awkward and disgustingly smelling rubber armor. But is this important when it comes to the impact of electricity or radiation?}
 {72800}{}{Electric spear}
-{72801}{}{An effective police tool to disperse a mob of rebels. Repeatedly used before the war. Min. ST: 4.}
+{72801}{}{An effective police tool to disperse a mob of rioters. Widespread use before the war. Min. ST: 4.}
 {72900}{}{Pistol 10mm #80}
 {72901}{}{Obsolete model of self-loading pistol Colt 6520 caliber 10mm. Judging by the markings on the body, it was produced in 2051. Min. ST: 3.}
 {73000}{}{Pistol 10mm with flashlight}
