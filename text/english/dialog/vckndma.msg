@@ -6,26 +6,26 @@
 {111}{}{Nothing.}
 {112}{}{I'm on business here. What are you doing?}
 {113}{}{On business... I'm on business too. And this business doesn't concern you.}
-{114}{}{So you're the one that owns thief Kevin in the Clean City?}
+{114}{}{So you're the one who owns that thief Kevin in the Clean City?}
 {115}{}{Huh? Never heard of him.}
 {116}{}{He was caught in the act and spat everything out.}
 
-{117}{}{F-fucking pussy... I don't know why are you interested in that boy, perhaps it is pity or something else. But know this - he was a thief long before I showed up.}
-{118}{}{Hmm. Tell me, how did he ended up owing you.}
-{119}{}{Something tells me that you do it not because you like him.}
-{120}{}{Let me make it short: how much does he owes you?}
+{117}{}{F-fucking pussy... I don't know why you're interested in that boy, is it pity or something else? But know this - he was a thief long before I showed up.}
+{118}{}{Hmm. Tell me, how did he end up owing you.}
+{119}{}{Something tells me you don't do it because you like him.}
+{120}{}{Let me cut to the chase: how much does he owe you?}
 {121}{}{Tell me about your gang.}
 {122}{}{It's time for me to go. Bye.}
 
-{123}{}{His parents died some time ago. Only his elder sister left. I wanted to help her, honestly. Paid for her treatment, but in the end she died too. That boy lived for some time on my money. I took care of him, supported him all this time. But now it's time for him to bring something to the table.}
+{123}{}{His parents died some time ago. Only his elder sister is left. I wanted to help her, honestly. Paid for her treatment, but in the end she died too. That boy lived off my money for some time. I took care of him, supported him all this time. But now it's time for him to bring something to the table.}
 {124}{}{Consider for now that I'm Kevin's brother: I take care of him, feed him, I treated his sister. What else do you want?}
-{125}{}{[Laughs] Time goes - the debt grows. It's a lot of money. But listen, if you want to help him so bad, then we can make a deal. Bring me a laser pistol, a police model. It's an expensive toy, you can get one only in Clean City. Can you do it? If you will, we can consider Kevin's debt paid off.}
+{125}{}{[Laughs] Time goes - the debt grows. It's a lot of money. But listen, if you want to help him so bad, then we can make a deal. Bring me a laser pistol, a police model. It's an expensive toy, you can only get one in Clean City. Can you do it? If you do, we can consider Kevin's debt paid off.}
 {126}{}{About the Kings? Well, we are quite famous. We have many nasty fellas in our gang and we are all around the city. I advise you not to get in our way. If not for the police, we would rule the whole Vegas already.}
 
 {127}{}{Right. You tricked the boy in order to make him feel guilty. And he turned out a good pickpocket. And now you want to "milk" him infinitely.}
-{128}{}{[Surprised] I sense thieves from a mile away. And I saw TALENT in Kevin. And I see that you are not so bad yourself. But the spot in Vegas is occupied. So steer clear from my turf.}
+{128}{}{[Surprised] I sense thieves from a mile away. And I saw TALENT in Kevin. And I see that you're not so bad yourself. But that spot in Vegas is occupied. So steer clear of my turf.}
 
-{129}{}{It just so happened that I have this pistol. Here, take it. Are we done?}
+{129}{}{It just so happens I have this pistol. Here, take it. Are we done?}
 {130}{}{I managed to get the pistol. Here, take it. Are we done now?}
 {131}{}{[Smiles, examining the pistol] Debt? There was no debt. I tricked the boy, because even back then I knew that he would make a great pickpocket. But I was honest about his sister. We had a relationship. And I really cared about her. I just didn't have enough time to... Look. The boy is free now. Just tell him to steer clear from the outskirts of Vegas.}
 {132}{}{What do you mean?}
@@ -35,14 +35,14 @@
 {136}{}{Fine.}
 
 #Çàêëþ÷åííûé
-{150}{}{Your friend Murphy is in jail. He asks you for help.}
+{150}{}{Your friend Murphy is in jail. He's asking you for help.}
 {151}{}{Murphy... What did that cretin do again?}
-{152}{}{Cops say that he stole some money, but the story seems pretty shady.}
+{152}{}{Cops say he stole some money, but the story seems pretty shady.}
 
 {153}{}{And you? Why are you running around for somebody else? What is your interest?}
 {154}{}{Well, Murphy said I would get a reward...}
 {155}{}{It's just what I am. I like helping people.}
-{156}{}{It's hard for me to say no to people. I lose the feeling of purpose and self-esteem in life.}
+{156}{}{It's hard for me to say no to people. I lose that feeling of purpose and self-esteem in life.}
 {157}{}{Ha! I'm not going to pay you anything. Now, if you do me a favor and help me deal with Murphy, THEN we can talk about a reward.}
 {158}{}{I don't know what the fuck you're talking about. Nobody does anything without personal gain in Vegas. You scratch my back, I scratch yours. Get it? So, maybe we can make a deal.}
 {159}{}{You're the conceited type. Usually I like that... Until they start getting in my way. But we can find a common interest. Do you want to hear my offer?}
