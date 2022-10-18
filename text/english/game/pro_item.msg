@@ -1028,7 +1028,7 @@
 {53000}{}{Fireplace}
 {53001}{}{Once a beautiful decorative fireplace with a photograph of an Indian philosopher.}
 {53100}{}{Laser pistol (police.)}
-{53101}{}{Laser pistol Wattz 1500, police model. Power higher than civilian models thanks to the use of crystals instead of cheap diodes. Min. ST: 3.}
+{53101}{}{Laser pistol Wattz 1500, police model. Higher power than civilian models thanks to the use of crystals instead of cheap diodes. Min. ST: 3.}
 {53200}{}{---}
 {53300}{}{---}
 {53400}{}{---}
