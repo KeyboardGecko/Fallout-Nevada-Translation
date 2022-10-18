@@ -12,34 +12,34 @@
 {115}{}{I have evidence that proves his innocence regarding his involvement with drugs in the city! Seems like someone mistook this food supplement for a drug.}
 {116}{}{I just wanted to ask - how is the case going?}
 {117}{}{Hmm, nothing, I suppose. Just asking.}
-{118}{}{So that's what it is! Then I'll simply put handcuffs on you and put you in a cell, so you think next time before wasting police officer's time.}
+{118}{}{So that's what this is! Then I'll simply put handcuffs on you and put you in a cell, so you think next time before wasting police officer's time.}
 {119}{}{Oh no, not in a cell! I'd better walk away quietly.}
 
 {120}{}{Can I know why you are interested in this case?}
 {121}{}{Sam Phillips... Er... Owes me money, and I'm worried.}
 {122}{}{Sam Phillips is my friend and I don't want him to go to prison!}
-{123}{}{I'm investigating the crime under orders from the mayor himself.}
+{123}{}{I'm investigating this crime under orders from the mayor himself.}
 {124}{}{No reason. Why?}
-{125}{}{Your boss has given me a civil job to snitch Phillips.}
+{125}{}{Your boss gave me a civil job to snitch Phillips.}
 
-{126}{}{Oh, then this changes things. At first we have been contacted by anonymous individual and notified that Phillips makes drugs in his cafe. We went at the site, and found there some of that yellow stinky crap. Our specialists still try to figure out what is it. But they are still struggling, so if they can't identify this substance, then I don't know, how all this is going to end.}
+{126}{}{Oh, that changes things. At first we were contacted by and anonymous individual who notified us that Phillips makes drugs in his cafe. We went to the site and found some yellow stinky crap. Our specialists are still try to figure out what it is. But they're still struggling, and if they can't identify this substance then I don't know how this is all going to end.}
 {127}{}{Yellow substance? Like this? [show an emulsifier]}
 {128}{}{Hmm. Okay.}
-{129}{}{Then you'll have to hurry, because during the search in the cafe we found a dubious yellow substance resembling one of the components for the production of drugs. Most likely, he will be sent to prison.}
-{130}{}{Oh shit, is it really that bad?}
-{131}{}{Oh so he's your friend! Well then, guys, you'll have to say goodbye to each other, because soon Sam Phillips will be behind bars in prison. End of story.}
-{132}{}{Damn it, is it really that bad?}
+{129}{}{Then you'll have to hurry, because during the cafe search we found a suspicious yellow substance resembling one of the components for drug production. He will, most likely, be sent to prison.}
+{130}{}{Oh shit, is this really that bad?}
+{131}{}{Oh so he's your friend! Well then, guys, you'll have to say goodbye to each other, because soon Sam Phillips will be behind bars. End of story.}
+{132}{}{Damn it, is this really that bad?}
 {133}{}{Drugs?! I don't believe you! You're lying!}
-{134}{}{[Examines you from head to foot] Independent detective? How interesting. Well, here's how it is. We have been contacted by an anonymous individual, he said that Sam Phillips makes drugs. We went to the cafe, searched it and found some of that yellow stinky crap there. We're not sure yet what it is, but most likely his guilt will be proven by that alone.}
+{134}{}{[Examines you from head to toe] Independent detective? How interesting. Well, here's how it is. We were contacted by an anonymous individual who said that Sam Phillips makes drugs. We went to the cafe, searched it and found some of that yellow stinky crap. We're not sure yet what it is, but most likely his guilt will be proven by that alone.}
 {135}{}{Now I see. Thanks.}
 
-{136}{}{Yes. It is exactly the same thing we found at Phillips cafe! Where did you get that?}
+{136}{}{Yes. That is exactly the same thing we found at Phillips cafe! Where did you get that?}
 {137}{}{From Bob. He is a caravan merchant from Salt Lake, from whom Sam buys this stuff.}
-{138}{}{How interesting. This means, this drug is being brought from Salt lake?}
-{139}{}{It's not a drug! This is a harmless food supplement for pizza. That is all.}
-{140}{}{Yes! And you should as soon as possible to eliminate these supplies, so others would not be hurt!}
+{138}{}{How interesting. That means, this drug is being brought from Salt lake?}
+{139}{}{It's not a drug! This is a harmless food supplement for pizza. That's all.}
+{140}{}{Yes! And you should eliminate these supplies as soon as possible so others don't get hurt!}
 {141}{}{How interesting. So what is this drug?}
-{142}{}{Wow... Food supplement... It doesn't look like it. But... How would I know how food supplement looks like? So that's why our specialists can't figure this stuff out. Well, I think your expertise is enough to prove Sam Phillips innocence.}
+{142}{}{Wow... Food supplement... It doesn't look like that. But... How would I know what a food supplement looks like? So that's why our specialists can't figure this stuff out. Well, I think your expertise is enough to prove Sam Phillips innocence.}
 {143}{}{That's great! I'll go tell him.}
 {144}{}{You, of course, are right, and we will do that immediately. Phillips will be arrested, and you, as this case warrants, will be rewarded. Here, 1000$. Thank you, civilian, for your cooperation. I hope you will continue to notify us about any crimes that may be occurring.}
 {145}{}{Heh, easy money.}
