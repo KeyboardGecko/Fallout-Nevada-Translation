@@ -42,7 +42,7 @@
 {154}{}{In order to stop attacks from the police and remove the conspiracy factor, the management of the Pound sought to legalize business in the Clean City. To do this the Pound tried to take up production of various "peaceful" medications such as stimpaks and painkillers.}
 
 #Öåëè íà ñëåäóþùèé ãîä
-{160}{}{The highest priority goals: 1. Complete "Bromine-LSD"; 2. Organize a stable delivery line to New Reno; 3. Reduce the death rate among the slaves by 15% and more; 4. Replicate the recipe of a fighting stimulant from Reno.}
+{160}{}{The highest priority goals: 1. Complete "Bromine-LSD"; 2. Organize a stable delivery line to New Reno; 3. Reduce the death rate among the slaves by 15% or more; 4. Replicate a fighting stimulant recipe from Reno.}
 
 #Äîñòèæåíèå "Çíàõàðü"
 {170}{}{See more about medicinal herbs.}
