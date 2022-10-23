@@ -1152,7 +1152,7 @@
 {60001}{}{The notes and recordings found in "The Pound" laboratory. They contain information regarding production and shipment of narcotic substanses in large quantities during the last few months. You notice a mention of an unusual buyer among others - the "Three-card Monte" casino.}
 {60100}{}{Dirt on Bob Neil}
 {60101}{}{Recording of your conversation with Bob Neil, in which Bob Neil openly asks you to eliminate Hal Wallace.}
-{60200}{}{Soldier badge}
+{60200}{}{Soldier's Dog Tags}
 {60201}{}{This token is engraved with personal information about its owner - name, date of birth, some serial number and other identifying data.}
 {60300}{}{---}
 {60400}{}{---}
