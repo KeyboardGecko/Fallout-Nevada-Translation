@@ -6,24 +6,24 @@
 
 #First dialogue
 {110}{}{Buddy, I'm so glad to see you! How is it going?}
-{111}{}{All good... I think. And how are you? Have you recovered after Wind of War?}
-{112}{}{[Waves his hand] Everything is fine! I won't set a foot in that place ever again. I will now go with the caravans between Salt Lake and Vegas, as for the Wind - not a single step in that direction! By the way, wanna have a bite? [he takes out a handful of little nuts]}
+{111}{}{All good... I think. And how are you? Have you recovered since Wind of War?}
+{112}{}{[Waves his hand] Everything's fine! I won't set foot in that place ever again. I'll be working with the caravans between Salt Lake and Vegas, as for Wind of War - not a single step in that direction! By the way, wanna have a bite? [he takes out a handful of little nuts]}
 {113}{}{What is this?}
-{114}{}{Vocas. The guys just got back from Salt Lake City. You know, there's a great salt lake there. A mutated water lily grows there, it doesn't grow anywhere else. Twice a year it blooms and produces nuts. Nibble them, you won't regret it. They taste bitter, but they help to flush all kinds of harmful crap out of your body. Useful stuff, in short.}
+{114}{}{Vocas. The guys just got back from Salt Lake City. You know, there's a great salt lake there. A mutated water lily grows there, it doesn't grow anywhere else. Twice a year it blooms and produces nuts. Nibble them, you won't regret it. They taste bitter, but they help to flush all kinds of harmful crap out of your body. In short, useful stuff.}
 {115}{}{Thank you. But where is Salt Lake?}
-{116}{}{Well, thank you. Was happy to see you.}
+{116}{}{Well, thank you. These look like tasty nuts.}
 {117}{}{What a nonsense. And no, thanks.}
 {118}{}{To the north. About as far as New Reno from here. Let me show it on your map.}
-{119}{}{Thanks. Maybe I'd wind up there someday.}
-{120}{}{If you are going to take a trip there, make sure to bring enough clean water with you. There is a serious problem with it in the city. When you reach the outskirts, you'll immediately get what I mean - the smell of rot and moisture is everywhere.}
+{119}{}{Thanks. Maybe I'll wind up there someday.}
+{120}{}{If you're going to make a trip there, make sure to bring enough clean water with you. There is a serious problem with it in the city. When you reach the outskirts, you'll immediately see what I mean - the smell of rot and moisture is everywhere.}
 {121}{}{Noted. Bye.}
 
 #About The Black Caravan
 {122}{}{Hello there, friend!}
-{123}{}{Are you going to hang around there forever? What are your plans?}
+{123}{}{Are you going to hang around here forever? What are your plans?}
 {124}{}{Do you know anything about the caravans transporting dangerous products? Drugs, for example.}
 {125}{}{Hello. And bye.}
-{126}{}{Plans? I have to work! Took a job in the caravan to Salt Lake. Usually I get enough from one trip to rest quietly in Vegas for a couple of weeks. What other plans can a caravan merchant have?! That's as simple as that.}
+{126}{}{Plans? I have to work! Took a job in the caravan to Salt Lake. Usually I get enough from one trip to rest quietly in Vegas for a couple of weeks. What other plans can a caravan merchant have?! It's as simple as that.}
 {127}{}{Nevermind.}
 {128}{}{I stay away from those things. Bad business.}
 {129}{}{But you still know something, right?}
