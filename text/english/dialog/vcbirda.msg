@@ -163,10 +163,10 @@
 {352}{}{Tell me, you son of a bitch!!! Or I will *make* you speak!!!}
 {353}{}{Right.}
 
-{354}{}{Why do I get all of this! Raiders, junkies, you! No life for honest worker! Ahem... [lowers his voice] Listen, we call them "Black Caravan". It's a few guys, rather quiet. They make a stop at a backyard behind this building, push the product to someone and silently leave at night. That is all I know, so leave me alone.}
+{354}{}{Why do I get all of this! Raiders, junkies, you! No life for honest worker! Ahem... [lowers his voice] Listen, we call them the "Black Caravan". It's a few guys, rather quiet. They make a stop at a backyard behind this building, push the product to someone and silently leave at night. That is all I know, so leave me alone.}
 {355}{}{That's better! Instead of "don't know", "don't wanna know", blah-blah-blah...}
 
-{356}{}{Why do you need them for?! Ugh, fine, it's your business. But we don't deal with them. I only know that they make a stop behind this building, push the product to someone and leave. We call them "Black Caravan". I don't know anything else about them, we don't have business with such kind...}
+{356}{}{What do you need them for?! Ugh, fine, it's your business. But we don't deal with them. I only know they make a stop behind this building, push the product to someone and leave. We call them the "Black Caravan". I don't know anything else about them, we don't do any business with them...}
 {357}{}{Right.}
 
 #Female character
