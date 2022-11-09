@@ -1,7 +1,7 @@
 {100}{}{You see a caravan master.}
 
 #Ïîïûòêà çàãîâîðèòü, êîãäà ÃÃ ñòàë âðàãîì êàðàâàíùèêîâ (ðåïóòàöèÿ "Ïðîêëèíàþò")
-{102}{}{Would you look at that, the death of a caravan merchant himself in front of me. You think I will shit my pants in fear? No. Forget it.}
+{102}{}{Would you look at that, the death of the caravan merchant himself in front of me. You think I'll shit my pants in fear? No. Forget it.}
 
 {103}{}{I don't want anything from you. Bye.}
 
@@ -44,8 +44,8 @@
 {153}{}{New Reno. City on par with hell. Even has its own Devil, despite that not long ago there were two of them. In short, you have to be careful here. Now's not the best time to be in this city, that's for sure.}
 {154}{}{New Reno. City on par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can easily get a lot of trouble on your ass.}
 
-{160}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading.}
-{161}{}{Las Vegas. A city that is always lively and much safer than the rest. A great place to relax and do some trading... Except there are some strange things going on. But that's not our problem.}
+{160}{}{Las Vegas. A city that's always lively but much safer than the rest. A great place to relax and do some trading.}
+{161}{}{Las Vegas. A city that's always lively but much safer than the rest. A great place to relax and do some trading... Except for the weird stuff going on. But that's not our problem.}
 
 {170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet the population is more peaceful than in New Reno. At least you don't have to be afraid of being stabbed in the back.}
 {171}{}{Salt Lake. Dirty city, yet the population is more peaceful than in New Reno. At least here you don't have to be afraid of being stabbed in the back - and you can make a fine trade.}
@@ -79,7 +79,7 @@
 #Âîïðîñû ïðî ñòîÿíêó áàéêåðîâ:
 {196}{}{Do bikers ever come around here? Have you met them?}
 {197}{}{They do come here, but rarely. Never stay for long. They usually hang out in the bar, beat someone up, then leave in the morning. It's easier to meet them around the caravan routes, where they like to race their loud piles of metal. A real spectacle, by the way.}
-{198}{}{Do you know if they have some regular place to stay? Where they can always be found, if someone needs them?}
+{198}{}{Do you know if they have some regular place to stay? Where they can be found if someone needs them?}
 {199}{}{If you were a stranger, I'd say that I don't know. Bikers don't want everyone to learn about their hideout. But since it's you, I can mark it on your map.}
 {200}{}{Show me.}
 {201}{}{I don't know. Perhaps, someone else knows, someone who walks other trading routes.}
