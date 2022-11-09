@@ -1,5 +1,5 @@
 {100}{}{You see Sam Phillips.}
-{101}{}{You see Sam Phillips, the owner of "Hard Rock" cafe.}
+{101}{}{You see Sam Phillips, the owner of the "Hard Rock" cafe.}
 
 {110}{}{[Sighs] What is this about, young man?}
 {111}{}{I got here by accident, and I'm certainly not here to talk business. I'm out of here.}
@@ -76,8 +76,8 @@
 {176}{}{My God! I did not think Hal is so greedy... Well, I will not grieve if he gets his due. I did not get into his business and will not do so in the future, especially for the purpose of revenge. Thanks for telling me.}
 {177}{}{You're welcome.}
 
-{178}{}{What can you tell me about this substance? Caravaneer admitted that he delivers it for you.}
-{179}{}{Oh, you too... Just like it was with the Police. This is for pizza. It's not easy to find enough grains to make a normal dough nowadays, so we produce it using all sorts of things - adding cardboard, for example. And the dough turns out to be so tough that it's impossible to chew! So we add this emulsifier E30. This particular additive is being extracted from the depths of the Salt Lake, it enriches the taste and makes the dough softer... A harmless thing, but it is better not to try on its own, otherwise you will be obliged to spend the night in the toilet.}
+{178}{}{What can you tell me about this substance? The caravaneer admitted he delivers it for you.}
+{179}{}{Oh, you too... Just like the Police. This is for pizza. It's not easy to find enough grains to make normal dough nowadays, so we produce it using all sorts of ingredients - adding cardboard, for example. And the dough turns out to be so tough it's impossible to chew! So we add this emulsifier E30. This particular additive is extracted from the depths of Salt Lake, it enriches the taste and makes the dough softer... A harmless additive, just don't try it on its own, or you'll be obliged to spend the night in the toilet.}
 {180}{}{Hmm...}
 
 ####################################################################
