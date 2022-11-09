@@ -1127,7 +1127,7 @@
 {58800}{}{Killer's note}
 {58801}{}{Evidence, left on the body of the killer in the parking lot in New Vegas. It seems that, that techie from the Wind of War put a hit on you! And used his own people.}
 {58900}{}{Emulsifier E30}
-{58901}{}{A crumbling yellow substance with an unbearable smell of hundreds of garbage cans. The appearance does not inspire confidence either.}
+{58901}{}{A crumbling yellow substance with an unbearable smell like hundreds of garbage cans left out in the sun all day. The appearance doesn't inspire much confidence either.}
 {59000}{}{Geller's confession}
 {59001}{}{Holodisk with a recording you made during your conversation with Larry Geller. In the conversation, Larry confessed that he once produced drugs. This will be enough for the police.}
 {59100}{}{Slaver's receipt}
