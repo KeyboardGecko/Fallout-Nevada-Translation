@@ -35,26 +35,26 @@
 {131}{}{Uh... May I ask why? I thought the Nuka-Cola factory needed it more, for example.}
 {132}{}{That's right. Our city already has problems with healthcare and clean water. The ability to generate a lot of clean water could become a real scourge for the city and provoke a lot of conflicts, if put in the wrong hands.}
 {133}{}{What conflicts? Between whom?}
-{134}{}{For example, between the general population and the factory. If we give the filter to the city, the factory will suffer a serious loss of profits, which will also affect the jobs. Given that the factory is the industrial base for the city and the main local enterprise, nothing good will come of it. The worse the situation at the factory, the worse the situation for the population.}
+{134}{}{Between the general population and the factory, for example. If we give the filter to the city, the factory will suffer a serious loss of profits, which will also affect jobs. Given that the factory is the industrial base for the city and the main local enterprise, nothing good will come of it. The worse the situation at the factory, the worse the situation for the population.}
 {135}{}{Then why not to give the filter to the factory?}
-{136}{}{Because the factory will seize the water supply, using it for business and not for the benefit of the population. Many would be outraged by that. I suggest to find a neutral side that would equalize the situation. I'm the sheriff - I'm that side. Sell the filter to me and such problems will be avoided.}
+{136}{}{Because the factory will seize the water supply, using it for business and not for the benefit of the population. Many would be outraged by that. I suggest finding a neutral party that would equalize the situation. I'm the sheriff - I'm that party. Sell the filter to me and these problems will be avoided.}
 {137}{}{And what price would you pay?}
-{138}{}{Ten thousand, I can't get more from the treasury, our city is not that rich. The factory will probably offer you more, but I've already told you how it could end. Think about it.}
+{138}{}{Ten thousand. I can't get more from the treasury, our city is not that rich. The factory will probably offer you more, but I've already told you how it would end. Think about it.}
 {139}{}{Deal.}
 {140}{}{I'll think about it and make a decision later.}
 {141}{}{It's up to you. But you'd better consider my words.}
 {142}{}{Okay.}
-{143}{}{Well, you made a wise decision. Here is your money. And... Thank you. Your help to our city will be appreciated.}
+{143}{}{Well, you made a wise decision. Here is your money. And... Thank you. Your help for our city will be appreciated.}
 {144}{}{No problem, Sheriff!}
 {145}{}{You delivered the filter for the artesian tower and it significantly improved the local living conditions.}
 
 #Cola Merchant
 {146}{}{I want to report a crime! The merchant in the parking lot sold me irradiated Nuka-Cola.}
-{147}{}{Damn, I could smell that something is fishy about that trader! It never occurred to me to check his merchandise for radiation exposure. He probably has serious mental issues, carrying irradiated things around. Well, we have to confiscate and destroy the goods... Thank you for your testimony. This was a timely decision, someone could get hurt.}
+{147}{}{Damn, I could smell something fishy about that trader! It never occurred to me to check his merchandise for radiation exposure. He probably has serious mental issues, carrying irradiated things around. Well, we have to confiscate and destroy the goods... Thank you for your testimony. This was a timely report, someone could get hurt.}
 {148}{}{You're welcome, Sheriff.}
 
 #About the cleaned up hobo:
-{150}{}{For a hobo, huh? Is this the one wondering around the trading area? About time for him to get himself out of the gutter... Very well, I can give him a job. Not for the soft-handed though, it will be hard and honest work. Tell him to come to me and we'll talk about it.}
+{150}{}{For a hobo, huh? Is this the one wondering around the trading area? About time he pulled himself out of the gutter... Very well, I can give him a job. Not for the soft-handed though, it will be hard and honest work. Tell him to come to me and we'll talk about it.}
 {151}{}{Will do.}
 
 #Gary Gilmore Quest:
@@ -69,7 +69,7 @@
 {159}{}{And?}
 {160}{}{We caught every member of the gang and put them on public display in the square. The city learned the lesson well. Most scumbags hung on the gallows for three days. Those who were involved, but did not deserve to die, were exiled from the city. We haven't heard from them in a long time... Until recently.}
 {161}{}{So what did they do now?}
-{162}{}{We managed to nearly forget that they exist, not counting some occasional deaths on the road southwards. But in the last couple of years we have been hearing more and more about the Provo area - especially the attacks on caravans and travelers. Sometimes these attacks don't make any sense. I think they're trying to get back at us.}
+{162}{}{We managed to nearly forget that they exist, not counting some occasional deaths on the road southwards. But in the last couple of years we've been hearing more and more about the Provo area - especially the attacks on caravans and travelers. Sometimes these attacks don't make any sense. I think they're trying to get back at us.}
 {163}{}{But they don't come to the city?}
 {164}{}{They are still too afraid, I think. But apparently they got bored with farming. The gang occasionally does small raids and robberies on the outskirts of the city. But there is a guy who holds the gang together.}
 {165}{}{Who?}
@@ -148,7 +148,7 @@
 {254}{}{I will consider your words.}
 {255}{}{Money? Do I look like a merchant to you?  However... You can make a donation to the city. Around $3000, for instance, would help a lot around here.}
 {256}{}{Great, here is my donation.}
-{257}{}{Well, now I see you're not one to spit on law and order. Now, as to your problem: Here are the coordinates of Battle Mountain, where one of the biker camps is located. I have not been there myself, so I can only share this information.}
+{257}{}{Well, now I see you're not one to spit on law and order. Now, as to your problem: Here are the coordinates to Battle Mountain, where one of the biker camps is located. I haven't been there myself, so I can only share the location.}
 {258}{}{Thank you.}
 {259}{}{Hmm. Let me think. Given your reputation in my city, I... }
 {260}{}{...am pleased to share the information with you.}
@@ -162,7 +162,7 @@
 {266}{}{What?! Damn it! I suspected that it would end badly. But if I had intervened, the problem wouldn't got resolved. You can't simply change people like Merck. Now we bust his ass. Hey guys! Get ready! You wait here until we get back.}
 {267}{}{[Wait]}
 
-{268}{}{I got the bastard! He was so hysterical that he didn't even bother to resist and asked for the gallows himself. I suppose, when he sobers up and sleep it off, he will talk differently. What do you think, what to do with him?}
+{268}{}{I got the bastard! He was so hysterical that he didn't even bother to resist and asked for the gallows himself. I suppose, when he sleeps it off, he'll talk differently. What do you think, what should we do with him?}
 {269}{}{Public hanging! An edification, so to speak.}
 {270}{}{Hang him, but not in public. Let this shameful case remain a secret. Nothing could be done about Merck, unfortunately.}
 {271}{}{He no longer has roots in the city, maybe it's better to exile him?}
@@ -186,16 +186,16 @@
 {312}{}{Thanks for your answer. Bye.}
 {313}{}{More or less alright I guess.}
 
-{350}{}{Some sneak is raiding all the Nuka-Cola vending machines around here. Everyone at the factory is in panic, and we have not a single clue who could do that.}
-{351}{}{About Provo. People still don't believe everyone there is dead. News has spread among the caravan traders, but no one wants to go there and check. I hope those damn bastards are really dead.}
+{350}{}{Some sneak is raiding all the Nuka-Cola vending machines around here. Everyone at the factory is in a panic, and we don't have a single clue who could do that.}
+{351}{}{About Provo. People still don't believe everyone there is dead. News has spread among the caravan traders, but no one wants to go there and check. I hope those damn bastards really are dead.}
 {352}{}{Gary Gilmore got what he deserved. May he burn in hell!}
-{353}{}{Well, the Nuka-Cola factory got an unprecedented growth. Things are getting better. Though, the better the factory works, the worse the ecology in the city because of all the produced waste. It's a damn unfair situation.}
-{354}{}{It seems that the Nuka-Cola factory will soon fall apart. We have to do something about it, eventually. Workers flee in every direction, the production rate drops. However, the people are getting better, since lower emissions from the factory means less harmful substances thrown into the lake. The city becomes cleaner.}
-{355}{}{We all noticed that the health matters in the city are getting better. We got way fewer diseases and there is no such crowds in front of toilets anymore. This makes me happy.}
+{353}{}{Well, the Nuka-Cola factory has had unprecedented growth. Things are getting better. Though, the better the factory works, the worse the ecology in the city because of all the waste produced. It's a damn unfair situation.}
+{354}{}{It seems that the Nuka-Cola factory will soon fall apart. We have to do something about it, eventually. Workers flee in every direction, the production rate is dropping. However, the people are getting better, since lower emissions from the factory means less harmful substances thrown into the lake. The city becomes cleaner.}
+{355}{}{We all noticed the health matters in the city are getting better. We have way fewer diseases and there are no long lines to the toilets anymore. This makes me happy.}
 {356}{}{The health care situation in the city has become very bad. It's a real plague. I advise you to beware of direct contact with people and drink cola instead of water.}
 {357}{}{All in all, the city is booming. I've never seen such an influx of newcomers before. Apparently, word is already spreading in the wasteland that the city is on its feet - it's a place to make money and have a good time. I hope it stays that way.}
-{358}{}{The whole city has gone mad. I barely manage to hold the situation together. People can get feral any moment and tear up me, you or anyone else in their path. We must do something... I don't know what. I do hope we'll figure something out...}
-{359}{}{The city lives its ordinary life. The population does not complain, everyone knows their place and somehow get along.}
+{358}{}{The whole city has gone mad. I'm barely managing to hold the situation together. People can turn feral any moment and will tear up you, me or anyone else in their path. We must do something... I don't know what. I hope we figure something out...}
+{359}{}{The city lives its ordinary life. The population does not complain, everyone knows their place and somehow they get along.}
 {360}{}{With the situation in Provo resolved, the city is calm again. Thanks to you, the citizens are no longer afraid to go out at night.}
 
 
@@ -220,19 +220,19 @@
 
 # Ghost Train
 {400}{}{Are there any working trains riding through the city lately?}
-{401}{}{Ha! Why do you want to know? Are you willing to die that badly? Then you better go to the gallows in the evening. More often then not, there is someone to bid this life farewell.}
+{401}{}{Ha! Why do you want to know? You want to die that badly? Then you better go to the gallows in the evening. More often then not, you'll find someone ready to bid this life farewell.}
 {402}{}{Still, there are trains coming through here, right?}
-{403}{}{Yes, there is one. Comes in the middle of the night. Rushes through at half speed without stopping, vanishes heading west. They say that sometimes you can hear the soul of the driver playing harmonica. Those who saw the "Ghost Train" silhouette are afraid to cross the tracks. What if it suddenly appears out of nowhere and runs you over?}
+{403}{}{Yes, there is one. Comes in the middle of the night. Rushes through at half speed without stopping, vanishes heading west. They say that sometimes you can hear the soul of the driver playing harmonica. Those who've seen the "Ghost Train's" silhouette are afraid to cross the tracks. What if it suddenly appears out of nowhere and runs you over?}
 {404}{}{Are you serious?}
-{405}{}{Quite. Some even tried to jump onto the roof of the wagon, but were burned to ashes by the infernal flames.}
+{405}{}{Quite. Some even tried to jump onto the roof of the wagon, but were burned to ashes by its infernal flames.}
 {406}{}{Wow! How often does it drive by?}
-{407}{}{Several times per season, heading back and forth. It clearly has a very long track. Must be in need to collect a lot of souls on the road.}
+{407}{}{Several times per season, heading back and forth. It clearly has a very long track. Must be necessary to collect all those souls.}
 {408}{}{Uh okay, skip the horror part... Do you know its final destination?}
-{409}{}{I don't. Some believe that this train makes no stops or turns. Some even swear it can be in different places at the same time.}
+{409}{}{I don't. Some believe this train makes no stops or turns. Some even swear it can be in different places at the same time.}
 {410}{}{Sounds like some drunken nonsense.}
 {411}{}{Nevertheless, it exists, whatever it actually is. Half the city has seen it.}
 {412}{}{Thanks for the story, but I have to go.}
-{413}{}{Sheriff, enough with the fairy tales. You and I both know that the "Ghost Train" is quite material and not much different from an ordinary train...}
+{413}{}{Sheriff, enough with the fairy tales. You and I both know the "Ghost Train" is quite material and not much different from an ordinary train...}
 {414}{}{Someone sometimes rides the train in the north and west direction. Some people have also seen robots that still maintain the railroad in working order. But who needs it and why, no one knows.}
 {415}{}{That clearly means it is real.}
 
@@ -279,7 +279,7 @@
 {486}{}{Not in your case. So I warn you for the last time: turn around and go away. The survival of this city is more important to me than your stupid mission.}
 {487}{}{Like hell! I will go to the station, whether you want it or not.}
 {488}{}{Okay, I'm going back to the city... For now.}
-{489}{}{You're wrong. The Reaper of Souls will come back for me and my people. And you don't even know his true intentions. What if he runs out of "pure souls" to get? What happens to your Salt Lake then?}
+{489}{}{You're wrong. The Reaper of Souls will come back for me and my people. And you don't even know his true intentions. What if he runs out of "pure souls" to collect? What happens to your Salt Lake then?}
 {490}{}{I'm sorry, but I *have* to stop you. [The Sheriff pulls out his gun]}
 {491}{}{(Oops, time to mosey along...)}
 {492}{}{I don't know, and don't want to know. Now turn around and don't come back.}
