@@ -55,7 +55,7 @@
 {148}{}{What do you mean?}
 {149}{}{We have a bit of a problem. The crowd believes in you. They put big money on you and... Win! Do you get where I'm going with this?}
 {150}{}{Of course! The fans love me.}
-{151}{}{That's why, my friend, we can't keep making money on your victories. The crowd isn't losing their bets, which is how we're meant to make a profit. So, this was your last fight here. You have leave the ring... Keep in mind, Reno has a huge ring as well, maybe you should try your luck there.}
+{151}{}{That's why, my friend, we can't keep making money on your victories. The crowd isn't losing their bets, which is how we make a profit. So...this was your last fight here. You have to leave the ring... Keep in mind, Reno has a huge ring as well, maybe you should try your luck there.}
 {152}{}{And it was going so well...}
 
 #Explanation of what's needed for fights:
@@ -93,7 +93,7 @@
 {195}{}{Hmm... Perhaps I was mistaken about you and Phillips hired you for a reason. Alright, here's your tip. Now get out of here.}
 {196}{}{Thank you, sir.}
 {197}{}{[Critically looks the pizza over before counting out the money]}
-{198}{}{You didn't ear it! Your delivery is shit. While you were standing around, you managed to ruin it's look. Look: the box is crumpled, the topping is a jumble. You need to be more careful next time. Now get outta here!}
+{198}{}{You didn't earn it! Your delivery is shit. While you were standing around you managed to ruin it. Look: the box is crumpled, the toppings are stuck to the lid. You need to be more careful next time. Now get outta here!}
 {199}{}{Don't waste my time with that crap! Get out.}
 
 #Fight on the ring:
@@ -144,4 +144,4 @@
 {1144}{}{What determination! You may have noticed that we are increasing the pressure, gradually raising the stakes. But SOMETHING just showed up recently, and it has challenged you. I'm sure you're going to love it. Go!}
 {1146}{}{Bloody amazing! How didn't you tear his hand out with that hold? We get a pretty payout for fights like these, the audience is just ecstatic! Anyway, here's your reward [He hands you the cash]}
 {1147}{}{The crowd was just crazy about that fight! That's what I call determination! Here's the coin, champion! [He hands you the cash] But... Now for the bad news.}
-{1151}{}{That's why, sister, we can't keep making money on your victories. The crowd isn't losing their bets, which is how we're meant to make a profit. So, this was your last fight here. You have leave the ring... Keep in mind, Reno has a huge ring as well, maybe you should try your luck there.}
+{1151}{}{That's why, sister, we can't keep making money on your victories. The crowd isn't losing their bets, which is how we make a profit. So...this was your last fight here. You have to leave the ring... Keep in mind, Reno has a huge ring as well, maybe you should try your luck there.}
