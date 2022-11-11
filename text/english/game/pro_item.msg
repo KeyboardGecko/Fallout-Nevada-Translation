@@ -463,7 +463,7 @@
 {23600}{}{Combat Knife}
 {23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use! Min. ST: 2.}
 {23700}{}{Newspapers}
-{23701}{}{Several issues of the newspaper "Denver Post". Among the materials - the review of nuclear tests in Nevada, the next evidence of observations of UFOs in 100 km from Las Vegas and the advertising of new products from "Pretty & Glamour".}
+{23701}{}{Several issues of the "Denver Post" newspaper. On its pages - a review of the nuclear tests in Nevada, the newest evidence of UFOs from observations within 100 km of Las Vegas, and an advertising for new products from "Pretty & Glamour".}
 {23800}{}{Passwords}
 {23801}{}{A piece of paper with passwords written in a hurry.                    One: 153-648-987.         Two: 045-896-509.         Three: 987-469-876.      Four: 013-486-498.}
 {23900}{}{Body armor}
