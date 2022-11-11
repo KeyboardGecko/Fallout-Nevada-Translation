@@ -1430,8 +1430,8 @@
 {78201}{}{A support pillar.}
 {78300}{}{Pillar}
 {78301}{}{A support pillar.}
-{78400}{}{Drier}
-{78401}{}{Usual drier for clothing.}
+{78400}{}{Clothesline}
+{78401}{}{A usual drier for clothing.}
 {78500}{}{Bed}
 {78501}{}{This bed is in poor condition.}
 {78600}{}{Bed}
