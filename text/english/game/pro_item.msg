@@ -1103,7 +1103,7 @@
 {57600}{}{Painkiller}
 {57601}{}{This cartridge is filled with a powerful pre-war analgesic. The drug is more than 40 years past it's expiration date, which gives it an even more adverse and irreversible effect on the heart and blood vessels than before.}
 {57700}{}{Wet wipes}
-{57701}{}{Sealed packaging with sanitary napkins. Can replace a bath when wandering through the wasteland. Production of the company "Pretty & Glamour".}
+{57701}{}{Sanitary napkins in a sealed package. Can replace a bath when wandering through the wasteland. A "Pretty & Glamour" company product.}
 {57800}{}{Old food can}
 {57801}{}{An opened can in which over 70 year old dog food was stored. It seems that guy fooled you! (Everyone is mockingly pointing finger at you, making a lingering "ewwww!" sound)}
 {57900}{}{Warehouse pass}
