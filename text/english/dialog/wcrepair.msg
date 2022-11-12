@@ -304,7 +304,7 @@
 
 {406}{}{Buddy, look at my kind and sympathetic face. How could I do something bad to the wanderer of the Wasteland?}
 {407}{}{You gave yourself away - you tried to kill me, but I got your note, which I took from the dead body of a mercenary.}
-{408}{}{[Looks like he considers to shoot you on the spot, but suddenly his face expression changes] As you wish. It's easy for me to get the blueprints. But when I do, you'll give the note back and I will destroy it.}
+{408}{}{[Looks like he considers to shoot you on the spot, but suddenly his expression changes] As you wish. It's easy for me to get the blueprints. But when I do, you'll give the note back and I will destroy it.}
 {409}{}{Sure, let's do it.}
 {410}{}{Don't rush things, I need to think this over.}
 
