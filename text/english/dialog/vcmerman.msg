@@ -42,7 +42,7 @@
 {144}{}{Fine.}
 {145}{}{Just try it! Don't even think about it! [yells at your back, when you turn around] Think about yourself! Yourself!}
 {146}{}{[Leave]}
-{147}{}{Of course, I don't want to push you, but hurry up with a decision. [His face expression changes] You should think about it more thoroughly. Think about yourself, not Murphy. Not even about me - about yourself...}
+{147}{}{Of course, I don't want to push you, but hurry up with a decision. [His expression changes] You should think about it more thoroughly. Think about yourself, not Murphy. Not even about me - about yourself...}
 {148}{}{[Leave]}
 {149}{}{Let's talk about Murphy.}
 {150}{}{What is it?}
