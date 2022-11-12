@@ -8,20 +8,20 @@
 {114}{}{Howdy. And bye.}
 
 #who are bikers answer
-{115}{}{[She makes a very surprised face expression] They're bikers. Can't you see that?!}
+{115}{}{[She makes a very surprised face] They're bikers. Can't you see that?!}
 {116}{}{I just don't know who bikers are. Tell me about your gang.}
 {117}{}{I see. Forget it.}
 {118}{}{Ha-ha! What hole did you crawl out of if you don't know about bikers? Okay, I guess I can tell you... Our guys ride around the wasteland looking for tech stuff that works. And then sell them in the cities. Because of their passion for technology, they know their way around repairs, so a lot of important mobsters stop by from time to time to offer us a good deal.}
-{119}{}{Pre-war technology? Curious. Where do they get it?}
+{119}{}{Pre-war technology? Curious. Where do they get that?}
 {120}{}{Abandoned city districts or military bases. It's a pretty dangerous life, if you ask me.}
-{121}{}{What's so dangerous in digging through junk lying around for some old wires and dirty toasters?}
-{122}{}{Ya know, wastes are filled to the brim with strange creatures, especially in the desert regions. Not a lot of folks who spend their life in cities even know 'bout them. And we run into them all the time! Besides, all those old buildings in abandoned city districts can fall right on your head if you're not careful enough. So yeah, it's pretty dangerous.}
+{121}{}{What's so dangerous in digging through junk looking for old wires and dirty toasters?}
+{122}{}{Ya know, the wastes are filled to the brim with strange creatures, especially in the desert regions. Not a lot of folks who spend their life in cities even know 'bout them. And we run into them all the time! Besides, all those old buildings in abandoned city districts can fall right on your head if you're not careful enough. So yeah, it's pretty dangerous.}
 {123}{}{I get it. How long have you been doing this?}
-{124}{}{Me? Like, my whole life! And the others - twice as much!}
-{125}{}{Twice as much? How old are you then?}
+{124}{}{Me? Like, my whole life! And the others - twice as long!}
+{125}{}{Twice as long? How old are you then?}
 {126}{}{Fifteen. What about it?}
 {127}{}{Woah! Well... I... Hmm... All right, never mind.}
-{128}{}{Yea-ah. Where do the likes of you even come from... Forget it.}
+{128}{}{Yea-ah, forget it. Where do the likes of you even come from...}
 {129}{}{Okay. See you.}
 
 #answer - what is she doing here
