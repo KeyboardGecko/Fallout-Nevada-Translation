@@ -140,7 +140,7 @@ You know, you're right about your friends. You should have just convinced your f
 {248}{}{Hmm. If you don't want to go, maybe you'd like for me to pass something to your parents?}
 {249}{}{All right, I won't bother you anymore.}
 {250}{}{Hey, that's actually a good idea! Maybe they'll stop sending mercenaries for me... And babysitters like you.}
-{251}{}{We're going to need a proof that you are dead. How about a personal item?}
+{251}{}{We're going to need proof that you're dead. How about a personal item?}
 {252}{}{You know, I think that's a bit too much. I won't participate in this.}
 
 {253}{}{I have this locket with my photo inside. That's the only thing I have from my previous life.}
