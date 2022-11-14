@@ -150,12 +150,12 @@
 {292}{}{Anything else?}
 {293}{}{Another tough gang raids between Vegas and Salt Lake City, about where the road turns west. The Bloom Brothers gang. There aren't many of them, but they are real killers, very well armed and very experienced. No one really knows where they came from. Rumor has it that they are former soldiers from Wind of War, who turned to plundering and raiding. It must be true, otherwise it is impossible to explain their top-notch equipment and excellent understanding of how to fight.}
 
-{294}{}{Around the outskirts of Reno and Vegas there is always some small gang waiting for you. The most famous ones are the Windmill people, the Caverners, the Sanders, the Bighorns and the Scorpions. Besides, to the south of highway there is a tribe of savages. Sometimes they come down from the mountains to hunt people. Luckily, they don't have the guts to attack caravans, which can't be said about lone travelers.}
+{294}{}{There's always some small gang around the outskirts of Reno and Vegas, just waiting for you. The most famous ones are the Windmill people, the Caverners, the Sanders, the Bighorns and the Scorpions. And to the south of the highway there is a tribe of savages. Sometimes they come down from the mountains to hunt people. Luckily, they don't have the guts to attack caravans, the same can't be said about lone travelers.}
 {295}{}{Savages?}
-{296}{}{They are called Coyotes, even though nobody knows anything about them. We know for sure that they are cannibals and that they're using custom weapons made from some old agricultural tech. They live high in the mountains, so nobody goes there. Some were lucky to stumble upon the abandoned camps of those animals. That's all I know. Nobody cares about them besides, maybe, the slavers.}
+{296}{}{They are called Coyotes, even though nobody knows anything about them. We know for sure that they are cannibals and they're using custom weapons made from some old agricultural tech. They live high in the mountains, so nobody goes there. Some were lucky to stumble upon the abandoned camps of those animals. That's all I know. Nobody cares about them, besides maybe the slavers.}
 
 {300}{}{Tell me, how is it out there - in the Wasteland?}
-{301}{}{It is harsh. We are forced to travel on pre-war highways because it's faster and more convenient than walking across the desert. But the raiders know this too, so we are always on guard when approaching gas stations and small settlements.}
+{301}{}{It's harsh. We are forced to travel on pre-war highways because it's faster and more convenient than walking across the desert. But the raiders know this too, so we're always on guard when approaching gas stations and small settlements.}
 {302}{}{Between which cities do you trade?}
 {303}{}{So, most travelers are using the highways? I'll remember that. Bye.}
 
