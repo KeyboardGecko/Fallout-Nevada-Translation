@@ -50,7 +50,7 @@
 
 {148}{}{Damn it... Alright, how about we buy that records off you? 2000 dollars - that's all we've got. It's more than you'll get from Tuco, believe me.}
 {149}{}{First, tell me why you did it.}
-{150}{}{It's a deal. Pleasure doing business with you.}
+{150}{}{Well then, it's a deal. Pleasure doing business with you.}
 {151}{}{Hmm. I'll think about.}
 {152}{}{Be smart about this. When you come to the right decision, I'll be here.}
 {153}{}{Uh-huh.}
@@ -63,7 +63,7 @@
 {158}{}{Who did you have to kill?}
 {159}{}{Some local businessman. He was coming back from Salt Lake City to arrange regular shipments of Nuka-Cola. Some people here weren't happy about it... Watch your ass when doing business in Reno.}
 {160}{}{Who wanted him killed?}
-{161}{}{Are you crazy? I can't tell you that! It'd get me killed too... And you, too. Of course, I can't go back to the Nevada Express now. And I wanted was to get out of the mercenary business for good...}
+{161}{}{Are you crazy? I can't tell you that! It'd get me killed too... And you, too. Of course, I can't go back to the Nevada Express now. All I wanted was to get out of the mercenary business for good...}
 
 #Îòâåòíûå ðåïëèêè ïîñëå ïðèíÿòèÿ ðåøåíèé
 {170}{}{Thanks for not ratting us out. It was the right decision.}
