@@ -711,13 +711,14 @@
 # GVAR_NEW_RENO_DILIZHAS_ROBOTMODUL (GVAR_RESERVED_VAR13)
 {13000}{}{}
 {13001}{}{}
-{13002}{}{Here's gathered important information, deciphered}
-{13003}{}{from DVR of guard robot, escorting stagecoach}
-{13004}{}{from Salt Lake city to New Reno.}
+  
+{13002}{}{This is a copy of the information deciphered}
+{13003}{}{from the DVR of the guard robot escorting the}
+{13004}{}{stagecoach from Salt Lake city to New Reno.}
 {13005}{}{}
 {13006}{}{As it turns out, the bikers didn't attack the}
-{13007}{}{stagecoach - this was made by members of the crew.}
-{13008}{}{The very same members, who later returned to the}
+{13007}{}{stagecoach - this was done by members of the crew.}
+{13008}{}{The very same members who later returned to the}
 {13009}{}{city and blamed it on the biker gang.}
 {13010}{}{}
 {13011}{}{This information is definitely going to be of}
