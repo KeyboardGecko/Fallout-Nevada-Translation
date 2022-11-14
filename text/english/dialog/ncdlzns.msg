@@ -42,7 +42,7 @@
 {151}{}{[Studies the data-disk] What the... Hold on... No! Everything is gone!}
 {152}{}{What are you talking about?}
 {153}{}{I'm saying that this evidence should rust with the rest of the stagecoach.}
-{154}{}{Looks like you know more than you let out, right?}
+{154}{}{Looks like you know more than you let on, right?}
 {155}{}{There are forces greater than us. I'll explain.}
 {156}{}{I don't want explanations. Just profit.}
 {157}{}{Of course, I'd like to know what made you do that.}
@@ -54,14 +54,14 @@
 {163}{}{As you can see, the plan didn't work.}
 {164}{}{Whatever happened, please understand - "Nevada Express" had nothing to do with it. These guys are the only ones to blame, but what happens if Tuco or anyone outside the company finds out there are criminals in our ranks? Our reputation would suffer greatly. That would be bad for everyone. Should we risk it all just for the truth?}
 {165}{}{Do you have any ideas what to do?}
-{166}{}{Perhaps... I could just destroy the chip. The guards would've done the same.}
-{167}{}{But your actions have damaged the reputation of the bikers. If you continue sending heat their way, the might starting raiding the "Nevada Express" for real.}
+{166}{}{Perhaps... I could just destroy the holodisk. The guards would've done the same.}
+{167}{}{But your actions have damaged the bikers reputation. If you continue sending heat their way, the might start raiding the "Nevada Express" for real.}
 
 {168}{}{Shit, I didn't think of that... What are we going to do then?}
 {169}{}{I'll try and think something up. Not now.}
 {170}{}{Fine, I'll just destroy the evidence.}
 {171}{}{Fine, I'll just destroy the evidence. But I demand a reward - $2000.}
-{172}{}{Your ideas are shit. I'll find another use for the chip.}
+{172}{}{Your ideas are shit. I'll find another use for the holodisk.}
 
 {173}{}{I *really* hope you will.}
 {174}{}{Goodbye.}
