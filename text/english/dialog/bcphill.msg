@@ -183,7 +183,7 @@
 {313}{}{Biker skillfully did his favorite job. All that's left is to take the unit back to the factory.}
 
 #Pickup 
-{320}{}{Wow, for such a baby I will pay you myself!}
+{320}{}{Wow, for a baby like that I'll pay you myself!}
 {321}{}{Erm... I need that car.}
 {322}{}{Hey, no problem. We love driving bikes more than shaking around in a stuffy car anyway.}
 {323}{}{Good then. So what about an upgrade? Would you look at what can be done?}
