@@ -643,8 +643,8 @@
 {32601}{}{A pair of loaded dice. Don't be flashing these around the casino.}
 {32700}{}{Drug-dealer disk}
 {32701}{}{This disk contains some radio frequencies. You can't figure out anything more without working radio.}
-{32800}{}{DVR records}
-{32801}{}{Robot guard's holodisk with records of accompanying a stagecoach from Salt Lake City to New Reno. Perhaps, some information has been preserved here, however, in an encrypted form. Your Pip-Boy could read it.}
+{32800}{}{DVR Records}
+{32801}{}{Holodisk containing some recordings made by the robot guard accompanying a stagecoach from Salt Lake City to New Reno. Some information has been preserved here, but in an encrypted form. Your Pip-Boy could read it.}
 {32900}{}{Stranglehold}
 {32901}{}{Ordinary silver guitar string, tunable to a high e. Its been a long time since it was used for its intended purpose.}
 {33000}{}{Small chest}
@@ -1282,8 +1282,8 @@
 {66601}{}{Very sharp medical instrument for tissue dissection. It is necessary to have a rich surgical experience to manage it, otherwise this item can be dangerous for the owner.}
 {66700}{}{Delicate scalpel}
 {66701}{}{Very sharp medical instrument for tissue dissection. It is necessary to have a rich surgical experience to manage it, otherwise this item can be dangerous for the owner.}
-{66800}{}{Tactical survival knife}
-{66801}{}{Designed to perform work on the setting up a camp in the field and to ensure the autonomy of human survival in the "wild" nature.}
+{66800}{}{Tactical Survival Knife}
+{66801}{}{Designed to help set up camp in the field and to ensure human survival in the "wild".}
 {66900}{}{"Lucky"}
 {66901}{}{Heavily worn defensive action plasma pistol, first-generation civilian model. Such ones went out of fashion long before the War.}
 {67000}{}{"Lucky"}
