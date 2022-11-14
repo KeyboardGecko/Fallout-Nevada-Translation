@@ -1,19 +1,19 @@
 {100}{}{You see the stagecoach guard.}
 {101}{}{You see a stagecoach guard.}
 
-#Ответные реплики до первого разговора
+#ГЋГІГўГҐГІГ­Г»ГҐ Г°ГҐГЇГ«ГЁГЄГЁ Г¤Г® ГЇГҐГ°ГўГ®ГЈГ® Г°Г Г§ГЈГ®ГўГ®Г°Г 
 {105}{}{Hey, get me a drink!}
 {106}{}{Hey, what's taking so... Oh, I thought you were the waiter.}
 {107}{}{If you're looking for friends, you came to the wrong place.}
 {108}{}{If it's about work, talk to Tuco.}
 {109}{}{I'm just a guard. Talk to Tuco.}
 
-#Первый разговор после приобретения квеста
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г° ГЇГ®Г±Г«ГҐ ГЇГ°ГЁГ®ГЎГ°ГҐГІГҐГ­ГЁГї ГЄГўГҐГ±ГІГ 
 {110}{}{Unless you're selling whores and booze, keep walking.}
 {111}{}{Who are you?}
 {112}{}{What are you doing here?}
 {113}{}{Maybe I do have whores and booze. Who's buying?}
-{114}{}{You are that unlucky guards of "Nevada Express", right?}
+{114}{}{You're the two unlucky guards from "Nevada Express", right?}
 {115}{}{Then we have nothing to talk about.}
 {116}{}{Bye.}
 
@@ -24,7 +24,7 @@
 {124}{}{So it's you. I want to know about the raided stagecoach.}
 {125}{}{Oh, just bugger off, alright? I'm trying to forget about that shit, not dive into it again.}
 {126}{}{Sorry, but you don't have a choice. I'm investigating it on Tuco's orders.}
-{127}{}{What? [they look at each other] Uh... Sure, whatever. But, you know, I wouldn't dig this up if I were you. These bikers, they're dangerous. It's better not to have these guys as enemies.}
+{127}{}{What? [the two guards look at each other] Uh... Sure, whatever. But, you know, I wouldn't dig this up if I were you. These bikers, they're dangerous. It's better not to have these guys as enemies.}
 {128}{}{Anyway, give me the details.}
 
 {129}{}{We were north of Lovelock when it happened. We were driving down the highway, as usual, when these bikers ambushed us. We were going so fast that by the time we managed to stop the bus, they were shooting at us from all directions. They took out the robot right away, and it didn't take long for the rest of us.}
@@ -65,7 +65,7 @@
 {160}{}{Who wanted him killed?}
 {161}{}{Are you crazy? I can't tell you that! It'd get me killed too... And you, too. Of course, I can't go back to the Nevada Express now. And I wanted was to get out of the mercenary business for good...}
 
-#Ответные реплики после принятия решений
+#ГЋГІГўГҐГІГ­Г»ГҐ Г°ГҐГЇГ«ГЁГЄГЁ ГЇГ®Г±Г«ГҐ ГЇГ°ГЁГ­ГїГІГЁГї Г°ГҐГёГҐГ­ГЁГ©
 {170}{}{Thanks for not ratting us out. It was the right decision.}
 {171}{}{I wouldn't stick around if I were you. People like you tend to get into accidents here.}
 {172}{}{Well? Have you decided yet?}
