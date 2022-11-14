@@ -7,7 +7,7 @@
 {111}{}{What is it? Can't you see I'm trying to work?}
 {112}{}{Alright, I'm going.}
 {113}{}{Fine, I won't bother you.}
-{114}{}{We'll talk later.}
+{114}{}{Let me ask you something else.}
 
 #About the attack
 {116}{}{Well, if the boss said so... Yeah, that happened. [he takes on a very formal look] We were sent to investigate the distress signal. Halfway through, we encountered survivors. If we hadn't, they would have died. If they had continued on their way, they would have run right into the Cheyenne.}
