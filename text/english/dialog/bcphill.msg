@@ -183,7 +183,7 @@
 {313}{}{Biker skillfully did his favorite job. All that's left is to take the unit back to the factory.}
 
 #Pickup 
-{320}{}{Wow, for such baby I will pay you myself!}
+{320}{}{Wow, for such a baby I will pay you myself!}
 {321}{}{Erm... I need that car.}
 {322}{}{Hey, no problem. We love driving bikes more than shaking around in a stuffy car anyway.}
 {323}{}{Good then. So what about an upgrade? Would you look at what can be done?}
@@ -353,56 +353,56 @@
 #The first quest of Phil - the Reno investigation
 {550}{}{One does not hear much about you guys in Nevada...}
 {551}{}{}
-{552}{}{That's right. Everything that happens in the gang stays within the gang. We are self-sufficient enough to not get involved in local conflicts of cities and settlements. And lately someone is apparently taking advantage of it.}
+{552}{}{That's right. Everything that happens in the gang stays within the gang. We are self-sufficient enough to not get involved in the local conflicts of cities and settlements. And apparently someone is taking advantage of that.}
 {553}{}{What are you talking about?}
-{554}{}{It's weird. Suddenly, in region around New Reno, all caravan merchants started to avoid us. We used to be in good terms, and now they are being highly suspicious, holding for their guns every time they see us, like they are afraid of something. I would look into it myself, but no one wants even to just talk to us. But they would talk to you.}
-{555}{}{What I need to do?}
-{556}{}{For a start - find out, why our reputation got so bad, what is being told about us and who spreads bad rumors. Any info is important.}
-{557}{}{Sounds simple. I take the job.}
-{558}{}{I think I'm not interested. Sorry and goodbye.}
-{559}{}{Great. Come back when you learn something. if you want, I can drive you to Reno and leave you at the outskirts, so I wouldn't draw attention to myself.}
+{554}{}{It's weird. Suddenly, all the caravan merchants in the region around New Reno started avoiding us. We used to be on good terms, and now they're very suspicious, holding their guns tight every time they see us, like they are afraid of something. I would look into it myself, but no one wants to even talk to us. But they would talk to you.}
+{555}{}{What do I need to do?}
+{556}{}{For a start - find out how our reputation got so bad, what is being said about us and who spreads those rumors. Any info is important.}
+{557}{}{Sounds simple. I'll take the job.}
+{558}{}{I don't think I'm interested. Sorry and goodbye.}
+{559}{}{Great. Come back when you learn something. If you want, I can drive you to Reno and leave you at the outskirts so I don't draw attention to myself.}
 
 {560}{}{About the job.}
-{561}{}{What is happening, damn it?}
-{562}{}{The rumor is that you attacked the stagecoach and robbed it. It happened near the Black Rock.}
+{561}{}{What's happening, damn it?}
+{562}{}{The rumor is that you attacked the stagecoach and robbed it. It happened near Black Rock.}
 {563}{}{Erm, I'm still looking into it.}
 {564}{}{Then don't waste time.}
 {565}{}{Fine.}
-{566}{}{Us? Robbed the stagecoach?! Bullshit! Who told you that?}
+{566}{}{Us? Robbed a stagecoach?! Bullshit! Who told you that?}
 {567}{}{The "Nevada Express" employees told me that themselves.}
 
-{568}{}{Hmm. I don't know, why they would think that. We have to look deeper, make an investigation. Will you do this for us?}
-{569}{}{Already done. I've been on the site and found some clues - this DVR log from the robot.}
-{570}{}{I've been on the site and found some clues - this DVR log from the robot.}
+{568}{}{Hmm. I don't know why they would think that. We have to look into this, investigate deeper. Will you do this for us?}
+{569}{}{Already done. I've been to the site and found some clues - this DVR log from the robot.}
+{570}{}{I've been to the site and found some clues - this DVR log from the robot.}
 {571}{}{I'm still working on that.}
 {572}{}{Why should we believe that?}
-{573}{}{Good question. Why should we trust you? Fine, if you don't want to - we will handle it out ourselves, without you.}
+{573}{}{Good question. Why should we trust you? Fine, if you don't want to help - we'll handle it out ourselves...without you.}
 {574}{}{I'll think about it.}
-{575}{}{Fine, I will look into your problem. Wait for the news.}
+{575}{}{Fine, I'll look into your problem. Wait for news.}
 {576}{}{You promised to take me to Reno...}
 
 {580}{}{Is this what's needed?}
 {581}{}{Although I can't decipher the data on it...}
 {582}{}{Yes, I already deciphered the data from it.}
 
-{583}{}{You can't? Ha, of course you can't. Baby, this job is for people with big smart brains. Let the real professional handle that, don't waste time.}
+{583}{}{You can't? Ha, of course you can't, baby! This job is for people with big smart brains. Let a real professional handle that, don't waste your time.}
 {584}{}{[Wait]}
 {585}{}{Wait, I better try this myself. The experience won't hurt.}
-{586}{}{So, the bird now sings another song...}
+{586}{}{So, the bird is singing a new tune...}
 {587}{}{What are you talking about?}
-{588}{}{The guys, that configured the robot, were no idiots. They made it to look after not only for the perimeter, but also the whole crew. Those bastards that robbed their own stagecoach look like they don't even know they are being recorded. Hey, this will be enough not only to clear our name, but to also damage the credibility of "Nevada Express", don't you think?}
-{589}{}{They deserve it! They will think better next time.}
-{590}{}{The guilt is only on two assholes, it's not fair to ruin everyone else's reputation like this.}
-{591}{}{Tuco will not be happy to hear this news, but they will stop treating us with hatred. And if we just deal with it silently, people still won't trust us. Our interest is obvious.}
+{588}{}{The guys who configured the robot were no idiots. They set it to watch not just the perimeter, but also the whole crew. Those bastards robbed their own stagecoach and didn't even know they were being recorded. Hey, this will be enough not only to clear our name, but to also damage the credibility of the "Nevada Express", don't you think?}
+{589}{}{They deserve it! They'll think twice next time.}
+{590}{}{Only two assholes are guilty, it's not fair to ruin everyone else's reputation with this.}
+{591}{}{Tuco will not be happy to hear this news, but they will stop treating us with hatred. And if we just dealt with it silently, people still wouldn't trust us. Our interest is obvious.}
 {592}{}{Right. I'll see what can be done.}
 {593}{}{We are counting on you.}
 {594}{}{Bye.}
 {595}{}{}
 
-{596}{}{Your problem in Reno has been solved. Now everyone thinks that the attack had been carried out by unknown raiders, and you were accused by mistake.}
+{596}{}{Your problem in Reno has been solved. Now everyone thinks the attack was carried out by unknown raiders, and you were accused by mistake.}
 {597}{}{I'm afraid that your problem cannot be solved. Those bastards from "Nevada Express" took the evidence.}
-{598}{}{Your problem is settled in Reno. Tuco acquainted himself with the evidence and made a public penalty. Now everyone knows that the attack was carried out by some of their own.}
-{599}{}{Great job! Just what we need. I'd never thought of throwing false clues at them, and you... You are clever.}
+{598}{}{Your problem is settled in Reno. Tuco looked at the evidence and made a public statement. Now everyone knows the attack was carried out by some of their own.}
+{599}{}{Great job! Just what we need. I'd never thought of throwing fake clues at them, and you... You're clever.}
 {600}{}{Thanks.}
 {601}{}{Okay, don't just stand there. I remember about the reward. Here, take it [gives you laser pistol]. It's yours.}
 {602}{}{Not bad.}
