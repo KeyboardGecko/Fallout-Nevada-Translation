@@ -4,7 +4,7 @@
 {103}{}{You see a caravan merchant.}
 {104}{}{We are always at your service, my dear!}
 
-#Имена нпс:
+#Г€Г¬ГҐГ­Г  Г­ГЇГ±:
 {110}{}{Sentensa}
 {111}{}{Blondie}
 {112}{}{Tuco}
@@ -13,7 +13,7 @@
 {115}{}{I'm sorry. Let's talk about something else.}
 {116}{}{Okay, Tuco Bandito something-something, let's talk about something else.}
 
-#Диалог в Рино, когда стал приближенным Большого Луи
+#Г„ГЁГ Г«Г®ГЈ Гў ГђГЁГ­Г®, ГЄГ®ГЈГ¤Г  Г±ГІГ Г« ГЇГ°ГЁГЎГ«ГЁГ¦ГҐГ­Г­Г»Г¬ ГЃГ®Г«ГјГёГ®ГЈГ® Г‹ГіГЁ
 {150}{}{I'm just going to say this: we don't need business from psychopaths like you. And you can tell Big Louie's other dogs the same thing!}
 {151}{}{You'd better hope I don't find you out on the road... }
 {152}{}{Fine. I don't need you anyway.}
@@ -35,12 +35,12 @@
 {165}{}{[The caravan merchant dodges the punch and pulls his gun. The others are doing the same. Let's hope that you are better shooter than brawler.]}
 {166}{}{[Fight]}
 
-#Рино, квест на поиск пропавшей посылки для мормона
+#ГђГЁГ­Г®, ГЄГўГҐГ±ГІ Г­Г  ГЇГ®ГЁГ±ГЄ ГЇГ°Г®ГЇГ ГўГёГҐГ© ГЇГ®Г±Г»Г«ГЄГЁ Г¤Г«Гї Г¬Г®Г°Г¬Г®Г­Г 
 {170}{}{Tell me about the package your coach "delivered" to Patrick.}
 {171}{}{We upheld the contract. The deal was to take the package to Reno, not to hand-deliver it to his door. The boy living in those slums across the street answered for it. If you want to track it down, look there, not here.}
 {172}{}{I'll go check it out.}
 
-#Диалог, стартовая ветка:
+#Г„ГЁГ Г«Г®ГЈ, Г±ГІГ Г°ГІГ®ГўГ Гї ГўГҐГІГЄГ :
 {200}{}{Hello! Our valued customer! What? Not yet? Well, you will be! It's only a matter of time! Now, what can }
 {201}{}{ of the Nevada Express help you with?}
 {202}{}{Yes, how can I help you?}
@@ -51,7 +51,7 @@
 {212}{}{I need to get somewhere.}
 {213}{}{No, thank you, just passing by.}
 
-#Голодиск
+#ГѓГ®Г«Г®Г¤ГЁГ±ГЄ
 {215}{}{Where do you get your stagecoaches?}
 {216}{}{The Nevada Express maintains the wasteland's only fleet of functional intercity buses! Our talented engineers maintain them rigorously both here, in Salt Lake, and at our main depot in Las Vegas.}
 {217}{}{I didn't think there were any functional vehicles left.}
@@ -70,7 +70,7 @@
 {228}{}{The next one's tomorrow! You'd better get your ticket quick, before every seat is sold out!}
 {229}{}{ day. We leave on the 1st, 11th and 21st day of each month.}
 
-#Заказ пути
+#Г‡Г ГЄГ Г§ ГЇГіГІГЁ
 {230}{}{We'll get you where you need to go! If our caravans don't go somewhere, then you have nothing to do there.}
 {231}{}{Can you drop me at New Reno?}
 {232}{}{What about Salt Lake?}
@@ -129,7 +129,7 @@
 {290}{}{Ah, they're making a name for themselves! It won't take us far out of our way. That will just cost you }
 {291}{}{ dollars.}
 
-#Диалог о девушке с фотографии Теда Банди
+#Г„ГЁГ Г«Г®ГЈ Г® Г¤ГҐГўГіГёГЄГҐ Г± ГґГ®ГІГ®ГЈГ°Г ГґГЁГЁ Г’ГҐГ¤Г  ГЃГ Г­Г¤ГЁ
 {300}{}{Do you remember taking the girl in this picture on any of your coaches?}
 {301}{}{Oh, I remember her! How could I forget? It's not every day we get to transport such delightful customers!}
 {302}{}{Do you remember where she went?}
@@ -138,7 +138,7 @@
 {305}{}{No. [he shakes his head and hands the photo back] You can believe me, because I would have remembered such a beautiful customer.}
 {306}{}{Too bad.}
 
-#Нападение на дилижанс
+#ГЌГ ГЇГ Г¤ГҐГ­ГЁГҐ Г­Г  Г¤ГЁГ«ГЁГ¦Г Г­Г±
 {310}{}{How reliable are your coaches?}
 {311}{}{You have nothing to worry about, I promise you! In fact, I know what you're thinking of. The biker attack, right? Well, that was the first and last time! Believe me, you're safer on our coaches than you are walking around Reno.}
 {312}{}{What biker attack?}
@@ -164,7 +164,7 @@
 
 {328}{}{The coach called for help over the radio, but before our rescue team could even reach the attack site, they ran into survivors running the other way. They told the rescue team everything as they returned to Reno.}
 {329}{}{Two of the guards. They're off duty in the Silver Legacy's restaurant now, trying to recover from the shock. It'll be some time before I send them out again. I can't imagine how awful it must have been for them.}
-{330}{}{The survivors told us so. We've always known the bikers are troublemakers, but now we know they are thieves and murderers as well! Frankly, it doesn't surprise me. They are the types that cannot survive in a lawful society.}
+{330}{}{The survivors told us so. We've always known the bikers are troublemakers, but now we know they're thieves and murderers as well! Frankly, it doesn't surprise me. They are the type that can't survive in lawful society.}
 {331}{}{Do you have any evidence?}
 {332}{}{Well... No, but no ordinary marauders could attack us and live. Each coach is well armored and staffed with a robot and several experienced guards. Only the bikers have the pre-war technology and vehicles to carry out this type of ambush.}
 {333}{}{You lost an entire coach and didn't even investigate?!}
