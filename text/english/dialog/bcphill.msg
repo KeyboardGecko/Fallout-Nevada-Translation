@@ -147,7 +147,7 @@
 {282}{}{You know what I mean.}
 {283}{}{Fine, give me that map of yours, I'll show. Here is New Reno. Great place, just how we like it - anarchy, freedom and independence. Sometimes we come there to hang out at the casino. Here lies Salt Lake - a boring city. But still peaceful. More or less. And here is the best part - Las Vegas. Perhaps, the main spot in Nevada. Although, it's far.}
 {284}{}{Right. Thanks for the info.}
-{285}{}{You have transport. Can you give me a ride to the city?}
+{285}{}{You have transportation. Can you give me a ride to the city?}
 {286}{}{Right now?}
 {287}{}{I need to get to New Reno. [700$]}
 {288}{}{No, later. I'll tell, when.}
