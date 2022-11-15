@@ -114,7 +114,7 @@
 {246}{}{Pistol.}
 {247}{}{Another weapon.}
 {248}{}{Back.}
-{249}{}{How much longer?}
+{249}{}{What else ya got?}
 
 {250}{}{Do you have a scope for hunting rifle?}
 {251}{}{Can you increase the power of the plasma rifle?}
