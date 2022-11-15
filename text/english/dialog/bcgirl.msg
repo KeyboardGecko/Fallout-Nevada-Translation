@@ -108,8 +108,7 @@
 {219}{}{Why's that? Was he afraid that bikers might get you in trouble?}
 {220}{}{And I agree with his decision. Kids shouldn't ever participate in such shady parties.}
 {221}{}{Well, we're from Clean City! My dad holds on so tightly to his chair at City Hall that he won't even leave the city limits to try to find me! I don't want to be so clean and act like I'm above everyone else. Bikers are my best friends, and I will never leave them!}
-{222}{}{
-You know, you're right about your friends. You should have just convinced your father that it was possible to combine a free life and a job in a prestigious place. That's all.}
+{222}{}{You know, you're right about your friends. You should have just convinced your father that it was possible to combine a free life and a job in a prestigious place. That's all.}
 {223}{}{I don't think so. Your family is more important. They're your parents and they worry about you. They even hired me to find you. Isn't that the best proof they love you?}
 {224}{}{All right, quit this childish nonsense! You should have had a good spanking a long time ago! Pack your shit and get ready to go home, NOW!}
 {225}{}{Damn, I don't know. I need to think about it.}
