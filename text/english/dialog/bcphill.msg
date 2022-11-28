@@ -1,8 +1,8 @@
-{100}{}{You see the big biker Phil.}
+{100}{}{You see big biker Phil.}
 {101}{}{You see Phil Pritchett, perhaps, the largest biker from the local gang.}
 
 #Òàéìåðíûå ñöåíû
-{102}{}{Hey! These bikers turned out to be a really cool guys!}
+{102}{}{Hey! These bikers turned out to be really cool guys!}
 {103}{}{Wake up, mate! You slept for a long time.}
 {104}{}{Don't piss me off!}
 {105}{}{Did you see that?! Ha-ha-ha!}
@@ -60,7 +60,7 @@
 {176}{}{Forget it, I changed my mind.}
 
 {177}{}{Hey guys, look - free booze! Come, sit down and relax! We don't scare guys like you. [He hugs you by the shoulder and sits down next to you, the others also begin to gather around]}
-{178}{}{[You drink for half a day, until everyone drop flat on their faces...]}
+{178}{}{[You drink for half a day, until everyone drops flat on their face...]}
 
 #Opening the station gates
 {202}{}{[He seems to pay no attention to you]}
@@ -73,14 +73,14 @@
 {209}{}{[Grins and laughs] Aren't you the fast one, huh? I can do it. But what can you offer me for that?}
 {210}{}{Open the gates!}
 {211}{}{I'll come back later.}
-{212}{}{Hey, look, another smart-ass wants to pass! Gates, you say? Easy! Not even moving from where I stand.}
+{212}{}{Hey, look, another smart-ass wants to pass! Gates, you say? Easy! Not even gonna move from where I stand.}
 {213}{}{Not moving? Bullshit!}
 {214}{}{You don't think I'll do it? Word of a biker - let my balls be cut if I won't open the gates from where I'm standing.}
 {215}{}{Wait, you're up to something...}
-{216}{}{It's simple. I'm actually not so sure myself, so - wanna bet?}
+{216}{}{It's simple. But if you're so sure I can't do it - wanna bet?}
 {217}{}{No way! Just open the gate.}
 {218}{}{No problem, I'll do it. Look and be amazed!}
-{219}{}{Yeah right, who would believe, that you can open them from a distance... Well, let's see.}
+{219}{}{Yeah right, who would believe you can open them from a distance... Well, let's see it.}
 {220}{}{Wait, I need to concentrate...}
 {221}{}{Uh-huh...}
 
@@ -142,10 +142,10 @@
 {276}{}{What about the standard flamethrower?}
 
 #Hitching a ride
-{280}{}{Tell me, what's the closest civilized city nearby?}
+{280}{}{Tell me, what's the closest civilized city?}
 {281}{}{Civilized? The fuck you'll find *civilized*.}
 {282}{}{You know what I mean.}
-{283}{}{Fine, give me that map of yours, I'll show. Here is New Reno. Great place, just how we like it - anarchy, freedom and independence. Sometimes we come there to hang out at the casino. Here lies Salt Lake - a boring city. But still peaceful. More or less. And here is the best part - Las Vegas. Perhaps, the main spot in Nevada. Although, it's far.}
+{283}{}{Fine, give me that map of yours, I'll show ya. Here is New Reno. Great place, just how we like it - anarchy, freedom and independence. Sometimes we go there to hang out at the casino. Here lies Salt Lake - a boring city, but still peaceful. More or less. And here's the best part - Las Vegas. Probably the main spot in Nevada. Although, it's pretty far.}
 {284}{}{Right. Thanks for the info.}
 {285}{}{You have transportation. Can you give me a ride to the city?}
 {286}{}{Right now?}
@@ -154,16 +154,16 @@
 {289}{}{I need to get to Salt Lake. [700$]}
 {290}{}{I need to get to Lovelock. [400$]}
 {291}{}{I need to get to Wendover. [400$]}
-{292}{}{Someone doesn't have enough bucks. So, I'm too tired to drive there. Got it?}
+{292}{}{Someone doesn't have enough bucks. So I'm too tired to drive there. Got it?}
 {293}{}{Okay.}
 
 #About surroundings
 {294}{}{And what is this place around?}
-{295}{}{Military radar station. To the south you'll find the ruins of pre-war settlement and around them there are mountains and desert. If you wish to wander on the outskirts, don't forget to grab a thick stick, or better yet, something that kicks with electric charge.}
+{295}{}{Military radar station. To the south you'll find the ruins of pre-war settlement and around them there are mountains and desert. If you wish to wander on the outskirts, don't forget to grab a thick stick, or better yet, something that kicks with an electric charge.}
 {296}{}{Why?}
-{297}{}{There is a lot of wild dogs in the ruins. they usually stay away - afraid of us. But outsiders like you will be stripped to the bone.}
-{298}{}{About something with "electric charge" - what is that for?}
-{299}{}{In the mountains, to the north-east from here, you can run into some flying robots. We were unable to find out where they come from or what's their purpose. But we know for sure that they kill all humanoid creatures they meet. You have been warned.}
+{297}{}{There are a lot of wild dogs in the ruins. They usually stay away - afraid of us. But outsiders like you will be stripped to the bone.}
+{298}{}{Something with "an electric charge" - what is that for?}
+{299}{}{In the mountains, to the north-east of here, you can run into some flying robots. We were unable to find out where they come from or what their purpose was. But we know for sure that they kill all the humanoid creatures they meet. You have been warned.}
 
 #Train repairing
 {300}{}{[Heavy breathing, he studies the computer, turning it around] Like shooting fish in a barrel. I bet it lacks a capacitor and one chip. It can be restored, easy.}
@@ -186,14 +186,14 @@
 {320}{}{Wow, for a baby like that I'll pay you myself!}
 {321}{}{Erm... I need that car.}
 {322}{}{Hey, no problem. We love driving bikes more than shaking around in a stuffy car anyway.}
-{323}{}{Good then. So what about an upgrade? Would you look at what can be done?}
+{323}{}{Good then. So about that upgrade... Take a look, what can you do?}
 {324}{}{Well, let's see...}
 {325}{}{Okay.}
-{326}{}{Yes, I have few ideas. Do you know why the acceleration and speed is so lame? Because the contacts are weak, lots of junk between the parts, oil is dried up to nothing... In addition, I could put in some special stuff. The thing will fly!}
+{326}{}{Yes, I have few ideas. Do you know why the acceleration and speed is so lame? Because the contacts are weak, lots of junk between the parts, oil is dried up to nothing... On top of that, I could put in some special stuff. The thing will fly!}
 {327}{}{Good. And how much do you want for this overhaul?}
 
-{328}{}{Two grands. Just for fun. Really. But it will take a couple of days, I'm telling you.}
-{329}{}{Fine, I'll wait. Here is 2000$.}
+{328}{}{Two grand. Just for fun. Really. But it will take a couple of days, I'm telling you.}
+{329}{}{Fine, I'll wait. Here's 2000$.}
 {330}{}{No, that's too much and too long. Perhaps later.}
 
 {331}{}{Hey, bro, wake up!}
@@ -251,14 +251,14 @@
 #Power armor info
 {450}{}{Tell me about your armor. I'm very interested.}
 
-{451}{}{You're interested? Really? The old tech is the topic I can talk about for hours. But to do that I need something to keep my throat wet, you know?}
+{451}{}{You're interested? Really? Old tech is the topic I could talk about for hours. But to do that I need something to keep my throat wet, you know?}
 {452}{}{Here's a beer, go ahead!}
-{453}{}{Ah, right. When I find some beverage, I'll come back.}
+{453}{}{Ah, right. I'll come back when I find some beverages.}
 {454}{}{Then some other time, if you still be interested.}
 
 {455}{}{I already told you. Bad memory?}
 {456}{}{I just need to clarify something.}
-{457}{}{That's another story. But what do you want to know?}
+{457}{}{That's a long story. What do you want to know about it?}
 {458}{}{Fine. What do you want to know?}
 
 {459}{}{Where did you get this armor?}
@@ -266,15 +266,15 @@
 {461}{}{Would you sell it or trade it for something?}
 {462}{}{Could you make one like this?}
 
-{463}{}{If I tell you, I'll have to kill you. Ha-ha, kidding. Actually, this story is really not for your ears.}
+{463}{}{If I tell you, I'll have to kill you. Ha-ha, kidding. Actually, this story isn't really for your ears.}
 {464}{}{That is all I wanted to know.}
-{465}{}{Power armor T-51b, pre-war build. But I'm not as lucky as it seems. Some parts of it aren't working, although it fulfills all its basic functions - protects me from bullets, radiation, and also boosts my strength. There is a microfusion cell inside, powering the module that increases the strength of my every move. For your information - Americans would win shit in Anchorage, if not for T-51.}
-{466}{}{No way. This armor became my second skin. You can remove it only off my dead body, so that's not gonna happen soon. But if there ever should appear such an idiot, who's capable of killing me, know this - it's impossible to strip the armor intact. In order to take it off its dead owner, you have to, for a start, seriously damage the external plating.}
-{467}{}{You think I'll pull out a soldering iron and easily make what the Americans have been developing for years? Before the war, hundreds of specialists worked on it with the help of their precise tech, and all I have is my guys here - right one to punch faces and left one to hold the steering, while the right one is doing his job. Although, I would gladly started the mass production - I even found some of the original blueprints - but in current conditions it is just impossible.}
+{465}{}{Power armor T-51b, pre-war build. But I'm not as lucky as it seems. Some parts of it aren't working, although it fulfills all its basic functions - protects me from bullets, radiation, and also boosts my strength. There is a microfusion cell inside, powering the module that increases the strength of my every move. For your information - Americans wouldn't have won shit in Anchorage, if not for the T-51.}
+{466}{}{No way. This armor became my second skin. You can take it off my dead body, and that's not gonna happen soon. But if there ever should appear an idiot who's capable of killing me, know this - it's impossible to strip the armor intact. In order to take it off its dead owner, you have to, for a start, seriously damage the external plating.}
+{467}{}{You think I'll just pull out a soldering iron and easily make what the Americans spent years developing? Before the war, hundreds of specialists worked on it with the help of precision tech, and all I have is my guys here - right one to punch faces and left one to hold the steering, while the right one is doing its job. I would gladly start mass production - I even found some of the original blueprints - but its just impossible under current conditions.}
 {468}{}{Wait, blueprints?! You have them?! Why didn't you say so from the start!}
-{469}{}{You really need it? Hmm. You proved yourself well with these prematures in Reno and deserve our respect. So be it - I will share them with you. You're good kid.}
+{469}{}{You really need 'em? Hmm. You proved yourself well with those problems in Reno and deserve our respect. So be it - I will share them with you. You're good kid.}
 {470}{}{Damn right!}
-{471}{}{You have acquired a power armor blueprints.}
+{471}{}{You have acquired one of the power armor blueprints.}
 {472}{}{You really need it? Hmm. I don't think I want to share something with you.}
 {473}{}{I can buy it.}
 {474}{}{I can work for it.}
@@ -428,7 +428,7 @@
 {1331}{}{Hey, sis, wake up!}
 {1341}{}{Hahah! [wipes his tears] You're really funny, you know!}
 {1405}{}{Okay, deal.}
-{1469}{}{You really need it? Hmm. You proved yourself well with these prematures in Reno and deserve our respect. So be it - I will share them with you. You're good gal.}
+{1469}{}{You really need it? Hmm. You proved yourself well with those problems in Reno and deserve our respect. So be it - I will share them with you. You're good gal.}
 {1478}{}{You seem like a capable gal, if you managed to get here and question me. There is one job, for which I'm willing to pay.}
 {1530}{}{Ìû íå ìîæåì ïîäæèäà'ü âîçëå Ðèíî öåëûå ñó'êè, âåäü íèê'î íå çíàå', êîãäà è ãäå ý'è ãàäû ïîÿâÿ'ñÿ âíîâü. Äî íàñ 'àêæå äîõîäèëè ñëóõè î' áàðìåíîâ, ÷'î ê'î-'î ïðåäóïðåæäàå' óáëþäêîâ ïî ðàöèè î íàøåì ïðèáëèæåíèè. Îíè âñåãäà óñïåâàþ' ñêðû'üñÿ. Òû æå íå ïîõîæà íà îäíîãî èç íàñ, à ïî'îìó 'åáå ïðîùå çàñ'à'ü èõ âðàñïëîõ.}
 {1532}{}{Î'ëè÷íàÿ ðàáî'à. Òû íàì îêàçàëà áîëüøóþ óñëóãó. Î íàñ è 'àê â Íåâàäå íå ëó÷øåãî ìíåíèÿ, à êîãäà ý'è ïîäîíêè ñ'àëè áóéñ'âîâà'ü î' íàøåãî èìåíè... 'àêîãî íå ïðîùàþ'. Íàäåþñü, îíè ïîëó÷èëè ïî ïîëíîé ïðîãðàììå?}
