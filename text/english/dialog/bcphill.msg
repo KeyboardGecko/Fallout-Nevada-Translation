@@ -251,7 +251,7 @@
 #Power armor info
 {450}{}{Tell me about your armor. I'm very interested.}
 
-{451}{}{You're interested? Really? Old tech is the topic I could talk about for hours. But to do that I need something to keep my throat wet, you know?}
+{451}{}{You're interested? Really? Old tech is a topic I could talk about for hours. But to do that I need something to keep my throat wet, you know?}
 {452}{}{Here's a beer, go ahead!}
 {453}{}{Ah, right. I'll come back when I find some beverages.}
 {454}{}{Then some other time, if you still be interested.}
