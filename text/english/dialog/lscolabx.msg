@@ -1,6 +1,6 @@
 {103}{}{Not during combat!}
 
-{110}{}{Here you can conduct trading operations on the purchase and distribution of Nuka-Cola.}
+{110}{}{Here you can conduct trading operations for the purchasing and distribution of Nuka-Cola.}
 {111}{}{[Buy a new batch of Cola]}
 {112}{}{[Unload Nuka-Cola from your backpack to the warehouse]}
 {113}{}{[Take Nuka-Cola from the warehouse]}
@@ -14,7 +14,7 @@
 {124}{}{[Leave]}
 {125}{}{Your products are out of stock.}
 
-#Покупка колы
+#ГЏГ®ГЄГіГЇГЄГ  ГЄГ®Г«Г»
 {130}{}{You have exceeded your limit for this month. Wait for the factory to produce the next batch of items for you.}
 {131}{}{This month you can buy no more than }
 {132}{}{ bottles of Nuka-Cola.}
@@ -26,7 +26,7 @@
 {138}{}{Buy 100 bottles (costs $200).}
 {139}{}{You have placed an order at the warehouse and received the required number of bottles at the wholesale price. Your Nuka-Cola has been deposited in the warehouse.}
 
-#Загрузить колу
+#Г‡Г ГЈГ°ГіГ§ГЁГІГј ГЄГ®Г«Гі
 {140}{}{Load the Nuka-Cola into the container.}
 {141}{}{5 bottles.}
 {142}{}{10 bottles.}
@@ -38,7 +38,7 @@
 {148}{}{[Leave]}
 {149}{}{[Done]}
 
-#Выгрузить колу
+#Г‚Г»ГЈГ°ГіГ§ГЁГІГј ГЄГ®Г«Гі
 {150}{}{There are currently }
 {151}{}{ bottles of your Nuka-Cola in the warehouse.}
 {152}{}{}
@@ -52,5 +52,5 @@
 {160}{}{[Leave]}
 {161}{}{[Done]}
 {162}{}{There is nothing left in the warehouse.}
-{163}{}{Sorry, you can't carry so much.}
+{163}{}{Sorry, you can't carry that much.}
 {164}{}{[Take everything I can carry]}
