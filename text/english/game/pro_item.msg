@@ -1053,7 +1053,7 @@
 {55100}{}{Purse}
 {55101}{}{A manly dilapidated purse with various documents and notes of commercial content. For you there is nothing of value, but for the former owner the loss of this thing will certainly leave a mark.}
 {55200}{}{License}
-{55201}{}{This is your personal sales license, issued by the manufacturer of the famous tonic beverage "Nuka-Cola".}
+{55201}{}{This is your personal sales license, issued by the wasteland famous tonic beverage manufacturer, "Nuka-Cola".}
 {55300}{}{Travel ticket}
 {55301}{}{One way ticket for stagecoach.}
 {55400}{}{Pieces}
