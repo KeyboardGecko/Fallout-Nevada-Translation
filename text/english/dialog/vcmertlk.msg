@@ -80,11 +80,11 @@
 {180}{}{Oh yes. Maybe you can tell me about the work in City Hall?}
 {181}{}{You have made the arrogant minister of culture answer all your questions.}
 {182}{}{D-don't touch me!!! Stay away! How did security let you in here?! Leave! Leave now, ghoul, I can't stand the sight of you anymore!}
-{183}{}{Hey, don't confuse a skin disease with ghoulification! Ah, damn it, its pointless to explain it to you.}
-{184}{}{If you talk about my sickness again - you will look lot worse than that. A lot worse.}
+{183}{}{Hey, don't confuse skin disease with ghoulification! Ah, damn it, its pointless explaining it to you.}
+{184}{}{If you bring up my sickness again - you will look lot worse than me. A lot worse.}
 {185}{}{Security! SECURITY!!!}
 {186}{}{[Leave]}
-{187}{}{Actually, it's really significant. Maybe, you can answer a few questions?}
+{187}{}{Actually, it's really significant. Maybe you can answer a few questions?}
 {188}{}{Forget it, it's not important.}
 {189}{}{I try to stay away from large settlements during my travels. The experience of survival in the wild is more important to me.}
 {190}{}{Did you really acquire such rich experience from your travels? How interesting... I would like to talk with you about life in the wasteland. You don't mind, do you?}
