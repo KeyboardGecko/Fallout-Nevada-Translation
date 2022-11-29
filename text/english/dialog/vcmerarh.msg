@@ -114,23 +114,23 @@
 {276}{}{}
 {277}{}{Thanks.}
 
-{278}{}{Mr. Clark, this pendant is your daughter's, right?}
+{278}{}{Mr. Clark, this is your daughter's pendant, right?}
 {279}{}{[His hands are shaking] Oh, my God... It's her pendant, but... Where!? Where did you get it!? Answer me!!!}
-{280}{}{That's all that's left of her. She died.}
+{280}{}{That's all that's left of her. She's dead.}
 {281}{}{She gave it to me, saying that she'll never come back to you.}
-{282}{}{It was on one of the bikers. These bastards didn't tell me what they did to her.}
+{282}{}{It was on one of the bikers. Those bastards didn't tell me what they did with her.}
 
-{283}{}{No! Nooo! [He takes the pendant to the heart and begins to cry painfully]}
+{283}{}{No! Nooo! [He presses the pendant to his heart and begins to cry painfully]}
 {284}{}{Yeah, cry, you pussy.}
 {285}{}{I'm so sorry.}
-{286}{}{Oh no... [pops his eyes frantically and sits down to keep himself from falling to the ground] No... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face with hands and begins to cry]}
-{287}{}{Oh no... [pops his eyes frantically and sits down to keep himself from falling to the ground] No... They did it. They killed her!.. Oh God... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face his hands and begins to cry]}
+{286}{}{Oh no... [rubs his eyes frantically and sits down to keep himself from falling to the ground] No... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face with his hands and begins to cry]}
+{287}{}{Oh no... [rubs his eyes frantically and sits down to keep himself from falling to the ground] No... They did it. They killed her!.. Oh God... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face with his hands and begins to cry]}
 {288}{}{::cries::}
-{289}{}{Today he won't talk to you.}
+{289}{}{He won't talk to you today.}
 
 #Female character
 {1201}{}{Where am I? Is this an archive?}
 {1204}{}{Wrong door.}
 {1223}{}{Okay, enough! I need the coordinates, before I get really mad! Fast!}
-{1225}{}{Err... Young lady, don't try to threaten me... Uh... The security is right behind the door, so...}
+{1225}{}{Err... Young lady, don't try to threaten me... Uh... The security is right behind that door, so...}
 {1265}{}{It's too difficult, I'm not sure I can help.}
