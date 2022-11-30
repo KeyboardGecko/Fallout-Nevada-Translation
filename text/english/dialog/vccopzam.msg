@@ -65,7 +65,7 @@
 {173}{}{No use talking to you. See you.}
 {174}{}{Prisoner Murphy! You're free to go.}
 {175}{}{Thank you.}
-{176}{}{Money is more important than your health? And if you get infected?}
+{176}{}{Money is more important than your health? What if you get infected?}
 {177}{}{Ha-ha-ha, you don't say? This trick is a hundred years old. I've heard everything: "Wasteland disease", "shakes", "Narg syndrome"... What did you come up with this time?}
 {178}{}{You're telling me "Wasteland disease" isn't real? I'm a doctor with many years of experience, I've have seen whole villages die from that. Just like in Tonopah or Mesquite. Have you ever been there?}
 {179}{}{Hmm. I heard something about Tonopah. Something about mad people, consuming their own flesh... Or was it really the whole village that just died out there?... Well since you're a doctor I have to believe you. But first, write a receipt stating you vouch for the diagnosis.}

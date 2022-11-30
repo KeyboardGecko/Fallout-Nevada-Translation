@@ -7,7 +7,7 @@
 {110}{}{Another star? [examines you from head to toe]}
 {111}{}{Talk. I'm listening.}
 
-{112}{}{Are you a coach? Will you teach me the art of pugilism?}
+{112}{}{Are you a coach? Will you teach me the art of pugilism, the manly art of hand-to-hand combat?}
 {113}{}{I need another training session. Here's 1000 bucks.}
 {114}{}{I don't need anything.}
 

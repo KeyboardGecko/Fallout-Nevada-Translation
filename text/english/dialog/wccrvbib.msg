@@ -21,8 +21,8 @@
 {124}{}{We have been on the top in Vegas...}
 {125}{}{Damned raiders took the most valuable.}
 {126}{}{I'm in dire straits. That's it. Put me in the coffin.}
-{127}{}{And it started so well!}
-{128}{}{We were transporting some thing to Salt Lake...}
+{127}{}{To think it all started so well!}
+{128}{}{We were transporting that thing to Salt Lake...}
 {129}{}{Why no one wants to take me to Vegas? I'm an experienced caravaneer!}
 
 #Íà÷àëüíûé äèàëîã:
@@ -42,13 +42,13 @@
 {213}{}{Tell me your story.}
 {214}{}{On a second thought, I don't need anything.}
 
-{215}{}{My name's Bibbit. I'm a caravaneer. What else can I say? Cool guy and all that, but that's beside the point.}
+{215}{}{My name's Bibbit. I'm a caravaneer. What else there's to say? Cool guy and all, but that's beside the point.}
 {216}{}{Licking my wounds after a tough caravan run. Wasteland turned out to be a ruthless bitch this time. If not for my survival skills, I'd be already eaten by pig rats or something worse.}
 {217}{}{I'm in big trouble, that's my story. If you want details, it's gonna take a while, as I'm unable to tell it any other way. It'll cost you only a small fee... Hehe. I'm just kidding. But I really need the money. A lot.}
 {218}{}{If you need money, sell something.}
 {219}{}{}
 
-{220}{}{Looks like I'm in quite a situation. Shit happens, I guess?}
+{220}{}{Sounds like a tough situation. Shit happens, I guess?}
 {221}{}{That's your problem. I'm interested in something else.}
 {222}{}{Could you elaborate?}
 {223}{}{Help? Me?! Not that I am a wimp or piss-pants, but it's a difficult situation, you see. And in this case... I do need a little support, so to speak.}
@@ -133,17 +133,17 @@
 {334}{}{While the others were asleep, I got up, went outside, and suddenly got it right in the face - BA-AAM!!! The shin of a fucking boot! And I'm falling on the floor! All the guys jumped up and grabbed their guns. Well, I thought, here comes the fun part.}
 {335}{}{A shootout?}
 
-{336}{}{These bastards got us surrounded from every side. Two of ours got shot right away, the others started running away. Good thing I made it into the bu... Eh... As I said, I know a lot of tricks, so I disappeared at the most appropriate time.}
+{336}{}{These bastards surrounded us on all sides. Two of ours were shot immediately, the rest started running away. Good thing I made it into the bushe- Uhh, as I said, I know many tricks, so I disappeared at the most appropriate moment.}
 {337}{}{What happened next?}
 
 {338}{}{I don't know! Darkness, shots, bustle. The raiders at the gas station were still kicking the shit out of someone when I left.}
 {339}{}{And that's all you story?}
 {340}{}{That's it?}
 
-{341}{}{Then I made it back here. [Speaks quietly] But I don't believe they were raiders one bit. They don't talk like that, you know! And they're not as well organized, and they're not as smart. It's too strange!}
+{341}{}{Then I made it back here. [He speaks quietly] But I don't believe they were raiders one bit. They don't talk like that, you know! And they're not as well organized, nor as smart. It's too strange!}
 {342}{}{So that's what happened...}
-{343}{}{So I was left with nothing and lost contact with my fellows. Hopefully, a trip to Vegas will give me a second chance.}
-{344}{}{Quite a story. Well, happy trails.}
+{343}{}{So I was left with nothing and lost contact with my fellows. Hopefully, a trip to Vegas would give me a second chance.}
+{344}{}{Quite a story. Happy trails then.}
 {345}{}{Things happen. Well, now you are on your own.}
 
 {346}{}{Thank you for listening! If you ever need me, you can find me in Vegas.}

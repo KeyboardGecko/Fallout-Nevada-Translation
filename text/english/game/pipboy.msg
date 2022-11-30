@@ -1117,8 +1117,8 @@
 {19025}{}{}
 {19026}{}{Bitter news came to our little town - Mrs. Schultz's}
 {19027}{}{son, major Otto Schultz, perished in the Gilan}
-{19028}{}{province... I will definitely visit this poor SOB}
-{19029}{}{by today's evening.}
+{19028}{}{province... I will definitely visit this poor}
+{19029}{}{woman by today's evening.}
 {19030}{}{Hope I can relieve her sorrows and help her to}
 {19031}{}{reconcile with our Lord...}
 {19032}{}{Why can't people live in peace? After all we are}
@@ -1199,8 +1199,8 @@
 {19107}{}{I'm done here, but there are so many more poor souls}
 {19108}{}{left for me to send to the Pearly Gates of Heaven...}
 {19109}{}{This flesh of mine is changing under the influence of}
-{19110}{}{our Lord, which makes some things...inconvenient...}
-{19111}{}{But I believe - it's all for this holy crusade!}
+{19110}{}{our Lord, which makes some things... inconvenient.}
+{19111}{}{But I believe that it's worth it! Worth my holy mission!}
 {19112}{}{Rejoice, righteous men! Faithless, be frightened!}
 {19113}{}{Because I am coming for you...}
 {19114}{}{}
