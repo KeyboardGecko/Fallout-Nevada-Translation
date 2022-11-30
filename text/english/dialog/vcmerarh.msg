@@ -29,8 +29,8 @@
 
 #Starting conversation
 {200}{}{Hello. What did you want?}
-{201}{}{Where am I? Is this an archive?}
-{202}{}{Is this an archive? Can I find the coordinates of a military base called "Area 51" here?}
+{201}{}{Where am I? Is this the archive?}
+{202}{}{Is this the archive? Can I find the coordinates of a military base called "Area 51" here?}
 {203}{}{Police told me about your daughter's disappearance. I volunteered to help in the search.}
 {204}{}{Wrong door, sorry.}
 
@@ -65,7 +65,7 @@
 {231}{}{Well... I don't think, that... For you... But if you know someone already, then...}
 {232}{}{Fine, I'll leave you alone for now.}
 {233}{}{Okay, that's it, you four-eyed! I'm sick of you! For the last time - give me the coordinates! Or your old ass will be squashed on the spot and no security will save you!}
-{234}{}{[Turns pale. Suddenly starts shouting] Guards!!! Guards!!! Intruder!!!}
+{234}{}{[He goes pale. Then he suddenly begins to shout] Guards!!! Guards!!! Intruder!!!}
 {235}{}{You son of a bitch! You think that they are faster than my bullet!?}
 {236}{}{Er... Honestly, I don't know... Until now, only City Hall employees had any interest for the archive, and all other citizens didn't care...}
 {237}{}{Hmm. How much are you being paid for this work?}
@@ -129,7 +129,7 @@
 {289}{}{He won't talk to you today.}
 
 #Female character
-{1201}{}{Where am I? Is this an archive?}
+{1201}{}{Where am I? Is this the archive?}
 {1204}{}{Wrong door.}
 {1223}{}{Okay, enough! I need the coordinates, before I get really mad! Fast!}
 {1225}{}{Err... Young lady, don't try to threaten me... Uh... The security is right behind that door, so...}

@@ -51,9 +51,9 @@
 {152}{}{What about 9mm or .45? They're pretty similar to what you're making now.}
 {153}{}{Let's back up a bit...}
 
-{154}{}{You seriously can't make anything but that? Just what kind of munitions expert are you?}
+{154}{}{[He scratched his chin] Uh... I'll have to rig the tools a bit, but I... Actually, I can do that. Okay, I'll whip up some 9mm and .45 for you.}
 {155}{}{Look, I'm not here to explain myself to you, alright? Just trust me, that's all we're equipped to make here. Take 'em or leave 'em.}
-{156}{}{[He scratched his chin] Eh... I'll have to jury-rig the tools a bit, but I can manage that. Okay, I can whip up some 9mm and .45 for you.}
+{156}{}{You seriously can't make anything but that? Just what kind of munitions expert are you?}
 {157}{}{That wasn't necessary. Give me a moment and I'll explain how to make 9mm and .45 rounds.}
 {158}{}{Too bad. I have another question.}
 
