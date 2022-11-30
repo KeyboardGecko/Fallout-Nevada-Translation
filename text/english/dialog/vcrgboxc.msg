@@ -48,7 +48,7 @@
 
 {144}{}{I'll tell you, just because I see that you're one of us.}
 {145}{}{Come on, I won't tell anyone. Be sure about it.}
-{146}{}{There is a large laboratory somewhere outside the city. The "black caravan," as we call it, goes there every two days. They quietly stop in the parking lot behind the office and push the drugs. That's how the stuff gets to the city. I used to deal with them, but then I quit using. So, maybe they already moved to another place, I have no idea.}
+{146}{}{There is a large laboratory somewhere outside the city. The "black caravan," as we call it, goes there every two days. They quietly stop in the parking lot behind the office and push drugs. That's how the stuff gets to the city. I used to deal with them, but then I quit using. So, maybe they already moved to another place, I have no idea.}
 {147}{}{Okay, thanks for telling me. This is just what I needed.}
 
 {148}{}{Thanks in any other form would be nicer. Heh-heh.}
@@ -63,7 +63,7 @@
 {155}{}{You see, the chief of Slavertown hired someone to plant drugs on the freaks.}
 {156}{}{Yeah? Well, that's obvious.}
 {157}{}{Really?}
-{158}{}{You bet it is! Don't you understand? The chief wants a percentage of the income from the Hoover Dam. And the dam is in need of workers. I don't know exactly what the deal is, but I think the chief has tried to sell his slaves to the dam. Bob Neil, obviously, didn't like that and went looking for alternatives. So, chief must've concluded that the freaks should be dealt with, so the dam owner had no other choice but to accept slaves for workers. Otherwise, no money for him.}
+{158}{}{You bet it is! Don't you understand? The chief wants a percentage of the income from Hoover Dam. And the dam is in need of workers. I don't know exactly what the deal is, but I think the chief has tried to sell his slaves to the dam. Bob Neil, obviously, didn't like that and went looking for alternatives. So, chief must've concluded that the freaks should be dealt with, so the dam owner had no other choice but to accept slaves for workers. Otherwise, no money for him.}
 {159}{}{Where do they get the dope? Do you know anything about it?}
 {160}{}{Hmm. Interesting. I'll take that into consideration.}
 
