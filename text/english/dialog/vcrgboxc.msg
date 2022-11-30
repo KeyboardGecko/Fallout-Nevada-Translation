@@ -12,7 +12,7 @@
 #Ïðî 'ðåíèðîâêè
 {115}{}{The coach is a real monster, he had me completely bent out of shape. He says my stamina sucks!}
 {116}{}{Well, you don't look like a nerd. Look at those biceps!}
-{117}{}{I also thought that getting buffed is all I needd! And you know what? Two years of training and zero goddamn victories!}
+{117}{}{I also thought that getting buffed was all I needed! And you know what? Two years of training and zero goddamn victories!}
 {118}{}{Uh... Not even one?!}
 {119}{}{The first round in the ring is usually mine, but then I'm completely exhausted.}
 {120}{}{Oh, so that's how it is.}
