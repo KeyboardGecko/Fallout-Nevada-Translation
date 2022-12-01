@@ -1,7 +1,7 @@
 {100}{}{You see Myers.}
 {101}{}{You see the head of the restaurant. He smiles, even though he's very busy.}
 
-#Оружие в руках
+#ГЋГ°ГіГ¦ГЁГҐ Гў Г°ГіГЄГ Гµ
 {102}{}{Hey, while you're in here, the weapon stays in holster.}
 {103}{}{I know we say the customer with a knife is always right... But there's a limit!}
 
@@ -9,7 +9,7 @@
 #{104}{}{I have a feeling like I'm being watched... [he shakes his head] It's all in my head, probably.}
 
 ####################################################################
-#              Случайные плавающие фразы
+#              Г‘Г«ГіГ·Г Г©Г­Г»ГҐ ГЇГ«Г ГўГ ГѕГ№ГЁГҐ ГґГ°Г Г§Г»
 ####################################################################
 
 {110}{}{One sandwich and beer...}
@@ -25,7 +25,7 @@
 {120}{}{[Whistles]}
 
 ####################################################################
-#              Скупка яиц
+#              Г‘ГЄГіГЇГЄГ  ГїГЁГ¶
 ####################################################################
 
 {130}{}{Are you interested in gecko eggs?}
@@ -49,7 +49,7 @@
 {147}{}{[He frowns and grumbles] These eggs have been hard to get lately, so... Fine. Another ten bucks. My customers will have to put up with higher prices.}
 
 ####################################################################
-#              Диалог
+#              Г„ГЁГ Г«Г®ГЈ
 ####################################################################
 
 {149}{}{[He glares at you] Are you going to order something?}
@@ -68,7 +68,7 @@
 {161}{}{You have received a discount in the restaurant.}
 
 ####################################################################
-#              Расспросы
+#              ГђГ Г±Г±ГЇГ°Г®Г±Г»
 ####################################################################
 
 {170}{}{Who's that little urchin running around?}
@@ -105,7 +105,7 @@
 {194}{}{Yeah, I get you.}
 
 ####################################################################
-#              Продажа ядер-колы
+#              ГЏГ°Г®Г¤Г Г¦Г  ГїГ¤ГҐГ°-ГЄГ®Г«Г»
 ####################################################################
 
 {300}{}{Hey, you want a steady supply of Nuka-Cola? Why not set up a contract with Salt Lake!}
@@ -127,7 +127,7 @@
 {312}{}{Oh yeah? Who's going to transport it?}
 {313}{}{Why does that matter?}
 
-{314}{}{This kind of stuff should be delivered by a caravan, usually by a lot of them. That means I've got to cut more deals and spend more money. I can't pay so much for a product that costs a few bucks to people, you know?}
+{314}{}{This kind of stuff should be delivered by a caravan, usually by a lot of them. That means I've got to cut more deals and spend more money. I can't pay that much for a product that only sells for a few bucks, you know?}
 {315}{}{Don't worry about the delivery. That's my problem. All you have to do is to sell it.}
 {316}{}{Hmm... I'll think about it and come back with a solution.}
 
