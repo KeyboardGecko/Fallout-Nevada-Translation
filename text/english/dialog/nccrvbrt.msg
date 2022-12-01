@@ -79,7 +79,7 @@
 {275}{}{Think he left for Vegas with a caravan, if my memory serves me right.}
 
 #About Nuka-Cola
-{276}{}{We could organize a deal about Nuka-Cola sales.}
+{276}{}{We could arrange a deal to sell Nuka-Cola.}
 {277}{}{But I don't sell food. The caravaneers buy from the Silver restaurant. Or, in the worst case, that small cafe near El Dorado. Perhaps they'd be more interested.}
 {278}{}{Restaurant or cafe? I'll go see if they're interested.}
 
