@@ -261,7 +261,7 @@
 {321}{}{We have a quartermaster at the entrance. You should resolve your questions with him.}
 {322}{}{A trader in the old station? Okay, I'll talk to him.}
 {323}{}{He said he wouldn't commit to any deals without your permission.}
-{324}{}{And he did the right thing. Where is the guarantee that you are who you claim to be? How can we trust you?}
+{324}{}{And he did the right thing. What guarantee do we have that you are who you claim to be? How can we trust you?}
 {325}{}{In that case, my license might convince you.}
 {326}{}{You're not very welcoming to rare trade partners. Well, your loss...}
 {327}{}{...And no one knows where you got it. Prove that you can be trusted. As for your papers, there are better uses for it in the bathroom.}
