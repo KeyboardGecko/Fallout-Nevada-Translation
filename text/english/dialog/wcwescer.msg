@@ -259,7 +259,7 @@
 #Selling Nuka
 {320}{}{I am an official representative from Salt Lake City's Nuka-Cola factory and I have a mutually beneficial offer for you.}
 {321}{}{We have a quartermaster at the entrance. You should resolve your questions with him.}
-{322}{}{A trader in the old station? Okay, I'll talk to him.}
+{322}{}{That trader in the old station? Okay, I'll go talk to him.}
 {323}{}{He said he wouldn't commit to any deals without your permission.}
 {324}{}{And he did the right thing. What guarantee do we have that you are who you claim to be? How can we trust you?}
 {325}{}{In that case, my license might convince you.}
