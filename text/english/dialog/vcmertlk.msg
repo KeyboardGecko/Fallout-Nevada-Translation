@@ -73,7 +73,7 @@
 {173}{}{The department of culture is responsible for the administration of cultural events, representation of the Clean City and its inhabitants, but most important of all - for education. Recently we even started selling the surviving pre-war books using vending machines. Just imagine a man reading a book outside of the Clean City. It's almost impossible, is it not?}
 {174}{}{I would prefer not to discuss the mayor with anyone, even with my acquaintances. But sometimes I just think - how could the Council appoint a spineless and pliant old man to such an important post? I'm just afraid that personal interest will corrupt the mayor.}
 {175}{}{Really? What profits? Would you mind explaining that to me?}
-{176}{}{I supply Nuka-Cola, on the agreement with the factory in the north. I can show you my papers if you don't believe me.}
+{176}{}{I supply Nuka-Cola, with an agreement with the factory in the north. I can show you my papers if you don't believe me.}
 {177}{}{My private business bears an independent nature. I'm not even obliged to report to the Clean City.}
 {178}{}{It's confidential. I have special agreement with the mayor of the city.}
 {179}{}{Hmm, sorry then. I'm obliged to send away all kinds of scum, so they don't bother me and interfere with my work. You know how it is.}
