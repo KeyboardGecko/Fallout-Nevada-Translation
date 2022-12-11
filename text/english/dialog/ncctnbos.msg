@@ -158,7 +158,7 @@
 
 {301}{}{Ha! If you think I'm buying from you, either you're crazy or you think I am! There are more reliable suppliers in this city.}
 {302}{}{Ouch! I guess my bad reputation is catching up with me...}
-{303}{}{Interesting. Nuka-Cola, eh? Yeah, I've heard about it... Drove around a hundred people to the grave this year. It's possible that a factory in Salt Lake City is still maintains the quality of its product, but you don't look like a professional trader. Trying to screw a humble bartender over, are you?}
+{303}{}{Interesting. Nuka-Cola, eh? Yeah, I've heard about it... Drove around a hundred people to the grave this year. It's possible a factory in Salt Lake City still maintains the quality of its product, but you don't look like a professional trader. Trying to screw a humble bartender over, are you?}
 {304}{}{It's okay. I am *really* working for the factory. Here's my license.}
 {305}{}{What, I don't bargain well enough for you? Man, it's not easy breaking into this business...}
 
@@ -167,7 +167,7 @@
 {308}{}{}
 
 {309}{}{Nuka-Cola from the factory! That's a good product... As long as it's legit! What's the price?}
-{310}{}{Don't worry, the best one. I work directly with the factory in Salt Lake City.}
+{310}{}{Don't worry, the best price. I work directly with the factory in Salt Lake City.}
 
 {311}{}{Curious. And who delivers it?}
 {312}{}{Does it matter?}
@@ -338,38 +338,38 @@
 #              Naming the band (beginning: 110-129)
 ####################################################################
 
-{500}{}{¿}
-{501}{}{¡}
-{502}{}{¬}
-{503}{}{√}
-{504}{}{ƒ}
-{505}{}{≈}
-{506}{}{∆}
-{507}{}{«}
-{508}{}{»}
-{509}{}{…}
-{510}{}{ }
-{511}{}{À}
-{512}{}{Ã}
-{513}{}{Õ}
-{514}{}{Œ}
-{515}{}{œ}
-{516}{}{–}
-{517}{}{—}
-{518}{}{“}
-{519}{}{”}
-{520}{}{‘}
-{521}{}{’}
-{522}{}{÷}
-{523}{}{◊}
-{524}{}{ÿ}
-{525}{}{Ÿ}
-{526}{}{⁄}
-{527}{}{€}
-{528}{}{‹}
-{529}{}{›}
-{530}{}{ﬁ}
-{531}{}{ﬂ}
+{500}{}{√Ä}
+{501}{}{√Å}
+{502}{}{√Ç}
+{503}{}{√É}
+{504}{}{√Ñ}
+{505}{}{√Ö}
+{506}{}{√Ü}
+{507}{}{√á}
+{508}{}{√à}
+{509}{}{√â}
+{510}{}{√ä}
+{511}{}{√ã}
+{512}{}{√å}
+{513}{}{√ç}
+{514}{}{√é}
+{515}{}{√è}
+{516}{}{√ê}
+{517}{}{√ë}
+{518}{}{√í}
+{519}{}{√ì}
+{520}{}{√î}
+{521}{}{√ï}
+{522}{}{√ñ}
+{523}{}{√ó}
+{524}{}{√ò}
+{525}{}{√ô}
+{526}{}{√ö}
+{527}{}{√õ}
+{528}{}{√ú}
+{529}{}{√ù}
+{530}{}{√û}
+{531}{}{√ü}
 {532}{}{-}
 {533}{}{ }
 {534}{}{!}
