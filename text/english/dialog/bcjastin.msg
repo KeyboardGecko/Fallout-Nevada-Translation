@@ -133,9 +133,9 @@
 {261}{}{What's there to know? He's just a couple of days late. It's nothing.}
 {262}{}{Are you sure? You're always looking for ways to get rid of people, aren't you?}
 {263}{}{Fine, I believe you.}
-{264}{}{Oh, you think I did something, huh? A mean old Justin, always looking for a reason to kill someone! Is that what you think? You don't know a fucking thing about me. Anyway, I've been here all along, ask anyone. Your courier's probably lying drunk in a ditch somewhere.}
+{264}{}{Oh, you think I did something, huh? Mean old Justin, always looking for a reason to kill someone! Is that what you think? You don't know a fucking thing about me. Anyway, I've been here all along, ask anyone. Your courier's probably lying drunk in a ditch somewhere.}
 {265}{}{I don't believe you. I'm watching you.}
-{266}{}{What about your son - where he was at the day of Milo's murd... Err, disappearance?}
+{266}{}{What about your son - where was he on the day of Milo's murd... Err, disappearance?}
 {267}{}{}
 {268}{}{}
 {269}{}{[Immediately lunges forward] DON'T YOU FUCKING DARE!! Don't you dare blame my son! He'd never! NEVER! I've sheltered him from this since the day he was born! I forced him out of that fucking gang! And now you come in and undo everything I've worked for? Get out! Get out before I tear out your lying fucking tongue!!}
