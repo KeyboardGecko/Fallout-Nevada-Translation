@@ -143,15 +143,15 @@
 {271}{}{Oh, I'll go. I'll see. And then, you'll see! You'll see he had nothing to do with this! He... He couldn't have... }
 {272}{}{Let's go, then.}
 {273}{}{Fine, I'm going, jeez... }
-{274}{}{[You leave to the cemetery and come back after Justin sees the truth. He collapses onto a chair and grabs his head, letting out a long, miserable groan.}
+{274}{}{[You walk to the cemetery and return after Justin sees the truth. He collapses onto a chair and grabs his head, letting out a long, miserable groan.}
 {275}{}{Oh, I'm sorry, World's Best Dad, I didn't catch that. Can you repeat it?}
 {276}{}{[Let him recover]}
 {277}{}{[His mumbling voice is barely heard] Fuck you. You have no right to judge me.}
 {278}{}{Oh?}
-{279}{}{Do you understand now why I always fought newcomers? How can we be responsible for them if we can't deal with our own problems? God, Eugene... How did it ever go this far?}
+{279}{}{Do you understand now why I always fought newcomers? How can we be responsible for them if we can't deal with our own problems? God, Eugene... How did it ever get this far?}
 {280}{}{You knew about this?!}
 
-{281}{}{No! I mean... Fuck... I never wanted it to turn out like this. When I heard that William wants to set up a caravan route with Reno, I got pissed. My son offered to scare off the caravan with a few warning shots from the mountains. I said no, but... I guess he told his new friends about it. I never meant for this to happen! All I wanted was a peaceful, quiet life.}
+{281}{}{No! I mean... Fuck... I never wanted it to turn out like this. When I heard that William wanted to set up a caravan route with Reno, I got pissed. My son offered to scare off the caravan with a few warning shots from the mountains. I said no, but... I guess he told his new friends about it. I never meant for this to happen! All I wanted was a peaceful, quiet life.}
 {282}{}{It seems you just weren't meant to have one. What now?}
 {283}{}{I'm sorry I put you through this, but now we have to do something.}
 {284}{}{Now? [he shakes his head sadly] This gang, the "Molerats" - they must already have a plan to attack the caravan. There's no way to stop them now. If you want to try, I won't interfere, but I can't help you.}
