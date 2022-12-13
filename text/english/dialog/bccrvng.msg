@@ -23,7 +23,7 @@
 {123}{}{Let me think.}
 
 {124}{}{Come up with any ideas yet, stranger?}
-{125}{}{We were coming up from Reno to pick up some gecko pelts. Were going through the mountains, but something didn't feel right. We busted out the binoculars to look around, and lo and behold, the raiders hadn't even put out their campfires. Pure amateur hour, I said to myself. Fortunately, I knew a cave that cut right through the side of the mountain. We'd just have to take the caravan through it and out the other side, and the raiders would never even know we were there. Clever me, huh?}
+{125}{}{We came up from Reno to pick up some gecko pelts. We were going through the mountains, but something didn't feel right. We busted out the binoculars to look around, and lo and behold, the raiders hadn't even put out their campfires. Pure amateur hour, I said to myself. Fortunately I knew a cave that cut right through the side of the mountain. We'd just have to take the caravan through it and out the other side, and the raiders would never even know we were there. Clever me, huh?}
 {126}{}{What happened next?}
 {127}{}{Turns out they knew about the cave too. Fuck, we walked right into their trap! Just after we passed through, they detonated the cave behind us and sealed off the tunnel. There's no way in hell we're getting through that rubble. I don't know if they planned it from the beginning or they just got lucky, but it doesn't really matter now. There's only one exit - all they gotta do is wait. Either we come out and they shoot us or we sit here and starve.}
 {128}{}{That's an unpleasant story.}
