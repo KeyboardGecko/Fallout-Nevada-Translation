@@ -23,7 +23,7 @@
 {125}{}{We come here every 10th of the month, rest up a few days, then move out. It's good that this place is here - for a long time, there was nowhere to get a decent rest this far north.}
 {126}{}{Gecko pelts, that's why! Can't keep wearing pre-war clothing forever, you know. It's time for Nevada to update its wardrobe, and this year it's leather, leather, leather. It's a good time to be a gecko hunter, especially if you can take out the golden ones.}
 
-{127}{}{We were coming up from Reno to pick up some gecko pelts. Were going through the mountains, but something didn't feel right. We busted out the binoculars to look around, and lo and behold - the raiders hadn't even put out their campfires. Pure amateur hour, I said to myself. Fortunately, I knew a cave that cut right through the side of the mountain. We'd just have to take the caravan through it and out the other side, and the raiders'd never even know we were there. Clever me, huh?}
+{127}{}{We came up from Reno to pick up some gecko pelts. We were going through the mountains, but something didn't feel right. We busted out the binoculars to look around, and lo and behold - the raiders hadn't even put out their campfires. Pure amateur hour, I said to myself. Fortunately, I knew a cave that cut right through the side of the mountain. We'd just have to take the caravan through it and out the other side, and the raiders'd never even know we were there. Clever me, huh?}
 {128}{}{What was next?}
 {129}{}{Turns out they knew about the cave too. Fuck, we walked right into their trap! Just after we passed through, they detonated the cave behind us and sealed off the tunnel. I don't know if they planned it that way, or just got lucky, but it doesn't really matter now.}
 
@@ -45,7 +45,7 @@
 {144}{}{Look, I would, but... There's talk going around the caravans about a guy who just happens to look a lot like you. Bad, BAD talk. That sort of thing makes a man nervous, you know? Like, maybe your deals aren't the best.}
 {145}{}{Look, I would, but... You've got kind of a reputation, you know? And it's not the kind that makes me want to trust whatever you've got to trade.}
 
-#Поправля'ь здоровье
+#ГЏГ®ГЇГ°Г ГўГ«Гї'Гј Г§Г¤Г®Г°Г®ГўГјГҐ
 {150}{}{Sorry for the question, but - what did you eat while you were trapped?}
 {151}{}{We had a few supplies left, but those didn't last long. We got water off the walls of the cave and ate any radscorpions or rats we could find in there. You can't be a trader without at least a few survival skills.}
 {152}{}{Can you teach this skill to someone? Me, for example?}
