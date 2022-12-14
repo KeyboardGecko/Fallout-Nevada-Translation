@@ -41,7 +41,7 @@
 {2100}{}{Brass Knuckles}
 {2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat. Min. ST: 1.}
 {2200}{}{Caravan Carbine}
-{2201}{}{An old varmint rifle. The barrel is shortened, and the butt is made as lightweight as possible, which makes the weapon more light and comfortable at the expense of accuracy. Min. ST: 4.}
+{2201}{}{An old varmint rifle. A shortened barrel and lightweight butt makes it lighter and more comfortable at the expense of accuracy. Min. ST: 4.}
 {2300}{}{Assault Rifle}
 {2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high velocity 5mm rounds. Min. ST: 5.}
 {2400}{}{Plasma Pistol}
