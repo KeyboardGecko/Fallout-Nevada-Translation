@@ -9,7 +9,7 @@
 {109}{}{I know how to keep my mouth shut when the money's right...}
 
 #Äèàëîã
-{110}{}{Well, well. What do we have here? Another radiated bonebag. He-he... Like, a bag with bones in it! [talks to his brother] Did you hear that, brother!? A bonebag! Pft-ha-ha-ha-ha!}
+{110}{}{Well, well. What do we have here? Another radiated bonebag. He-he... Like, a bag with bones in it! [turns to his brother] Did you hear that, brother!? A bonebag! Pft-ha-ha-ha-ha!}
 {111}{}{You can laugh all you want, funny guys. When Robert takes away your sister, you won't be laughing anymore.}
 {112}{}{If my presence amuses you so much, then I'll just get out of here.}
 {113}{}{Yeah, right. I better go before I have to hear any more of your "jokes".}
