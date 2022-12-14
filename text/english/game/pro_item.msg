@@ -1285,7 +1285,7 @@
 {66800}{}{Tactical Survival Knife}
 {66801}{}{Designed to help set up camp in the field and to ensure human survival in the "wild".}
 {66900}{}{"Lucky"}
-{66901}{}{Heavily worn defensive action plasma pistol, first-generation civilian model. Such ones went out of fashion long before the War.}
+{66901}{}{Heavily worn defensive action plasma pistol, first-generation civilian model. This one went out of fashion long before the War.}
 {67000}{}{"Lucky"}
 {67001}{}{Heavily worn defensive action plasma pistol, first-generation civilian model. After cleaning and recalibration, its power and range increased by 10%.}
 {67100}{}{Nightshade berries}
