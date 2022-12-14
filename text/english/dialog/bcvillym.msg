@@ -275,7 +275,7 @@
 
 #Final converstaion about saved caravan
 {395}{}{Hey, it's you! The caravan merchants told me everything! You're a goddamn miracle worker, you know that?! Great job!}
-{396}{}{Such words would go perfectly with a reward.}
+{396}{}{Such kind words would go perfectly with a reward.}
 {397}{}{I'm glad I could help.}
 {398}{}{You're not even asking for a reward? That's noble! Look, from now on you get a 20% discount on my goods. You're welcomed here any time, remember that!}
 {399}{}{You know, you could give me something more for my troubles... }
