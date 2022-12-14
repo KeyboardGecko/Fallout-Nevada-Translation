@@ -974,7 +974,7 @@
 {49900}{}{Food can}
 {49901}{}{In front of you is a can of dog food. And judging by the date on the lid, it is more than 70 years old. If you dare to open it, it is better to wear a gas mask in advance.}
 {50000}{}{Old revolver}
-{50001}{}{Very old model of once popular revolver. Perhaps the museum exhibit. Min. ST: 1.}
+{50001}{}{Very old model of a once popular revolver. Perhaps the museum exhibit. Min. ST: 1.}
 {50100}{}{Wall Safe}
 {50200}{}{Floor Safe}
 {50300}{}{Blue Memory Module}
