@@ -1,4 +1,4 @@
-#Ñòàðòîâûå è òèïîâûå îïöèè äèàëîãà
+#Ã‘Ã²Ã Ã°Ã²Ã®Ã¢Ã»Ã¥ Ã¨ Ã²Ã¨Ã¯Ã®Ã¢Ã»Ã¥ Ã®Ã¯Ã¶Ã¨Ã¨ Ã¤Ã¨Ã Ã«Ã®Ã£Ã 
 {110}{}{You cannot do that in combat.}
 {111}{}{You can use this campfire to cook food or prepare chems if you have the ingredients and enough skill. Start by choosing a recipe.}
 {112}{}{You can use this laboratory workstation to craft useful supplies if you have the ingredients and enough skill. Start by choosing a recipe.}
@@ -11,7 +11,7 @@
 {118}{}{> Next list.}
 {119}{}{< Previous list.}
 
-#Èçãîòîâëåíèå
+#ÃˆÃ§Ã£Ã®Ã²Ã®Ã¢Ã«Ã¥Ã­Ã¨Ã¥
 {120}{}{Make }
 {121}{}{.}
 {122}{}{You'll need: }
@@ -22,12 +22,12 @@
 {127}{}{ experience points for crafting supplies at the campfire.}
 {128}{}{ experience points for crafting supplies with the help of laboratory equipment.}
 
-#Ðåöåïòóðà
+#ÃÃ¥Ã¶Ã¥Ã¯Ã²Ã³Ã°Ã 
 {135}{}{To learn this recipe you need: Science }
 {136}{}{ infection points.}
 {137}{}{You have successfully learned this recipe.}
 
-#Îïöèè öåíòðèôóãè
+#ÃŽÃ¯Ã¶Ã¨Ã¨ Ã¶Ã¥Ã­Ã²Ã°Ã¨Ã´Ã³Ã£Ã¨
 {140}{}{You need a Science skill of 25 to use this.}
 {141}{}{The medical centrifuge is ready to use. What would you like to make?}
 {142}{}{You must equip this device in order to use it.}
@@ -37,11 +37,11 @@
 
 ##############################################################################
 #
-#                          Äëÿ Áëýê-Ðîê - êàðòà îñàäû
+#                          Ã„Ã«Ã¿ ÃÃ«Ã½Ãª-ÃÃ®Ãª - ÃªÃ Ã°Ã²Ã  Ã®Ã±Ã Ã¤Ã»
 #
 ##############################################################################
 
-{150}{}{The pot of stew for raiders is still simmering on this fire. You have the opportunity to "fiddle with the spices".}
+{150}{}{The raider's pot of stew is still simmering on this fire. You have the opportunity to "fiddle with the spices".}
 {151}{}{Use "Horsekiller" poison.}
 {152}{}{Use radscorpion venom.}
 {153}{}{Done. Now you only have to wait a little...}
@@ -54,7 +54,7 @@
 
 ##############################################################################
 #
-#                          Ëå÷åíèå ÎÇ
+#                          Ã‹Ã¥Ã·Ã¥Ã­Ã¨Ã¥ ÃŽÃ‡
 #
 ##############################################################################
 
@@ -71,7 +71,7 @@
 
 ##############################################################################
 #
-#                          Ëå÷åíèå îò èíôåêöèè
+#                          Ã‹Ã¥Ã·Ã¥Ã­Ã¨Ã¥ Ã®Ã² Ã¨Ã­Ã´Ã¥ÃªÃ¶Ã¨Ã¨
 #
 ##############################################################################
 
@@ -92,7 +92,7 @@
 
 ##############################################################################
 #
-#                          Ñïèñîê ðåöåïòóð
+#                          Ã‘Ã¯Ã¨Ã±Ã®Ãª Ã°Ã¥Ã¶Ã¥Ã¯Ã²Ã³Ã°
 #
 ##############################################################################
 
@@ -109,7 +109,7 @@
 
 ##############################################################################
 #
-#                          Ñïèñîê èçãîòîâëåíèÿ
+#                          Ã‘Ã¯Ã¨Ã±Ã®Ãª Ã¨Ã§Ã£Ã®Ã²Ã®Ã¢Ã«Ã¥Ã­Ã¨Ã¿
 #
 ##############################################################################
 
