@@ -10,7 +10,7 @@
 
 #If the char is a male
 {120}{}{Oh, you shouldn't talk to me. My brothers went really crazy after that story with Robert. Now I'm not allowed to talk to strangers.}
-{121}{}{I just wanted to say that Robert prepares the escape. Be ready!}
+{121}{}{I just wanted to say that Robert is preparing an escape. Be ready!}
 {122}{}{}
 {123}{}{So, what are you, a prisoner?}
 {124}{}{Well, I'm not going to insist.}
@@ -21,7 +21,7 @@
 
 #If char is a female
 {130}{}{Hello, stranger. Glad to see you, my brothers went really crazy after that story with Robert. They let me speak only with women and "purebred" military, and those, believe me, are not the best company.}
-{131}{}{I just wanted to say that Robert prepares the escape. Be ready!}
+{131}{}{I just wanted to say that Robert is preparing an escape. Be ready!}
 {132}{}{"Purebred"? How do they define it?}
 {133}{}{So what are you, a prisoner?}
 {134}{}{Who's Robert?}
