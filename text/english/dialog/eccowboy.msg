@@ -1,13 +1,13 @@
 {100}{}{You see John.}
-{101}{}{You see an athletic man. The only piece of clothes he's wearing is a cowboy hat.}
+{101}{}{You see an athletic man. The only piece of clothing he's wearing is a cowboy hat.}
 
-{102}{}{You delivered the passenger to the destination.}
+{102}{}{You delivered the passenger to his destination.}
 
 {103}{}{Quiet! No time for a chitchat - let's just get out of here as fast as we can.}
-{104}{}{Thanks for the ride! If only there would be more people like you.}
+{104}{}{Thanks for the ride! If only there were more people like you.}
 {105}{}{   }
 
-{106}{}{I won't make a step until we get away from this region.}
+{106}{}{I won't take a step until we get out of this region.}
 
 ####################################################
 #
@@ -20,7 +20,7 @@
 {121}{}{Yeah, I want you to keep me company, it's always more fun to travel with fellow travelers.}
 
 {122}{}{Let's roll then?}
-{123}{}{I have a feeling, that we should hurry up and leave.}
+{123}{}{I have a feeling we should hurry up and leave.}
 
 {124}{}{Go back to the car, you're not needed.}
 {125}{}{Okay, man.}
@@ -41,21 +41,21 @@
 {138}{}{}
 {139}{}{}
 #--- Äëÿ æåíñêîãî ïåðñà:
-{140}{}{If you decided to touch it - go lower, baby.}
+{140}{}{If you want to touch it - go lower, baby.}
 {141}{}{Your hands are so soft!}
 {142}{}{Want me to play your guitar, baby?}
 {143}{}{Oh, do you like it rough?}
 {144}{}{Could just ask, I can't resist.}
 #--- Äëÿ ìóæñêîãî:
 {145}{}{Oh, man, keep your hands to yourself!}
-{146}{}{Hey, don't push! I almost stepped in a shit.}
+{146}{}{Hey, don't push! I almost stepped in shit.}
 {147}{}{Okay, already gone.}
 {148}{}{Okay, you're the boss.}
-{149}{}{I prefer to keep a distance too.}
+{149}{}{I prefer to keep my distance too.}
 
 #Ïåðâûé äèàëîã
 {150}{}{[You see a naked guy of athletic build, with a definitive "six-pack" on his belly] Hey, man, can you give me a ride to Vegas? I'll pay, I promise.}
-{151}{}{How are you gonna pay? You don't even have any pants!}
+{151}{}{How are you gonna pay? You don't even have pants!}
 {152}{}{You don't look like a hitchhiker. What's the catch?}
 {153}{}{No problem! Sit down, man, I'll drop you off.}
 {154}{}{I don't need inadequate travel companions.}
@@ -63,7 +63,7 @@
 {155}{}{If I said I'll pay, it means I'll pay! Trust me, okay?}
 {156}{}{[He throws his hands in the air, to the sides, showing the absence of any items on him whatsoever] Man, I'm clean as Russian vodka! No strings attached! Absolutely!}
 {157}{}{Really?! Wow, man, you are saving my day! Do you know where the "Hard Rock" cafe in Vegas is? That's where I should be. And the sooner, the better.}
-{158}{}{Well, scram then! [desperately shows the middle finger]}
+{158}{}{Well, scram then! [desperately throws you the middle finger]}
 {159}{}{[Leave]}
 
 {160}{}{We're gonna move soon, but for now - wait.}
@@ -74,7 +74,7 @@
 {163}{}{We are wasting time, man.}
 {164}{}{Where are you going?}
 {165}{}{Vegas. They say it's been a long time since anyone has heard great country music at the "Hard Rock" cafe, and that's where I should be... To show those rednecks that there's still real music in Nevada.}
-{166}{}{I think you're late, cowboy. The scene in "Hard Rock" is already filled with an excellent jazz.}
+{166}{}{I think you're late, cowboy. The scene in "Hard Rock" is already filled with excellent jazz.}
 {167}{}{What?! No!! Are you sure? Damn! These guys are already there and making it! I need to hurry, man. Let's go!}
 {168}{}{Why are you naked?}
 {169}{}{I'm just hot.}
@@ -86,7 +86,7 @@
 {175}{}{Wh-... EW!! I hate fags! No, I'm not like that, certainly.}
 {176}{}{Baby, not tonight - handsome John is busy, I'm sorry.}
 
-{177}{}{The conversation is finished. Wait, until we move out.}
+{177}{}{This conversation is over. Wait, until we move out.}
 {178}{}{}
 {179}{}{}
 
@@ -94,14 +94,14 @@
 {180}{}{Hey, you! The fuck, nigga, what the fuck do you think you're doing!?}
 {181}{}{YOU!? But... HOW!?}
 {182}{}{That was easy. No one's gonna interfere with us now!}
-{183}{}{Uh, buddy, it wasn't me, who rat you out to those thugs, honestly!..}
+{183}{}{Uh, buddy, it wasn't me who ratted you out to those thugs, honestly!..}
 {184}{}{Fuck the thugs and my jacket! Fuck this shit!}
 {185}{}{Uh... John, let me explain...}
 {186}{}{Save it, you son of a bitch! You've already wasted enough of my time!}
-{187}{}{You are breaking my heart, John. We're companions!}
-{188}{}{Exactly! If you go out on this stage alone, I'm going to smear your guts all over it!}
-{189}{}{That was just a misunderstanding. Of course, we will go together. I did not even think...}
-{190}{}{Great. We still have time to prepare. Now - get the hell out!}
+{187}{}{You're breaking my heart, John. We're companions!}
+{188}{}{Exactly! And if you go out on that stage alone, I'll smear your guts all over it!}
+{189}{}{That was just a misunderstanding. Of course, we'll go together. I did not even think...}
+{190}{}{Great. We still have time to prepare. Now - get the hell out of here!}
 {191}{}{Whatever you say... Partner.}
 {192}{}{}
 {193}{}{}
