@@ -1255,7 +1255,7 @@
 {65300}{}{---}
 {65301}{}{---}
 {65400}{}{Rod}
-{65401}{}{Homemade weapon, created from the sewage grate's steel rod. Min. ST: 1.}
+{65401}{}{Homemade weapon, made from the steel rod of a sewage grate. Min. ST: 1.}
 {65500}{}{Message to Patrick}
 {65501}{}{A letter from the Mormon community to Patrick. Nothing that you would find out of ordinary.}
 {65600}{}{Cigarette case}
