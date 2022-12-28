@@ -40,10 +40,10 @@
 #Reports of the warden
 {150}{}{The Wind of War is no stranger to punitive measures. Many raiders and other criminals were executed here, to serve as a lesson to the residents of Southern Nevada.}
 {151}{}{Look at the report on current inmates.}
-{152}{}{Sam Riley, 24 years, male, resident of Las Vegas. The order of execution: cut off the hands, feet, hang on a fence, alive. Cause of the execution: received information from our secret agent in Vegas about the intentions of the prisoner - he was engaged in espionage on behalf of one of the reputable inhabitants of the city. The command, as usual, chose the simplest way - to eliminate the enemy spy.}
+{152}{}{Sam Riley, 24 years, male, resident of Las Vegas. The order of execution: cut off the hands, feet, hang on a fence, alive. Reason for execution: received information from our secret agent in Vegas about the prisoner's intentions - he was engaged in espionage on behalf of one of the reputable inhabitants of the city. The command, as usual, chose the simplest solution - to eliminate the enemy spy.}
 
 #Constitution
-{160}{}{It seems that the base high command really believes in the Old America and its values. For example, a caravan order was made to deliver of a copy of the Constitution from the museum in Reno, along with US flags, posters, and various military paraphernalia from pre-war USA. It's difficult to say if it was worth the efforts.}
+{160}{}{It seems like the base high command really believes in Old America and its values. For example, a caravan order was made to deliver of a copy of the Constitution from the museum in Reno, along with US flags, posters, and various military paraphernalia from pre-war USA. It's tough to say if it was worth the effort.}
 
 #Blueprints
 {170}{}{The computer returns a list of various blueprints, specifications and other technical documentation. Most of them are useless to you, but something interesting can be selected.}
@@ -58,7 +58,7 @@
 {178}{}{You gained 350 XP for hacking the complex password.}
 {179}{}{Apparently, it is beyond your current abilities.}
 {180}{}{[Back to the main menu]}
-{181}{}{Copy all the available information to the disk.}
+{181}{}{Copy all the available information to your pipboy.}
 {182}{}{Done.}
 
 {190}{}{Copy the data on regular radio frequencies.}
