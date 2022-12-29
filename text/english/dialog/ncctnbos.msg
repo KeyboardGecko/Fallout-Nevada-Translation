@@ -158,9 +158,9 @@
 
 {301}{}{Ha! If you think I'm buying from you, either you're crazy or you think I am! There are more reliable suppliers in this city.}
 {302}{}{Ouch! I guess my bad reputation is catching up with me...}
-{303}{}{Interesting. Nuka-Cola, eh? Yeah, I've heard about it... Drove around a hundred people to the grave this year. It's possible a factory in Salt Lake City still maintains the quality of its product, but you don't look like a professional trader. Trying to screw a humble bartender over, are you?}
+{303}{}{Interesting. Nuka-Cola, eh? Yeah, I've heard about it... Drove around a hundred people to the grave this year. It's possible the factory in Salt Lake City maintains the quality of its product, but you don't look like a professional trader. Trying to screw a humble bartender over, are you?}
 {304}{}{It's okay. I am *really* working for the factory. Here's my license.}
-{305}{}{What, I don't bargain well enough for you? Man, it's not easy breaking into this business...}
+{305}{}{What, I don't barter well enough for you? Man, it's not easy breaking into this business...}
 
 {306}{}{...And nobody knows where you actually got it. You won't fool me!}
 {307}{}{What the...}
