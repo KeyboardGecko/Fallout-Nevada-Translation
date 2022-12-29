@@ -1378,8 +1378,8 @@
 {71701}{}{Folding cue with a royal pattern in a comfortable leather case with an "unexpected" second bottom. A metal frame on the damaged part allows you to use the cue for its intended purpose, as before.}
 {71800}{}{Cadaveric amphetamine}
 {71801}{}{The dose of hyperbolizing substance synthesized from the plasma of highly irradiated blood, endorphins and various enzymes of the humanoid organism.}
-{71900}{}{Beer with flavor}
-{71901}{}{Some sort of homemade beer. Differs a bit by strange burning taste.}
+{71900}{}{"Flavored" beer}
+{71901}{}{Some sort of homemade beer. Differs a bit from the strange burning after taste.}
 {72000}{}{Broken laser pistol}
 {72001}{}{Laser pistol Wattz 1000 civilian model. For some reason it doesn't work.}
 {72100}{}{Chemicals}
