@@ -1295,7 +1295,7 @@
 {67300}{}{"Blood purifier"}
 {67301}{}{Traditional medicine, based on healing herbs. Able to remove toxins and radionuclides from organisms and even cure some types of infectious diseases.}
 {67400}{}{Concert posters}
-{67401}{}{These are hand-written posters of your concert, made in black and white colors. They could be put into good hands to spread throughout Reno.}
+{67401}{}{These are hand-written posters for your concert, made with black ink on white paper. They could be put into good hands to spread throughout Reno.}
 {67500}{}{Nut solution}
 {67501}{}{A popular analogue of RadAway for intravenous use. It takes some time for full effect.}
 {67600}{}{Shell}
