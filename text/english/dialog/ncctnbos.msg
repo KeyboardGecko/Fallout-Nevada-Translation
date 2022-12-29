@@ -286,9 +286,9 @@
 {453}{}{[Next]}
 {454}{}{Alright, time to get ready for the concert.}
 {455}{}{Anything I should do?}
-{456}{}{First off, we need to hang up posters. Try and hire some kids from the slums, the more the better, it'll look good on our rep. Speaking of, here are the posters, I've already dealt with the printing. They're all black and white, but it's probably better that way. After all, so is your band. Heh-heh-heh!}
+{456}{}{First off, we need to hang up posters. Try and hire some kids from the slums, the more the better, it'll be good for our rep. Speaking of, here are the posters, I've already dealt with the printing. They're all black and white, but it's probably better that way. After all, so is your band. Heh-heh-heh!}
 {457}{}{Okay. What next?}
-{458}{}{Next comes the concert. It's planned for }
+{458}{}{Next comes the concert. It's planned for the }
 {459}{}{You've still got time until 10 p.m., we won't start any sooner.}
 {460}{}{Okay, wouldn't want to miss it. See you!}
 {461}{}{Let's begin the concert.}
@@ -309,7 +309,7 @@
 
 {476}{}{I had to cancel the concert because our protection is gone. You probably already know these people can't help us. We need a new arrangement. As quickly as possible.}
 {477}{}{That's not bad.}
-{478}{}{ at 10 p.m.. Don't be late.}
+{478}{}{ th at 10 p.m. Don't be late.}
 {479}{}{Since we've dealt with the security issue, I'll set up the show on a new date. Come in on }
 {480}{}{Good!}
 
