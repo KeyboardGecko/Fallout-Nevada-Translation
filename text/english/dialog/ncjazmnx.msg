@@ -2,7 +2,7 @@
 {101}{}{You see a hardened old black man.}
 {102}{}{No, I'm not going to shoot the breeze with you about the weather and shit.}
 
-#Примечание: Персонаж доступен только при игре за мужского ГГ
+#ГЏГ°ГЁГ¬ГҐГ·Г Г­ГЁГҐ: ГЏГҐГ°Г±Г®Г­Г Г¦ Г¤Г®Г±ГІГіГЇГҐГ­ ГІГ®Г«ГјГЄГ® ГЇГ°ГЁ ГЁГЈГ°ГҐ Г§Г  Г¬ГіГ¦Г±ГЄГ®ГЈГ® ГѓГѓ
 
 {110}{}{[When he notices you, his lips curl into a grin. It seems he was waiting for you.] Oh, look who it is. What's the matter? Did I hurt your precious feelings? Does it make you sick inside knowing that a lowly *black* person has gotten the better of you? Hmph... To you, jazz is just a business, a way to make a quick buck off the locals. You don't understand. *I* should be in your shoes. Me! Jazz was my life!}
 {111}{}{That's funny. Now it's your time to die.}
@@ -27,7 +27,7 @@
 {127}{}{And we were free. From money, from power, from politics - free from all of that. But it didn't last long. Soon the "golden age" came to an end, and the problems began. Big Louie went into the wasteland. Me and Ornette are the only ones left... [he shakes himself free of his reverie] But don't think I told that to satisfy your curiosity! I wanted to give you an idea of what those times were like. But I don't expect you to understand.}
 {128}{}{[Next]}
 
-{129}{}{What?! You mean it? I've... I've dreamed of this for a long time... [his expression hardens] But I'm just supposed to give you want you want? No way. First, I want an apology. Then, maybe I'll take your place.}
+{129}{}{What?! You mean it? I've... I've dreamed of this for a long time... [his expression hardens] But I'm just supposed to give you what you want? No way. First, I want an apology. Then, maybe I'll take your place.}
 {130}{}{That's it, I'm sick of this from you. Get your goddamn head out of your ass, or there won't be any band! Ever!}
 {131}{}{What kind of apology?}
 {132}{}{I'm done. Have fun dying alone. You'll be happy to know Reno's jazz culture will die with you.}
