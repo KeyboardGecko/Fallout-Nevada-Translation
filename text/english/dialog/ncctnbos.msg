@@ -281,7 +281,7 @@
 
 {449}{}{Dead? You sure? Oh... I thought that was just Stryker spreading rumors. Anyway, it doesn't change anything. We can't do this without proper protection. We'll have to cut a deal with one of the other gangs. Luciano, Bertolini, Wright, anyone will do as long as they can provide the proper security. You might even manage to work out a better deal than what we've had with Thompson.}
 {450}{}{What if we WHAT?! These guys aren't the forgiving types! Maybe if Thompson left the scene... But that's not gonna happen any time soon.}
-{451}{}{No, too risky. Everyone's gonna want a piece of the action - thieves, punks, you know the types. We need to protect ourselves and our customers. And for that, we need help of influential people.}
+{451}{}{No, too risky. Everyone's gonna want a piece of the action - thieves, punks, you know the types. We need to protect ourselves and our customers. And for that, we need the help of influential people.}
 {452}{}{Great news! They'll probably send someone over to discuss the details.}
 {453}{}{[Next]}
 {454}{}{Alright, time to get ready for the concert.}
