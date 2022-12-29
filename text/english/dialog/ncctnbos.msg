@@ -319,7 +319,7 @@
 {484}{}{Great!}
 {485}{}{That's good, but I had to cancel the concert.}
 {486}{}{What?! Why?!}
-{487}{}{I was told that if I don't stop, I'm dead. I love music, but not ready to die for it. I don't think the others want to die for it either. Sorry.}
+{487}{}{I was told that if I don't stop, I'm dead. I love music, but I'm not ready to die for it. I don't think the others want to die for it either. Sorry.}
 {488}{}{Tell me the details.}
 {489}{}{Hm, I don't like this. Let's hope your protection sorts this out.}
 
