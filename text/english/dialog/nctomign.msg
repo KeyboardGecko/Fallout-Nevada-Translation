@@ -157,7 +157,7 @@
 #Êðûøà äëÿ êîíöåðòà â Êîòòîí-êëóáå
 {300}{}{I represent the Cotton Club. The owner would like to pay you to provide protection for an upcoming concert.}
 {301}{}{Is that right? That bum can't even pay his fees on time, and now he's throwing a show? Hmm... This would be good to get everything he owes us. Fine, I'll put people on it, but I want half of his earnings for the show.}
-{302}{}{I'll tell this to him.}
+{302}{}{I'll tell him.}
 {303}{}{Mr. Thompson, we've known each other for a long time. Listen to me: these conditions will bankrupt him. You might get your money now, but if this puts him out of business, you'll never get anything from him again.}
 {304}{}{You can set your own price, but think about it: do you want to put pressure a business that's already on the edge? Sure you can set your own price, but think about it - Does it make sense to oppress the almost already bankrupt?}
 {305}{}{You make a good point. Fine, I'll take only a quarter of the earnings, but I'm keeping my eye on him.}
