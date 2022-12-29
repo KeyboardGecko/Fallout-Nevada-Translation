@@ -92,8 +92,8 @@
 {200}{}{What was the cure?}
 {201}{}{A tincture of nightshade and some other ingredients. I don't remember exactly what - it's been too long. But a man with the right skills could figure it out.}
 {202}{}{Nightshade? A plant?}
-{203}{}{Exactly. Its poisonous berries were used in medicine since long before the war, but it is hard to find in the dry Nevada desert. And even if you would find it, do you know what to do with it?}
-{204}{}{The berries are poisonous, right? They probably contain alkaloids. They're known to cause a severe intoxication and could have an antibacterial effect.}
+{203}{}{Exactly. Its poisonous berries were used in medicine since long before the war, but it is hard to find in the dry Nevada desert. And even if you did find some, would you know what to do with it?}
+{204}{}{The berries are poisonous, right? They probably contain alkaloids. They're known to cause severe intoxication and could have an antibacterial effect.}
 {205}{}{It's worth a try. If I find some nightshade, maybe I can do something with it.}
 {206}{}{Hmm? Well, if you say so, then you can try your luck by making the medicine yourself. You only have to find the plant. Ask the Cheyenne tribe to the south - if anyone knew better, it would be then.}
 {207}{}{Just remember, don't try making the medicine if you don't know what you're doing. Nightshade is better known for taking life than for restoring it.}
