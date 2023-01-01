@@ -41,7 +41,7 @@
 {2100}{}{Brass Knuckles}
 {2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat. Min. ST: 1.}
 {2200}{}{Caravan Carbine}
-{2201}{}{An old varmint rifle. The barrel is shortened, and the butt is made as lightweight as possible, which makes the weapon more light and comfortable at the expense of accuracy. Min. ST: 4.}
+{2201}{}{An old varmint rifle. A shortened barrel and lightweight butt makes it lighter and more comfortable at the expense of accuracy. Min. ST: 4.}
 {2300}{}{Assault Rifle}
 {2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high velocity 5mm rounds. Min. ST: 5.}
 {2400}{}{Plasma Pistol}
@@ -974,7 +974,7 @@
 {49900}{}{Food can}
 {49901}{}{In front of you is a can of dog food. And judging by the date on the lid, it is more than 70 years old. If you dare to open it, it is better to wear a gas mask in advance.}
 {50000}{}{Old revolver}
-{50001}{}{Very old model of once popular revolver. Perhaps the museum exhibit. Min. ST: 1.}
+{50001}{}{Very old model of a once popular revolver. Perhaps the museum exhibit. Min. ST: 1.}
 {50100}{}{Wall Safe}
 {50200}{}{Floor Safe}
 {50300}{}{Blue Memory Module}
@@ -1255,7 +1255,7 @@
 {65300}{}{---}
 {65301}{}{---}
 {65400}{}{Rod}
-{65401}{}{Homemade weapon, created from the sewage grate's steel rod. Min. ST: 1.}
+{65401}{}{Homemade weapon, made from the steel rod of a sewage grate. Min. ST: 1.}
 {65500}{}{Message to Patrick}
 {65501}{}{A letter from the Mormon community to Patrick. Nothing that you would find out of ordinary.}
 {65600}{}{Cigarette case}
@@ -1285,7 +1285,7 @@
 {66800}{}{Tactical Survival Knife}
 {66801}{}{Designed to help set up camp in the field and to ensure human survival in the "wild".}
 {66900}{}{"Lucky"}
-{66901}{}{Heavily worn defensive action plasma pistol, first-generation civilian model. Such ones went out of fashion long before the War.}
+{66901}{}{Heavily worn defensive action plasma pistol, first-generation civilian model. This one went out of fashion long before the War.}
 {67000}{}{"Lucky"}
 {67001}{}{Heavily worn defensive action plasma pistol, first-generation civilian model. After cleaning and recalibration, its power and range increased by 10%.}
 {67100}{}{Nightshade berries}
@@ -1295,7 +1295,7 @@
 {67300}{}{"Blood purifier"}
 {67301}{}{Traditional medicine, based on healing herbs. Able to remove toxins and radionuclides from organisms and even cure some types of infectious diseases.}
 {67400}{}{Concert posters}
-{67401}{}{These are hand-written posters of your concert, made in black and white colors. They could be put into good hands to spread throughout Reno.}
+{67401}{}{These are hand-written posters for your concert, made with black ink on white paper. They could be put into good hands to spread throughout Reno.}
 {67500}{}{Nut solution}
 {67501}{}{A popular analogue of RadAway for intravenous use. It takes some time for full effect.}
 {67600}{}{Shell}
@@ -1378,8 +1378,8 @@
 {71701}{}{Folding cue with a royal pattern in a comfortable leather case with an "unexpected" second bottom. A metal frame on the damaged part allows you to use the cue for its intended purpose, as before.}
 {71800}{}{Cadaveric amphetamine}
 {71801}{}{The dose of hyperbolizing substance synthesized from the plasma of highly irradiated blood, endorphins and various enzymes of the humanoid organism.}
-{71900}{}{Beer with flavor}
-{71901}{}{Some sort of homemade beer. Differs a bit by strange burning taste.}
+{71900}{}{"Flavored" beer}
+{71901}{}{Some sort of homemade beer. Differs a bit from the strange burning after taste.}
 {72000}{}{Broken laser pistol}
 {72001}{}{Laser pistol Wattz 1000 civilian model. For some reason it doesn't work.}
 {72100}{}{Chemicals}

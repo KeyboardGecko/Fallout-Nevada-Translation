@@ -1,1 +1,1 @@
-{100}{}{This part of the cave is blown by a pleasant, warm breeze.}
+{100}{}{A warm, pleasant breeze blows through this part of the cave.}

@@ -189,7 +189,7 @@
 #Àïãðåéä ïèêàïà:
 {270}{}{Have you ever worked on a functional car?}
 {271}{}{Like every mechanic, I worked on cars. And by that I mean disassembled a lot of them understanding nothing about how they work. Also, It's almost impossible to find parts in a working condition.}
-{272}{}{Do you have any of that parts?}
+{272}{}{Do you have any of those parts?}
 {273}{}{That's all I wanted to know.}
 
 {274}{}{Yeah, I got one good thing - a fuel regulator. If you had a working car, I could try to install it. It's supposed to lower battery consumption, as I recall.}

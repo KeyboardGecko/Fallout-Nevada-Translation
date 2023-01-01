@@ -30,7 +30,7 @@
 #
 ###########################################################################
 
-#Приветствия:
+#ГЏГ°ГЁГўГҐГІГ±ГІГўГЁГї:
 #----- after all the fights [fem.]
 {200}{}{Hey, champion! Such a shame that you're done with the career... }
 {201}{}{Those fights were a sight to see! Too bad it's all over... }
@@ -119,12 +119,12 @@
 {282}{}{Thank you for that. I'll be going now.}
 {283}{}{Connections - they're as valuable as cash, maybe even more, chum. Never forget that. That's why I help everyone here and there.}
 
-{284}{}{What are you implying? If you're talking of chems, then I'll say this - Bishop doesn't like them. If he learns about you using, you can kiss this place goodbye.}
+{284}{}{What are you implying? If you're talking about chems, then I'll say this - Bishop doesn't like them. If he learns about you using, you can kiss this place goodbye.}
 {285}{}{Like that's stopping anyone... }
 {286}{}{Well, forget about it then.}
-{287}{}{Listen, talks like this never end well. All I want is to work and earn money. I've got to feed my family and help my sick mother, got it?}
+{287}{}{Listen, talk like that never ends well. All I want is to work and earn money. I've got to feed my family and help my sick mother, got it?}
 {288}{}{Of course. But look what I have here - 1000 bucks. Just enough to buy some medicine for your sick mother.}
-{289}{}{Uhmm. Not a bad amount, but still not worth the risk I'm taking upon myself by dealing with you. No offense, but everyone in this town knows that it's safer to avoid you.}
+{289}{}{Uhmm. Not a bad amount, but still not worth the risk I'm taking by dealing with you. No offense, but everyone in this town knows it's safer to avoid you.}
 {290}{}{[He hungrily grabs the cash] Just in time, friendo. I appreciate the... Err, help. So, I heard you wanted to know who sells the dope on this ring? Well, I know a secret that I'll be happy to share with you.}
 {291}{}{Talk.}
 

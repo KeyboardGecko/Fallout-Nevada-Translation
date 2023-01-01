@@ -7,7 +7,7 @@
 {111}{}{Why, why?! To find him after so long, and then...}
 {112}{}{[Her head snaps to look at you] What did you say to Colin?! Tell me!}
 
-#Диалог
+#Г„ГЁГ Г«Г®ГЈ
 {120}{}{[She frowns] You again? If you want to waste someone's time, can't you find some beggar on the street? At least they have nothing else to do.}
 {121}{}{[She hurriedly stands up] Y-you? You work for... I mean, ah, what a pleasant surprise... If I'd known you were coming, I'd have cleaned up! And my hair's not usually such a mess, honestly! Ha-ha... Uh, how can I help you?}
 {122}{}{Good afternoon. New in town? I can tell.}
@@ -24,7 +24,7 @@
 {135}{}{It's just a city, like any other. Caravan merchants only talk about the most horrible parts, but in reality, anyone can find a place to fit in. People do actually live here, you know - it's not just the constant shooting in the streets.}
 
 {140}{}{Say, Shelley, your husband... He's not the first man in your life, is he?}
-{141}{}{[Her eyes narrow] What are you trying to say? Colin and I are happily married! Don't you *dare* to imply I'm anything but a wife! What do you think I am, one of those whores from the streets?}
+{141}{}{[Her eyes narrow] What are you trying to say? Colin and I are happily married! Don't you *dare* imply I'm anything but a wife! What do you think I am, one of those whores from the streets?}
 {142}{}{I'm sorry, I'm not trying to offend you. But you had husband before Colin, didn't you?}
 {143}{}{Woman, are you deaf, or just stupid? You had another husband, yes or no?}
 {144}{}{Oooh, touchy subject. I'll go let you cool off.}

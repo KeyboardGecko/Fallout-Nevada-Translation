@@ -20,11 +20,11 @@
 
 #Enemies
 {130}{}{Enemies of the Wind of War are plenty, but mostly they are raider gangs and loads of mutants - tarantulas and aliens.}
-{131}{}{Read about raiders.}
-{132}{}{Read about tarantulas.}
-{133}{}{Read about aliens.}
+{131}{}{Read about the raiders.}
+{132}{}{Read about the tarantulas.}
+{133}{}{Read about the aliens.}
 {134}{}{The bands of raiders and other bandits with whom Wind of War fight for influence over the region are usually small, from 5 to 15 men. Some bandits hold power over small settlements, whose inhabitants are tired of their oppression and ask for help.}
-{135}{}{Predatory mutants of enormous size, living in dark damp places underground. These mutants usually come to the surface at night. Occasionally their raids result in casualties among Wind of War's population, but more often among outsiders and merchants staying in the suburbs. The creatures are fought intensively by Wind of War forces, but they seem to recover their numbers after each encounter. The highest area of activity for the mutants was observed in the around the destroyed local vault, but with each passing year they are encountered farther from it.}
+{135}{}{Predatory mutants of enormous size, living in dark damp places underground. These mutants usually come to the surface at night. Occasionally their raids result in casualties among Wind of War's population, but more often among outsiders and merchants staying in the suburbs. Wind of War forces fight these creatures intensively, but their numbers seem to recover after each encounter. The highest area of mutant activity was observed around the destroyed local vault, but with each passing year they are encountered farther from it.}
 {136}{}{Predatory mutants with infrared vision. Like tarantulas, they do not like the sunlight, preferring to come to the surface at night and sleep in dark caves during the day. The main nest of aliens was verified to be a military base to the north, so-called "Area 51".}
 
 #Disposition
@@ -35,15 +35,15 @@
 {141}{}{Coordinates are listed in your Pip-Boy.}
 
 {142}{}{The "Super 8" incident.}
-{143}{}{This incident occurred during the transportation of some dangerous cargo designated "Super 8". The contents of the cargo are not disclosed in the documents, but it is known that due to some "oversight of the convoy" the cargo disappeared and the convoy was killed. Soon after the residents of a small nearby village were reported to have also disappeared. The remains of their bodies were found in some caves not far off. It is not clear how these events are connected, but one thing is almost certain - this "Super 8" is no ordinary cargo.}
+{143}{}{This incident occurred during the transportation of some dangerous cargo designated "Super 8". The contents of the cargo are not disclosed in the documents, but it is known that due to some "oversight by the convoy" the cargo disappeared and the convoy was killed. Soon after the residents of a small nearby village were reported to have also disappeared. The remains of their bodies were found in some caves not far off. It is not clear how these events are connected, but one thing is almost certain - this "Super 8" is no ordinary cargo.}
 
 #Reports of the warden
 {150}{}{The Wind of War is no stranger to punitive measures. Many raiders and other criminals were executed here, to serve as a lesson to the residents of Southern Nevada.}
 {151}{}{Look at the report on current inmates.}
-{152}{}{Sam Riley, 24 years, male, resident of Las Vegas. The order of execution: cut off the hands, feet, hang on a fence, alive. Cause of the execution: received information from our secret agent in Vegas about the intentions of the prisoner - he was engaged in espionage on behalf of one of the reputable inhabitants of the city. The command, as usual, chose the simplest way - to eliminate the enemy spy.}
+{152}{}{Sam Riley, 24 years, male, resident of Las Vegas. The order of execution: cut off the hands, feet, hang on a fence, alive. Reason for execution: received information from our secret agent in Vegas about the prisoner's intentions - he was engaged in espionage on behalf of one of the reputable inhabitants of the city. The command, as usual, chose the simplest solution - to eliminate the enemy spy.}
 
 #Constitution
-{160}{}{It seems that the base high command really believes in the Old America and its values. For example, a caravan order was made to deliver of a copy of the Constitution from the museum in Reno, along with US flags, posters, and various military paraphernalia from pre-war USA. It's difficult to say if it was worth the efforts.}
+{160}{}{It seems like the base high command really believes in Old America and its values. For example, a caravan order was made to deliver of a copy of the Constitution from the museum in Reno, along with US flags, posters, and various military paraphernalia from pre-war USA. It's tough to say if it was worth the effort.}
 
 #Blueprints
 {170}{}{The computer returns a list of various blueprints, specifications and other technical documentation. Most of them are useless to you, but something interesting can be selected.}
@@ -58,7 +58,7 @@
 {178}{}{You gained 350 XP for hacking the complex password.}
 {179}{}{Apparently, it is beyond your current abilities.}
 {180}{}{[Back to the main menu]}
-{181}{}{Copy all the available information to the disk.}
+{181}{}{Copy all the available information to your pipboy.}
 {182}{}{Done.}
 
 {190}{}{Copy the data on regular radio frequencies.}

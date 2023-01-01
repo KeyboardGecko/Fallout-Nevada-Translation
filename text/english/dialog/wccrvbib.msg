@@ -23,7 +23,7 @@
 {126}{}{I'm in dire straits. That's it. Put me in the coffin.}
 {127}{}{To think it all started so well!}
 {128}{}{We were transporting that thing to Salt Lake...}
-{129}{}{Why no one wants to take me to Vegas? I'm an experienced caravaneer!}
+{129}{}{Why does no one want to take me to Vegas? I'm an experienced caravaneer!}
 
 #Íà÷àëüíûé äèàëîã:
 
@@ -42,7 +42,7 @@
 {213}{}{Tell me your story.}
 {214}{}{On a second thought, I don't need anything.}
 
-{215}{}{My name's Bibbit. I'm a caravaneer. What else there's to say? Cool guy and all, but that's beside the point.}
+{215}{}{My name's Bibbit. I'm a caravaneer. What else is there to say? Cool guy and all, but that's beside the point.}
 {216}{}{Licking my wounds after a tough caravan run. Wasteland turned out to be a ruthless bitch this time. If not for my survival skills, I'd be already eaten by pig rats or something worse.}
 {217}{}{I'm in big trouble, that's my story. If you want details, it's gonna take a while, as I'm unable to tell it any other way. It'll cost you only a small fee... Hehe. I'm just kidding. But I really need the money. A lot.}
 {218}{}{If you need money, sell something.}

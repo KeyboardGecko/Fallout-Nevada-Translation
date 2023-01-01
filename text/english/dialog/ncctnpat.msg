@@ -14,7 +14,7 @@
 
 {120}{}{[He downs the bottle almost instantly, loudly belching as he wipes his mouth with the back of his hand] Ugh... You really shouldn't drink this swill. You're far too aristocratic for it, heh-heh... Thank you, just what I needed.}
 {121}{}{Looks like that really put a damper on your politeness, eh?}
-{122}{}{Well, usually I'm very polite, but sometimes I'm getting tired of it... Are you really interested why I'm like this? Alright, I'll tell you, it's not a big secret. All thanks to my grandma, god bless her. Built herself up to be a prim and proper lady, dressed like she robbed a museum. Lace, junk around her neck... Quite the eckza... Exalted lady. And I had to live with it. Even had this thing around my neck. You know why?}
+{122}{}{Well, usually I'm very polite, but sometimes I get tired of it... Are you really interested why I'm like this? Alright, I'll tell you, it's not a big secret. All thanks to my grandma, god bless her. Built herself up to be a prim and proper lady, dressed like she robbed a museum. Lace, junk around her neck... Quite the eckza... Exalted lady. And I had to live with it. Even had this thing around my neck. You know why?}
 {123}{}{I hope it's not because you were... Too close. Why?}
 {124}{}{I'm almost yawning. I hope anything interesting is coming up.}
 {125}{}{Apple pie! The way she cooked it... I wouldn't drink for a week, if only I could taste it again. But this world is not for grandmothers like her. When times were tough, she went into pies herself, fifteen bucks a pop. All I was left with was her pendant... But even that I lost somewhere in the slums. It was a pretty... exquisite thing.}

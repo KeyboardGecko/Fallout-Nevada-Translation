@@ -2,7 +2,7 @@
 {101}{}{You see a citizen. You get the feeling that his mother never taught him good manners.}
 {102}{}{Most people don't consider the ability to piss everyone off a talent, but it definitely worked for you.}
 
-{110}{}{[Pulls on his hair in rage] Kill! I'll kill them both! And you too! I'll set the whole world on fire! I'll... [he suddenly goes weak and falls to his knees] I loved her! I gave her everything! The best years of my life! And she goes back to HIM! Why, why...? He could never love her like I did...}
+{110}{}{[Pulls out his hair in rage] Kill! I'll kill them both! And you too! I'll set the whole world on fire! I'll... [he suddenly goes weak and falls to his knees] I loved her! I gave her everything! The best years of my life! And she goes back to HIM! Why, why...? He could never love her like I did...}
 {111}{}{[Leave as quietly as you can]}
 
 {112}{}{I know what I did sounds horrible... But one can do anything for the woman he loves.}
@@ -50,7 +50,7 @@
 {158}{}{Alright, come on. I want to see this.}
 {159}{}{Nah, I'm not telling. I just wanted to see you angry and helpless again.}
 
-#Æåíñêèå ðåïëèêè
+#Ã†Ã¥Ã­Ã±ÃªÃ¨Ã¥ Ã°Ã¥Ã¯Ã«Ã¨ÃªÃ¨
 {1143}{}{You didn't? Hmm, maybe I made a mistake. Sorry.}
 {1156}{}{Are you going to show me where he lives already? I've got to kill him before he destroys my family!}
 {1159}{}{Nah, I'm not telling. I just wanted to see you angry and helpless again.}

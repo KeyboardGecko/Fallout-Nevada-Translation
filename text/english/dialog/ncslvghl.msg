@@ -1,7 +1,7 @@
 {100}{}{You see a ghoul.}
 {101}{}{You see a mutated sewer dweller.}
 
-#Первый диалог
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
 
 {110}{}{What? A person?! Are you real? You can't be real... [he reaches out with both hands, shuffling towards you]}
 {111}{}{Calm down, I'm definitely real. I think.}
@@ -26,11 +26,11 @@
 {126}{}{It was so long ago. It's hard to remember...}
 {127}{}{You again! I'm so glad to see you!}
 
-#Список вопросов
+#Г‘ГЇГЁГ±Г®ГЄ ГўГ®ГЇГ°Г®Г±Г®Гў
 {130}{}{What's your name?}
 {131}{}{How did you get here?}
 {132}{}{What happened to your skin?}
-{133}{}{Where did you live before you end up here?}
+{133}{}{Where did you live before you ended up here?}
 {134}{}{Have you tried to get back to the surface?}
 {135}{}{So, are you going to leave?}
 {136}{}{}
@@ -50,7 +50,7 @@
 {148}{}{Okay, wait here. I'll bring back news.}
 {149}{}{}
 
-#Завершение квеста
+#Г‡Г ГўГҐГ°ГёГҐГ­ГЁГҐ ГЄГўГҐГ±ГІГ 
 {150}{}{Shelley is too beautiful for these sewers, too beautiful for me... And yet she's here. Thank you again.}
 {151}{}{WHY?! After all this, everything was as it was before, and now...}
 {152}{}{I'm so happy to see you! Shelley and I are together again, like nothing ever happened. Even like this, she remembers me. Even like this, she loves me! What did I ever do to deserve such a wonderful, perfect woman?}

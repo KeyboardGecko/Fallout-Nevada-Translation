@@ -90,7 +90,7 @@
 {202}{}{May I know, what is the problem?}
 {203}{}{Wow, sorry, sure no need for that.}
 
-{204}{}{Hmm... Perhaps. My problems have been solved, so we may take the risk. But can I see your papers?}
+{204}{}{Hmm... Perhaps. My problems have been solved, so we can afford the risk. But can I see your papers?}
 {205}{}{Sure. Here is the license.}
 {206}{}{I don't have them on me. I'll bring them later.}
 

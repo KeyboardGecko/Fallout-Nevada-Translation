@@ -18,7 +18,7 @@
 {118}{}{Maybe... If you and I... Umm... Have an agreement. Ya see me?}
 {119}{}{Smells like shady deals. I like it.}
 {120}{}{}
-{121}{}{Guess you already know about the Nuka-Cola factory in Salt Lake. That is, all residents of our camp live and dream to see somebody sabotagin' the damned thing. You got two options here: either break the conveyor or poison the tanks.}
+{121}{}{Guess you already know about the Nuka-Cola factory in Salt Lake. That is, all the residents of our camp live and dream to see somebody sabotagin' the damned thing. You got two options here: either break the conveyor or poison the tanks.}
 {122}{}{What's the pay?}
 {123}{}{No way, no more dirty business for me!}
 {124}{}{}

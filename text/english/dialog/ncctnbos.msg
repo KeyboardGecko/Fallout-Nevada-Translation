@@ -158,16 +158,16 @@
 
 {301}{}{Ha! If you think I'm buying from you, either you're crazy or you think I am! There are more reliable suppliers in this city.}
 {302}{}{Ouch! I guess my bad reputation is catching up with me...}
-{303}{}{Interesting. Nuka-Cola, eh? Yeah, I've heard about it... Drove around a hundred people to the grave this year. It's possible that a factory in Salt Lake City is still maintains the quality of its product, but you don't look like a professional trader. Trying to screw a humble bartender over, are you?}
+{303}{}{Interesting. Nuka-Cola, eh? Yeah, I've heard about it... Drove around a hundred people to the grave this year. It's possible the factory in Salt Lake City maintains the quality of its product, but you don't look like a professional trader. Trying to screw a humble bartender over, are you?}
 {304}{}{It's okay. I am *really* working for the factory. Here's my license.}
-{305}{}{What, I don't bargain well enough for you? Man, it's not easy breaking into this business...}
+{305}{}{What, I don't barter well enough for you? Man, it's not easy breaking into this business...}
 
 {306}{}{...And nobody knows where you actually got it. You won't fool me!}
 {307}{}{What the...}
 {308}{}{}
 
 {309}{}{Nuka-Cola from the factory! That's a good product... As long as it's legit! What's the price?}
-{310}{}{Don't worry, the best one. I work directly with the factory in Salt Lake City.}
+{310}{}{Don't worry, the best price. I work directly with the factory in Salt Lake City.}
 
 {311}{}{Curious. And who delivers it?}
 {312}{}{Does it matter?}
@@ -281,14 +281,14 @@
 
 {449}{}{Dead? You sure? Oh... I thought that was just Stryker spreading rumors. Anyway, it doesn't change anything. We can't do this without proper protection. We'll have to cut a deal with one of the other gangs. Luciano, Bertolini, Wright, anyone will do as long as they can provide the proper security. You might even manage to work out a better deal than what we've had with Thompson.}
 {450}{}{What if we WHAT?! These guys aren't the forgiving types! Maybe if Thompson left the scene... But that's not gonna happen any time soon.}
-{451}{}{No, too risky. Everyone's gonna want a piece of the action - thieves, punks, you know the types. We need to protect ourselves and our customers. And for that, we need help of influential people.}
+{451}{}{No, too risky. Everyone's gonna want a piece of the action - thieves, punks, you know the types. We need to protect ourselves and our customers. And for that, we need the help of influential people.}
 {452}{}{Great news! They'll probably send someone over to discuss the details.}
 {453}{}{[Next]}
 {454}{}{Alright, time to get ready for the concert.}
 {455}{}{Anything I should do?}
-{456}{}{First off, we need to hang up posters. Try and hire some kids from the slums, the more the better, it'll look good on our rep. Speaking of, here are the posters, I've already dealt with the printing. They're all black and white, but it's probably better that way. After all, so is your band. Heh-heh-heh!}
+{456}{}{First off, we need to hang up posters. Try and hire some kids from the slums, the more the better, it'll be good for our rep. Speaking of, here are the posters, I've already dealt with the printing. They're all black and white, but it's probably better that way. After all, so is your band. Heh-heh-heh!}
 {457}{}{Okay. What next?}
-{458}{}{Next comes the concert. It's planned for }
+{458}{}{Next comes the concert. It's planned for the }
 {459}{}{You've still got time until 10 p.m., we won't start any sooner.}
 {460}{}{Okay, wouldn't want to miss it. See you!}
 {461}{}{Let's begin the concert.}
@@ -309,7 +309,7 @@
 
 {476}{}{I had to cancel the concert because our protection is gone. You probably already know these people can't help us. We need a new arrangement. As quickly as possible.}
 {477}{}{That's not bad.}
-{478}{}{ at 10 p.m.. Don't be late.}
+{478}{}{ th at 10 p.m. Don't be late.}
 {479}{}{Since we've dealt with the security issue, I'll set up the show on a new date. Come in on }
 {480}{}{Good!}
 
@@ -319,7 +319,7 @@
 {484}{}{Great!}
 {485}{}{That's good, but I had to cancel the concert.}
 {486}{}{What?! Why?!}
-{487}{}{I was told that if I don't stop, I'm dead. I love music, but not ready to die for it. I don't think the others want to die for it either. Sorry.}
+{487}{}{I was told that if I don't stop, I'm dead. I love music, but I'm not ready to die for it. I don't think the others want to die for it either. Sorry.}
 {488}{}{Tell me the details.}
 {489}{}{Hm, I don't like this. Let's hope your protection sorts this out.}
 
@@ -338,38 +338,38 @@
 #              Naming the band (beginning: 110-129)
 ####################################################################
 
-{500}{}{¿}
-{501}{}{¡}
-{502}{}{¬}
-{503}{}{√}
-{504}{}{ƒ}
-{505}{}{≈}
-{506}{}{∆}
-{507}{}{«}
-{508}{}{»}
-{509}{}{…}
-{510}{}{ }
-{511}{}{À}
-{512}{}{Ã}
-{513}{}{Õ}
-{514}{}{Œ}
-{515}{}{œ}
-{516}{}{–}
-{517}{}{—}
-{518}{}{“}
-{519}{}{”}
-{520}{}{‘}
-{521}{}{’}
-{522}{}{÷}
-{523}{}{◊}
-{524}{}{ÿ}
-{525}{}{Ÿ}
-{526}{}{⁄}
-{527}{}{€}
-{528}{}{‹}
-{529}{}{›}
-{530}{}{ﬁ}
-{531}{}{ﬂ}
+{500}{}{√Ä}
+{501}{}{√Å}
+{502}{}{√Ç}
+{503}{}{√É}
+{504}{}{√Ñ}
+{505}{}{√Ö}
+{506}{}{√Ü}
+{507}{}{√á}
+{508}{}{√à}
+{509}{}{√â}
+{510}{}{√ä}
+{511}{}{√ã}
+{512}{}{√å}
+{513}{}{√ç}
+{514}{}{√é}
+{515}{}{√è}
+{516}{}{√ê}
+{517}{}{√ë}
+{518}{}{√í}
+{519}{}{√ì}
+{520}{}{√î}
+{521}{}{√ï}
+{522}{}{√ñ}
+{523}{}{√ó}
+{524}{}{√ò}
+{525}{}{√ô}
+{526}{}{√ö}
+{527}{}{√õ}
+{528}{}{√ú}
+{529}{}{√ù}
+{530}{}{√û}
+{531}{}{√ü}
 {532}{}{-}
 {533}{}{ }
 {534}{}{!}

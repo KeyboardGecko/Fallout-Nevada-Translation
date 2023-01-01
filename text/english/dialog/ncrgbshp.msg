@@ -1,12 +1,12 @@
 {100}{}{You see Bishop.}
 {101}{}{You see an entrepreneur with a very serious expression on his face.}
 
-#Читерство:
+#Г—ГЁГІГҐГ°Г±ГІГўГ®:
 {102}{}{Stop cheating, you bastard! I swear, this is better be the last time... }
 {103}{}{[Start combat.]}
 {104}{}{[Exit.]}
 
-#Первый разговор:
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°:
 {110}{}{[He looks at you appraisingly] Hmm. What do you need, sport?}
 {111}{}{So you're the one who organizes these fights?}
 {112}{}{Nothing. See you later.}
@@ -32,7 +32,7 @@
 {130}{}{Then get ready for a fight. Usually our serious fights are in the evening, at 21:00.}
 {131}{}{Can't wait!}
 
-#Подготовка к бою и вознаграждение
+#ГЏГ®Г¤ГЈГ®ГІГ®ГўГЄГ  ГЄ ГЎГ®Гѕ ГЁ ГўГ®Г§Г­Г ГЈГ°Г Г¦Г¤ГҐГ­ГЁГҐ
 {132}{}{Hey, ready to fight, sport?}
 {133}{}{Hell yeah!}
 {134}{}{Not now.}
@@ -56,7 +56,7 @@
 {148}{}{What is it? Give it to me straight!}
 {149}{}{Audience loves you so much they bet the bank on you... And they win! You see where I'm going with this?}
 {150}{}{Uh-oh... }
-{151}{}{You're so good, we can't make money on you. Every fight is a sure bet. You're bleeding us dry, sport! We can't earn money on this kind of situation.}
+{151}{}{You're so good, we can't make any money off you. Every fight is a sure bet. You're bleeding us dry, sport! We can't earn money in this situation.}
 {152}{}{Wait a minute, so the ring lives on lost bets?}
 {153}{}{Well, of course! What else? Well, there's the bar, but that's barely a pittance compared to what we get from bets. And some of the fans go on to gamble in the casino, but that only goes so far.}
 {154}{}{Someone doesn't have enough marketers!}
@@ -66,7 +66,7 @@
 
 {157}{}{Sorry, sport. Some fights you just can't win.}
 
-#Уточнение, чего не хватает для участия на ринге:
+#Г“ГІГ®Г·Г­ГҐГ­ГЁГҐ, Г·ГҐГЈГ® Г­ГҐ ГµГўГ ГІГ ГҐГІ Г¤Г«Гї ГіГ·Г Г±ГІГЁГї Г­Г  Г°ГЁГ­ГЈГҐ:
 {158}{}{Why can't I participate?}
 {159}{}{First, your arms are like noodles. The audience doesn't like a short fight, which is what you'd be. Secondly, just from the way you move I see you don't know a thing about boxing. Do you understand what I'm putting down, Noodle Arms?}
 {160}{}{Maybe you've got the technique of unarmed combat down, but we choose strong opponents, and you don't look strong enough. Whether you win or lose, it'll be a short fight. Our fans don't like that.}
@@ -76,7 +76,7 @@
 {163}{}{Wait a minute. I heard Mr. Bertolini was looking for someone for a "special task". I don't know what the hell he's up to, but if you want to earn money and reputation in this city, go to him. Tell him I sent you, he'll understand.}
 {164}{}{Thank you, Mr. Bishop. I'll think about it.}
 
-#Бой на ринге:
+#ГЃГ®Г© Г­Г  Г°ГЁГ­ГЈГҐ:
 {200}{}{LET THE BATTLE BEGIN!}
 {201}{}{You won! It was awesome!}
 

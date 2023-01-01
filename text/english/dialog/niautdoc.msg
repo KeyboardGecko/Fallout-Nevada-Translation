@@ -2,8 +2,8 @@
 {101}{}{You see a worn-out autodoc.}
 {102}{}{You cannot do that in combat.}
 
-#Первичный осмотр
-{110}{}{[This autodoc is in a terrible condition, as if someone tried to treat an army of deathclaws with it. It had clearly been in use for a long time.]}
+#ГЏГҐГ°ГўГЁГ·Г­Г»Г© Г®Г±Г¬Г®ГІГ°
+{110}{}{[This autodoc is in terrible condition, as if someone tried to treat an army of deathclaws with it. It had clearly been in use for a long time.]}
 {111}{}{[Inspect the machine closely.]}
 {112}{}{[The machine is still being supplied with power and medicine. If the damaged components were repaired, it could still be used for healing.]}
 {113}{}{[Next]}
@@ -14,7 +14,7 @@
 {118}{}{[Finish your inspection]}
 {119}{}{}
 
-#Починка и диагностика
+#ГЏГ®Г·ГЁГ­ГЄГ  ГЁ Г¤ГЁГ ГЈГ­Г®Г±ГІГЁГЄГ 
 {120}{}{Run check-up diagnostics of the surgical module.}
 {121}{}{Run check-up diagnostics of the diagnostic module.}
 {122}{}{Run check-up diagnostics of the sensor module.}
@@ -23,7 +23,7 @@
 
 {130}{}{[Try to fix this module]}
 {131}{}{[Leave]}
-{132}{}{So, even if one tiny error occurs, the healing can cause injury. Should try to fix this...}
+{132}{}{So, even if one tiny error occurs, the autodoc could cause injury instead of healing. Should try to fix this...}
 
 {140}{}{Starting diagnostics. Manipulators... Calibration is required. Tools... No signal from instrument(s): B2, B7, B18. Sterilization system... Feed error. 3D scanner... Error code 402. Software... No errors found. Diagnosis complete: module is not functional.}
 {141}{}{Starting diagnostics. Tools... No signal from instrument(s): A1, A3. 3D scanner... Error code 408. Software... Diagnostic programs offline; reinstallation is required. Diagnosis complete: module is not functional.}
@@ -41,14 +41,14 @@
 {152}{}{[Leave]}
 {153}{}{[Continue]}
 
-#Лечение
+#Г‹ГҐГ·ГҐГ­ГЁГҐ
 {160}{}{Command: surgical diagnosis.}
 {161}{}{Command: treatment of physical injuries.}
 {162}{}{Command: treatment of foreign toxins.}
 {163}{}{Command: treatment of radiation sickness.}
 {164}{}{Command: treatment of foreign infections.}
 {165}{}{Command: amputation of sixth finger.}
-{166}{}{Run a general system diagnosis.}
+{166}{}{Run a medical scan.}
 
 {167}{}{Operation complete. Alert! Medicinal supply is low. There are only }
 {168}{}{ doses of stimulant remaining.}

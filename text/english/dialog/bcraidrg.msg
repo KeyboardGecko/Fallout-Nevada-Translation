@@ -7,7 +7,7 @@
 {111}{}{Woah, hold on! I'm here to help you.}
 {112}{}{Calm down. Tell me what you want, I'll hear you out.}
 
-{113}{}{You're the one who needs help, fucknut! But it's your lucky day! I need a live bait to deal with a pain in my ass, so I'm gonna offer you a deal!}
+{113}{}{You're the one who needs help, fucknut! But it's your lucky day! I need live bait to deal with a pain in my ass, so I'm gonna offer you a deal!}
 {114}{}{Uh-oh, guys, the big scary hero of the wastes is giving us one chance to explain ourselves! I'm shaking in my fuckin' boots over here! [he sneers] You're already dead, you cum-guzzling limpdick, you just don't know it yet. If you want to earn your life back, you'd better do exactly what I fucking say.}
 {115}{}{And what's that?}
 {116}{}{You know, I've changed my mind. I think the world will be better off without you in it. [attack]}

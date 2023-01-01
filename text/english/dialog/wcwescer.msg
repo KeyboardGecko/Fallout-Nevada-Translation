@@ -258,16 +258,16 @@
 
 #Selling Nuka
 {320}{}{I am an official representative from Salt Lake City's Nuka-Cola factory and I have a mutually beneficial offer for you.}
-{321}{}{We have a quartermaster at the entrance. You should resolve such questions with him.}
-{322}{}{A trader in the old station? Okay, I'll talk to him.}
-{323}{}{He said he wouldn't commit to such deals without your permission.}
-{324}{}{And he did the right thing. Where is the guarantee that you are who you claim to be? How can we trust you?}
+{321}{}{We have a quartermaster at the entrance. You should resolve your questions with him.}
+{322}{}{That trader in the old station? Okay, I'll go talk to him.}
+{323}{}{He said he wouldn't commit to any deals without your permission.}
+{324}{}{And he did the right thing. What guarantee do we have that you are who you claim to be? How can we trust you?}
 {325}{}{In that case, my license might convince you.}
-{326}{}{You're not very welcoming to a rare trade partners. Well, your loss...}
-{327}{}{...And no one knows where you got it. Prove that you can be trusted. As for paper, there are better uses for it in the toilet.}
-{328}{}{Hmm, you don't look like a charlatan. At least your actions say otherwise. I think we'll give you a chance. I will contact the quartermaster by the radio. You go and talk to him about the details of the deal.}
+{326}{}{You're not very welcoming to rare trade partners. Well, your loss...}
+{327}{}{...And no one knows where you got it. Prove that you can be trusted. As for your papers, there are better uses for it in the bathroom.}
+{328}{}{Hmm, you don't look like a charlatan. At least your actions say otherwise. I think we'll give you a chance. I will contact the quartermaster by radio. You go and talk to him about the details of the deal.}
 {329}{}{Yes, sir!}
-{330}{}{Wait, let me explain it for you using numbers and charts...}
+{330}{}{Wait, let me explain it for you, using numbers and charts...}
 {331}{}{[listens carefully and looks interested] Hmm, talented traders are rare these days. I don't want to miss out on a profitable partner, whoever that may be... I think we'll give you a chance. I'll contact the quartermaster by the radio, and you go and talk to him about the details of the deal.}
 
 ###################################################################
@@ -276,9 +276,9 @@
 #
 ###################################################################
 
-{400}{}{Wait a minute. I have another request, if you do not mind.}
+{400}{}{Wait a minute. I have another request, if you don't mind.}
 {401}{}{Yes?}
-{402}{}{I got reports about a couple of rednecks making some fuss at the checkpoint. But the reports have some issues, so I could use your help to clarify the situation.}
+{402}{}{I got reports about a couple of rednecks making some fuss at the checkpoint. But the reports have some issues, so I could use your help to clear up the situation.}
 {403}{}{I will be glad to help you. What should I do?}
 {404}{}{You know, scavengers like me don't know the word "help". Goodbye.}
 {405}{}{I would be glad to help, but I've got to leave this place, too much trouble here. You will have to sort things out without me.}
