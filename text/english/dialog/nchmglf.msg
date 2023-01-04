@@ -24,7 +24,7 @@
 {135}{}{It's just a city, like any other. Caravan merchants only talk about the most horrible parts, but in reality, anyone can find a place to fit in. People do actually live here, you know - it's not just the constant shooting in the streets.}
 
 {140}{}{Say, Shelley, your husband... He's not the first man in your life, is he?}
-{141}{}{[Her eyes narrow] What are you trying to say? Colin and I are happily married! Don't you *dare* imply I'm anything but a wife! Who do you think I am, one of those whores from the streets?}
+{141}{}{[Her eyes narrow] What are you trying to say? Colin and I are happily married! Don't you *dare* imply I'm anything but a wife! What do you think I am, one of those whores from the streets?}
 {142}{}{I'm sorry, I'm not trying to offend you. But you had husband before Colin, didn't you?}
 {143}{}{Woman, are you deaf, or just stupid? You had another husband, yes or no?}
 {144}{}{Oooh, touchy subject. I'll go let you cool off.}
