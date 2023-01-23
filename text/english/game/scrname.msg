@@ -382,7 +382,7 @@
 {482}{}{Gareth}
 {483}{}{Sulik}
 {484}{}{Caravan merchant Billy}
-{485}{}{Radist}
+{485}{}{Radio operator}
 {486}{}{}
 {487}{}{Squad commander}
 {488}{}{Generator}
@@ -580,7 +580,7 @@
 {680}{}{Sun Spot}
 {681}{}{Gate}
 {682}{}{Fire}
-{683}{}{Ñroupier}
+{683}{}{Ã‘roupier}
 {684}{}{Musician}
 {685}{}{Raider}
 {686}{}{Musician}
@@ -792,7 +792,7 @@
 {892}{}{}                     
 {893}{}{}                     
 {894}{}{Enclave patrolman}
-{895}{}{Thompson’s man}
+{895}{}{ThompsonÂ’s man}
 {896}{}{Super 8}
 {897}{}{Morris}
 {898}{}{Wall}
@@ -1017,7 +1017,7 @@
 {1117}{}{Information}
 {1118}{}{Generator}
 {1119}{}{Richard Pryor}
-{1120}{}{Comedian’s Wife}
+{1120}{}{ComedianÂ’s Wife}
 {1121}{}{Worker}
 {1122}{}{Door}
 {1123}{}{Door}
