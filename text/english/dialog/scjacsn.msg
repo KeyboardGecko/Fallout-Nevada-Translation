@@ -1,7 +1,7 @@
 {100}{}{You see Fatso Jackson.}
 {101}{}{You see a rather fat man.}
 
-#Пошел в 'уале'
+#ГЏГ®ГёГҐГ« Гў 'ГіГ Г«ГҐ'
 {102}{}{Gotta take a leak.}
 {103}{}{Gotta take a dump.}
 {104}{}{Now, where's Jackson junior?}
@@ -12,7 +12,7 @@
 {109}{}{::farts so hard the tables are shaking::}
 {110}{}{My ass is gonna explode... }
 
-#Уходи' из 'уале'а
+#Г“ГµГ®Г¤ГЁ' ГЁГ§ 'ГіГ Г«ГҐ'Г 
 {111}{}{Fuck it, I'm not going to wash my hands.}
 {112}{}{Damn, that was one for the books.}
 {113}{}{::farts so hard the walls are trembling::}
@@ -25,7 +25,7 @@
 {120}{}{Whoops, forgot to wipe. All good.}
 {121}{}{Gotta change my underwear again. Wait, what underwear?}
 
-#Попы'ка заговори'ь, когда он в 'уале'е
+#ГЏГ®ГЇГ»'ГЄГ  Г§Г ГЈГ®ГўГ®Г°ГЁ'Гј, ГЄГ®ГЈГ¤Г  Г®Г­ Гў 'ГіГ Г«ГҐ'ГҐ
 {122}{}{I won't be available for a while.}
 {123}{}{Hold on, goddamn it!}
 {124}{}{I'm busy here!}
@@ -35,7 +35,7 @@
 {128}{}{Wait, here it comes... Hhnnnrrgg!!!}
 {129}{}{Here I stand, broken-hearted... }
 
-#Диалог:
+#Г„ГЁГ Г«Г®ГЈ:
 {130}{}{Hey, look who it is! The circus left a clown behind. What's up?}
 {131}{}{How's life, Jackson?}
 {132}{}{I need chems.}
@@ -49,7 +49,7 @@
 {139}{}{Never mind. Let's start over.}
 {140}{}{Hmm, I've seen some big metal thingy somewhere, around three floors high. I don't remember where though, and you can't see it from here. Go bug the savages to the south. One of them has to know about it.}
 
-#Заказ нарко'ы
+#Г‡Г ГЄГ Г§ Г­Г Г°ГЄГ®'Г»
 {141}{}{I can make them. Just bring me the right ingredients and my pay.}
 {142}{}{Make me a healing powder.}
 {143}{}{Make me a poison antidote.}
@@ -79,7 +79,7 @@
 {164}{}{}
 {165}{}{I don't have enough here for that. Ask around Reno, you'll find plenty.}
 
-#Яд, производс'во:
+#ГџГ¤, ГЇГ°Г®ГЁГ§ГўГ®Г¤Г±'ГўГ®:
 {168}{}{Poison? [he gives you a funny look, then shrugs] Whatever, business is business. Get me three radscorpion tails, two handfuls of nightshade berries and an empty syringe. After that I'll just need a day to work on it and }
 {169}{}{Alright, I'll get to work. Come back tomorrow and I'll have it ready.}
 {170}{}{This is good stuff! Just, uh, don't mix it up with your stimpaks. [he gives you a syringe of very strong poison]}
@@ -89,7 +89,7 @@
 
 {210}{}{Hey, Mold! If you're gonna die, do you mind crawling outside first?}
 
-#Дело о наркодилере
+#Г„ГҐГ«Г® Г® Г­Г Г°ГЄГ®Г¤ГЁГ«ГҐГ°ГҐ
 {211}{}{Tell me about the dealer that gave you bad ingredients.}
 {212}{}{[He waves a hand dismissively] Don't bother. Our guys already looked. You're not going to find him.}
 {213}{}{I don't have the same reputation in Reno as your "guys".}
@@ -103,7 +103,7 @@
 {221}{}{That'll do.}
 {222}{}{You got another clue about the dealer.}
 
-#Получение дос'ижения "Знахарь"
+#ГЏГ®Г«ГіГ·ГҐГ­ГЁГҐ Г¤Г®Г±'ГЁГ¦ГҐГ­ГЁГї "Г‡Г­Г ГµГ Г°Гј"
 {223}{}{Could you teach me how to make chems?}
 {224}{}{Anything for you, my friend... For 500 bucks.}
 {225}{}{500 bucks?! You'd better be one hell of a teacher. [pay him]}
@@ -113,7 +113,7 @@
 {229}{}{That's what I like to hear! Go on, tell me your secrets... }
 {230}{}{Not right now. I'll come back later.}
 
-#Разговор по душам
+#ГђГ Г§ГЈГ®ГўГ®Г° ГЇГ® Г¤ГіГёГ Г¬
 {235}{}{Fine, forget it.}
 {236}{}{What are you doing?}
 {237}{}{How is the gang doing?}
@@ -121,7 +121,7 @@
 {239}{}{What is that, a trick question? I cook and make booze for the gang. What does it look like?}
 {240}{}{What, the boss is giving you the silent treatment? It's bad out there. People are traveling in groups now, everyone's got a gun. Raiding's getting tough. I have to really work to keep myself and the gang up. If not for those fucking Indians, we'd really be in trouble.}
 {241}{}{It's bad. People are traveling in groups now, everyone's got a gun. Raiding's getting tough. I have to really work to keep myself and the gang up. If not for those fucking Indians, we'd really be in trouble.}
-{242}{}{Our brahmin. Any time we need food or girls, we head down south and help ourselves. But Big Louie has some other deal going on with them. He says we can't take too much or they'll starve or whatever, and then we get anything from them. So, we try not to get too greedy.}
+{242}{}{Our brahmin. Any time we need food or girls, we head down south and help ourselves. But Big Louie has some other deal going on with them. He says we can't take too much or they'll starve or whatever, and then we won't get anything from them. So, we try not to get too greedy.}
 {243}{}{Quit pushing me, motherfucker!}
 {244}{}{Push me and I'll piss on you! I'm fucking serious.}
 {245}{}{Has the gang been here for long?}
