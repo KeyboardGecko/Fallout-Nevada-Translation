@@ -1,18 +1,18 @@
 {100}{}{You see a computer.}
-{101}{}{You see a powerful security service's computer.}
+{101}{}{You see a powerful security service computer.}
 
 {102}{}{You see a security service computer.}
 {103}{}{[Cancel]}
 {104}{}{[Next]}
 
-#Àêòèâàöèÿ áîìáû:
+#Ã€ÃªÃ²Ã¨Ã¢Ã Ã¶Ã¨Ã¿ Ã¡Ã®Ã¬Ã¡Ã»:
 {105}{}{Hm... Self-destruct protocol - what's this?}
 
 {109}{}{As you would expect, this command initiates the self-destruction of the hangar along with the underground levels below it. The command activates a nuclear warhead with a 0.3 kiloton plutonium charge, which is walled up in the lower levels. If you activate it, you will have to run like hell to avoid being hit by the blast wave.}
 {110}{}{Try to break into the system and activate the protocol}
 {111}{}{[Leave this section]}
 
-{112}{}{To crack this protection system, you have to be almost a computer genius. This is clearly beyond your skill.}
+{112}{}{To crack this protection system, you have to almost be a computer genius. This is clearly beyond your skill.}
 {113}{}{}
 {114}{}{You find a way to circumvent the protection system and activate the hangar's self-destruct protocol.}
 {115}{}{Well, it's time to do it!}
@@ -31,12 +31,12 @@
 {127}{}{[Return to main menu]}
 {128}{}{Cancel. Return to main menu.}
 
-{129}{}{You find the assembly schematics. However, the process looks too intricate for you, so without special knowledge in the field of subversive matters these schemes won't help you.}
+{129}{}{You find the assembly schematics. However, the process looks too intricate for you, so without special knowledge in the field of subversive matters these schematics won't help you.}
 
 {131}{}{Doesn't work}
 {132}{}{Terminal is offline.}
 
-#Àêòèâàöèÿ òóðåëåé:
+#Ã€ÃªÃ²Ã¨Ã¢Ã Ã¶Ã¨Ã¿ Ã²Ã³Ã°Ã¥Ã«Ã¥Ã©:
 {200}{}{Examine the turret operational program.}
 {201}{}{Run the turret operational program.}
 {202}{}{Return to main menu.}
@@ -46,13 +46,13 @@
 {206}{}{The computer has an unfinished bug report, but no clear algorithm for fixing the program is found.}
 {207}{}{Look into the source code.}
 {208}{}{It's too difficult for you.}
-{209}{}{Spending six hours on analyzing the code, you find that the error was in a cyclic subroutine checking the signal variables of the turrets. But since the signal and the cycle were out of sync, the program took it as a malfunction in computer and restarted. You could reset the cycle to get rid of this problem and to make the program working again.}
-{210}{}{Rewrite the code to complete extermination of aliens, then recompile.}
+{209}{}{Spending six hours on analyzing the code, you find that the error was in a cyclic subroutine checking the signal variables of the turrets. But since the signal and the cycle were out of sync, the program took it as a malfunction in the computer and restarted. You could reset the cycle to get rid of this problem and to make the program work again.}
+{210}{}{Rewrite the code to complete the extermination of aliens, then recompile.}
 {211}{}{Ready. Start the program?}
 {212}{}{Yes.}
 {213}{}{No, leave it offline.}
-{214}{}{Done! The program is up and running. On the surveillance monitors, you see how the turrets shoot aliens crawling behind the walls of the hangar.}
-{215}{}{Not with you intelligence.}
+{214}{}{Done! The program is up and running. On the surveillance monitors you can see the turrets shooting aliens crawling behind the walls of the hangar.}
+{215}{}{Not with your intelligence.}
 {216}{}{With your education, there is *absolutely* nothing to do.}
 {217}{}{If you were more educated, perhaps you could've read the code.}
 {218}{}{Perhaps you could've understand the code if you were more educated.}
