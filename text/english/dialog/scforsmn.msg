@@ -70,7 +70,7 @@
 {161}{}{I'll pay you }
 {162}{}{ dollars for it.}
 {163}{}{If you want sex, I'm right here. Interested?}
-{164}{}{Put cards on the table and I'll win that stuff for sure.}
+{164}{}{Put a deck of cards on the table and I'll win that stuff for sure.}
 {165}{}{I won't offer anything.}
 {166}{}{Let me think. I'll come back when I make up my mind.}
 
@@ -135,7 +135,7 @@
 {231}{}{Quit the bullshit. Let's play already.}
 {232}{}{[Afterburner deals the cards. So far, everything is fair.]}
 {233}{}{[Next]}
-{234}{}{Ha-ha, what is this? You lost ace and king! I'll kick your ass in the next hand.}
+{234}{}{Ha-ha, what is this? You lost your ace and king! I'll kick your ass in the next hand.}
 {235}{}{Woah! Where did you get that ace from? It was... Ah, yeah, that's right. Let's keep going.}
 {236}{}{[The game is all but finished. Time to count the points.]}
 {237}{}{[Show your cards.]}
