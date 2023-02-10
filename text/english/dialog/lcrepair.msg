@@ -174,7 +174,7 @@
 {317}{}{Okay, going to do the job.}
 {318}{}{Great. Wait, there's one more thing - don't tell the locals about the controller. There are people in Salt Lake City who better not know that we are restoring automatic systems.}
 {319}{}{Why?}
-{320}{}{Well, if you want to become a walking target, go ahead. In addition to those who just want to make a profit off their order, there are people like our pharmacist, who believe fixing the factory would worsen an already crappy environmental situation in the city. Oh yeah, and the people at the factory wouldn't be as needed as before - at least not as many - since the robots will work in their stead. Do you understand how delicate this matter is? Then keep your mouth shut, if you don't want to lose an opportunity to make some money.}
+{320}{}{Well, if you want to become a walking target, go ahead. In addition to those who just want to make a profit off their order, there are people, like our pharmacist, who believe fixing the factory would worsen an already crappy environmental situation in the city. Oh yeah, and the people at the factory wouldn't be as needed as before - at least not as many - since the robots will work in their stead. Do you understand how delicate this matter is? Then keep your mouth shut, if you don't want to lose an opportunity to make some money.}
 {321}{}{All right.}
 {322}{}{The Programmable Logic Controller, or PLC, is necessary for automatic control of different appliances. Imagine, we connect it to all the conveyors, drives, manipulators, sensors, loading cranes - everything we need for autonomous factory operation. People would only have to walk between the machines, and control and monitor them to avoid accidents.}
 {323}{}{The caravan merchants told me that there's a guy at Hoover Dam in Vegas who has an exceptional talent for electronics. If that's true, he can fix the controller.}
@@ -184,7 +184,7 @@
 {327}{}{Really? [He runs some tests on it] It really works! Wonderful. Now get it to Director Skinner.}
 {328}{}{All right.}
 {329}{}{But doesn't that mean part of the workforce won't be needed any more?}
-{330}{}{You sound like that nerdy pharmacist. Of course, the Director will be able to fire a few slackers. But that's less than a half! Even automated machines need control and maintenance. And that requires people. These days, you can't really trust technology.}
+{330}{}{You sound like that nerdy pharmacist. Of course, the Director will be able to fire a few slackers. But that's less than half! Even automated machines need control and maintenance. And that requires people. These days, you can't really trust technology.}
 
 ################################################################
 #
@@ -252,7 +252,7 @@
 {423}{}{So what's your offer?}
 {424}{}{}
 
-{425}{}{Extremely practical solution: first cut out the extra metal to reduce the weight of the car, then build a new, sturdy frame over the trunk. I have everything I need to do this.}
+{425}{}{An extremely practical solution: First cut out the extra metal to reduce the weight of the car, then build a new, sturdy frame over the trunk. I have everything I need to do this.}
 {426}{}{Increasing the capacity of the trunk? That would be great. How much would it cost me?}
 {427}{}{Well, I'm not interested. I'll be back if I change my mind.}
 
