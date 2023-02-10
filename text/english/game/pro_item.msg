@@ -465,7 +465,7 @@
 {23700}{}{Newspapers}
 {23701}{}{Several issues of the "Denver Post" newspaper. On its pages - a review of the nuclear tests in Nevada, the newest evidence of UFOs from observations within 100 km of Las Vegas, and an advertising for new products from "Pretty & Glamour".}
 {23800}{}{Passwords}
-{23801}{}{A piece of paper with passwords written in a hurry.                    One: 153-648-987.         Two: 045-896-509.         Three: 987-469-876.      Four: 013-486-498.}
+{23801}{}{A piece of paper with hastily written passwords.             One: 153-648-987.         Two: 045-896-509.         Three: 987-469-876.      Four: 013-486-498.}
 {23900}{}{Body armor}
 {23901}{}{A light army bulletproof vest with elements to quickly unload all sorts of junk. Protects only a part of the torso, since it was meant to be used by Emergency Response Units members. In great condition.}
 {24000}{}{Tesla Armor}
@@ -811,7 +811,7 @@
 {41600}{}{Toll from Stryker}
 {41601}{}{A metal diplomat case coated with brahmin skin. Intended for Big Louie. The contents of case are unknown.}
 {41700}{}{Laboratory helmet}
-{41701}{}{Once this protective helmet was included as a component of hermetic chemical protection suit. Now it's the only remaining part.}
+{41701}{}{Once this protective helmet was included as a component of a hermetically sealed chemical protection suit. Now it's the only remaining part.}
 {41800}{}{Rat trap}
 {41801}{}{Ancient mechanical device. Excellent against small brainless animals.}
 {41900}{}{Mantis snack}
