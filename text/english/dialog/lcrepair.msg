@@ -324,8 +324,8 @@
 {535}{}{Very well. What is next?}
 {536}{}{Great. Will continue this another time.}
 
-{537}{}{Now it is necessary to restore the impenetrability of the hull. The layers of radiation and gas protection are burned out, and the helmet is completely in pieces. We need to replace it all with something improvised. Make a note, in case your memory fails you. I need: a sealed helmet, a gas-protection suit and an anti-radiation jumpsuit.}
-{538}{}{I have a anti-radiation jumpsuit.}
+{537}{}{Now we have to restore the hull's impermeability. The radiation and gas protection layers are burned out, and the helmet is in pieces. We need to replace it all with something improvised. Make a note in case your memory fails you. I need: A sealed helmet, a gas-protection suit, and an anti-radiation jumpsuit.}
+{538}{}{I have an anti-radiation jumpsuit.}
 {539}{}{I have a gas-protection suit.}
 {540}{}{I have a lab helmet.}
 {541}{}{ We have already integrated }
@@ -337,7 +337,7 @@
 
 {547}{}{Ready! We've moved one more step forward!}
 {548}{}{That's good.}
-{549}{}{Great news! The hull is restored. It would be great to celebrate with a bottle of "Bloody Mary", but still the hardest part of the job is yet to come. So it's too early to get excited.}
+{549}{}{Great news! The hull is restored. It would be great to celebrate with a bottle of "Bloody Mary", but the hardest part of the job is yet to come. So it's too early to get excited.}
 {550}{}{Good to hear it. What else needs to be done?}
 {551}{}{Great, but let's get back to it later.}
 {552}{}{The hardest part is restoring the autonomous system. This type of armor is distinguished by the inclusion of a power module, which provides mobility to the exoskeleton and increases the strength of the wearer. The systems were powered by an internal mini-reactor and controlled by a central processor. All of this has been destroyed. We will have to look for replacements, since we cannot manufacture such things from scratch. In addition, I will need blueprints of the internal structure, otherwise it will take years to do the disassembly analysis. Now write down what I need: an autonomous system, a CPU, and blueprints.}
