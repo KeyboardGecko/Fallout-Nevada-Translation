@@ -832,7 +832,7 @@
 {42601}{}{Two large wooden boxes. The inscriptions on the sides are no longer distinguishable.}
 {42700}{}{Flaming Breath}
 {42800}{}{Shaman's belongings}
-{42801}{}{The personal belongings of the Niskigvan. Among them there are various tools useful in collecting and processing medicinal herbs.}
+{42801}{}{The personal belongings of Niskigvan. Among them there are various tools useful for collecting and processing medicinal herbs.}
 {42900}{}{Gold Tooth}
 {42901}{}{You knocked out that golden tooth from Tuco's jaw. Now it's yours.}
 {43000}{}{Mantis limb}
