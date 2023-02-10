@@ -850,7 +850,7 @@
 {43600}{}{Deck of Cards}
 {43601}{}{A standard set of playing cards.}
 {43700}{}{Pack of Marked Cards}
-{43701}{}{A standard set of playing cards, which has special inconspicuous marks on the back.}
+{43701}{}{A standard set of playing cards, which have special inconspicuous marks on their backs.}
 {43800}{}{Reactor access card}
 {43801}{}{Electronic access card to the reactor level in the hangar V9.}
 {43900}{}{Recipe: "Mantis Snack"}
