@@ -30,7 +30,7 @@
 
 #Vault-Tec devices for the Vault City warehouse
 {125}{}{Are you familiar with anythng on this list of Vault-Tec technologies?}
-{126}{}{Vault-Tec you say? Let me see... I guess all this has something to do with the technology of vaults that the Vault-Tec company was building before the war. But in Salt Lake there is only one such vault, deep in the mountains, and it's still locked. But you don't have to look there. I've also been running across Gas Sensors in family shelters built by Preiser Incorporated.}
+{126}{}{Vault-Tec you say? Let me see... I guess all this has something to do with the technology that the Vault-Tec company was building before the war. But in Salt Lake there is only one such vault, deep in the mountains, and it's still locked. But you don't have to look there. I've also been running across Gas Sensors in family shelters built by Preiser Incorporated.}
 {127}{}{Preiser... What?}
 {128}{}{Well, you know, before the war, there was another company building vaults for this city, but those weren't as large, but were rather family-oriented, for a few people. There were two hundred or maybe more in the Salt Lake area, but almost all were looted or flooded. But in the 60 years since the war, almost nothing is left in them except rats and damp. Nevertheless, some technology can still be found there. I remember seeing the Vault-Tec logo in some of them. Perhaps the company subcontracted for technologies it couldn't develop itself.}
 {129}{}{All right.}
@@ -308,7 +308,7 @@
 {523}{}{Let's discuss the second phase of the repair.}
 {524}{}{Let's discuss the third phase of the repair.}
 
-{525}{}{My pleasure! The first thing that needs restoring is the armor hull. It is not easy. The construction used high quality polymers, cermets, and special fasteners. I need blueprints to see how it was all assembled before. The situation with materials is tight, but it is still possible to find them.}
+{525}{}{My pleasure! The first thing that needs restoring is the armor's hull. It's not easy. The construction used high quality polymers, cermets, and special fasteners. I need blueprints to see how it was all assembled before. The materials situation is tight, but it is still possible to find them.}
 {526}{}{I have a broken power armor. Will it be enough to restore the hull?}
 {527}{}{I have blueprints of the frame structure!}
 {528}{}{Where I can find them?}
@@ -340,7 +340,7 @@
 {549}{}{Great news! The hull is restored. It would be great to celebrate with a bottle of "Bloody Mary", but the hardest part of the job is yet to come. So it's too early to get excited.}
 {550}{}{Good to hear it. What else needs to be done?}
 {551}{}{Great, but let's get back to it later.}
-{552}{}{The hardest part is restoring the autonomous system. This type of armor is distinguished by the inclusion of a power module, which provides mobility to the exoskeleton and increases the strength of the wearer. The systems were powered by an internal mini-reactor and controlled by a central processor. All of this has been destroyed. We will have to look for replacements, since we cannot manufacture such things from scratch. In addition, I will need blueprints of the internal structure, otherwise it will take years to do the disassembly analysis. Now write down what I need: an autonomous system, a CPU, and blueprints.}
+{552}{}{The hardest part is restoring the autonomous system. This type of armor is distinguished by the inclusion of a power module, which provides mobility to the exoskeleton and increases the strength of the wearer. The systems were powered by an internal mini-reactor and controlled by a central processor. All of this has been destroyed. We will have to look for replacements, since we cannot manufacture them from scratch. In addition, I will need blueprints of the internal structure, otherwise it will take years to do the disassembly analysis. Now write down what I need: an autonomous system, a CPU, and blueprints.}
 {553}{}{I have the CPU.}
 {554}{}{I have an autonomous system.}
 {555}{}{I have blueprints of the internal structure of the armor.}
@@ -355,8 +355,8 @@
 {562}{}{I've got everything you need. So don't be lazy, please - the final stage is ahead!}
 {563}{}{So, we have everything needed to finish the work!}
 
-{564}{}{Great! I'm ready to start the last phase of the reconstruction, but there is one controversial point. So far, I've been working for free while you've been looking for the necessary parts. So which one of us now owns the armor? Admit it, whoever owns it should compensate for the other's efforts.}
-{565}{}{How big is the compensation for your services?}
+{564}{}{Great! I'm ready to start the last phase of the reconstruction, but there is one controversial point. So far, I've been working for free while you've been looking for the necessary parts. So which one of us now owns the armor? Admit it, whoever owns it should compensate the other for their efforts.}
+{565}{}{How much compensation are you asking for your services?}
 {566}{}{I'll just kill you and finish the armor myself.}
 {567}{}{That's a good question. I have to think about it.}
 
@@ -364,7 +364,7 @@
 {569}{}{That's fair enough. Here's $10,000. Now put in the effort and complete the work!}
 {570}{}{This sum is unaffordable for me. We can discuss this another time.}
 
-{571}{}{Well, I almost envy you, though I've had a lot of fun and money from this job myself. You can't find things like that around every corner, and you'll probably never see anything like it again... You know, if I were you, I'd give the armor the name. Like "Grizzly", for example. What do you think? As for me, it fits nicely.}
+{571}{}{Well, I almost envy you, though I've had a lot of fun and made a lot of money from this job myself. You can't find things like that around every corner, and you'll probably never see anything like it again... You know, if I were you, I'd give the armor a name. Like "Grizzly", for example. What do you think? I think it fits nicely.}
 {572}{}{"Grizzly" power armor? That's a great name!}
 {573}{}{What a shitty name. Its main function is to protect against bullets, the rest is irrelevant.}
 
