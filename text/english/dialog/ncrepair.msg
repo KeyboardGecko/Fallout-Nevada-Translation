@@ -188,7 +188,7 @@
 
 #Àïãðåéä ïèêàïà:
 {270}{}{Have you ever worked on a functional car?}
-{271}{}{Like every mechanic, I worked on cars. And by that I mean disassembled a lot of them understanding nothing about how they work. Also, It's almost impossible to find parts in a working condition.}
+{271}{}{Like every mechanic, I worked on cars. And by that I mean disassembled a lot of them understanding nothing about how they work. Also, It's almost impossible to find parts in working condition.}
 {272}{}{Do you have any of those parts?}
 {273}{}{That's all I wanted to know.}
 
@@ -206,7 +206,7 @@
 {283}{}{Fuel regulator. Install it in a car engine and it'll double your battery life. I'll sell and install it for 1000 bucks.}
 
 {284}{}{What was that thing you said about a car part?}
-{285}{}{[He smirks] Nah, you are joking. I don't think you will. And you not only won't find it without me, but also could never figure out how to install it properly. *I'm* the mechanic here, if you didn't understand it by now.}
+{285}{}{[He smirks] Nah, you're joking. I don't think you will. And you not only won't find it without me, but you could never figure out how to install it properly. *I'm* the mechanic here, if you didn't understand that by now.}
 {286}{}{I'm dead serious. And guess what, here I go! [Attack]}
 {287}{}{Hmm. I see. Fine, here's the money. I'll wait for you to finish.}
 {288}{}{Hmm. I see. I'll go get the money, then.}
