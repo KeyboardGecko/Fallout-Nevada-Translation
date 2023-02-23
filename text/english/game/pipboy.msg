@@ -645,28 +645,28 @@
 # Case with docs from radio station
 # GVAR_SHAIEN_RADIO_KEISHOLODISK (GVAR_SIERRA_GNN_HOLODISK)
 {11000}{}{The case from the radio station contains a dense}
-{11001}{}{pack of documents and disks. They might look like}
+{11001}{}{pack of documents and disks. They would look like}
 {11002}{}{a pile of useless garbage, if not for their}
-{11003}{}{secrecy. In addition, the part of information is}
+{11003}{}{secrecy. In addition, part of the information is}
 {11004}{}{encrypted, which also leads to some thoughts.}
 {11005}{}{}
 {11006}{}{Apparently, the radio station in Lovelock was one}
 {11007}{}{of a few key points for military broadcasting.}
 {11008}{}{It maintained the links between the General}
-{11009}{}{Command, military bases, the vault network and}
+{11009}{}{Command, military bases, and the vault network and}
 {11010}{}{laboratories. They could also be tapped from here.}
 {11011}{}{}
 {11012}{}{Among the documents you suddenly discover}
 {11013}{}{some surveillance reports on Vault 8:}
 {11014}{}{external and internal communications records,}
 {11015}{}{intercepted computer systems data, etc.}
-{11016}{}{The Vault has been under the close supervision of}
+{11016}{}{The Vault has been under the close supervision of} 
 {11017}{}{the military - information had been transmitted}
 {11018}{}{directly to the Hawthorne military base.}
 {11019}{}{}
-{11020}{}{It will take time to decipher all}
-{11021}{}{documentation, but it is already clear that it can}
-{11022}{}{be of great value to your city.}
+{11020}{}{It will take time to decipher all the}
+{11021}{}{documentation, but it is already clear that}
+{11022}{}{it can be of great value to your city.}
 {11023}{}{**END-DISK**}
 
 # Wind of War's history
