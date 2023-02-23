@@ -1,8 +1,8 @@
-#Комп в АЭС - часть первая
+#ГЉГ®Г¬ГЇ Гў ГЂГќГ‘ - Г·Г Г±ГІГј ГЇГҐГ°ГўГ Гї
 {100}{}{You see a working terminal.}
 {101}{}{You see a reactor control terminal.}
 
-#Применение наркоты на криттере, который за это нападает на ГГ:
+#ГЏГ°ГЁГ¬ГҐГ­ГҐГ­ГЁГҐ Г­Г Г°ГЄГ®ГІГ» Г­Г  ГЄГ°ГЁГІГІГҐГ°ГҐ, ГЄГ®ГІГ®Г°Г»Г© Г§Г  ГЅГІГ® Г­Г ГЇГ Г¤Г ГҐГІ Г­Г  ГѓГѓ:
 {126}{}{Shouldn't have done that!}
 {127}{}{}
 {128}{}{I don't need that!}
@@ -11,20 +11,20 @@
 {131}{}{We are not allowed to try this.}
 
 
-#Для кола-продаж
+#Г„Г«Гї ГЄГ®Г«Г -ГЇГ°Г®Г¤Г Г¦
 {150}{}{You've closed a Nuka-Cola deal. Congratulations!}
 {151}{}{You get a new achievement.}
 {152}{}{The deal of the Nuka-Cola sale in this establishment is no longer valid.}
 {153}{}{Looks like this place's revenue is about to plummet.}
 
-#Комп в АЭС - часть вторая
+#ГЉГ®Г¬ГЇ Гў ГЂГќГ‘ - Г·Г Г±ГІГј ГўГІГ®Г°Г Гї
 {160}{}{You succeeded in breaking into the system. Judging from documents inside, this plant wasn't used solely for peaceful purposes by the government.}
-{161}{}{Look at reports on uranium ore supply.}
+{161}{}{Look at the reports on the uranium ore supply.}
 {162}{}{Look at "Lovelock" radio station project.}
 {163}{}{Look at "Lovelock" radio station coordinates.}
 {164}{}{Look at PoseidonNet debugging report.}
-{165}{}{Because uranium ore was used by the military, its extraction and distribution were under strict government control. Therefore, the Poseidon Oil power plant had to undergo regular inspections and maintain impeccable accounting. According to these records, there was enough uranium in stockpiles at the time of the power plant shutdown to keep the power plant running efficiently for another 250 years.}
-{166}{}{By special decree a separate power branch was provided to supply a radio tower near Lovelock settlement. The facility was marked as of critical significance and was supervised by the military. The nuclear power plant should have supplied the station with enough power.}
+{165}{}{Because uranium ore was used by the military, its extraction and distribution was under strict government control. Therefore, the Poseidon Oil power plant had to undergo regular inspections and maintain impeccable accounting. According to these records, there was enough uranium in stockpiles at the time of the power plant shutdown to keep the power plant running efficiently for another 250 years.}
+{166}{}{By special decree a separate power branch was provided to supply a radio tower near the Lovelock settlement. The facility was marked as of critical significance and was supervised by the military. The nuclear power plant should have supplied the station with enough power.}
 {167}{}{You download the station coordinates to your Pip-Boy.}
 {168}{}{Apparently this station is located in the same area as the Cheyenne tribe.}
 {169}{}{You have already downloaded the coordinates. The station is located in the South.}
@@ -35,10 +35,10 @@
 
 #########################################################################
 #
-# Стандартные фразы для компьютеров и терминалов
+# Г‘ГІГ Г­Г¤Г Г°ГІГ­Г»ГҐ ГґГ°Г Г§Г» Г¤Г«Гї ГЄГ®Г¬ГЇГјГѕГІГҐГ°Г®Гў ГЁ ГІГҐГ°Г¬ГЁГ­Г Г«Г®Гў
 #
-#   Внимание ! Этот раздел текста используется по умолчанию в большинстве компьютеров и терминалов Невады.
-#     То есть этот текст используется в целом ряде скриптов.
+#   Г‚Г­ГЁГ¬Г Г­ГЁГҐ ! ГќГІГ®ГІ Г°Г Г§Г¤ГҐГ« ГІГҐГЄГ±ГІГ  ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГІГ±Гї ГЇГ® ГіГ¬Г®Г«Г·Г Г­ГЁГѕ Гў ГЎГ®Г«ГјГёГЁГ­Г±ГІГўГҐ ГЄГ®Г¬ГЇГјГѕГІГҐГ°Г®Гў ГЁ ГІГҐГ°Г¬ГЁГ­Г Г«Г®Гў ГЌГҐГўГ Г¤Г».
+#     Г’Г® ГҐГ±ГІГј ГЅГІГ®ГІ ГІГҐГЄГ±ГІ ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГІГ±Гї Гў Г¶ГҐГ«Г®Г¬ Г°ГїГ¤ГҐ Г±ГЄГ°ГЁГЇГІГ®Гў.
 #
 #########################################################################
 
@@ -52,13 +52,13 @@
 
 #########################################################################
 #
-#            Реакция нпс на крики и ловушки
+#            ГђГҐГ ГЄГ¶ГЁГї Г­ГЇГ± Г­Г  ГЄГ°ГЁГЄГЁ ГЁ Г«Г®ГўГіГёГЄГЁ
 #
 #########################################################################
 
-#-------------- Начало реплик
+#-------------- ГЌГ Г·Г Г«Г® Г°ГҐГЇГ«ГЁГЄ
 
-#Тест для охотничьего свистка Эвана
+#Г’ГҐГ±ГІ Г¤Г«Гї Г®ГµГ®ГІГ­ГЁГ·ГјГҐГЈГ® Г±ГўГЁГ±ГІГЄГ  ГќГўГ Г­Г 
 {388}{}{Who's been shouting?!}
 {389}{}{Damn tourists!}
 {390}{}{I won't fall for it again!}
@@ -67,7 +67,7 @@
 {392}{}{!!}
 {393}{}{ }
 
-#Для трудяг, фермеров, горожан
+#Г„Г«Гї ГІГ°ГіГ¤ГїГЈ, ГґГҐГ°Г¬ГҐГ°Г®Гў, ГЈГ®Г°Г®Г¦Г Г­
 {400}{}{Who's been shouting?}
 {401}{}{Why would you be shouting like that?}
 {402}{}{Are you talking to me?}
@@ -103,7 +103,7 @@
 {476}{}{}
 {477}{}{}
 
-#Для примитивных существ:
+#Г„Г«Гї ГЇГ°ГЁГ¬ГЁГІГЁГўГ­Г»Гµ Г±ГіГ№ГҐГ±ГІГў:
 {500}{}{Who be screaming?}
 {501}{}{Why you shouting?}
 {502}{}{You hollering at me?}
@@ -138,7 +138,7 @@
 {576}{}{}
 {577}{}{}
 
-#Для агрессивно настроенных существ и крутых парней (рейдеры, бандиты, охранники):
+#Г„Г«Гї Г ГЈГ°ГҐГ±Г±ГЁГўГ­Г® Г­Г Г±ГІГ°Г®ГҐГ­Г­Г»Гµ Г±ГіГ№ГҐГ±ГІГў ГЁ ГЄГ°ГіГІГ»Гµ ГЇГ Г°Г­ГҐГ© (Г°ГҐГ©Г¤ГҐГ°Г», ГЎГ Г­Г¤ГЁГІГ», Г®ГµГ°Г Г­Г­ГЁГЄГЁ):
 {600}{}{Why the hell are you screaming like a lunatic?!}
 {601}{}{Hey, dipshit! Stop shouting!}
 {602}{}{Are you shouting at me, motherfucker?}
@@ -172,11 +172,11 @@
 {673}{}{A brawl? I should go have a look!}
 {674}{}{Dammit, what was that?}
 
-#Для браминов
+#Г„Г«Гї ГЎГ°Г Г¬ГЁГ­Г®Гў
 {700}{}{Moo!}
 {701}{}{Moo-o!}
 {702}{}{Mooo!}
 {703}{}{Moo?}
 {704}{}{Moo-moo?}
 
-#-------------- Конец реплик
+#-------------- ГЉГ®Г­ГҐГ¶ Г°ГҐГЇГ«ГЁГЄ
