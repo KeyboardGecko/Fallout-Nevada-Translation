@@ -923,13 +923,13 @@
 {47300}{}{Irradiated Nuka-Cola}
 {47301}{}{Amazing pre-war drink in a slightly dirty bottle. Has a wonderful aftertaste and a very questionable glow in the dark.}
 {47400}{}{Magnet-laser pistol Ì2}
-{47401}{}{This laser gun Wattz 1000 has undergone various improvements, which increased its capacity by 50% at price of range and power consumption. Min. ST: 3.}
+{47401}{}{This laser gun Wattz 1000 has undergone various improvements, which increased its capacity by 50% at the cost of reduced range and power consumption. Min. ST: 3.}
 {47500}{}{Do not use}
 {47501}{}{Do not use!}
 {47600}{}{"Bloody Mary"}
 {47601}{}{A high-octane alcoholic cocktail. Very useful after a hard day at the end of the week.}
 {47700}{}{Case with documents}
-{47701}{}{The case contains reports from Lovelock radio station. They are often referred to Vault 8. Unfortunately, most of them are encrypted, but the rest you can input in your Pip-Boy.}
+{47701}{}{The case contains reports from the Lovelock radio station. They often refer to Vault 8. Unfortunately, most of them are encrypted, but the rest you can copy to your Pip-Boy.}
 {47800}{}{---}
 {47801}{}{---}
 {47900}{}{Poisoning gas}
