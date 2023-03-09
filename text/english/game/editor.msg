@@ -1,11 +1,11 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
+# Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±?
 #
 # Text labels and messages used by EDITOR.C
 #
 # (These MUST match "text message" enumeration on the top of EDITOR.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
+# Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±?
 #
 #
 {100}{}{DONE}
@@ -305,8 +305,8 @@
 {1114}{}{Education of the Vault City restrains your drive to sexual exploration. But sometimes something in the depths of your body hints at the natural need of satisfaction of a basic instinct.}
 {1115}{}{Let's be honest: You sleep with anything that walks on two legs. Sometimes, you're not even that discriminating.}
 {1116}{}{"They're dead, they don't care," has become your motto. Digging up the remains of others is more than a hobby for you.}
-{1117}{}{You are the official representative of Nuka-Cola factory. The prosperity and reputation of business depends on you. An important assignment!}
-{1118}{}{Rumors of your friendly relationship with caravan merchants spreads throughout Nevada. The caravan merchants, who knows you always lend them a helping hand, will answer with the same.}
+{1117}{}{You are the official representative of the Nuka-Cola factory. The prosperity and reputation of the business depends on you. An important job!}
+{1118}{}{Rumors of your friendly relationships with caravan merchants spreads throughout Nevada. The caravan merchants, who know you always lend them a helping hand, will answer with the same.}
 {1119}{}{Now everybody knows about your evil actions and bad reputation among caravan merchants has spread throughout Nevada. None of the caravan merchants will ever want to have anything to do with you.}
 {1120}{}{You have been marked as a member of the Slavers Guild. The tattoo on your forehead makes your profession evident to everyone you meet.}
 {1121}{}{---}
@@ -315,13 +315,13 @@
 {1124}{}{You became legendary known in Salt Lake City as an elusive ruthless plunderer of Nuka-Cola vending machines.}
 {1125}{}{Sleaziness, flirt, snitching... You're capable of anything. You have mastered the art of kissing ass with the intention of gaining more comfortable position for yourself.}
 {1126}{}{You are the legend of the local highway. Men are jealous, women turn their heads on you and children are asking for a ride on your own pickup.}
-{1127}{}{The desire of speed burns you from inside. Any functional transport you consider your property and you will not allow no money, no law, nothing in the world to get between you two!}
-{1128}{}{While no one managed to reach you level deduction! Your successes in solving complicated crime cases impress even the experienced police detectives in Las Vegas.}
+{1127}{}{The need for speed burns inside you. Any functional transport you consider your property and you will allow no money, no law, nothing in the world to get between you!}
+{1128}{}{While no one managed to reach your level of deduction, your successes in solving complicated crime cases impress even the experienced police detectives in Las Vegas.}
 {1129}{}{You have been suffering from rare infectious disease. It may heal without any traces, or may have severe consequences for your body.}
 {1130}{}{You are the Reno ring fighting champion. You have gained fame, respect, the love of thousands... and a bonus to your endurance and damage resistance.}
 {1131}{}{You are the Vegas slavers' ring fighting champion. You have gained fame, respect, the love of thousands... and a bonus to your endurance and damage resistance.}
 {1132}{}{You're huge, bright, sparkling new star. You're the best and you know a lot about striptease and the beauty of your body. Everyone knows that in Reno.}
-{1133}{}{You're huge, sparkling star of the stage. You're the best and you know a lot about good music and the harmony of the senses. Everyone knows that in Reno.}
+{1133}{}{You're a huge, sparkling star of the stage. You're the best and you know a lot about good music and the harmony of the senses. Everyone knows that in Reno.}
 {1134}{}{You have cracked so many locks, that you lost count. With such skills the only thing that remains is to rob the bank... If they would still exist in post-nuclear world.}
 {1135}{}{You have become  Mr. Bertolini's associate, a fact that strongly reinforced your reputation among the population of Reno.}
 {1136}{}{You have become  Mr. Luciano's associate, a fact that strongly reinforced your reputation among the population of Reno.}
@@ -329,8 +329,8 @@
 {1138}{}{You have become  Thompson associate, a fact that strongly reinforced your reputation among the population of Reno.}
 {1139}{}{You have achieved success in Nuka-Cola trading. You get a bonus to luck. Suppliers want to work only with you and traders give you discounts on everything.}
 {1140}{}{You have achieved success in Nuka-Cola trading. You get a bonus to luck. Suppliers want to work only with you and traders give you discounts on everything.}
-{1141}{}{You have become a sheriff of a small, but promising town.}
-{1142}{}{You did so much for the residents of the Reno slums , that your name will be remembered for several generation.}
+{1141}{}{You have become the sheriff of a small, but promising town.}
+{1142}{}{You did so much for the residents of the Reno slums that your name will be remembered for several generations.}
 
 #
 # Town reputations
