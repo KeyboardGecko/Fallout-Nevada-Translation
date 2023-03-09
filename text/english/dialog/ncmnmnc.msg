@@ -48,7 +48,7 @@
 {153}{}{You did it!? Unbelievable! I don't know how to thank you. Just know that this will not go unnoticed by the other residents of these slums. Thank you. Here, at least take this. Something to eat before you go on your way. A special recipe, no one else makes it!}
 {154}{}{Thank you. And goodbye.}
 {155}{}{Speaking of it, your husband was quite a good player. How did someone like him lose that much money?}
-{156}{}{I can tell you, can't I? Those sneaky bastards in the casino cheat with weighted dice. The house always wins, right? He knew, but he kept trying his luck. He thought he could beat their system and get lucky... [she sighs] He didn't.}
+{156}{}{I can't tell you, can I? Those sneaky bastards in the casino cheat with weighted dice. The house always wins, right? He knew, but he kept trying his luck. He thought he could beat their system and get lucky... [she sighs] He didn't.}
 {157}{}{Yeah, that's exactly how gambling works. Well, see you, Mrs. Clover.}
 
 #Questions about other quests
