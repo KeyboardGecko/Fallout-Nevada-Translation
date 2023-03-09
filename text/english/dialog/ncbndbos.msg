@@ -253,14 +253,14 @@
 {360}{}{[After some thought, he hands you $100] You're free to go.}
 
 #Êâåñò Ïàòðèêà
-{370}{}{Mr. Wright, on Patrick's behalf, I request permission to show a night time movie.}
-{371}{}{[He speaks wistfully, sharpening every syllable] Night-time-moo-vie... I didn't expect Patrick to be cunning enough to send someone in his stead. I already told him his bullshit religion wasn't welcome in my domain. Tell Patrick I won't tolerate his attempts to undermine me.}
+{370}{}{Mr. Wright, on Patrick's behalf, I request permission to show an evening movie.}
+{371}{}{[He speaks wistfully, sharpening every syllable] Eve-ning-moo-vie... I didn't expect Patrick to be cunning enough to send someone in his stead. I already told him his bullshit religion wasn't welcome in my domain. Tell Patrick I won't tolerate his attempts to undermine me.}
 {372}{}{Mr. Wright, listen...}
 {373}{}{No, YOU listen! He's lucky he still has the chance to walk out on his legs after his actions against me! He instills MY tenants with hope for things they can't have! He gives MY tenants a false belief that they are strong, that they deserve better than what I provide them! Why should I turn a blind eye to this?}
 {374}{}{Can't we discuss this like businessmen? What if you were compensated for your patience?}
 {375}{}{Patrick doesn't want to encourage a revolt. He just wants to show people a movie. Trust me.}
 {376}{}{I have no answer to that, Mr. Wright.}
-{377}{}{Finally, we're talking sense. If I can profit off his parasitism, then it puts things in a different light... And he *have* to keep quiet. Maybe he can even stem the spread of that STD that's sweeping through Reno's prostitutes. Very well, I will grant him permission for a nominal fee of $1000.}
+{377}{}{Finally, we're talking sense. If I can profit off his parasitism, then it puts things in a different light... And he *has* to keep quiet. Maybe he can even stem the spread of that STD that's sweeping through Reno's prostitutes. Very well, I will grant him permission for a nominal fee of $1000.}
 {378}{}{Here's the money.}
 {379}{}{I'll go collect the money.}
 {380}{}{Then we're done. But tell Patrick that I only promise to not interfere with his show. I won't provide any security.}
