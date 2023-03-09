@@ -23,7 +23,7 @@
 {154}{}{[Mumbles] If today were 77th, I would show you what a real car is. But yeah, in our times even a piece of junk with wheels is good enough.}
 {155}{}{Do not exaggerate. Many have underestimated me in the past. And I'm still alive. And I must say, this doesn't change the facts... Alas, I forget sometimes, the times we live in. If there would be 77th, I would show you then, what is a real car. But yeah, in our times even a junk on wheels is good enough.}
 {156}{}{Oh yeah, I forget sometimes, the times we live in. If today were 77th, I would show you, what a real car is. But yeah, in our times even a junk with wheels is considered good enough.}
-{157}{}{I would prefer it instead of walking anytime, be sure.}
+{157}{}{I would prefer it to walking anytime, you can be sure.}
 
 #Îñîáàÿ âåòêà äëÿ æåí. ÃÃ
 {170}{}{Boop? Is that you? Baby, let me give you a ride on my wheels! Oh... Nevermind, forget it...}
@@ -49,7 +49,7 @@
 {203}{}{What can you tell about Uranium City?}
 {204}{}{Why are there so few people living here?}
 {205}{}{Nothing, everything is good.}
-{206}{}{Between us? The damn swarm of worms shat between us. And each has shat so much, that me or Wright can't even approach. Though, I think sometimes, he's just disgusted by my looks.}
+{206}{}{Between us? The damn swarm of worms shat between us. And each has shat so much, that me or Wright can't even approach. Though, sometimes, I think he's just disgusted by my looks.}
 {207}{}{Yes. I'm Nelson. Remember that.}
 {208}{}{This is my home, and that's it. Lived here almost my entire life. I don't want to travel anymore, not even to go back south.}
 {209}{}{You really want to know? What if I tell you they don't belong here? Though yes, most of the locals simply died... Not because of me, don't look at me like that.}
