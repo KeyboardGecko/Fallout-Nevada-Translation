@@ -118,7 +118,7 @@
 {204}{}{Perhaps we can talk about something else?}
 {205}{}{Tell me about these group meetings. What are you trying to do?}
 {206}{}{I'm sorry, but I don't think you'd understand. Do you know what psychiatry is?}
-{207}{}{Let me guess - group psychotherapy, right? You sit around in circle and brainwash each other.}
+{207}{}{Let me guess - group psychotherapy, right? You sit around in a circle and brainwash each other.}
 {208}{}{That's... Not far from the truth. I'm surprised! How do you... I suppose I should be happy to have a colleague in front of me. Medical knowledge is hard to find in this city. Where did you learn this?}
 {209}{}{Life experience, Patrick. Life experience.}
 {210}{}{Amazing! May God bless you. Your gift can do great things in the wasteland!}
@@ -224,7 +224,7 @@
 {295}{}{If you say so. As for me, it's time to move on. Goodbye.}
 
 #Êâåñ' íà êèíîïîêàç
-{296}{}{Yes, I have a delicate request. The message you brought to me included an old movie on holodisk. I want to organize film screening for the locals at night, but I'm afraid Mr. Wright will not allow me. Would you convince him to allow me a showing?}
+{296}{}{Yes, I have a delicate request. The message you brought to me included an old movie on a holodisk. I want to organize a film screening for the locals at night, but I'm afraid Mr. Wright will not allow me. Would you convince him to allow me a showing?}
 {297}{}{I'll do it. I'll talk to Wright.}
 {298}{}{Thank you. I will await his answer.}
 {299}{}{Later.}
@@ -236,7 +236,7 @@
 {304}{}{What's so important about it?}
 {305}{}{Why are you so concerned about Wright's opinion?}
 {306}{}{That's all.}
-{307}{}{It's a pre-war movie about the greed and vices of humanity. The mail idea is that the sins of the world brought about its destruction... I know it won't mean anything for a lot of people, but if it will allow me to save one soul, it will have been worth it. Mormons have been using it for this purpose since before the war, and missionaries like myself always show it at the end of their mission. No one in Reno has seen it yet, or so I assume.}
+{307}{}{It's a pre-war movie about the greed and vices of humanity. The main idea is that the sins of the world brought about its destruction... I know it won't mean anything for a lot of people, but if it will allow me to save one soul, it will have been worth it. Mormons have been using it for this purpose since before the war, and missionaries like myself always show it at the end of their mission. No one in Reno has seen it yet, or so I assume.}
 {308}{}{The people in Reno have no awareness of their past and no hope for their future. This movie could give that to them. Besides, most locals have never seen any sort of movie at all before. This may help them understand our faith more and drive them to the path of God.}
 {309}{}{He owns the slums, and in essence, the people within them. If Wright doesn't approve of the movie, he may shut it down or take even more drastic action. It simply can't happen without his permission.}
 {310}{}{Wright gave you permission to show the movie, but he said he won't be responsible for your security.}
