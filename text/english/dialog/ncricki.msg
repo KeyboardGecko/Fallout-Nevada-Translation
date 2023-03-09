@@ -9,7 +9,7 @@
 {110}{}{[You try in vain to wake the drunk. Today he is clearly incapacitated.]}
 {111}{}{[Leave him alone]}
 
-{112}{}{[Two bulging, yellowed eyes covered with a net of swollen capillaries stare up at you. You struggle to determine whether this creature is truly alive.] Hey, buddy?! What do you want from the old Ricky the Drover?}
+{112}{}{[Two bulging, yellowed eyes covered with a net of swollen capillaries stare up at you. You struggle to determine whether this creature is truly alive.] Hey, buddy?! What do you want from old Ricky the Drover?}
 {113}{}{You must have been living in Reno for a long time. Can you help a newcomer with some advice?}
 {114}{}{Well, enough chit-chat for today.}
 {115}{}{That's right, what would I want from a sorry drunk? I'd better get going.}
