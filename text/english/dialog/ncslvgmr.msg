@@ -4,7 +4,7 @@
 {103}{}{Stop bugging me! This is the moment of truth!}
 {104}{}{}
 
-#Плавающие реплики при игре и ударе рукой по автомату
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ ГЇГ°ГЁ ГЁГЈГ°ГҐ ГЁ ГіГ¤Г Г°ГҐ Г°ГіГЄГ®Г© ГЇГ® Г ГўГІГ®Г¬Г ГІГі
 {110}{}{Come on!}
 {111}{}{Ahh, dammit... }
 {112}{}{You fucking... I'll fuck you up for this!}
@@ -18,11 +18,11 @@
 
 ######################################################################
 #
-#             Диалог об игре, автор Kerb
+#             Г„ГЁГ Г«Г®ГЈ Г®ГЎ ГЁГЈГ°ГҐ, Г ГўГІГ®Г° Kerb
 #
 ######################################################################
 
-#Первый разговор
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {200}{}{Piss off! I'm in the zone! Just a little more... Come on, baby... God, fuck, you mechanical piece of shit! Gypped me again! Agh, calm down... Deep breath... How can I help?}
 {201}{}{Oh, it's you again. What, you want me to help you find the exit?}
 {202}{}{You're the one that needs help here. I mean, look at you, you're a total crackhead!}
@@ -49,7 +49,7 @@
 {218}{}{Thank you! That's it, I won't hold you up any longer - come back tomorrow and you'll be greeting a different man. A rich man!}
 {219}{}{Sure, good luck.}
 
-#Второй разговор
+#Г‚ГІГ®Г°Г®Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {250}{}{Good day... I think. Um... Do you need something?}
 {251}{}{My 50. Fast.}
 {252}{}{What happened? Did you fail your "studies"?}
@@ -68,7 +68,7 @@
 {262}{}{Of course, I've got you! Everything will be okay, I promise!}
 {263}{}{You've been warned... }
 
-#Третий разговор
+#Г’Г°ГҐГІГЁГ© Г°Г Г§ГЈГ®ГўГ®Г°
 {300}{}{[He looks at you timidly, while simultaneously trying to hide his face. However, his eyes become attracted to the machine yet again.]}
 {301}{}{Well... I'm waiting.}
 {302}{}{[Walk by.]}
@@ -86,7 +86,7 @@
 {311}{}{[Leave.]}
 {312}{}{Hmm... Is something funny going on, or am I just dealing with a complete idiot?}
 
-#Четвертый разговор
+#Г—ГҐГІГўГҐГ°ГІГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°
 {350}{}{[He drops on the floor and smacks his head into the machine] Forgive me, brother! I'm scum, nothing but scum! I'm a piece of shit! Shoot me, do the world a favor!}
 {351}{}{Not before you pay your debt.}
 {352}{}{Simmer down, man. Lower your voice and tell me what happened. Quietly.}
@@ -121,7 +121,7 @@
 {375}{}{[You watch as the gambler loses more of your money. Soon, you identify the pattern: the machine feeds a few small wins to the player, then gives nothing but losses thereafter.]}
 {376}{}{If only we could figure out how this happens... I'll deal with this, wait here.}
 
-#Плавающие фразы после предпоследнего проигрыша
+#ГЏГ«Г ГўГ ГѕГ№ГЁГҐ ГґГ°Г Г§Г» ГЇГ®Г±Г«ГҐ ГЇГ°ГҐГ¤ГЇГ®Г±Г«ГҐГ¤Г­ГҐГЈГ® ГЇГ°Г®ГЁГЈГ°Г»ГёГ 
 {380}{}{I wish I could just hang myself - but I can't even afford a rope... }
 {381}{}{Luck failed me again... }
 {382}{}{I'm a worthless, miserable person... }
@@ -130,7 +130,7 @@
 {385}{}{Its all your fault, you stupid box with lights!}
 {386}{}{Fucking machine!}
 
-#После выяснения проблем с автоматом
+#ГЏГ®Г±Г«ГҐ ГўГ»ГїГ±Г­ГҐГ­ГЁГї ГЇГ°Г®ГЎГ«ГҐГ¬ Г± Г ГўГІГ®Г¬Г ГІГ®Г¬
 {400}{}{Hey, friend... Decided to shoot me? I don't blame you. I wouldn't expect anything better.}
 {401}{}{I've got good news, and bad news. The good news is your luck has nothing to do with this. The bad news is you won't be winning on this machine anytime soon. It's rigged.}
 {402}{}{Yeah, or slice you up... I haven't exactly made up my mind yet, just wait and pray.}
@@ -148,7 +148,7 @@
 {411}{}{Just don't have a heart attack out of excitement. See you later.}
 {412}{}{[Give this poor a man few more days in order to win back the money.]}
 
-{413}{}{Ehh... This is the only option left for me... Well, thank you anyway. I'll try to repay in a week by any means.}
+{413}{}{Ehh... This is the only option left for me... Well, thank you anyway. I'll try to repay you in a week by any means.}
 {414}{}{Yeah, you do that.}
 {415}{}{[Give this poor a man few more days in order to win back the money.]}
 
