@@ -3,7 +3,7 @@
 {102}{}{Thank you! Thank you for everything!}
 {103}{}{Thank you for your efforts, but we still have to go.}
 
-#Первый разговор и 'иповые фразы
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г° ГЁ 'ГЁГЇГ®ГўГ»ГҐ ГґГ°Г Г§Г»
 {110}{}{[The woman looks up quickly when you enter the room, but when she sees you, only gives you a look of empty disappointment] Oh... If you're selling something, we're not buying. Or joining.}
 {111}{}{No, I just wanted to ask a local a few questions.}
 {112}{}{Then you and I have nothing to talk about. [Leave]}
@@ -17,7 +17,7 @@
 {119}{}{}
 
 {120}{}{Essie Gate. I'm just a housewife... So don't get any ideas.}
-{121}{}{What's there to tell? Walk around Reno and see everything you need to know. There's not much worth, and what little there is, everyone's already fighting over. But it's still better than the rest of Nevada, so what choice do we have?}
+{121}{}{What's there to tell? Walk around Reno and see everything you need to know. There's not much worth keepin', and what little there is, everyone's already fighting over. But it's still better than the rest of Nevada, so what choice do we have?}
 {122}{}{}
 {123}{}{}
 {124}{}{What's the story with your husband, again?}
@@ -27,7 +27,7 @@
 {128}{}{}
 {129}{}{}
 
-#До получения квес'а
+#Г„Г® ГЇГ®Г«ГіГ·ГҐГ­ГЁГї ГЄГўГҐГ±'Г 
 {130}{}{I'm new here. Can you tell me how to get settled in this town?}
 {131}{}{I can't help you. But... If you don't mind... Oh, never mind. I have nothing to pay you anyway.}
 {132}{}{Can't pay? Well, then we have nothing to talk about.}
@@ -63,7 +63,7 @@
 {158}{}{[Her eyes momentarily light up with hope, but it immediately disappears] Yes?}
 {159}{}{I need more information.}
 
-#Лис'овка о' мужа из Хо'орна
+#Г‹ГЁГ±'Г®ГўГЄГ  Г®' Г¬ГіГ¦Г  ГЁГ§ Г•Г®'Г®Г°Г­Г 
 {160}{}{What?! What is this?! Show me, now!}
 {161}{}{Not so fast, woman. This delivery is worth money... }
 {162}{}{Of course. Take it.}
@@ -99,7 +99,7 @@
 {189}{}{Yes, we understand... }
 {190}{}{Bye.}
 
-#Завершение квес'а
+#Г‡Г ГўГҐГ°ГёГҐГ­ГЁГҐ ГЄГўГҐГ±'Г 
 {200}{}{About Mark.}
 {201}{}{You learned something?}
 {202}{}{Mark left the city and ran north somewhere. I don't think you'll ever see him again.}
