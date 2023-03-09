@@ -62,7 +62,7 @@
 {167}{}{Perhaps nobody can, but you shouldn't suffer all the time. I have anti-smoker pills that dampen emotions. You'll feel better, trust me.}
 {168}{}{Of course! Your problems stem from your feelings of inferiority. If we resolve that, you'll be able to fix your other problems.}
 {169}{}{Hmm, I'll need to think about it. I'll be back soon.}
-{170}{}{I don't know how to fix your inferiority complex. Especially since it's so richly deserved.}
+{170}{}{I don't know how to fix my inferiority complex. Especially since it's so richly deserved.}
 {171}{}{Here's a ticket to Mom's nightclub. You should go there and relax.}
 {172}{}{You shouldn't suffer all the time. I have anti-smoker pills that dampen emotions. You'll feel better, trust me.}
 {173}{}{Maybe you're right. I'll try. If they can make me relax, then they'd do nicely with my next bout of depression.}
