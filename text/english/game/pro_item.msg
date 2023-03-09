@@ -1010,7 +1010,7 @@
 {52100}{}{Hunting table}
 {52101}{}{Table for cutting a prey.}
 {52200}{}{Rusty machete}
-{52201}{}{Someone worked the lawnmower blade, sharpening one edge, and tightly wrapped the hilt of the brahmin skin. Min. ST: 5.}
+{52201}{}{Someone customized a lawnmower blade, sharpening one edge, and tightly wrapping the hilt in brahmin skin. Min. ST: 5.}
 {52300}{}{"Trade" magazine}
 {52301}{}{Pre-war weekly magazine, issued for people running their own business. And even though the times have changed, you can still draw useful information about bartering from this edition.}
 {52400}{}{Worn jacket}
@@ -1063,7 +1063,7 @@
 {55600}{}{Metal detector}
 {55601}{}{The device is powered by nuclear batteries. Designed for the detection of metal objects within a radius of no more than 4 meters.}
 {55700}{}{Metal detector}
-{55701}{}{The device is powered by nuclear batteries. Designed for the detection of metal objects within a radius of no more than 9 meters. Installation of the ultrasound scanner allowed to double the extend of the detection radius.}
+{55701}{}{The device is powered by nuclear batteries. Designed for the detection of metal objects within a radius of no more than 9 meters. Installing the ultrasound scanner doubles the detection radius.}
 {55800}{}{C-4 explosives}
 {55801}{}{Box with plastic explosive material for military use.}
 {55900}{}{Caravan merchant's suit}
@@ -1353,9 +1353,9 @@
 {70500}{}{Mrs. Mordino's finger}
 {70501}{}{This pinky belonged to Mr. Mordino's wife.}
 {70600}{}{Shock knuckle}
-{70601}{}{The predecessor of the police force power fist from the "Punch" company. Used together with a rubber glove.}
+{70601}{}{A predecessor to the police force power fist, from the "Punch" company. Used together with a rubber glove.}
 {70700}{}{Ultrasound scanner}
-{70701}{}{Idle scanner for a metal detector echo sounder. Its purpose is to analyze ultrasonic waves for outputting processed information about environment on a circular digital display.}
+{70701}{}{Idle echo sound scanner attachment for a metal detector. Its purpose is to analyze ultrasonic waves and output processed information about the environment to a circular digital display.}
 {70800}{}{Giblets with spices}
 {70801}{}{Brahmin giblets, cooked using special recipe. In addition to the obvious brahmin tissue it can contain literally anything.}
 {70900}{}{Ion synthesizer}
