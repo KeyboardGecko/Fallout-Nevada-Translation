@@ -13,7 +13,7 @@
 {118}{}{Hmm, does your boss treat you well?}
 {119}{}{Hey, do you know who cleans Bertolini's office?}
 {120}{}{I see. I'll let you get back to work.}
-{121}{}{Oh no, sir! Well... I have to work to get money. Even if I'm dead tired at the end of shift. No one will feed me, but myself.}
+{121}{}{Oh no, sir! Well... I have to work to get money. Even if I'm dead tired at the end of a shift. No one will feed me, but myself.}
 {122}{}{He... Well... Yes. He doesn't beat me, but... He's scary... And rude sometimes. But I'm still glad I got the job. It's an honor.}
 
 {123}{}{[He looks worried] That would be me, sir... Is Mr. Bertolini unhappy? He's... He's not angry, is he?}
@@ -35,7 +35,7 @@
 {139}{}{Wait up, I'll be back.}
 {140}{}{Bertolini's study is now wired.}
 
-#Женские реплики
+#Г†ГҐГ­Г±ГЄГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {1110}{}{Can I help you, ma'am?}
 {1113}{}{I'm just a janitor, ma'am. I make sure the hallways and rooms are clean.}
 {1121}{}{Oh no, ma'am! Well... I have to work to get money. Even if I'm dead tired at the end of shift. No one will feed me, but myself.}
