@@ -1429,7 +1429,7 @@
 {74300}{}{Cutlet from the meat of "earth dragon"}
 {74301}{}{Stuffed meat of "earth dragons" with greens, wrapped in a tortilla. This food has more protein than a brahmin steak.}
 {74400}{}{Road sign}
-{74401}{}{The warning for drivers on this rusted sign still barely seen. It has nothing to do with you.}
+{74401}{}{The warning for drivers on this rusted sign can still be barely seen. Not that you have a car.}
 {74500}{}{Torn leather jacket}
 {74501}{}{Leather jacket in a terrible state. It contains many holes, one arm cut off, and the back is torn by claws of small animals. However, it is still possible to repair, if you try hard enough.}
 {74600}{}{Emergency exit key}
