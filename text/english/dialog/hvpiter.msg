@@ -3,7 +3,7 @@
 {102}{}{What happened here?!}
 {103}{}{Shortly before you returned, the city was attacked.}
 
-#Общая ве'вь диалога вне квес'ов:
+#ГЋГЎГ№Г Гї ГўГҐ'ГўГј Г¤ГЁГ Г«Г®ГЈГ  ГўГ­ГҐ ГЄГўГҐГ±'Г®Гў:
 {110}{}{There's nothing else to report. From now on, you'll have to act on your own.}
 {111}{}{Take care.}
 {112}{}{Who is that strange guy in the cell?}
@@ -12,15 +12,15 @@
 {114}{}{No. Like all normal citizens, I've never had any dreams. I know that Doctor Willmouth has encountered this anomaly a few times, but never paid any attention to it. Neither should you. It's probably nothing.}
 {115}{}{Okay.}
 
-#Диплома' из Лавлок:
+#Г„ГЁГЇГ«Г®Г¬Г ' ГЁГ§ Г‹Г ГўГ«Г®ГЄ:
 {140}{}{I came across some interesting documents at Lovelock radio station. I thought they might be of interest to you.}
 {141}{}{[Carefully studies the documents] Hmm. According to this papers, our vault has been under surveillance for quite a long time. The station provided a means of communication between our vault's computer systems and a certain governmental vault. Consider this information classified! We have to do a thorough check of all systems and try to rule out outside control altogether. Thank you for this valuable find. Carry on with your mission.}
 {142}{}{Of course.}
 
-#С'ар'овый диалог:
+#Г‘'Г Г°'Г®ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ:
 {150}{}{I see you are feeling better. Doctor Willmouth did a great job with getting you back on your feet. He recommended not to give you any assignments, but we have no choice. Something terrible has happened - something we should have expected an outsider might do.}
 {151}{}{What are you talking about?}
-{152}{}{It seems that the man who brought you back to the Vault City did it only to break into the vault. He stole a device critical to the vault's safety and prosperity. We cannot catch up with his vehicle on foot. Being the only citizen who has traveled well beyond the city limits, you are the only one we can trust with this assignment. Find the device and bring it back.}
+{152}{}{It seems that the man who brought you back to Vault City did it only to break into the vault. He stole a device critical to the vault's safety and prosperity. We cannot catch up with his vehicle on foot. Being the only citizen who has traveled well beyond the city limits, you are the only one we can trust with this assignment. Find the device and bring it back.}
 {153}{}{I understand what you're saying, but I can't remember anything. I need to know more about what happened.}
 {154}{}{Of course. Doctor Willmouth warned us about your amnesia. Ask away.}
 {155}{}{Tell me everything.}
@@ -68,7 +68,7 @@
 {209}{}{Gerlach? The community to the south? Why would we give them anything? Anyway, Sergeant Stark is responsible for the south sector. You can find him in the building across the street.}
 {210}{}{Thank you. I'll go find the sergeant.}
 
-#Про нападение Собира'еля Душ
+#ГЏГ°Г® Г­Г ГЇГ Г¤ГҐГ­ГЁГҐ Г‘Г®ГЎГЁГ°Г 'ГҐГ«Гї Г„ГіГё
 {300}{}{What a strange coincidence - just when our city is in trouble again, you show up.}
 {301}{}{What happened here?}
 {302}{}{We were attacked. Everything happened very quickly. The attackers seized the Overseer and dragged him outside the city's perimeter.}
