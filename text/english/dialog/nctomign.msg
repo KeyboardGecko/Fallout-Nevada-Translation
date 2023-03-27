@@ -98,7 +98,7 @@
 {204}{}{I've figured out the details of the attack on your people.}
 {205}{}{Tell me everything.}
 {206}{}{According to the evidence I found, the shooter used a sniper rifle with a silencer from the balcony of an non-residential building across from the casino entrance. The sniper was working alone and must have been disguised as an ordinary citizen, otherwise he would have been spotted leaving the building.}
-{207}{}{[He nods] Before the Great War, they called these "false flag" operations. Now it's clear: there's a third party in the city trying to push Stryker and me to an open warfare. Whoever they are, they're clever, and almost certainly not from around. I'd know about sniper rifles in these parts.}
+{207}{}{[He nods] Before the Great War, they called these "false flag" operations. Now it's clear: there's a third party in the city trying to push Stryker and me into open warfare. Whoever they are, they're clever, and almost certainly not from around here. I'd know about sniper rifles in these parts.}
 {208}{}{Makes sense. These might be mercenaries from another town.}
 {209}{}{Many of the local business moguls are afraid of us. If they hired mercenaries for sabotage, I'll have to put up my surveillance all over the town. The only problem is the caravan parking lot... But before we get into that, we need to deal with your payment. [He places a wad of money on the table, then slides it towards you.] For your cooperation, and in expectation of more in the future.}
 {210}{}{What was that about the parking lot?}
