@@ -8,10 +8,10 @@
 
 #Thompson's quest
 {110}{}{Right, shut the fuck up and listen. You roughed up one of Mr. Thompson's girls. I'll listen to your excuse and then geek you like usual.}
-{111}{}{W-what!? How was I meant to know?! They didn't tell me anything about that!}
+{111}{}{W-what!? I didn't know she was one of Thompson's! How could I know?! They didn't tell me anything about that!}
 {112}{}{They? Tell me about this... Third party and I *might* let you go.}
 {113}{}{I don't give a fuck who hired you. I'm here to deal with you.}
-{114}{}{I don't know who they are! They looked like they're not from around. Walk like they got a pole shoved up their ass, talk in orders. Paid me to rough up that girl and then left. That's it, honest!}
+{114}{}{I don't know who they were! They looked like they weren't from around here. Walked like they got a pole shoved up their ass, talked in orders. Paid me to rough up that girl and then left. That's it, honest!}
 {115}{}{Uh-huh, you didn't spend the money yet, did you? Hand it over.}
 {116}{}{Sure, sure! Here it is, just, err, let's forget about it, okay? I'll send my apologies to Mr. Thompson and then disappear from the streets. I promise!}
 {117}{}{Fine by me. Get the fuck out now.}
@@ -69,11 +69,11 @@
 {308}{}{Yeah, find some money!}
 {309}{}{We need people like you... When you find something useful.}
 
-#Æåíñêèå ðåïëèêè
+#Ã†Ã¥Ã­Ã±ÃªÃ¨Ã¥ Ã°Ã¥Ã¯Ã«Ã¨ÃªÃ¨
 {1103}{}{Who have we here?}
 {1153}{}{Hey girlfriend, mind helping me out with a few bucks?}
 {1160}{}{Ah, yeah, sorry girlfriend. You're free to go. [he grabs the money and walks off, smirking]}
-{1170}{}{[He runs up and grabs your shoulder] Bitch! I'm talking to you! I won't tolerate such disrespect on your part. Give me your money before I get pissed off, hear me?}
+{1170}{}{[He runs up and grabs your shoulder] Bitch! I'm talking to you! I won't tolerate disrespect on your part. Give me your money before I get pissed off, hear me?}
 {1171}{}{Can't spare a few bucks? Maybe me and my boys can change your mind. Why don't you come over and we'll talk it out?}
 {1176}{}{[Your pockets are emptied of all of your cash] Wasn't someone rich?! Now get the fuck off my street! I don't wanna see you again!}
 
