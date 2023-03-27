@@ -7,7 +7,7 @@
 {106}{}{It's not until the lights turn on that you see a vicious skin disease affecting the prostitute's genitals. But today you got lucky.}
 {107}{}{Soon, streets will talk of the madam who tragically met her end to a sudden, mysterious "disease".}
 
-#Починка фонаря
+#ГЏГ®Г·ГЁГ­ГЄГ  ГґГ®Г­Г Г°Гї
 {110}{}{Thanks for the light. I'm sick of the darkness - at some nights you can't tell customers from thugs...}
 {111}{}{ If you want one of my girls, I'll give you a small discount for your trouble.}
 {112}{}{ Hmm. You're still here, even after your illness? I lost a lot of my girls because of it. Here, take some money. Treat yourself to something nice.}
@@ -21,7 +21,7 @@
 {118}{}{I'm still thinking. Do you have any suggestions?}
 {119}{}{Not today.}
 
-#Заказ
+#Г‡Г ГЄГ Г§
 {120}{}{If you've got the money, we have whatever you need. My girls will give you any kind of sex you want.}
 {121}{}{How much?}
 {122}{}{What kinds of sex are there?}
@@ -49,7 +49,7 @@
 
 {141}{}{Hey, you just looking or... Oh, wow, it's you! You came to the right place. Someone like you deserves only the best.}
 
-#Квест Томпсона
+#ГЉГўГҐГ±ГІ Г’Г®Г¬ГЇГ±Г®Г­Г 
 {150}{}{Mr. Thompson sent me to look into the attacks on your employees.}
 {151}{}{[Her smile disappears] Really? It used to be good here, until those fucking cocksuckers moved in. Roughing up my girls, threatening me - ME! I was here first! You ought to show them who really owns this street.}
 {152}{}{What do you know about them?}
@@ -58,7 +58,7 @@
 {155}{}{And why should Mr. Thompson solve your problems for free?}
 {156}{}{Okay. I'll get it done.}
 
-{157}{}{I know one of those boys... He's named Stinky Grizzly. I don't know if they're local or not, but they started to hang around a lot around here recently. They think they're top dollar... They've got no idea the shit they've stepped in.}
+{157}{}{I know one of those boys... He's named Stinky Grizzly. I don't know if they're local or not, but they started to hang around here a lot, recently. They think they're top dollar... They've got no idea the shit they've stepped in.}
 {158}{}{Do you really care? Did Mr. Thompson send you to deal with this problem or just ask a bunch of stupid questions?}
 {159}{}{I don't care what you do to them, I just don't want to see them interfering with my business anymore.}
 {160}{}{[She smirks] Oh, let me guess. He didn't pay you, huh? And he's not going to, is he? Damn! I pay him weekly for protection, right on time, and when I finally need him - he sends an idiot like you. Why am I not surprised? Listen, if you want to make some money, don't try to shake me down. Grow a spine and do your fucking *job* instead!}
