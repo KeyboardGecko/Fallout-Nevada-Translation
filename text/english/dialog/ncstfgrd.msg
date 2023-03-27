@@ -3,7 +3,7 @@
 {102}{}{Talk to the boss, not to me.}
 
 ################################################################
-#          Диалог
+#          Г„ГЁГ Г«Г®ГЈ
 ################################################################
 
 {110}{}{Hey! This is our turf, get out.}
@@ -19,7 +19,7 @@
 {119}{}{Uh... Sure. I'll do that.}
 
 ################################################################
-#          Разное
+#          ГђГ Г§Г­Г®ГҐ
 ################################################################
 
 {130}{}{This door is locked with a key.}
@@ -30,7 +30,7 @@
 
 ################################################################
 #
-#        Переговоры (авторы текста: Kerb и BlackDesigner)
+#        ГЏГҐГ°ГҐГЈГ®ГўГ®Г°Г» (Г ГўГІГ®Г°Г» ГІГҐГЄГ±ГІГ : Kerb ГЁ BlackDesigner)
 #
 ################################################################
 
@@ -107,7 +107,7 @@
 {270}{}{Like they think it makes them a tough guy, right?}
 {271}{}{Yeah. Those need their fucking asses kicked!}
 {272}{}{ }
-{273}{}{Man, I'd love to knocking their fucking teeth out...}
+{273}{}{Man, I'd love to knock their fucking teeth out...}
 {274}{}{Is that all?}
 {275}{}{You know what would happen if you smacked them over the head with a baton a few times?}
 {276}{}{What?}
