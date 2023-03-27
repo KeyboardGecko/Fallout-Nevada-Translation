@@ -51,7 +51,7 @@
 {211}{}{Ready. Start the program?}
 {212}{}{Yes.}
 {213}{}{No, leave it offline.}
-{214}{}{Done! The program is up and running. On the surveillance monitors you can see the turrets shooting aliens crawling behind the walls of the hangar.}
+{214}{}{Done! The program is up and running. On the surveillance monitors you can see turrets shooting aliens crawling behind the hangar walls.}
 {215}{}{Not with your intelligence.}
 {216}{}{With your education, there is *absolutely* nothing to do.}
 {217}{}{If you were more educated, perhaps you could've read the code.}
