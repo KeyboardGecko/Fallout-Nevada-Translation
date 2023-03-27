@@ -447,7 +447,7 @@
 {22800}{}{Molasses}
 {22801}{}{The brown mass is of rather doubtful origin. Has an unpleasant smell and some incomprehensible impurities.}
 {22900}{}{Photon Gun}
-{22901}{}{This unusual weapon works on the basis of a quantum generator. Min. ST: 3.}
+{22901}{}{This unusual weapon is powered by a quantum generator. Min. ST: 3.}
 {23000}{}{Coordinates of a tire dump}
 {23001}{}{This holotape contains the coordinates of the tire dump, located near Vegas.}
 {23100}{}{Coordinates of a tire dump}
