@@ -1,5 +1,5 @@
-{100}{}{You see the surveillance computers.}
-{101}{}{You see the surveillance computers with access to the local database.}
+{100}{}{You see some surveillance computers.}
+{101}{}{You see some surveillance computers with access to the local database.}
 
 {111}{}{[Look up any information about Mr. Mordino]}
 {112}{}{[Finish]}
