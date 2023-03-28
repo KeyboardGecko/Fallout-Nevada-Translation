@@ -5,7 +5,7 @@
 {104}{}{It's not until the lights turn on that you see a vicious skin disease affecting the prostitute's genitals. You can only hope you didn't catch it.}
 {105}{}{It's not until the lights turn on that you see a vicious skin disease affecting the prostitute's genitals. Hopefully, your protection worked.}
 {106}{}{It's not until the lights turn on that you see a vicious skin disease affecting the prostitute's genitals. But today you got lucky.}
-{107}{}{Soon, streets will talk of the madam who tragically met her end to a sudden, mysterious "disease".}
+{107}{}{Soon, the streets will talk of the madam who tragically met her end to a sudden, mysterious "disease".}
 
 #Ïî÷èíêà ôîíàðÿ
 {110}{}{Thanks for the light. I'm sick of the darkness - at some nights you can't tell customers from thugs...}
