@@ -3,11 +3,11 @@
 {102}{}{We're done here.}
 
 {103}{}{Who are you?}
-{104}{}{I represent Mr. Thompson. We know about your deal with Stryker's gang and would like to present you a counter-offer.}
-{105}{}{I know about your arrangement with Stryker. I suggest you to reconsider.}
+{104}{}{I represent Mr. Thompson. We know about your deal with Stryker's gang and would like to present you with a counter-offer.}
+{105}{}{I know about your arrangement with Stryker. I suggest you reconsider.}
 {106}{}{I'm here to prevent your business with Stryker. Permanently. [Attack]}
 
-{107}{}{I like my terms with Stryker. Why should I back on them?}
+{107}{}{I like my terms with Stryker. Why should I go back on them?}
 {108}{}{Stryker is dead. His gang can't do it without him. Even the fact that I could get close to you proves they don't know what they're doing.}
 {109}{}{Because Thompson's going to win this war. And when he does, he'll take all drug dealers under his control. Do you really think one chemist on Stryker's side is going to make a difference?}
 {110}{}{You make a good point. Alright, I'm in. Let Thompson send someone to hash out the details.}
@@ -19,7 +19,7 @@
 {116}{}{This is childish. Leave.}
 {117}{}{Well, I warned you.}
 
-#Æåíñêèå ðåïëèêè
+#Ã†Ã¥Ã­Ã±ÃªÃ¨Ã¥ Ã°Ã¥Ã¯Ã«Ã¨ÃªÃ¨
 {1106}{}{I'm here to prevent your business with Stryker. Permanently. [Attack]}
 {1113}{}{Just a warning, that's all. I'm leaving.}
 {1117}{}{Well, I warned you.}
