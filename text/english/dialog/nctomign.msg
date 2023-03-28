@@ -4,7 +4,7 @@
 {103}{}{I'll give you one minute.}
 
 #Îòêàç â ñîòðóäíè÷åñòâå:
-{110}{}{You have the nerve to show your face here? I had high hopes in you. We could have done so much together. We could have turned this town around! But no, you're a political prostitute like all others! I don't need you. Get out!}
+{110}{}{You have the nerve to show your face here? I had high hopes for you. We could have done so much together. We could have turned this town around! But no, you're a political prostitute like all others! I don't need you. Get out!}
 {111}{}{I'll just go, before I spoil your good mood.}
 {112}{}{I won't leave until I kill you!}
 
@@ -140,7 +140,7 @@
 {247}{}{From here on, it's grunt stuff, not the sort of work I'd give to you. You can relax.}
 {248}{}{And what will you do now?}
 {249}{}{Right. Goodbye, Mr. Thompson!}
-{250}{}{Diplomacy, economy, all the work of restoring Reno's old glory. We'll have to rebuild the town hall and recruit more men. Remnants of Stryker's gang will probably keep making trouble - sabotage, assassinations, or just joining the thugs on the street. There's a lot of work to do for me.}
+{250}{}{Diplomacy, economy, all the work of restoring Reno's old glory. We'll have to rebuild the town hall and recruit more men. Remnants of Stryker's gang will probably keep making trouble - sabotage, assassinations, or just joining the thugs on the street. There's a lot of work for me to do.}
 
 #Îðóæåéíûé áîíóñ
 {251}{}{I can help in the coming fight, but I need a better weapon.}
@@ -164,11 +164,11 @@
 {306}{}{Thanks, Mr. Thompson.}
 
 #Female character
-{1110}{}{You have the nerve to show your face here? I had high hopes for you. We could have done so much together. We could have turned this town around! But no, you're a political prostitute, like all others! I don't need you. Get out!}
+{1110}{}{You have the nerve to show your face here? I had high hopes for you. We could have done so much together. We could have turned this town around! But no, you're a political prostitute, like all the others! I don't need you. Get out!}
 {1111}{}{I'll just go, before I spoil your good mood.}
 {1117}{}{You've got a lot of armed men around here. I want to know more about you.}
 {1118}{}{I've seen your posters. I'm interested. Can you tell me about your movement?}
 {1144}{}{Is it done?}
 {1158}{}{That's good. I hope you were on your best behavior with Paige. Even to her, we can't show any weakness.}
 {1230}{}{Justice always requires sacrifice. In our times especially. Hmm... A year ago I wouldn't have said that. Reno changes people. It changed you too, didn't it?}
-{1243}{}{[Breathes loudly] This day will go down in the history of New Reno! In this honor, let's open a bottle of good old whiskey. Drink with me! You're the one I can trust.}
+{1243}{}{[Breathes loudly] This day will go down in the history of New Reno! To honor this day, let's open a bottle of good old whiskey. Drink with me! You're one I can trust.}
