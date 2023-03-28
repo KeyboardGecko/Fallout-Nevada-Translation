@@ -3,23 +3,23 @@
 
 #########################################################################
 #
-#             Основная часть диалога - квесты
+#             ГЋГ±Г­Г®ГўГ­Г Гї Г·Г Г±ГІГј Г¤ГЁГ Г«Г®ГЈГ  - ГЄГўГҐГ±ГІГ»
 #
 #########################################################################
 
-#Первый разговор:
+#ГЏГҐГ°ГўГ»Г© Г°Г Г§ГЈГ®ГўГ®Г°:
 {110}{}{[This man looks like he never stops frowning. He studies you through narrowed eyes.] I'm Stryker. What are you doing here?}
 {111}{}{I was just passing by when I saw the place. We might be able to help each other.}
 {112}{}{I want one thing: to work for you.}
 {113}{}{I just love to learn, you know? I want to know more about you.}
 
-#Допуск к квестам
+#Г„Г®ГЇГіГ±ГЄ ГЄ ГЄГўГҐГ±ГІГ Г¬
 {114}{}{I'm a busy man. If you don't have anything for me, stop wasting my time.}
 {115}{}{[He turns his head to listen to a henchman who whispers something in his ear, then looks back at you] Get the fuck out of here. Tell your boss his next spy goes back in a bag.}
 {116}{}{Ah, yes... My boss... }
 {117}{}{Yeah? Maybe. But... }
 {118}{}{But?}
-{119}{}{Right to the point. Good. But how do I know you mean it?}
+{119}{}{Right to the point. Good. But...}
 {120}{}{I want to work for you. I'm serious.}
 {121}{}{I need good people, especially from out of town. But how do I know you're good? You got anyone that can vouch for you?}
 {122}{}{I can tell it's not a good idea to waste your time, so I'll just go.}
@@ -42,7 +42,7 @@
 {139}{}{Okay, okay, I get it. I'm going.}
 {140}{}{I'll do the job. I just wanted to make sure.}
 
-#Мормонский квест
+#ГЊГ®Г°Г¬Г®Г­Г±ГЄГЁГ© ГЄГўГҐГ±ГІ
 {141}{}{I think it's better to keep him alive.}
 {142}{}{Yeah? Why?}
 {143}{}{You're making a mistake... }
@@ -61,7 +61,7 @@
 {155}{}{Good. Now I know you're serious about me... Or my money. Either one's good if you get the job done. Here's your pay.}
 {156}{}{Thanks.}
 
-#Квест на поставку компонентов
+#ГЉГўГҐГ±ГІ Г­Г  ГЇГ®Г±ГІГ ГўГЄГі ГЄГ®Г¬ГЇГ®Г­ГҐГ­ГІГ®Гў
 {160}{}{I need a courier whose face isn't associated with me. This means you. Here's 1000 bucks - for the job, not for you. You steal from me and it won't matter where you run, I'll find you.}
 {161}{}{What's the money for?}
 {162}{}{There's a guy near the nightclub holding some chemicals for me. I want to establish a long-term relationship with him, so I need everything to go smoothly. And I don't want anyone to know I'm stocking up on chemicals, so don't let it out. Got it?}
@@ -73,7 +73,7 @@
 {168}{}{I understand. No problem.}
 {169}{}{Not much, but it's something.}
 
-#Квест на фотосъемку
+#ГЉГўГҐГ±ГІ Г­Г  ГґГ®ГІГ®Г±ГєГҐГ¬ГЄГі
 {170}{}{What do I need to photograph, again?}
 {171}{}{I've finished the job. Here's the camera and the photos.}
 {172}{}{[He glowers at you] Listen this time. I want pictures of the corridors in Thompson's headquarters so we can understand its layout. Small rooms like bathrooms don't matter to me, but I want all the hallways and corridors. And for fuck's sake, don't let anyone see you doing it!}
@@ -127,7 +127,7 @@
 {218}{}{Wait, you want me to attack Thompson's headquarters? This is going to be awesome!}
 {219}{}{Your photos show he's got video feeds in his bunker, and I know he's got reinforcements on radio. You're going to turn off the power in his bunker so we can take him by surprise. As soon as you do, give my men the signal. They'll be waiting near the town hall.}
 
-#О политике
+#ГЋ ГЇГ®Г«ГЁГІГЁГЄГҐ
 {220}{}{Hmm... I wonder what Big Louie would say if he knew what you were doing?}
 {221}{}{[His eyes narrow] Watch yourself. He already knows... Not that I care. I don't live to be his bitch.}
 {222}{}{Isn't he your boss?}
@@ -146,7 +146,7 @@
 {233}{}{The boss left each of us in charge of different parts of the city. But Thompson's a dreamer - he wants absolute power over everything in Reno. That includes me, and I don't like that idea. But even if he would be willing to share it... It just couldn't work for us. We're too goddamn different.}
 {234}{}{I live in the real world, he doesn't. He basically wants to be Reno's dictator. You wouldn't think that's a good way to make friends, but he's got a lot of support. It took me a while to figure out why - the common people here have *never* been free. Everyone's a slave, even if they don't call them that - to their employers, or their pimps, or their landlords, or their drug dealers. They don't know any other way to live, and Thompson uses that. But you know, the common people don't really matter. It's the business leaders you need on your side, and they don't want a dictator, which means it's *never* going to happen. We can't just wipe out our opponents in one night and put our own people in place - not in a city this size, with this many leaders. That gang war shit doesn't cut it on this scale. I've spent the last five years learning that.}
 
-#Финальный квест
+#Г”ГЁГ­Г Г«ГјГ­Г»Г© ГЄГўГҐГ±ГІ
 {240}{}{Once you're done your part, you can go. I don't need you to fight. I won't say no if you want to help, though. In the meantime, I'll get my people ready.}
 {241}{}{We've taken the town hall. Thompson is dead.}
 
@@ -161,18 +161,18 @@
 {250}{}{Now, we got to get to work. I gotta get the business leaders under me while they're still off-balance over Thompson. It's not your kind of work, so I hope you can find something to keep you busy. I won't have any jobs for you for a long time.}
 {251}{}{No problem, boss.}
 
-#Постразговоры
+#ГЏГ®Г±ГІГ°Г Г§ГЈГ®ГўГ®Г°Г»
 {260}{}{I'm curious - where'd you get the weapons for the assault on Thompson's headquarters?}
 {261}{}{I traded some of the medicine we cooked to Wind of War for weapons. You picked up some of the chemicals I used for that, remember?}
 {262}{}{I see.}
 
 #########################################################################
 #
-#             Вторичная часть диалога - расспросы и сторонние квесты
+#             Г‚ГІГ®Г°ГЁГ·Г­Г Гї Г·Г Г±ГІГј Г¤ГЁГ Г«Г®ГЈГ  - Г°Г Г±Г±ГЇГ°Г®Г±Г» ГЁ Г±ГІГ®Г°Г®Г­Г­ГЁГҐ ГЄГўГҐГ±ГІГ»
 #
 #########################################################################
 
-#Квест Большого Луи:
+#ГЉГўГҐГ±ГІ ГЃГ®Г«ГјГёГ®ГЈГ® Г‹ГіГЁ:
 {300}{}{One thing: "Remember which hand is holding the leash."}
 {301}{}{[His frown tightens as his eyes narrow... And then crumbles into a bemused smirk] What?}
 
@@ -198,14 +198,14 @@
 {318}{}{[He suddenly frowns] The "boss" ran away with his tail between his legs, and left us here to do business. I keep in touch because he might be useful, not because I *have* to. Now get out. You got what you wanted.}
 {319}{}{Listen, I don't exactly like his gang. Maybe I can work for you instead?}
 
-#Подготовка к рингу:
+#ГЏГ®Г¤ГЈГ®ГІГ®ГўГЄГ  ГЄ Г°ГЁГ­ГЈГі:
 {330}{}{I need some chems for fighting in the ring. The ringleader said I should talk to you.}
 {331}{}{Hmm. My little man knows his business. If he sent you to me, you must be legit.}
 {332}{}{Then, will you help me?}
 {333}{}{If you've got the cash, then you can use my lab. But no one knows it came from me, got it?}
 {334}{}{I'm off to the lab, then.}
 
-#Проникновение в бункер
+#ГЏГ°Г®Г­ГЁГЄГ­Г®ГўГҐГ­ГЁГҐ Гў ГЎГіГ­ГЄГҐГ°
 {340}{}{Can you get me into the fallout shelter behind your building?}
 
 {341}{}{Why should I? I'm the one that locked it up. What the hell do you want in there?}
@@ -232,7 +232,7 @@
 {361}{}{... So will you let me into the bunker?}
 {362}{}{[Follow him.]}
 
-#Крыша для концерта в Коттон-клубе
+#ГЉГ°Г»ГёГ  Г¤Г«Гї ГЄГ®Г­Г¶ГҐГ°ГІГ  Гў ГЉГ®ГІГІГ®Г­-ГЄГ«ГіГЎГҐ
 {370}{}{I represent the Cotton Club. We'd like to make a deal for you to provide protection at an upcoming concert.}
 {371}{}{Hmm, reminds me of the old days... Good idea, to come to me with this. Okay, but I want 25% of the concert's earnings, jurisdiction over the club and to use its walls for my campaigns.}
 {372}{}{We agree to these conditions.}
