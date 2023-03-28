@@ -130,7 +130,7 @@
 {237}{}{Stryker's deal has been dealt with.}
 {238}{}{That's another step forward for us and another step backward for him. His men are already abandoning him, which is good for us and for Reno. [he hands you a stack of bills] You've earned this.}
 {239}{}{What's next?}
-{240}{}{Only one thing remains: the final attack on his headquarters. You don't need to get involved in the fight, my strike team will handle it. Your job is the penetrate their headquarters and disable their monitoring system. This will make them vulnerable and prevent them from calling for backup. Once their defenses are down, meet the head of the strike group in the city park in front of Stryker's headquarters. All clear? I'm not going to repeat it. Get to work!}
+{240}{}{Only one thing remains: the final attack on his headquarters. You don't need to get involved in the fight, my strike team will handle it. Your job is to penetrate their headquarters and disable their monitoring system. This will make them vulnerable and prevent them from calling for backup. Once their defenses are down, meet the head of the strike group in the city park in front of Stryker's headquarters. All clear? I'm not going to repeat it. Get to work!}
 {241}{}{Will do.}
 {242}{}{Stryker is dead. It's time to celebrate your victory!}
 {243}{}{[Breathes loudly] This day will go down in the history of New Reno! In this honor, let's open a bottle of good old whiskey. Drink with me! You're the man I can trust.}
