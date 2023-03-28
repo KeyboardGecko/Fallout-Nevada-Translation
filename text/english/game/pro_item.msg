@@ -1387,7 +1387,7 @@
 {72200}{}{Corrupted micro fusion battery}
 {72201}{}{This micro fusion battery has been damaged, so its impossible to use at the moment.}
 {72300}{}{Condoms (poison.)}
-{72301}{}{These are condoms of "Jimmy Hats" brand. A very reliable brand, but a small hole was somehow discovered on its cover... perhaps from a needle.}
+{72301}{}{These are "Jimmy Hats" brand condoms. A very reliable brand, but you can just make out a small hole on its cover... perhaps from a needle.}
 {72400}{}{Thompson Depression}
 {72401}{}{This is a kind of depression measuring unit of Thompson's. The poor fella learned of the demise of his top bitch...}
 {72500}{}{A Pip-Boy empathy amplifier}
