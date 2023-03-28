@@ -141,7 +141,7 @@
 {7100}{}{Mutafruit}
 {7101}{}{A strange piece of fruit. No preservatives and no additional food coloring added.}
 {7200}{}{Bertolini's Case}
-{7201}{}{Armored suitcase, covered with leather for solid appearance and locked with a combination lock. There must be untold wealth inside.}
+{7201}{}{Armored suitcase, covered with leather for a solid appearance and locked with a combination lock. There must be untold wealth inside.}
 {7300}{}{"A Big Book of Science"}
 {7301}{}{A guide to the world of today's scientific wonders.}
 {7400}{}{Leather Jacket}
