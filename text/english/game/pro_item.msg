@@ -1422,11 +1422,11 @@
 {73901}{}{Blade weapon of the Coyotes hunters. Apparently made from the straightened cultivator blade. Min. ST: 4.}
 {74000}{}{Coyote Truncheon}
 {74001}{}{Heavy steel arms' weapon of Coyote hunters. Apparently made of a grouser and a metal pipe, bolted together. Min. ST: 5.}
-{74100}{}{Ultra-thermal mixture}
-{74101}{}{A termite mixture complemented with unknown components. When burning, gives off a staggering amount of heat, thereby silently and smokelessly melting everything around. Do not forget the lighter!}
+{74100}{}{Ultra-thermite mixture}
+{74101}{}{A thermite mixture complemented with unknown components. When burning, gives off a staggering amount of heat, thereby silently and smokelessly melting everything around it. Don't forget a lighter!}
 {74200}{}{Nelson's damaged weapon}
 {74201}{}{This pump shotgun was badly damaged. It will take a lot of work to restore it to working condition.}
-{74300}{}{Cutlet from the meat of "earth dragon"}
+{74300}{}{Cutlet from the meat of an "earth dragon"}
 {74301}{}{Stuffed meat of "earth dragons" with greens, wrapped in a tortilla. This food has more protein than a brahmin steak.}
 {74400}{}{Road sign}
 {74401}{}{The warning for drivers on this rusted sign can still be barely seen. Not that you have a car.}
