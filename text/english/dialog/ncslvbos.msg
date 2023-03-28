@@ -1,5 +1,5 @@
 {100}{}{You see Lewis Mordino.}
-{101}{}{You see a tired owner of "Silver" hotel.}
+{101}{}{You see the tired owner of "Silver" hotel.}
 {102}{}{Look, I have suffered enough, just leave me alone.}
 
 #Äèàëîã:
