@@ -6,7 +6,7 @@
 {110}{}{Who the hell are you?}
 {111}{}{I'm just passing by. What are you carrying?}
 {112}{}{I'm, uh, here to collect the product.}
-{113}{}{I know why you're here. I present a better offer: sell the weapons to me and walk away alive.}
+{113}{}{I know why you're here. I'm here to present a better offer: sell the weapons to me and walk away alive.}
 {114}{}{Oh, I'm just out for a walk. Bye.}
 
 {120}{}{Passing by? All the way out here? At night?... Then just keep on passing. Nothing to see here.}
