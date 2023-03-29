@@ -172,8 +172,8 @@
 {262}{}{How delicate?}
 {263}{}{Ugh, don't tell me I have to wear a tie!}
 {264}{}{Thanks to the bugs you put in Bertolini's room, we learned about a secret deal outside of Reno. Ricardo wants to get weapons. Right now, he just wants to protect himself during the fighting, but he'll come for us sooner or later.}
-{265}{}{So that's what he had that money full of suitcase for... }
-{266}{}{Yeah, and that's what we'll use it for. You'll pretend to be from the casino and complete the deal. Boss wants to keep friendly the caravan for the future... If we can. But the most important thing is to get the weapons. The better you do, the better *everyone* will do, you get it?}
+{265}{}{So that's what he had that suitcase full of money for... }
+{266}{}{Yeah, and that's what we'll use it for. You'll pretend to be from the casino and complete the deal. Boss wants to keep the caravan friendly for the future... If we can. But the most important thing is to get the weapons. The better you do, the better *everyone* will do, you get it?}
 {267}{}{Got it.}
 {268}{}{Trust me, anything you "get", I'll get.}
 {269}{}{Deal's taking place at night outside Reno. When you're ready, talk to me.}
