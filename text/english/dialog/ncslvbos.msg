@@ -44,7 +44,7 @@
 {160}{}{My boss, Mr. Thompson, is losing patience with your stupidity.}
 {161}{}{I said all I wanted to say the last time we spoke. I'm my own boss. You'll have to find a very good reason to change my mind about that.}
 {162}{}{Give me time to think.}
-{163}{}{Perhaps we can make a deal? What are you afraid of?}
+{163}{}{Maybe we can make a deal? Is there anything you need..."taken care of"?}
 {164}{}{After all the intimidation and threats - diplomacy? If Thompson had decided to change his approach to a more delicate one earlier, we might have reached an agreement. But I will never abandon my core beliefs. I am a *free* businessman. Now... prove to me that an alliance with Thompson is more beneficial to me than with Stryker or anyone else.}
 {165}{}{I managed to get a recording of one of Stryker's meetings. He called you a stubborn fool, and plans to replace you after he seizes power.}
 {166}{}{So, what's your final answer to my boss?}
