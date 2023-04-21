@@ -235,7 +235,7 @@
 {11800}{}{Laser Rifle}
 {11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range. Min. ST: 6.}
 {11900}{}{Bunker key}
-{11901}{}{The key from the gate, leading to the Reno bunker.}
+{11901}{}{A key from Stryker, which unlocks a bunker behind his base in Reno.}
 {12000}{}{Pump Shotgun}
 {12001}{}{Once a very popular sporting weapon of 12 ga. caliber. Min. ST: 6.}
 {12100}{}{9mm ball}
@@ -501,7 +501,7 @@
 {25500}{}{Commander's remains}
 {25501}{}{This skeleton lies here a very long time. He wears a decayed military uniform, and a huge hole is gaping in his skull.}
 {25600}{}{Crumpled piece of paper}
-{25601}{}{There are some complex alphanumeric codes written on this piece of paper, you can't imagine what could those mean.}
+{25601}{}{There are some complex alphanumeric codes written on this piece of paper, you can't imagine what they could mean.}
 {25700}{}{Parade uniform}
 {25701}{}{Military uniform for high ranks. Now it's just clothes.}
 {25800}{}{Rollbar}
@@ -1494,14 +1494,14 @@
 {77900}{}{Gauss pistol PPK5}
 {77901}{}{Early model handgun whose firing method is based on the principle of electromagnetic acceleration. Shortly after its release more advanced models were developed, so the PPK5 quickly went out of use. Min. ST: 4.}
 {78000}{}{Recipe: "Stimpak"}
-{78001}{}{Recipe for making stimpak and a super stimpak.}
+{78001}{}{Recipe for making stimpaks and a super stimpaks.}
 {78100}{}{Recipe: "Doctor's Bag"}
-{78101}{}{Recommendations for putting together a doctor's suitcase in conditions of modern Wasteland.}
+{78101}{}{Recommendations for putting together a doctor's suitcase in the modern Wasteland.}
 {78200}{}{Semi-eaten corpse}
 {78201}{}{Remains of a man in a vault suit. Half of the body was eaten by cannibals.}
 {78300}{}{Blood analyzer}
-{78301}{}{This device measures sample of your blood, showing level of infection and poisoning.}
+{78301}{}{This device measures a sample of your blood, showing thel level of infection and poisoning.}
 {78400}{}{Thompson's Plasmogun}
-{78401}{}{Impulse weapon prototype by Thompson & Glock. Developed as an assault weapon for army regular forces, but didn't have time to enter mass production. Factory stamp "Lucky Tom 2029". Min. ST: 6}
-{78500}{}{The list of Nisckiguan}
-{78501}{}{A casually scrawled list of items needed for the operation: 1) pure water; 2) dope herb, alcohol or pain reliever; 3) sharp knife; 4) pliers or pincers ; 5) first aid kit with bandages; 6) öHealing powder or stimpaks.}
+{78401}{}{Impulse weapon prototype by Thompson & Glock. Developed as an assault weapon for regular army forces, but never entered mass production. Factory stamp "Lucky Tom 2029". Min. ST: 6}
+{78500}{}{Nisckiguan's list.}
+{78501}{}{A casually scrawled list of items needed for the operation: 1) pure water; 2) dope herb, alcohol or pain reliever; 3) sharp knife; 4) pliers or pincers ; 5) first aid kit with bandages; 6) Healing powder or stimpaks.}
