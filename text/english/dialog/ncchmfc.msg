@@ -7,7 +7,7 @@
 {112}{}{Stryker respected you. Protected you. Don't you remember?}
 {113}{}{And then you stabbed him in the back. Not good, Deveraux. Dirty move.}
 {114}{}{Do you want to come out and talk about it like adults?}
-{115}{}{About this, or about your friend you snitched to another gang tome time ago?}
+{115}{}{About this, or about your friend you sold out to another gang?}
 {116}{}{That was a mistake, Terry. We get that.}
 {117}{}{You can still play this smart. You can still go back.}
 {118}{}{It'll be like nothing ever happened!...}
