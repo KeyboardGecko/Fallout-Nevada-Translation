@@ -7,7 +7,7 @@
 
 {110}{}{Stop! Do you hear that?}
 {111}{}{They're closing in on us, Nick. This is not good.}
-{112}{}{Dammit! Deveraux's family slowed us down. We've got no choice, friend. We'll can't slip away in this moonlight without being seen. Got any ideas? Maybe we should hide in this house and hope its walls will protect us.}
+{112}{}{Dammit! Deveraux's family slowed us down. We've got no choice, friend. We can't slip away in this moonlight without being seen. Got any ideas? Maybe we should hide in this house and hope its walls will protect us.}
 {113}{}{That thing will go up like a candle. You run, I'll hold them off.}
 {114}{}{If we take a stand in here, we might make it.}
 {115}{}{Still playing the hero, friend? Well, good luck - it'd be a terrible waste for a man like you to die for strangers.}
