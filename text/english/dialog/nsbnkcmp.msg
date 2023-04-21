@@ -2,7 +2,7 @@
 {101}{}{This computer still works! It must have been in standby mode for decades.}
 
 {110}{}{The terminal contains administrative information and provides access to the radio station.}
-{111}{}{[Contact the bikers using the details written on the piece of paper Jay Kukish left to you.]}
+{111}{}{[Contact the bikers using the details written on the piece of paper Jay Kukish left for you.]}
 {112}{}{[Leave.]}
 
 {120}{}{What the hell!? Who is this? Copy?}
