@@ -28,11 +28,11 @@
 {128}{}{Some might have been happy. Your son was glad to leave this place with the bikers.}
 {129}{}{[Through gritted teeth] My son is a fool! He is too naive, he doesn't understand what he's getting into. How I raised him to end up like this...}
 {130}{}{It will be hard to change his mind.}
-{131}{}{He just doesn't understand it yet. Having your own place - what could be better? He decided to trade his family for the highway. Stupid fool... By the time he realizes it's a waste of his life, it will be too late. He needs to knock some sense into him before that scum takes him out of the house. Can you help?}
+{131}{}{He just doesn't understand it yet. Having your own place - what could be better? He decided to trade his family for the highway. Stupid fool... By the time he realizes it's a waste of his life, it'll be too late. He needs to get some sense knocked into him before that scum takes him out of the house. Can you help?}
 {132}{}{I don't know... How do I do that?}
 {133}{}{I have no idea. Maybe you need to humiliate the bikers in his eyes. Find something against them, show that it's dangerous to deal with them. It would be even better if they were all dead. But that's too big a risk. The only hope I have is that the bikers will leave without letting him join their ranks. Can you help make that happen?}
 {134}{}{Okay, I'll try to get rid of bikers and save your son.}
-{135}{}{Thanks. Now we will need any help we can get.}
+{135}{}{Thanks. We need all the help we can get.}
 {136}{}{[Leave]}
 {137}{}{Sorry, but I won't get involved in a family matter. If the guy wants to be a biker, it's his choice. Bye.}
 {138}{}{Dante left with the bikers. It was impossible to stop him.}
