@@ -71,7 +71,7 @@
 {177}{}{Perhaps you guessed my special relationship with children...}
 {178}{}{Apparently, the locals have low opinion of me...}
 
-{180}{}{What is it? Did you manage to repair the power grid? Terrific! Thank you so much. Now life here will be much easier, especially in the cold winter. Here, take some fruit from the plate, help yourself. As soon we get electric oven going, the first thing I'll ask my wife is to cook an apple pie.}
+{180}{}{What is it? Did you manage to repair the power grid? Terrific! Thank you so much. Now life here will be much easier, especially in the cold winter. Here, take some fruit from the plate, help yourself. As soon we get an electric oven going, the first thing I'll ask my wife is to cook an apple pie.}
 {181}{}{You are always welcome.}
 
 {182}{}{What is that smell?}
