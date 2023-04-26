@@ -1053,7 +1053,7 @@
 {55100}{}{Purse}
 {55101}{}{A manly dilapidated purse with various documents and notes of commercial content. For you there is nothing of value, but for the former owner the loss of this thing will certainly leave a mark.}
 {55200}{}{License}
-{55201}{}{This is your personal sales license, issued by the wasteland famous tonic beverage manufacturer, "Nuka-Cola".}
+{55201}{}{This is your personal sales license, issued by the wasteland's famous tonic beverage manufacturer, "Nuka-Cola".}
 {55300}{}{Travel ticket}
 {55301}{}{One way ticket for stagecoach.}
 {55400}{}{Pieces}
@@ -1115,7 +1115,7 @@
 {58200}{}{Shitposter's weed}
 {58201}{}{This is all that remains of Shitposter - an unremarkable and seemingly harmless bunch of weed. Do not use in any circumstances.}
 {58300}{}{Nuka-Cola (cherry.)}
-{58301}{}{A bottle of Nuka-Cola, a flavored non-alcoholic beverage of the post-nuclear world. It is made from the leaves of mutated coca and juice of some fruit. Warm and flat. With cherry flavor.}
+{58301}{}{A bottle of Nuka-Cola, the flavored soft-drink of the post-nuclear world. It is made from the leaves of mutated coca and juice of some fruit. Warm and flat. With cherry flavor.}
 {58400}{}{Nuka-Cola with flavor}
 {58401}{}{Bottle of self-made Nuka-Cola. Someone decided to make money by selling such a low-quality product bypassing the "official" manufacturer.}
 {58500}{}{"Desert Eagle"}
