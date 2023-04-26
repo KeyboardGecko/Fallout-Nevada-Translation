@@ -43,11 +43,11 @@
 {144}{}{Take a painkiller.}
 {145}{}{Take a painkiller from this kit.}
 {146}{}{Take a painkiller from this doctor bag.}
-{147}{}{Take this gun [give 10mm pistol].}
-{148}{}{Take this gun [give 10mm pistol with ext. mag].}
-{149}{}{Take this gun [give 10mm pistol model ¹80].}
-{150}{}{Take this gun [give 10mm pistol with a flashlight].}
-{151}{}{Take this gun [give a premium 10mm pistol].}
+{147}{}{Take this gun [give him a 10mm pistol].}
+{148}{}{Take this gun [give him a 10mm pistol with ext. mag].}
+{149}{}{Take this gun [give him a 10mm pistol model ¹80].}
+{150}{}{Take this gun [give him a 10mm pistol with a flashlight].}
+{151}{}{Take this gun [give him a premium 10mm pistol].}
 {152}{}{I can't help right now.}
 
 {153}{}{Wow! A real gun? Superb! Now I have to learn how to use it. Can you teach me?}
@@ -64,7 +64,7 @@
 {164}{}{Yes, tell me.}
 
 {165}{}{Your father does not want you to go with bikers.}
-{166}{}{I don't need his permission. To live in a hole like Bridgeport is not for me. I'm better off with the bikers.}
+{166}{}{I don't need his permission. Living in a hole like Bridgeport is not for me. I'm better off with the bikers.}
 {167}{}{I don't wanna know about it. I wouldn't steal from a farmer. Let's just leave that stash a secret.}
 {168}{}{Okay, it's in the bathroom under the tub. You just have to take the planks off the floor.}
 {169}{}{Under the tub? Great, I will check it out.}
@@ -73,7 +73,7 @@
 
 {172}{}{You're making a mistake. You have a home and a family that needs you. The bikers are just a bunch of strangers.}
 {173}{}{So? I'm sick of this place. You're telling me to just stay here? I'd rather die!}
-{174}{}{Look at yourself. You are nothing like the bikers. Even if you pass all the tests, you won't be able to live like they do. Eventually, you'll become only a burden to them. Think about your family - not many have the luxury to live in a place like this.}
+{174}{}{Look at yourself. You are nothing like the bikers. Even if you pass all the tests, you won't be able to live like they do. Eventually, you'll just become a burden to them. Think about your family - not many have the luxury to live in a place like this.}
 {175}{}{Looks like I can't change your mind. Maybe I'll try some other time. Bye.}
 {176}{}{I didn't think about that... I thought I would learn everything in my time. But you're right - am I like them? No. I won't pass the tests. And my home... As much as I don't want to rot here, I can see your point - this is the only place where I'm really needed... Man, I'm confused.}
 {177}{}{Come back to your father and tell him you'll stay with him. It will be best for everyone.}
