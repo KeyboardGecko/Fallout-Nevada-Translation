@@ -8,9 +8,9 @@
 {111}{}{Nothing, relax.}
 
 {112}{}{I am interested in this village. Tell me the history of this place.}
-{113}{}{Well, it's going to be a very short and boring. Bridgeport was uninhabited since the war, until our families settled here about six years ago. We are all from Reno. We left the place when life there became very bad and the only solution was to move away. Then we came across this wonderful place and decided to stay.}
+{113}{}{Well, it's going to be a very short and boring story. Bridgeport was uninhabited since the war, until our families settled here about six years ago. We are all from Reno. We left the place when life there became very bad and the only solution was to move away. Then we came across this wonderful place and decided to stay.}
 {114}{}{Go on.}
-{115}{}{We repaired the houses, cultivated the crops, even bred our own stock - you know, just settled down. Honestly, it's a lot better than in Reno, although, sometimes I miss the luxuries of the big city. For example, so far we were unable to fully restore the electricity in Bridgeport, sometimes we need medications. Also, our houses are deteriorating.}
+{115}{}{We repaired the houses, cultivated the crops, even bred our own stock - you know, just settled down. Honestly, it's a lot better than in Reno, although sometimes I miss the luxuries of the big city. For example, so far we have been unable to fully restore the electricity in Bridgeport, and sometimes we need medications. Also, our houses are deteriorating.}
 {116}{}{If you want, I can bring you something from Reno.}
 {117}{}{How do you manage to feed yourselves?}
 {118}{}{It's pretty cold in here.}
@@ -20,7 +20,7 @@
 
 {130}{}{}
 {131}{}{At first we lived on pre-war food stocks, which were well-preserved, thanks to the cold climate. It's all gone now, the local stores are looted. But in the meantime we learned to grow crops and breed brahmin. Sometimes Jacob brings something from the hunt. Everyone is contributing in any way they can.}
-{132}{}{Yes, but fortunately we have brahmin hides. They provide better protection from the cold than pre-war clothes, and even more so - than the skins of these giant lizards. Judging from old photographs, there were ski resorts here, with entire mountains completely covered with snow. The climate has probably changed a lot, because we have never seen such a large amount of snow in our lives. But, instead of the snow, we now have clean water that fills the lakes. There's even fish in there! In any case, the cold mountains are better than the hot deserts of Nevada.}
+{132}{}{Yes, but fortunately we have brahmin hides. They provide better protection from the cold than pre-war clothes, even better than the skins of these giant lizards. Judging from old photographs, there were ski resorts here, with entire mountains completely covered with snow. The climate has probably changed a lot, because we have never seen such a large amount of snow in our lives. But, instead of the snow, we now have clean water that fills the lakes. There's even fish in there! In any case, the cold mountains are better than the hot deserts of Nevada.}
 {133}{}{We rarely have travelers here. I have heard about a tribe of savages in the mountains to the south. If you are interested, talk to our prospector Jacob about it.}
 {134}{}{}
 {135}{}{You said something about problems with the electricity?}
@@ -34,7 +34,7 @@
 {143}{}{That's not interesting. Bye.}
 {144}{}{I'll talk to him later, tell me something else please.}
 
-{145}{}{My daughter needs help. Are you a doctor? It would be a great luck if you were a doctor, or at least had a standard first aid kit, to help with the fever.}
+{145}{}{My daughter needs help. Are you a doctor? It would be a great help if you were a doctor, or at least had a standard first aid kit, to help with the fever.}
 {146}{}{I have some medical experience. Will you allow me to examine the patient?}
 {147}{}{You're in luck - I have a first aid kit.}
 {148}{}{You're in luck - I have a doctor's bag.}
@@ -79,5 +79,5 @@
 {184}{}{Thanks.}
 
 {190}{}{Tell me about the bikers.}
-{191}{}{We didn't call them here. In the past bikers sometimes came to us, but never so many. They seem somewhat anxious, as if they are waiting for something. I don't know what. But our family is already tired of these guys. It would be better for us all if they'd leave soon.}
+{191}{}{We didn't call them here. In the past bikers sometimes came to us, but never so many. They seem somewhat anxious, as if they are waiting for something. I don't know what. But our family is already tired of these guys. It would be better for us all if they'd just leave.}
 {192}{}{Okay.}
