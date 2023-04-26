@@ -12,7 +12,7 @@
 {113}{}{You're tired of being a farmer?}
 {114}{}{That's right! I've always hated this shithole. The fuck?! I can do better than that! Let my parents dig the dirt if they want, but I want to be free.}
 {115}{}{[Next]}
-{116}{}{Bikers became my idols ever since they first came here. They know so many things, they have seen so much! When I'll join their ranks, I'll be really happy.}
+{116}{}{These bikers have been my idols ever since they first got here. They know so many things, they've seen so much! When I join their ranks, it'll be awesome!.}
 {117}{}{Okay. Well, good luck to you.}
 {118}{}{You again? Don't mess with me, I'll become a BIKER soon! Yeah!}
 {119}{}{Right, whatever you say.}
@@ -21,9 +21,9 @@
 {121}{}{What do you know about the bikers?}
 {122}{}{How are you going to join bikers?}
 {123}{}{Of course they would. But I won't ask them. Living here is boring. I want to be with the bikers.}
-{124}{}{They will test me. Probably, it won't be easy.}
+{124}{}{They will test me. It probably won't be easy.}
 {125}{}{Not easy? But you're confident right?}
-{126}{}{Yes... Damn it, I'm willing to die trying! Listen, Can you help me? There are two challenges I have to complete, and I may not be up to it. First is shooting a pistol. I don't even have one, not even talking about some shooting skills. The second one is a fistfight. The chief said that no one's gonna beat me to death, I just have to stay on my feet, while I'm being beaten. How will I get through the pain? This is not a game.}
+{126}{}{Yes... Damn it, I'm willing to die trying! Listen, Can you help me? There are two challenges I have to complete, and I may not be up to it. First is shooting a pistol. I don't even have one, not to mention shooting skills. The second one is a fistfight. The chief said that no one's gonna beat me to death, I just have to stay on my feet while I'm being beaten. How will I get through the pain? This is no game.}
 {127}{}{Fine, I'll help you. It seems you have no choice other than to join the bikers. Okay, I will get you a pistol and some painkillers.}
 {128}{}{I won't help you.}
 {129}{}{Then get the fuck out of here! [hysterically] I'll manage without you! I can... I'm a man... I'm a man... [It seems this guy desperately wants to join the bikers.]}
@@ -31,13 +31,13 @@
 {131}{}{You will? Awesome. Just hurry before they leave. Otherwise I will be left behind, and I will have to wait until the next time they come.}
 {132}{}{I'll keep that in mind. Especially if I had some personal incentive.}
 {133}{}{Hi. Do you remember your promise to help me? Hurry the bikers could leave at any moment.}
-{134}{}{[He slaps his forehead] How could I! Of course! I know a place, where my dad keeps his cash. I don't know how much money there is, to be honest, I never asked - because I didn't need any money in this shithole. If you help me, I'll tell you where the stash is.}
+{134}{}{[He slaps his forehead] How could I! Of course! I know a place where my dad keeps his cash. I don't know how much money there is. To be honest, I never asked - because I didn't need any money in this shithole. If you help me, I'll tell you where the stash is.}
 {135}{}{Great.}
 {136}{}{I made my decision - I want to join the gang. The rest doesn't matter. Where they live, what they eat - what's the difference? What's more important, they don't belong to anyone and they do whatever they feel is right. Now that's a life!}
 {137}{}{Hello.}
 
 {140}{}{Let's talk about you joining the gang.}
-{141}{}{They want to give me some tests. There are few, but I'm worried only about two. First is shooting a pistol. Second is a fistfight. The chief said that no one's gonna beat me to death, I just have to stay on my feet, while I'm being beaten.}
+{141}{}{They want to give me some tests. There are a few, but I'm only worried about two. First is shooting a pistol. Second is a fistfight. The chief said that no one's gonna beat me to death, I just have to stay on my feet while I'm being beaten.}
 {142}{}{This pistol will be just right for your test [give }
 {143}{}{].}
 {144}{}{Take a painkiller.}
@@ -45,7 +45,7 @@
 {146}{}{Take a painkiller from this doctor bag.}
 {147}{}{Take this gun [give 10mm pistol].}
 {148}{}{Take this gun [give 10mm pistol with ext. mag].}
-{149}{}{Take this gun [give 10mm pistol model น80].}
+{149}{}{Take this gun [give 10mm pistol model ยน80].}
 {150}{}{Take this gun [give 10mm pistol with a flashlight].}
 {151}{}{Take this gun [give a premium 10mm pistol].}
 {152}{}{I can't help right now.}
@@ -56,7 +56,7 @@
 {156}{}{No. You have the pistol, teach yourself.}
 {157}{}{Fine, I'll ask that old prospector from the farm house. He shoots good and probably won't tell my dad about it. Thanks for the help.}
 {158}{}{You're welcome.}
-{159}{}{[You set up a shooting range outside the town and teach the boy the basics of shooting. He is a quick learner.] Awesome! Thanks for the help. Just don't tell my dad, he will lock me up and won't let me out, until the bikers are gone.}
+{159}{}{[You set up a shooting range outside the town and teach the boy the basics of shooting. He is a quick learner.] Awesome! Thanks for the help. Just don't tell my dad, he'll lock me up and won't let me out until the bikers are gone.}
 {160}{}{Fine.}
 {161}{}{Will this help with the pain? Great, just what I need! Thanks.}
 {162}{}{You're welcome.}
