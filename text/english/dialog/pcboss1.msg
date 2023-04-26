@@ -13,13 +13,13 @@
 
 {116}{}{Tell me about bikers.}
 {117}{}{Why do you hate bikers so much?}
-{118}{}{I'm interested, how do you survive in this wilderness?}
+{118}{}{I'm interested to know, how do you survive in this wilderness?}
 {119}{}{They didn't come here in such large numbers before. We never had a problem with them. And now they just come here in packs. I can't figure out what brings them here. And it doesn't matter - I just want them to go away. My wife and I can't even sleep at night with them outside.}
 {120}{}{Why should I like them? I'm working my ass off to feed my family. And these marauders just got themselves some shiny motorcycles and guns, and now they're acting all tough. I would like to see them try to stay here and work on crops for a few years! Of course, this is not my main issue with them. They can live their life as they please, I just want them to stay away from me. And away from Bridgeport.}
 {121}{}{As you can see, we work all day long. Only constant work helps us forget about our problems. It's really interesting how we live here, but ask someone else, I'm not in the mood. My neighbour loves to run his mouth, for example.}
 {122}{}{I think that's enough talk for today. I have to go, see you.}
 
-{123}{}{Bikers are my family now, so watch your mouth, daddy, before you get punched in the face.}
+{123}{}{Bikers are my family now, so watch your mouth, daddy-o, before you get punched in the face.}
 {124}{}{So that's how it is! You fucking brat, go wipe the breast milk off your lips! Just give me a reason and I'll blow your brains out.}
 {125}{}{Hey now, take a breath. If I wanted to fight, then I'd start shooting without warning, don't you doubt it.}
 
