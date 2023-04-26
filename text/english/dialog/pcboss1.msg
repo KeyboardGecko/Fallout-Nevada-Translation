@@ -50,6 +50,6 @@
 {151}{}{You? Alone? Against several well-armed bandits? It won't be that easy. [He squints in disbelief] Besides, why would you help us? We are not relatives or even neighbors, and we have nothing to pay. But, to think about it, you can loot many good stuff off their corpses.}
 {152}{}{There can be other options, beside murder. I will have to think about this.}
 {153}{}{Just as I promised, the bikers will no longer cause problems in Bridgeport.}
-{154}{}{Thank you so much. It's nice to hear these words after all this. I hope you'll stay around for a little longer.}
+{154}{}{Thank you so much. It's nice to hear those words after all this. I hope you'll stay around for a little longer.}
 {155}{}{}
 {156}{}{Bye.}
