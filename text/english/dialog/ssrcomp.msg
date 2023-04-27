@@ -1,14 +1,14 @@
 {100}{}{You see a working terminal.}
 {101}{}{You see a functional computer terminal.}
 
-#Запуск компьютера:
+#Г‡Г ГЇГіГ±ГЄ ГЄГ®Г¬ГЇГјГѕГІГҐГ°Г :
 {110}{}{You cannot use this terminal until you restore power.}
 {111}{}{No power.}
 {112}{}{This terminal is working, but cannot connect to the station's server, which is located in a different part of the bunker.}
 {113}{}{[Exit]}
 {114}{}{You lack the scientific knowledge to effectively use this kind of software.}
 
-#Главное меню:
+#ГѓГ«Г ГўГ­Г®ГҐ Г¬ГҐГ­Гѕ:
 {115}{}{Welcome to the Lovelock information channel broadcasting network.}
 {116}{}{[Look for any record of past broadcasts]}
 {117}{}{[Scan every frequency for a signal]}
@@ -20,16 +20,16 @@
 {123}{}{[Return to main menu]}
 {124}{}{[End]}
 
-#Функции станции
+#Г”ГіГ­ГЄГ¶ГЁГЁ Г±ГІГ Г­Г¶ГЁГЁ
 {150}{}{Access granted. Searching... Search complete. The Lovelock radio station is designated for top-secret government and military broadcasting. All workers must sign a non-disclosure agreement related to any information obtained during the course of receiving, processing, and transmitting messages via the Lovelock radio station. Current primary functions include: production, processing and transmission of radio signals between military installations, top-secret laboratories, the Vault network and government staff within the state of Nevada.}
 
-#История трансляций
+#Г€Г±ГІГ®Г°ГЁГї ГІГ°Г Г­Г±Г«ГїГ¶ГЁГ©
 {151}{}{Access granted. Searching... Search complete.}
 {152}{}{[Determine the station's signal coverage]}
 {153}{}{[Scan every frequency for a signal]}
 {154}{}{}
 
-#Попытка трансляции
+#ГЏГ®ГЇГ»ГІГЄГ  ГІГ°Г Г­Г±Г«ГїГ¶ГЁГЁ
 {155}{}{Access granted. Initializing program... [you hear nothing but white noise on all channels]}
 {156}{}{[Examine the archive of previous communication contacts]}
 {157}{}{}
@@ -43,7 +43,7 @@
 {165}{}{}
 {166}{}{}
 {167}{}{}
-{168}{}{Searching... Search complete. (The list is mostly made up of various settlements where wiretapping was conducted before the war. Additional contacts include three military bases (Sierra, Hawthorne, and Area 51), several vaults (8, 13, and 15), and private laboratories. All of these contacts are located within or close to Nevada borders, but their exact locations are not listed. Radio operators don't need a contact's exact location - they just work within their channels.)}
+{168}{}{Searching... Search complete. (The list is mostly made up of various settlements where wiretapping was conducted before the war. Additional contacts include three military bases (Sierra, Hawthorne, and Area 51), several vaults (8, 13, and 15), and private laboratories. All of these contacts are located within or just outside Nevada's borders, but their exact locations are not listed. Radio operators don't need a contact's exact location - they just work within their channels.)}
 {169}{}{The Lovelock radio station receives and transmits signals on a predetermined range of communication channels designated within Project }
 {170}{}{. Wiretapping programs are not currently in effect.}
 {171}{}{[Find information on this project.]}
@@ -54,7 +54,7 @@
 {176}{}{ is named in honor of one of the most powerful nuclear tests in American history.}
 {177}{}{That's all the information I need.}
 
-#Пароли:
+#ГЏГ Г°Г®Г«ГЁ:
 {301}{}{HIROSHIMA}
 {302}{}{NAGASAKI}
 {303}{}{TRINITY}
