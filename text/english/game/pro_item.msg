@@ -674,7 +674,7 @@
 {34200}{}{Useful notes}
 {34201}{}{A fast sketch biography of Jedediah Smith. The author describes the way of life in the settlements he visited.}
 {34300}{}{Apple pie}
-{34301}{}{M-m, a pie! Made of the maize dough and mutafruits.}
+{34301}{}{M-m, a pie! Made of maize dough and mutfruits.}
 {34400}{}{Graveyard}
 {34500}{}{Graveyard}
 {34600}{}{Graveyard}
