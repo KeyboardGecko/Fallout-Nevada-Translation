@@ -45,21 +45,21 @@
 {148}{}{You're hiding on this base for a reason, aren't you? Doors, monitors, traps - an arsenal of a true coward.}
 
 {149}{}{Hawthorne was a military base before the great war. The military themselves mothballed it and left, the small local population gradually died out. Many prospectors tried to reach the resources of this base... But it would have been better for them to stay away. Anyway, I'm here for another reason. The whole vault 8 thing is clearly military and government related. I came here looking for information.}
-{150}{}{Okay, wait. So you don't actually know anything? Why then did you steal the device from the vault then?}
+{150}{}{Okay, wait. So you don't actually know anything? Why did you steal the device from the vault then?}
 {151}{}{I don't understand. You have to start from the beginning of all these events.}
 {152}{}{Oh yeah... You don't remember, right? The employer warned me...}
 {153}{}{Dr. Willmouth works wonders! He restored my memory and he can treat radiation poisoning. Yes, he is a real wizard. And he has an Autodoc.}
 {154}{}{Doctor at the vault got me my memory back with an Autodoc. And when I get out of here, you're going to regret that he did it.}
 {155}{}{You seem to be properly informed, but did not consider the possibility of memory recovery with the help of the Autodoc in the vault.}
 
-{156}{}{Do you really believe that? Autodoc is unable to conduct such a serious operation. I've seen more sophisticated devices, but even they were not able to replace the consciousness of the patient. And to erase someone's memory... [he suddenly chuckles] You don't need an Autodoc for that. Most likely, there's something else going on in your vault that you don't know about. Something that slipped out of your mind while Doc was doing his "experiments" on you.}
-{157}{}{I suppose... Wait a minute! Don't bullshit me, you son of a bitch! It's because of you I lost my memory!}
+{156}{}{Do you really believe that? An Autodoc isn't capable of performing such a complicated operation. I've seen more sophisticated devices, but even they weren't able to replace a person's consciousness. And erasing someone's memory... [he suddenly chuckles] You don't need an Autodoc for that. Most likely, there's something else going on in your vault that you don't know about. Something that slipped your mind while Doc was doing his "experiments" on you.}
+{157}{}{I suppose... Wait a minute! Don't bullshit me, you son of a bitch! I lost my memory because of you!}
 {158}{}{I believe in Dr. Willmouth's honesty! Your stupid smirk just shows that you're lying and not telling me something. Didn't you have a hand in my amnesia?}
 {159}{}{It doesn't matter anymore. Past is past. What I'm interested in now is what you did with the stolen device.}
 
 {160}{}{It was my employer who deprived you of your memory. I only used your body as an excuse to enter the vault. And my old clothes and stuff to make it look a little more natural.}
 {161}{}{So, what happened in the vault?}
-{162}{}{Should have known you're just a pathetic mercenary. And what was your job in there?}
+{162}{}{Should have known you were just a pathetic mercenary. And what was your job in there?}
 
 {163}{}{My job was to get into the vault, knock out the guards and steal the device. You don't need me to tell you that.}
 {164}{}{What were you talking about with the Overseer before you knocked him out?}
@@ -68,11 +68,11 @@
 {167}{}{Okay, this part of the story is clear now.}
 
 {168}{}{It was a long conversation. Basically, the old man was interested in my life outside of the city, and I asked about the vaults and its technologies. I'm not gonna repeat it all.}
-{169}{}{At first I couldn't understand it myself. It was only in Area 51 that I managed to figure it out. There were the most advanced technologies that I had never seen anywhere else.}
-{170}{}{I would like to know it too. Who he is, where he got your body, why he needed a device from the vault - I don't know any of this. But it doesn't interfere with my interests.}
+{169}{}{At first I couldn't understand it myself. It was only in Area 51 that I managed to figure it out. I had never seen technologies that advanced anywhere else.}
+{170}{}{I would like to know that too. Who he is, where he got your body, why he needed a device from the vault - I don't know any of this. But it doesn't interfere with my plans.}
 {171}{}{}
 {172}{}{What do you mean?}
-{173}{}{The crystal-based information storage module is a very rare and breakthrough technology at the time of the War. Why the hell did it end up in such a miserable place as a bomb vault? I couldn't find the means of reading the data, but my guess is that the disk contains programs to coordinate the automatic control systems of the vault... And probably something else, not so obvious.}
+{173}{}{The crystal-based information storage module was a very rare and breakthrough technology at the time of the War. Why the hell did it end up in such a miserable place as a bomb vault? I couldn't find the means of reading the data, but my guess is that the disk contains programs to coordinate the automatic control systems of the vault... And probably something else, not so obvious.}
 {174}{}{Why didn't you deliver the device to your employer?}
 {175}{}{When it comes to sophisticated pre-war technology, I don't care about employers. I decided to figure out what it is first. Such an opportunity with this kind of tech rarely presents itself.}
 
@@ -81,10 +81,10 @@
 {178}{}{Because of your technological ambitions, they kicked me out of the vault and forced me to return the device.}
 {179}{}{At this point, I don't care about the vault or the device. I want revenge on the people who started all this. And you are one of them.}
 {180}{}{I was just given an assignment. The rest is none of my business.}
-{181}{}{I see. You can have the device, I don't care what happens to it now. I'll drop it here. I've got something else to worry about now. Although, if you want to know more about such tech, I suggest you to visit Area 51 - a lot of beautiful things there, even better than you have already seen. [Looks at the monitors next to him] Oh, shit...}
+{181}{}{I see. You can have the device, I don't care what happens to it now. I'll drop it here. I've got something else to worry about now. Although, if you want to know more about this advanced tech, I suggest you visit Area 51 - a lot of beautiful things there, even better than you've already seen. [Looks at the monitors next to him] Oh, shit...}
 {182}{}{What?}
 {183}{}{We have company. And they will have to be dealt with.}
-{184}{}{Wait, I want to fight too! Together it will be easier.}
+{184}{}{Wait, I want to fight too! It will be easier together.}
 {185}{}{Yeah, go straight to them. I hope they'll torture you slowly and painfully.}
 {186}{}{Hey, don't leave me here! I'm going to starve to death!}
 {187}{}{If you have any brains at all, you will find a way out. Farewell.}
