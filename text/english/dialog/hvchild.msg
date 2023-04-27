@@ -16,11 +16,11 @@
 {122}{}{Okay, I'm not going to resist for now. Let's talk.}
 {123}{}{You're pretty sneaky for a biker. Luring me into a trap in a place like this... Are you afraid of someone?}
 
-{124}{}{Maybe you'll get that chance. But for now you're going to stay locked up. I wanted to ensure the safeness of our conversation.}
-{125}{}{Safeness?! You're just a pussy! Hiding behind glass because you're afraid of me.}
+{124}{}{Maybe you'll get that chance. But for now you're going to stay locked up. I wanted to ensure my safety during this conversation.}
+{125}{}{Safety?! You're just a pussy! Hiding behind bullet-proof glass because you're afraid of me.}
 {126}{}{Right. Let's cut to the chase.}
 {127}{}{This is reasonable. At least this way we don't shoot each other.}
-{128}{}{Your attempts to piss me off are ridiculous and pathetic. The kind of the reaction I expected from the residents of the vault. You're like children suffering from teenage problems and delusions far beyond your age. I'll wait until you calm down. After all, there's nothing preventing me from leaving. Unlike you.}
+{128}{}{Your attempts to piss me off are ridiculous and pathetic. The kind of reaction I expect from a vault citizen. You're like children suffering from teenage problems and delusions far beyond your age. I'll wait until you calm down. After all, there's nothing preventing me from leaving. Unlike you.}
 {129}{}{You're not leaving until you spit out the truth! Tell me, bitch, tell me everything you know!}
 {130}{}{All right, I'll try to calm down. In the meantime, tell me how you tracked me down.}
 {131}{}{That's more like it.}
