@@ -631,9 +631,9 @@
 # Jay Kukish's message
 # GVAR_HOWTHORNE_DSK_BAIKER_MSG (GVAR_SIERRA_MISSION_HOLODISK)
 {10000}{}{I didn't expect you to come this far.}
-{10001}{}{Still, if you did - this is not accidental.}
+{10001}{}{Still, if you did - then this is no accident.}
 {10002}{}{You will have to try very hard to meet me.}
-{10003}{}{Infiltrate military hangar V9 in the north, find}
+{10003}{}{Infiltrate military hangar V9 in the north and find}
 {10004}{}{the radio jammer. To reduce the risk, I suggest}
 {10005}{}{turning off the power on the underground level.}
 {10006}{}{Next, install the jammer in the radar equipment}
