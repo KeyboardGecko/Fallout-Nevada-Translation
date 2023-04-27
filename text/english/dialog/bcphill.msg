@@ -21,15 +21,15 @@
 {122}{}{Who could be driving it, what do you think?}
 {123}{}{No one, of course. This is a ghost train. What, never heard of it?}
 {124}{}{Nah. I didn't.}
-{125}{}{So, I will tell you about it only once, so listen carefully. A couple of automatic trains were launched before the war, just for a test. To see how it will do. So they drove all over Nevada. And then pow! - something broke in automatic systems.}
-{126}{}{And it crashed?}
-{127}{}{No! These idiots from the railway stations tried to stop it, but all in vain. While they were trying, the war began. So, to this day it drives up and down the rails of Nevada.}
+{125}{}{I will only tell you this once, so listen carefully. A couple of automatic trains were launched before the war, just for a test run. To see how they would perform. So they drove all over Nevada. And then pow! - something broke in their automatic systems.}
+{126}{}{And they crashed?}
+{127}{}{No! Well one did. And those idiots from the railway stations tried to stop the other, but all in vain. While they were trying, the war began. So, to this day it travels up and down the rails of Nevada.}
 {128}{}{Hmm. Funny tale.}
 
 #About archivarius's runaway daughter
-{140}{}{Look, isn't that the chaser of runaway girls? You won't meet your kind of people often in the wasteland. Give yourself a medal, so everyone could instantly recognize you.}
-{141}{}{You're upset that the girl left your company?}
-{142}{}{Upset? Me? Ha! Maybe I should lock myself in the toilet and cry on top of that? No, I don't really care. It was fun with her, but on the other side... Anyway, you did an act of kindness and all that crap - returned a daughter to her father. I think that's admirable.}
+{140}{}{Look at you, chasing down runaway girls? We don't see people like you often in the wasteland. Give yourself a medal, so everyone can instantly recognize you.}
+{141}{}{You're upset the girl left your company?}
+{142}{}{Upset? Me? Ha! Maybe I should lock myself in the toilet and cry on top of that? No, I don't really care. It was fun with her, but on the other hand... Anyway, you did an act of kindness and all that crap - returned a daughter to her father. I think that's admirable.}
 {143}{}{Phew, then that means no hard feelings? Great. Let's talk about something else then.}
 
 #Starting dialogue options
