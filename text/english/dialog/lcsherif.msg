@@ -230,7 +230,7 @@
 {408}{}{Uh okay, skip the horror part... Do you know its final destination?}
 {409}{}{I don't. Some believe this train makes no stops or turns. Some even swear it can be in different places at the same time.}
 {410}{}{Sounds like some drunken nonsense.}
-{411}{}{Nevertheless, it exists, whatever it actually is. Half the city has seen it.}
+{411}{}{Nevertheless, it exists, whatever "it" actually is. Half the city has seen it.}
 {412}{}{Thanks for the story, but I have to go.}
 {413}{}{Sheriff, enough with the fairy tales. You and I both know the "Ghost Train" is quite material and not much different from an ordinary train...}
 {414}{}{Someone sometimes rides the train in the north and west direction. Some people have also seen robots that still maintain the railroad in working order. But who needs it and why, no one knows.}
