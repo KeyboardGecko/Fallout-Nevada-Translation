@@ -249,7 +249,7 @@
 {12500}{}{Booze}
 {12501}{}{Homemade alcoholic beverage.}
 {12600}{}{Drinking water}
-{12601}{}{The life-giving drinking water, purified from dirt and radiation. Used for treatment of diseases, poisoning, first aid and just for drinking.}
+{12601}{}{Life-giving drinking water. Purified of dirt and radiation, used for treatment of diseases, poisoning, first aid and just for drinking.}
 {12700}{}{Rope}
 {12701}{}{A strong, thick line. About 45 feet in length.}
 {12800}{}{Footlocker}
