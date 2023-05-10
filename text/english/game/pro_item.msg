@@ -584,7 +584,7 @@
 {29700}{}{Advanced Grenade Launcher}
 {29701}{}{Rockwell Grenade Launcher "Super-bazooka", equipped with a perfect recoil compensator. Min. ST: 5.}
 {29800}{}{Communication key}
-{29801}{}{The unusual shape of the key-turntables, which must be opened after placement inside the keyhole.}
+{29801}{}{This key has unusually shaped teeth, designed to fit inside a heavy duty lock.}
 {29900}{}{Pipe Rifle}
 {29901}{}{This is a hand-made single shot rifle. Min. ST: 5.}
 {30000}{}{"Savage"}
