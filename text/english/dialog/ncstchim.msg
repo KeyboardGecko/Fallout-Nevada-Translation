@@ -13,7 +13,7 @@
 {115}{}{Yes. Stryker says you can help me win in the ring.}
 {116}{}{You could say that. I need chemicals on an industrial scale.}
 
-#О себе и лаборатории
+#ГЋ Г±ГҐГЎГҐ ГЁ Г«Г ГЎГ®Г°Г ГІГ®Г°ГЁГЁ
 {117}{}{That's it? Huh, you're more curious than most of these goons. I'm a chemist. [he cocks an eyebrow at you] Funny that Stryker didn't tell you that.}
 {118}{}{Yes, but what are you doing *exactly?*}
 {119}{}{How long have you been working here?}
@@ -25,7 +25,7 @@
 {124}{}{This doesn't look like much of a chemistry laboratory. I don't see any minerals, non-organic substances, or even tools for studying colloid systems. I don't see how that Shroedinger equation on the chalkboard helps, either. If I had to guess, I'd say you want to study quantum theory but are stuck mixing chemicals instead.}
 {125}{}{Curiosity killed the cat. Stryker's not a guy that likes to hear questions.}
 {126}{}{Fine then, let's talk about something else.}
-{127}{}{Holy shit! [his eyes go wide in shock and he actually recoils in surprise] You're the first, the fucking first person I've ever met that knew that! I... Shit! I don't even know what to say! Where'd you learn that?}
+{127}{}{Holy shit! [his eyes go wide in shock and he actually recoils in surprise] You're the first...the fucking first person I've ever met that knew that! I... Shit! I don't even know what to say! Where'd you learn that?}
 {128}{}{A lot of books and even more spare time.}
 {129}{}{You too? Hey, you and me, we're a dying breed, you know that? Stryker, you know, he's smarter than he looks, but he's in it for the money. Not you and me, though, we're in it for the *science!* Listen, you ever need to use my lab, I'll give you a friendly discount.}
 {130}{}{Thank you, but I have a few more questions.}
@@ -39,7 +39,7 @@
 {137}{}{So you're a prisoner?}
 {138}{}{Eh... Yeah, but really more a prisoner of circumstances than of Stryker. Chems are so important to Reno, there's no way I could ever be free. Everyone, who's anyone, wants me in their pocket... Or dead, if they can't have me. Freedom's just not an option.}
 
-#Медикаменты для ринга
+#ГЊГҐГ¤ГЁГЄГ Г¬ГҐГ­ГІГ» Г¤Г«Гї Г°ГЁГ­ГЈГ 
 {140}{}{That's a bad fucking idea, but it's your heart that's gonna explode, not mine.}
 {141}{}{How much for a dose?}
 {142}{}{What is this stuff, anyway?}
@@ -60,7 +60,7 @@
 {157}{}{That's not all I wanted.}
 {158}{}{See you.}
 
-#Производство наркоты
+#ГЏГ°Г®ГЁГ§ГўГ®Г¤Г±ГІГўГ® Г­Г Г°ГЄГ®ГІГ»
 {160}{}{I don't think so. Not unless Stryker says so.}
 {161}{}{Can you answer some questions, at least?}
 {162}{}{Then I don't need anything from you.}
@@ -77,7 +77,7 @@
 {171}{}{I'll need }
 {172}{}{ dollars, a broc flower, and a xander root.}
 {173}{}{ dollars, a flower, a xander root, and an empty syringe.}
-{174}{}{ dollars, a stimpak, a Nuka-Cola and a mutafruit.}
+{174}{}{ dollars, a stimpak, a Nuka-Cola and a mutfruit.}
 {175}{}{ dollars and a radscorpion tail.}
 {176}{}{[Make one dose.]}
 {177}{}{[Make two doses.]}
@@ -91,7 +91,7 @@
 {184}{}{Bye.}
 {185}{}{I need more supplies.}
 
-#Про Соломона
+#ГЏГ°Г® Г‘Г®Г«Г®Г¬Г®Г­Г 
 {190}{}{Doesn't Stryker work for Big Louie? Why is Louie buying chems from Solomon and not you?}
 {191}{}{[He raises an eyebrow] Wait - did Big Louie send you here? Stryker didn't want him to know about this lab! No one outside this building is supposed to know! [he laughs] Serves him right!}
 {192}{}{Where does Solomon fit into this?}
@@ -100,7 +100,7 @@
 {195}{}{Sure! Well, I don't know for sure. But that's my best guess. Smart move - either Solomon kills off the whole gang or Big Louie kills off Solomon. Stryker comes out ahead either way.}
 {196}{}{Now everything make sense.}
 
-#Поправки текста когда Страйкер мертв
+#ГЏГ®ГЇГ°Г ГўГЄГЁ ГІГҐГЄГ±ГІГ  ГЄГ®ГЈГ¤Г  Г‘ГІГ°Г Г©ГЄГҐГ° Г¬ГҐГ°ГІГў
 {200}{}{Who the hell are you? I thought everyone ran off when Stryker was killed.}
 {201}{}{I could ask you the same question.}
 {202}{}{Yeah, you could. [he shrugs] I guess I'm free, huh? Haven't been *that* for a long time. What am I going to do now?}
@@ -110,7 +110,7 @@
 {206}{}{Chems have a lot of uses. They can help your soldiers in battle or speed up their recovery after. And just look at the people on the streets - loyal customers. Still... I feel like there's more to it.}
 {207}{}{Sure. Stryker's gone, so I can make whatever for whoever. It'll cost you, though, and I'm out of components, so you'll need to supply that too.}
 
-#Побег
+#ГЏГ®ГЎГҐГЈ
 {210}{}{Nick Hauer says hi.}
 {211}{}{[He freezes, then slowly turns to you] Nick... Nick is here? He's alive?!}
 {212}{}{Yes. He wants to free you and escape to San Francisco.}
