@@ -194,7 +194,7 @@
 
 {350}{}{I need to fix this computer. Will you do it?}
 
-{351}{}{[After seeing the device Francis stops and quietly looks at you for some time] What's that? The computer from the train, right? Okay, I'll tell it like it is. The locals, myself included, are terrified of the train depot. The Sheriff, the Mormons, the ghost train, the service robots... I have many reasons not to think about it. My skin is more important than any amount of money.}
+{351}{}{[After seeing the device Francis stops and quietly looks at you for some time] What's that? The computer from the train, right? Okay, I'll tell it like it is. The locals, myself included, are terrified of the train depot. The Sheriff, the Mormons, the ghost train, the service robots... I have many reasons not to even consider it. My skin is more important than any amount of money.}
 {352}{}{What does the Sheriff say?}
 {353}{}{The Mormons? How are they related?}
 {354}{}{A ghost train? What kind of fairy tale is this?}
@@ -202,8 +202,8 @@
 {356}{}{Okay, forget my offer, I'll deal without you.}
 
 {357}{}{Sheriff forbade us to go there. He says it's very dangerous. And not without reason. From time to time there are new rumors about brave men who went there and didn't come back. I don't know what's going on there, and I don't want to know.}
-{358}{}{Sheriff has entrusted them with the surveillance of some dangerous territory. Better ask them yourself. They live in the North, near the destroyed part of the city.}
-{359}{}{A fairy tale!? You call it a fairy tale?! There were brave ones who tried to ride the train, like on a rodeo, you know. And to what avail? Anyone who touches its black body will immediately be electrocuted to ash! It's not a fairy tale. Although there are very few who actually saw it... And for sure I'm not one of them.}
+{358}{}{Sheriff has entrusted them with surveillance of some dangerous territory. Better ask them yourself. They live in the North, near the destroyed part of the city.}
+{359}{}{A fairy tale!? You call it a fairy tale?! There were a few brave ones who tried to ride the train, like on a rodeo, you know. And to what avail? Anyone who touches its black body will immediately be electrocuted to ash! It's not a fairy tale. Although there are very few who actually saw it... And for sure I'm not one of them.}
 {360}{}{Service robots, they've been repairing the road and the station since the times before the war. It's difficult to say who or what controls them, but they act together. Those who've tried to interfere with them or gone into the danger zone got a helping of plasma up the ass. So they are, in fact, real. More real than any ghost train.}
 
 {361}{}{You don't seem to trust me, Francis. Why?}
