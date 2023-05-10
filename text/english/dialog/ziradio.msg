@@ -74,10 +74,10 @@
 {212}{}{An outpost in the mountains? That might be one of ours. You're free to use it, just don't break anything. Over.}
 {213}{}{Well, I'll try.}
 {214}{}{I'll be careful.}
-{215}{}{Actually, I wouldn't advise wandering around here. There's nothing here but us rangers. If anything happens, no help will come. Over.}
+{215}{}{Actually, I wouldn't advise wandering around here. There's nothing here but us rangers. If anything happens, no help will come help you. Over.}
 {216}{}{Are you saying it's safer to be close to civilization?}
 
-{217}{}{Heh, you got me. The wastelands are dangerous even for experienced and cautious travelers. Radiation and strange creatures take their toll in every part of Nevada. Walk carefully, and remember that you can see the sign of danger everywhere if you look hard enough. As for civilization... Everyone has their own ways of adapting. As for us, we try to stay away from it. Any other questions?}
+{217}{}{Heh, you got me. The wastelands are dangerous even for experienced and cautious travelers. Radiation and strange creatures take their toll in every part of Nevada. Walk carefully, and remember that you can see signs of danger everywhere if you look hard enough. As for civilization... Everyone has their own ways of adapting. As for us, we try to stay away from it. Any other questions?}
 {218}{}{Why are you so scared of civilization?}
 {219}{}{Can I meet you in person?}
 {220}{}{What can you tell me about the rangers?}
@@ -85,7 +85,7 @@
 
 {222}{}{Scared? No, we're not scared. We just prefer the freedom of the wilderness. We can get everything we need and stay independent. Over.}
 {223}{}{I don't know. We travel a lot and don't like crowds. If we ever crossed paths, we'd probably keep to ourselves. Nothing personal. Over.}
-{224}{}{You're that interested? I'm flattered. We're a small group, but we're well-trained to live in the wild. Our ancestors lived here when the world burned to ashes and the cities were doing their best to finish off the survivors. "The war was a testament to human greed and stupidity," as our fathers told us. Now we, like them, live by nature. Where you city dwellers would die on the first day, we have a good chance of finding food, water, and lodging for the night. We have largely abandoned technology, we only use what is left of the rangers and military, sometimes trade ammunition from the traders on the trails. Personally, I prefer to rely on myself rather than on machinery that can't even be repaired. So, is your curiosity satisfied?}
+{224}{}{You're that interested? I'm flattered. We're a small group, but we're well-trained to live in the wild. Our ancestors lived here when the world burned to ashes and the cities were doing their best to finish off the survivors. "The war was a testament to human greed and stupidity," as our fathers told us. Now we, like them, live by nature. Where you city dwellers would die on the first day, we have a good chance of finding food, water, and lodging for the night. We have largely abandoned technology, we only use what is left of the rangers and military, sometimes trade ammunition with traders on the trails. Personally, I prefer to rely on myself rather than on machinery that you can't even repair. So, is your curiosity satisfied?}
 {225}{}{Heh. I'd prefer a strong stout, or perhaps a root beer. Be careful out there. Over and out.}
 {226}{}{[Turn the radio off.]}
 
