@@ -175,7 +175,7 @@
 {812}{}{Become a star in New Reno}
 {813}{}{Carry out the Solomon's dirty task}
 {814}{}{Deliver a comedian from Vegas to "Cotton" club}
-{815}{}{Meet Nick Hauer at "Silver" hotel}
+{815}{}{Meet Nick Hauer at Hotel "Silver"}
 {816}{}{Arrange the escape of Deveraux family from the city}
 {817}{}{Install bugs at the "Eldorado" casino}
 {818}{}{Get information about food shipments}
@@ -260,17 +260,17 @@
 {1506}{}{Help beggar to get a job}
 {1507}{}{Get Nuka-Cola selling license}
 {1508}{}{Make a diversion on Nuka-Cola factory}
-{1509}{}{Nuka-Cola: get a deal with "Cotton" club}
-{1510}{}{Nuka-Cola: get a deal with "Silver" restaurant}
-{1511}{}{Nuka-Cola: get a deal with "Hard Rock" cafe}
-{1512}{}{Nuka-Cola: get a deal with the Wind of War}
+{1509}{}{Nuka-Cola: make a deal with the "Cotton" club}
+{1510}{}{Nuka-Cola: make a deal with the Hotel "Silver" restaurant}
+{1511}{}{Nuka-Cola: make a deal with the "Hard Rock" cafe}
+{1512}{}{Nuka-Cola: make a deal with the Wind of War}
 {1513}{}{Fix automated logical controller for Nuka-Cola factory}
 {1514}{}{Deal with Nuka-Cola merchant}
-{1515}{}{Get Gary Gilmore to justice}
+{1515}{}{Bring Gary Gilmore to justice}
 {1516}{}{Slaughter Provo's population}
 {1517}{}{Kill Salt Lake City sheriff on Provo's request}
-{1518}{}{Return the keys to Nuka-Cola factory}
-{1519}{}{By any means take the encoder from caravan merchant}
+{1518}{}{Return the keys to the Nuka-Cola factory}
+{1519}{}{By any means necessary, get the encoder from the caravan merchant}
 
 #---------------------------------------------------------
 # Reserv
@@ -296,10 +296,10 @@
 
 {1900}{}{Get rid of mutants in Uranium City}
 {1901}{}{Change the mine owner}
-{1902}{}{Return the workers in Uranium City: administrator}
-{1903}{}{Return the workers in Uranium City: machine operator}
-{1904}{}{Return the workers in Uranium City: supplier}
-{1905}{}{Return the workers in Uranium City: cabaret girl}
+{1902}{}{Return the workers to Uranium City: administrator}
+{1903}{}{Return the workers to Uranium City: machine operator}
+{1904}{}{Return the workers to Uranium City: supplier}
+{1905}{}{Return the workers to Uranium City: cabaret girl}
 {1906}{}{Courier delivery of Lewis Birch's report}
 {1907}{}{Become Uranium City's sheriff}
 {1908}{}{Carl asks to find a fuse}
@@ -373,7 +373,7 @@
 {3302}{}{Repaint the pickup's body}
 {3303}{}{Expand and reinforce the trunk}
 {3304}{}{Install "gravi-plates"}
-{3305}{}{Decrease power consumption with fuel regulator}
-{3306}{}{Increase pickup's speed capacity with the help of biker in Battle Mountain}
+{3305}{}{Decrease power consumption with a fuel regulator}
+{3306}{}{Increase pickup's speed capacity with the help of the bikers in Battle Mountain}
 {3307}{}{Restore pickup's headlights}
 {3308}{}{Take a hitchhiker to Vegas}
