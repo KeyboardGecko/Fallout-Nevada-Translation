@@ -437,7 +437,7 @@
 {22300}{}{Remote key}
 {22301}{}{This is the key for the electronic lock. By pressing the button it produces a radio signal of a certain frequency acting at a short distance.}
 {22400}{}{Cable}
-{22401}{}{Long high-voltage cable bay.}
+{22401}{}{Long high-voltage spool of cable.}
 {22500}{}{Cat's Paw Magazine}
 {22501}{}{An issue of Cat's Paw magazine.}
 {22600}{}{Box Of Noodles}
