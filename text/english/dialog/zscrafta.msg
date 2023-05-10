@@ -126,7 +126,7 @@
 {207}{}{nightshade berries (2), radscorpion tail (2), empty syringe (1)}
 
 {208}{}{Root beer.}
-{209}{}{xander root (2), mutafruit (1), clean water (1)}
+{209}{}{xander root (2), mutfruit (1), clean water (1)}
 
 {210}{}{Vocas nut solution.}
 {211}{}{vocas nuts (10), "Bloody Mary" (1), empty syringe (1)}
@@ -147,7 +147,7 @@
 {221}{}{xander root (1), broc flower (1), clean water (1), empty syringe (1)}
 
 {222}{}{Super Stimpak.}
-{223}{}{stimpak (1), Nuka-Cola (1), mutafruit (1)}
+{223}{}{stimpak (1), Nuka-Cola (1), mutfruit (1)}
 
 {224}{}{Homemade RadAway.}
 {225}{}{vocas nut solution (1), Blood-purifier (1), clean water (1)}
@@ -159,7 +159,7 @@
 {229}{}{iguana-on-a-stick (2)}
 
 {230}{}{Caravaneer's meal.}
-{231}{}{mutafruit (1), jerky (1), brahmin milk (1)}
+{231}{}{mutfruit (1), jerky (1), brahmin milk (1)}
 
 {232}{}{TV meal (+25 hit points).}
 {233}{}{TV meal (1)}
@@ -174,4 +174,4 @@
 {239}{}{molasses (1), clean water (1)}
 
 {240}{}{Mantis snack (2).}
-{241}{}{Mantis part (2), beer (1), mutafruit (1)}
+{241}{}{Mantis part (2), beer (1), mutfruit (1)}
