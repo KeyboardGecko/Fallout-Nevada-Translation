@@ -87,7 +87,7 @@
 {220}{}{I'll do it if you bring me the tail of a radscorpion. }
 {221}{}{I'll do it if you bring me an empty syringe, a Xander root and a Broc flower. }
 {222}{}{I'll do it if you bring me a Xander root and a Broc flower. }
-{223}{}{I'll do it if you bring me a stimpak, Nuka-Cola and a mutafruit. }
+{223}{}{I'll do it if you bring me a stimpak, Nuka-Cola and a mutfruit. }
 {224}{}{ bucks a dose.}
 {225}{}{...Although, why do you need such a primitive drug? You should have bought a stimpak...}
 
