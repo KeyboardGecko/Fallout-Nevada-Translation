@@ -138,7 +138,7 @@
 {6901}{}{A wooden dresser.}
 {7000}{}{Dresser}
 {7001}{}{A wooden dresser.}
-{7100}{}{Mutafruit}
+{7100}{}{Mutfruit}
 {7101}{}{A strange piece of fruit. No preservatives and no additional food coloring added.}
 {7200}{}{Bertolini's Case}
 {7201}{}{Armored suitcase, covered with leather for a solid appearance and locked with a combination lock. There must be untold wealth inside.}
