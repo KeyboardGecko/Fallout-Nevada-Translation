@@ -62,8 +62,8 @@
 {221}{}{Well, you're right about one thing: I definitely don't have the time to listen to you. Fine, I'll take the holodisk.}
 {222}{}{Thanks! I'll have a look at it later.}
 
-{223}{}{The next sets out in }
-{224}{}{ days. We leave on the 1st, 11th and 21st day of each month.}
+{223}{}{The next sets out in a few days }
+{224}{}{ to be exact. We leave on the 1st, 11th and 21st day of each month.}
 {225}{}{That's all.}
 {226}{}{I have another question... }
 {227}{}{Today! But I think we still have a couple of seats left, if you want to buy a ticket!}
@@ -71,7 +71,7 @@
 {229}{}{ day. We leave on the 1st, 11th and 21st day of each month.}
 
 #Çàêàç ïóòè
-{230}{}{We'll get you where you need to go! If our caravans don't go somewhere, then you have nothing to do there.}
+{230}{}{We'll get you where you need to go! If our caravans don't go somewhere, then there's nothing to do there.}
 {231}{}{Can you drop me at New Reno?}
 {232}{}{What about Salt Lake?}
 {233}{}{Las Vegas awaits me!}
