@@ -4,11 +4,11 @@
 {102}{}{So bright... I... see... Light...}
 {103}{}{Ughhh...}
 
-{104}{}{You see the Overseer of your Vault. A sorry sight to see. He's probably pumped full of drugs - or even something worse. He's unconscious and can't hear you. It may take more than just your intention to bring him back to his senses.}
+{104}{}{You see the Overseer of your Vault. A sorry sight to see. He's probably pumped full of drugs - or worse. He's unconscious and can't hear you. It may take more than just your attention to bring him back to his senses.}
 {105}{}{Try to wake him up.}
 {106}{}{Inject three stimpacks. Should be enough.}
 {107}{}{Sergeant Graves' words come to mind...}
-{108}{}{That's hopeless. What should I do now?}
+{108}{}{This is hopeless. What should I do now?}
 
 {109}{}{How could you drop meds in a moment like this?!}
 {110}{}{Shit, gotta pick them up.}
@@ -37,7 +37,7 @@
 {130}{}{Hey!!! [shake his shoulder] Old man!? Wake up!}
 {131}{}{Oh god! Overseer! Don't die on me, please!}
 
-{132}{}{[With great effort, the Overseer hisses through clenched teeth] Doesn't... Matter. They are... Gone. Now here's... Only... Two of them. This is... A governmental vault.}
+{132}{}{[With great effort, the Overseer hisses through clenched teeth] Doesn't... Matter. They are... Gone. Now here's... Only... Two of them. This is... A government vault.}
 {133}{}{Yeah, I got that. Who are these two?}
 
 {134}{}{One was... The president... The other one... Reaper of Souls...}
