@@ -27,7 +27,7 @@
 {128}{}{}
 {129}{}{}
 
-{130}{}{You carefully collect all the items into one box. You have collected a genuine, complete Pretty & Glamour body care kit! You'll be the envy of every cultured socialite in a modern-day Nevada!}
+{130}{}{You carefully collect all the items into one box. You have collected a genuine, complete Pretty & Glamour body care kit! You'll be the envy of every cultured socialite in modern-day Nevada!}
 {131}{}{I'm ready to hit the town!}
 {132}{}{You're missing something.}
 {133}{}{Damn...}
