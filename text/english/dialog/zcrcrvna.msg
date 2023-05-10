@@ -342,7 +342,7 @@
 
 {512}{}{Good. Where are we taking it?}
 {513}{}{"Cotton" cafe in New Reno.}
-{514}{}{"Silver" restaurant in New Reno.}
+{514}{}{Hotel "Silver" restaurant in New Reno.}
 {515}{}{"Hard Rock" cafe in Vegas.}
 {516}{}{Trading store in Wind of War.}
 {517}{}{Nowhere. I still have to make a deal with the buyer.}
