@@ -203,7 +203,7 @@
 {10200}{}{"Guns and Bullets"}
 {10201}{}{A gun rag. A magazine devoted to the practical use of firearms, and the occasional biased review.}
 {10300}{}{Iguana bits}
-{10301}{}{Some charred meat and vegetables on a cooking stick. Delicious and nutritious, but youll never know, from what harmful sites can be these iguanas?}
+{10301}{}{Some charred meat and vegetables on a cooking stick. Delicious and nutritious, but you'll never know, from what harmful sites can be these iguanas?}
 {10400}{}{Birch's Report}
 {10401}{}{A lot of encrypted information. The inscription on the label says: "Deliver to the Hub, the Union of Atomic Workers".}
 {10500}{}{Ignition key}
@@ -590,7 +590,7 @@
 {30000}{}{"Savage"}
 {30001}{}{Single-shot shotgun with a shortened barrel. Although this weapon is already very worn and outdated, it has an indisputable advantage - fast recharge. Min. ST: 4.}
 {30100}{}{Towel}
-{30101}{}{Designed in the laboratory "Pretty & Glamour" towel with a built-in chip that determines the dryness of the skin. Information on the tag prohibits smoking near the towel.}
+{30101}{}{Designed in the "Pretty & Glamour" laboratory, this towel has a built-in chip that senses how wet or dry the users skin is and fluffs itself accordingly. Information on the tag prohibits smoking near the towel.}
 {30200}{}{Death note}
 {30201}{}{"To the one who kills me: I entered the path of robbery because the Clean City annexed my land. The harvest is taken by bastards from Vegas, I have nothing to feed myself with. I can't take it anymore."}
 {30300}{}{Empty Holodisk}
