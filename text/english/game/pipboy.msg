@@ -69,7 +69,7 @@
 {404}{}{Report on deserters}
 {405}{}{-empty-}
 {406}{}{Diary's entries}
-{407}{}{Medical report}
+{407}{}{Medical Report}
 {408}{}{Exodus}
 {409}{}{Radio station documents}
 {410}{}{Jay's message}
@@ -550,32 +550,33 @@
 {7199}{}{}
 {7200}{}{**END-DISK**}
 
-# Gov. vault: Medical report on the head
+# Gov. vault: Presidential Medical Report
 # GVAR_HOLODISK_ENCLAV_MED (GVAR_HOLODISK_SIERRA_MED_LOG)
 {8000}{}{}
-{8001}{}{Report on the mental state of president's head}
+{8001}{}{Report on the mental state of the President's Head}
 {8002}{}{}
-{8003}{}{Objective: find out reasons of head's aggression.}
-{8004}{}{Chief resident: Solomon M.D.}
+{8003}{}{Objective: Investigate head's aggressive nature.}
+{8004}{}{Chief Resident Medical Officer: Solomon M.D.}
 {8005}{}{**END-PAR**}
 {8006}{}{We had a conversation with the head of the former}
-{8007}{}{president. The conclusions are disappointing. For}
-{8008}{}{a few years of absence of natural communications}
-{8009}{}{the head had lost control of its fantasies and}
-{8010}{}{frequently takes its thoughts for the reality. The}
-{8011}{}{head has a tendency to identify itself with its}
-{8012}{}{doll. In addition to an absence of communication,}
-{8013}{}{the reasons for aggression lie in its initially}
-{8014}{}{excessively increased egocentrism.}
-{8015}{}{Head demands attention and, while not provided}
-{8016}{}{enough with it, chooses more and more radical and}
-{8017}{}{harsh measures to get the desirable.}
-{8018}{}{I'm afraid that in a few years the head may turn}
-{8019}{}{into an uncontrollable psychopath.}
-{8020}{}{}
-{8021}{}{Long-term psychological treatment is required.}
-{8022}{}{}
-{8023}{}{**END-DISK**}
+{8007}{}{president. The conclusions are disappointing. Due to}
+{8008}{}{several years of sensory deprivation, the head of the}
+{8009}{}{former president has lost control of its mental}
+{8010}{}{faculties and frequently mistakes its delusions for}
+{8011}{}{reality.}
+{8012}{}{The head has a tendency to identify itself with its}
+{8013}{}{doll. In addition to sensory deprivation,}
+{8014}{}{the reasons for aggression lie in its already}
+{8015}{}{excessively increased egocentrism. The President's}
+{8016}{}{Head demands attention and, when not provided}
+{8017}{}{with enough, it chooses more and more radical and}
+{8018}{}{harsh measures to get what it desires.}
+{8019}{}{I'm afraid that in a few years the head may turn}
+{8020}{}{into an uncontrollable psychopath.}
+{8021}{}{}
+{8022}{}{Long-term psychological treatment is required.}
+{8023}{}{}
+{8024}{}{**END-DISK**}
 
 # Gov.vault: exodus
 # GVAR_HOLODISK_ENCLAV_ISHOD (GVAR_HOLODISK_SIERRA_EVACUATION)
