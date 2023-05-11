@@ -386,25 +386,25 @@
 {7035}{}{Sept. 10, 2077}
 {7036}{}{Nuka-Cola causes people to burp more often, makes}
 {7037}{}{their tongues colored, but no one is even remotely}
-{7038}{}{worried, because everyone's having kicks with it.}
+{7038}{}{worried, because everyone's getting a kick out of it.}
 {7039}{}{A competition began for the loudest burp possible.}
 {7040}{}{Private McKinley is currently in the lead.}
 {7041}{}{}
 {7042}{}{Sept. 12, 2077. Although Private McKinley fell a}
 {7043}{}{little behind in the competition, everyone says}
 {7044}{}{that his burp, while not the loudest, is the most}
-{7045}{}{resounding. A team of musicians is recruited from}
-{7046}{}{the population that will play and sing only with}
-{7047}{}{burps of different frequencies. I think I'll fit}
+{7045}{}{resounding. A team of musicians is being recruited}
+{7046}{}{from the population that will make music with only}
+{7047}{}{burps of different notes. I think I'll fit}
 {7048}{}{perfectly for the tenor.}
 {7049}{}{}
 {7050}{}{Sept. 18, 2077. Damn! Today a general warning was}
-{7051}{}{made that the concerts of burpists are henceforth}
-{7052}{}{forbidden, because at this rates of Nuka-Cola}
-{7053}{}{consumption it won't be any left in the vault.}
-{7054}{}{Such a pity. After all, first concerts of burp -}
-{7055}{}{singers were so successful. How would we live now,}
-{7056}{}{without their unforgettable compositions?...}
+{7051}{}{issued that the burpist concerts are henceforth}
+{7052}{}{forbidden, because at this rate of Nuka-Cola}
+{7053}{}{consumption there won't be any left in the vault.}
+{7054}{}{Such a pity. After all, the first burp - singers}
+{7055}{}{concerts were so successful, how would we live now?}
+{7056}{}{Without their unforgettable compositions?...}
 {7057}{}{}
 {7058}{}{Sept. 20, 2077. Private McKinley came up with a}
 {7059}{}{new competition! Spitting from a long distance!}
