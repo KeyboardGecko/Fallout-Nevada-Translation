@@ -352,203 +352,204 @@
 {7001}{}{}
 {7002}{}{(Records were conducted with variable regularity}
 {7003}{}{for several years of residence in the vault. You}
-{7004}{}{wrote down the most interesting parts.)}
+{7004}{}{copy the most interesting parts to your pipboy.)}
 {7005}{}{}
 {7006}{}{**END-PAR**}
 {7007}{}{July 9, 2077}
-{7008}{}{Doors is locked, the vault is sealed. People have}
+{7008}{}{Doors are locked, the vault is sealed. People have}
 {7009}{}{mixed feelings about it. Some are clearly inclined}
 {7010}{}{to claustrophobia, seizures and running around the}
 {7011}{}{corridors. Doctor Bayham is overwhelmed by working}
 {7012}{}{with such idiots. After having a mental breakdown,}
-{7013}{}{the vice president left the dining room with his}
-{7014}{}{pants wet. He tries to convince everyone that it}
-{7015}{}{was a spilled Nuka-Cola. By the way, it began to}
-{7016}{}{eat away his suit. I wonder, what is it made of?}
-{7017}{}{}
-{7018}{}{July 15, 2077}
-{7019}{}{Things gradually calmed down. The President ordered}
-{7020}{}{to turn on the sound of a creek in the center of }
-{7021}{}{the lawn, opposite dining room. Now it's nice and}
-{7022}{}{peaceful there.}
-{7023}{}{}
-{7024}{}{Aug. 10, 2077}
-{7025}{}{Everybody is well accustomed to their rooms and}
-{7026}{}{don't want to get out. No one cares about anything}
-{7027}{}{except themselves. The exception is our guards -}
-{7028}{}{these poor guys have to endure exercises every}
-{7029}{}{day in the gym. They say Private McKinley refused}
-{7030}{}{to get out of bed for the training. For this the}
-{7031}{}{sergeant cut his share of Nuka-Cola. What a brutal}
-{7032}{}{punishment.}
-{7033}{}{}
-{7034}{}{Sept. 10, 2077}
-{7035}{}{Nuka-Cola causes people to burp more often, makes}
-{7036}{}{their tongues colored, but no one is even remotely}
-{7037}{}{worried, because everyone's having kicks with it.}
-{7038}{}{A competition began for the loudest burp possible.}
-{7039}{}{Private McKinley is currently in the lead.}
-{7040}{}{}
-{7041}{}{Sept. 12, 2077. Although Private McKinley fell a}
-{7042}{}{little behind in the competition, everyone says}
-{7043}{}{that his burp, while not the loudest, is the most}
-{7044}{}{resounding. A team of musicians is recruited from}
-{7045}{}{the population that will play and sing only with}
-{7046}{}{burps of different frequencies. I think I'll fit}
-{7047}{}{perfectly for the tenor.}
-{7048}{}{}
-{7049}{}{Sept. 18, 2077. Damn! Today a general warning was}
-{7050}{}{made that the concerts of burpists are henceforth}
-{7051}{}{forbidden, because at this rates of Nuka-Cola}
-{7052}{}{consumption it won't be any left in the vault.}
-{7053}{}{Such a pity. After all, first concerts of burp -}
-{7054}{}{singers were so successful. How would we live now,}
-{7055}{}{without their unforgettable compositions?...}
-{7056}{}{}
-{7057}{}{Sept. 20, 2077. Private McKinley came up with a}
-{7058}{}{new competition! Spitting from a long distance!}
-{7059}{}{Damn, it is such a great idea! I hope at least}
-{7060}{}{this one won't be forbidden!}
-{7061}{}{}
-{7062}{}{Sept. 21, 2077.}
-{7063}{}{Private McKinley became a victim of his own idea.}
-{7064}{}{While he was trying to spit the cap of a pen, the}
-{7065}{}{cap fell into the trachea of the private and}
-{7066}{}{he choked to death. Doctor Bayham says that the}
-{7067}{}{case is unique and never occured in his practice.}
-{7068}{}{Refused to pull out the cap. Poor cap... I mean,}
-{7069}{}{poor private.}
-{7070}{}{}
-{7071}{}{Sept. 27, 2077. Without private McKinley, it has}
-{7072}{}{become boring. Therefore, the overseer ordered}
-{7073}{}{to arrange parties in the dining room on Sundays.}
-{7074}{}{Cool. I hope they will give us some Nuka-Cola.}
-{7075}{}{}
-{7076}{}{Sept. 30, 2077. At the party sergeant had too much}
-{7077}{}{cola and beat the vice president. The reason was}
-{7078}{}{a dispute about whose burp was cooler - the vice}
-{7079}{}{president said that his was more sonorous, and the}
-{7080}{}{sergeant claimed that his burp worked better.}
-{7081}{}{A fistfight broke out.}
-{7082}{}{}
-{7083}{}{Sept. 31, 2077. The sergeant and vice-president}
-{7084}{}{are sitting in the dining room, like old friends.}
-{7085}{}{Probably, that's how it is.}
-{7086}{}{**END-PAR**}
-{7087}{}{*********}
-{7088}{}{}
-{7089}{}{Aug. 5, 2078. There are rumors in the vault that}
-{7090}{}{war never happened. Of course, ordinary people are}
-{7091}{}{not allowed to know this, but... what if all this}
-{7092}{}{time we were here for nothing, while the world}
-{7093}{}{outside continued to live? We need to convene a}
-{7094}{}{council, so the overseer gave us an explanation.}
-{7095}{}{}
-{7096}{}{Aug. 13, 2078. The overseer suddenly announced}
-{7097}{}{that the cola synthesizer has broken down. So,}
-{7098}{}{we are left without our favorite entertainment.}
-{7099}{}{The people are beginning to panic.}
-{7100}{}{}
-{7101}{}{Aug. 15, 2078. People got tired of waiting, so}
-{7102}{}{they started writing a petition to the president}
-{7103}{}{so the cola machine would be quickly fixed.}
-{7104}{}{}
-{7105}{}{Aug. 20, 2078. Out of nothing to do, residents}
-{7106}{}{began to write petitions to the president.}
-{7107}{}{I wrote that I want the walls painted in blue and}
-{7108}{}{the neighbor asked for a rope and a piece of soap.}
-{7109}{}{I wonder, why he needs them.}
-{7110}{}{}
-{7111}{}{Aug. 27, 2078.}
-{7112}{}{God dammit! Why did my neighbor's request was }
-{7113}{}{fulfilled, but not mine? I am so disappointed!}
-{7114}{}{What do these damn bureaucrats do in their goddamn}
-{7115}{}{office! Maybe I should write another petition?}
-{7116}{}{}
-{7117}{}{**END-PAR**}
-{7118}{}{}
-{7119}{}{*********}
-{7120}{}{}
-{7121}{}{Feb. 5, 2086. The situation is just crappy! The}
-{7122}{}{vault is divided into two camps. Some defend the}
-{7123}{}{sergeant with his policy of "staying put," while}
-{7124}{}{others support the vice president, who calls for}
-{7125}{}{leaving the vault to help those in need after the}
-{7126}{}{war in the outside world. I do not think it's worth}
-{7127}{}{sharing our technology with all these radioactive}
-{7128}{}{zombies. So far, there are only the overseer and}
-{7129}{}{the president, who remained silent about their}
-{7130}{}{thoughts on this matter.}
-{7131}{}{}
-{7132}{}{March 12, 2086. The fights became so intense that}
-{7133}{}{they will soon split the dining room in two!}
-{7134}{}{}
-{7135}{}{March 13, 2086. It's over. This is the end. Today,}
-{7136}{}{after massive consumption of cola, a huge battle }
-{7137}{}{between factions broke out. They fought with bare}
-{7138}{}{hands, some with chairs. Why are people so mad?}
-{7139}{}{Maybe it has something to do with Nuka-Cola?}
-{7140}{}{}
-{7141}{}{March 14, 2086. Factions, my ass!}
-{7142}{}{They got drunk again! Got in a fight AGAIN!}
-{7143}{}{Sergeant hit the president himself! With chair,}
-{7144}{}{right in the head! And it suddenly fell off!!}
-{7145}{}{So, what happens now?...}
-{7146}{}{}
-{7147}{}{March 15, 2086. Factions made a temporary truce to}
-{7148}{}{solve problem of not having the president around.}
-{7149}{}{To be precise, the problem is being solved only by}
-{7150}{}{the overseer and doctor Bayham. They decided to}
-{7151}{}{connect the ripped-off head to some cables, so}
-{7152}{}{they could try to reanimate it. God knows who}
-{7153}{}{needed that, but the idea is quite curious!}
-{7154}{}{}
-{7155}{}{March 20, 2086. Who would have thought?! Today was }
-{7156}{}{the grand ceremonial turning-on of president's}
-{7157}{}{head. And the first words that the head delivered}
-{7158}{}{when tumblers switched were: "Goddamn assholes! }
-{7159}{}{Where is my doll?!" It was found in president's }
-{7160}{}{office, then the head calmed down. I say, everyone }
-{7161}{}{expected a little different reaction.}
-{7162}{}{}
-{7163}{}{**END-PAR**}
-{7164}{}{April 1, 2087. The head is unbearable!}
-{7165}{}{It turns out, all this time it subdued computer}
-{7166}{}{systems of the vault. Now we have morbid jokes}
-{7167}{}{from loudspeakers, and our donut making machine}
-{7168}{}{bakes donuts shaped like hangman's noose.}
-{7169}{}{It's time to do something! We are too scared to}
-{7170}{}{leave our rooms!}
-{7171}{}{}
-{7172}{}{July 3, 2087. That's it! This hairless bodiless}
-{7173}{}{ugly freak annoyed even the overseer! Tomorrow we}
-{7174}{}{convene a council meeting to decide what to do}
-{7175}{}{with this ripped piece of head.}
-{7176}{}{}
-{7177}{}{July 4, 2087. Council... doesn't have a decision.}
-{7178}{}{It turns out, we can't just switch the head off.}
-{7179}{}{The head became so grown into the vault's network} 
-{7180}{}{that somehow manages to control even the power}
-{7181}{}{supply. Long story short, I don't know how long,} 
-{7182}{}{but the question remains opened.}
-{7183}{}{}
-{7184}{}{Jan. 10, 2090. For the last few years we sat in}
-{7185}{}{our rooms having almost no communications. Head's} 
-{7186}{}{stupid jokes had been replaced by direct threats}
-{7187}{}{It constantly complains about not being listened} 
-{7188}{}{to, not being groomed, not scratching its heels.}
-{7189}{}{The place became dangerous. The head has a mental} 
-{7190}{}{breakdown, like we all are. Some say that it even}
-{7191}{}{controls the security turrets a little.}
-{7192}{}{I wonder if it's true.}
-{7193}{}{}
-{7194}{}{**END-PAR**}
-{7195}{}{Jan 15, 2090. We are leaving.}
-{7196}{}{Farewell, donut making machine.}
-{7197}{}{Farewell, Nuka-Cola.}
-{7198}{}{I will never forget you.}
-{7199}{}{}
-{7200}{}{**END-DISK**}
+{7013}{}{the vice president left the dining room with a wet}
+{7014}{}{stain on his pants. He tried to convince everyone}
+{7015}{}{that it was a spilled Nuka-Cola. By the way, it }
+{7016}{}{began to eat away his vault suit. I wonder what }
+{7017}{}{this stuff is made of?}
+{7018}{}{}
+{7019}{}{July 15, 2077}
+{7020}{}{Things gradually calmed down. The President ordered}
+{7021}{}{the sound of a creek to be played in the center of }
+{7022}{}{the lawn, opposite the dining room. Now it's nice and}
+{7023}{}{peaceful there.}
+{7024}{}{}
+{7025}{}{Aug. 10, 2077}
+{7026}{}{Everybody is well accustomed to their rooms and}
+{7027}{}{don't want to leave. No one cares about anything}
+{7028}{}{except themselves. The exception is our guards -}
+{7029}{}{these poor guys have to endure exercises every}
+{7030}{}{day in the gym. They say Private McKinley refused}
+{7031}{}{to get out of bed for his training. In response}
+{7032}{}{the sergeant cut his ration of Nuka-Cola. What a }
+{7033}{}{brutal punishment.}
+{7034}{}{}
+{7035}{}{Sept. 10, 2077}
+{7036}{}{Nuka-Cola causes people to burp more often, makes}
+{7037}{}{their tongues colored, but no one is even remotely}
+{7038}{}{worried, because everyone's having kicks with it.}
+{7039}{}{A competition began for the loudest burp possible.}
+{7040}{}{Private McKinley is currently in the lead.}
+{7041}{}{}
+{7042}{}{Sept. 12, 2077. Although Private McKinley fell a}
+{7043}{}{little behind in the competition, everyone says}
+{7044}{}{that his burp, while not the loudest, is the most}
+{7045}{}{resounding. A team of musicians is recruited from}
+{7046}{}{the population that will play and sing only with}
+{7047}{}{burps of different frequencies. I think I'll fit}
+{7048}{}{perfectly for the tenor.}
+{7049}{}{}
+{7050}{}{Sept. 18, 2077. Damn! Today a general warning was}
+{7051}{}{made that the concerts of burpists are henceforth}
+{7052}{}{forbidden, because at this rates of Nuka-Cola}
+{7053}{}{consumption it won't be any left in the vault.}
+{7054}{}{Such a pity. After all, first concerts of burp -}
+{7055}{}{singers were so successful. How would we live now,}
+{7056}{}{without their unforgettable compositions?...}
+{7057}{}{}
+{7058}{}{Sept. 20, 2077. Private McKinley came up with a}
+{7059}{}{new competition! Spitting from a long distance!}
+{7060}{}{Damn, it is such a great idea! I hope at least}
+{7061}{}{this one won't be forbidden!}
+{7062}{}{}
+{7063}{}{Sept. 21, 2077.}
+{7064}{}{Private McKinley became a victim of his own idea.}
+{7065}{}{While he was trying to spit the cap of a pen, the}
+{7066}{}{cap fell into the trachea of the private and}
+{7067}{}{he choked to death. Doctor Bayham says that the}
+{7068}{}{case is unique and never occured in his practice.}
+{7069}{}{Refused to pull out the cap. Poor cap... I mean,}
+{7070}{}{poor private.}
+{7071}{}{}
+{7072}{}{Sept. 27, 2077. Without private McKinley, it has}
+{7073}{}{become boring. Therefore, the overseer ordered}
+{7074}{}{to arrange parties in the dining room on Sundays.}
+{7075}{}{Cool. I hope they will give us some Nuka-Cola.}
+{7076}{}{}
+{7077}{}{Sept. 30, 2077. At the party sergeant had too much}
+{7078}{}{cola and beat the vice president. The reason was}
+{7079}{}{a dispute about whose burp was cooler - the vice}
+{7080}{}{president said that his was more sonorous, and the}
+{7081}{}{sergeant claimed that his burp worked better.}
+{7082}{}{A fistfight broke out.}
+{7083}{}{}
+{7084}{}{Sept. 31, 2077. The sergeant and vice-president}
+{7085}{}{are sitting in the dining room, like old friends.}
+{7086}{}{Probably, that's how it is.}
+{7087}{}{**END-PAR**}
+{7088}{}{*********}
+{7089}{}{}
+{7090}{}{Aug. 5, 2078. There are rumors in the vault that}
+{7091}{}{war never happened. Of course, ordinary people are}
+{7092}{}{not allowed to know this, but... what if all this}
+{7093}{}{time we were here for nothing, while the world}
+{7094}{}{outside continued to live? We need to convene a}
+{7095}{}{council, so the overseer gave us an explanation.}
+{7096}{}{}
+{7097}{}{Aug. 13, 2078. The overseer suddenly announced}
+{7098}{}{that the cola synthesizer has broken down. So,}
+{7099}{}{we are left without our favorite entertainment.}
+{7100}{}{The people are beginning to panic.}
+{7101}{}{}
+{7102}{}{Aug. 15, 2078. People got tired of waiting, so}
+{7103}{}{they started writing a petition to the president}
+{7104}{}{so the cola machine would be quickly fixed.}
+{7105}{}{}
+{7106}{}{Aug. 20, 2078. Out of nothing to do, residents}
+{7107}{}{began to write petitions to the president.}
+{7108}{}{I wrote that I want the walls painted in blue and}
+{7109}{}{the neighbor asked for a rope and a piece of soap.}
+{7110}{}{I wonder, why he needs them.}
+{7111}{}{}
+{7112}{}{Aug. 27, 2078.}
+{7113}{}{God dammit! Why did my neighbor's request was }
+{7114}{}{fulfilled, but not mine? I am so disappointed!}
+{7115}{}{What do these damn bureaucrats do in their goddamn}
+{7116}{}{office! Maybe I should write another petition?}
+{7117}{}{}
+{7118}{}{**END-PAR**}
+{7119}{}{}
+{7120}{}{*********}
+{7121}{}{}
+{7122}{}{Feb. 5, 2086. The situation is just crappy! The}
+{7123}{}{vault is divided into two camps. Some defend the}
+{7124}{}{sergeant with his policy of "staying put," while}
+{7125}{}{others support the vice president, who calls for}
+{7126}{}{leaving the vault to help those in need after the}
+{7127}{}{war in the outside world. I do not think it's worth}
+{7128}{}{sharing our technology with all these radioactive}
+{7129}{}{zombies. So far, there are only the overseer and}
+{7130}{}{the president, who remained silent about their}
+{7131}{}{thoughts on this matter.}
+{7132}{}{}
+{7133}{}{March 12, 2086. The fights became so intense that}
+{7134}{}{they will soon split the dining room in two!}
+{7135}{}{}
+{7136}{}{March 13, 2086. It's over. This is the end. Today,}
+{7137}{}{after massive consumption of cola, a huge battle }
+{7138}{}{between factions broke out. They fought with bare}
+{7139}{}{hands, some with chairs. Why are people so mad?}
+{7140}{}{Maybe it has something to do with Nuka-Cola?}
+{7141}{}{}
+{7142}{}{March 14, 2086. Factions, my ass!}
+{7143}{}{They got drunk again! Got in a fight AGAIN!}
+{7144}{}{Sergeant hit the president himself! With chair,}
+{7145}{}{right in the head! And it suddenly fell off!!}
+{7146}{}{So, what happens now?...}
+{7147}{}{}
+{7148}{}{March 15, 2086. Factions made a temporary truce to}
+{7149}{}{solve problem of not having the president around.}
+{7150}{}{To be precise, the problem is being solved only by}
+{7151}{}{the overseer and doctor Bayham. They decided to}
+{7152}{}{connect the ripped-off head to some cables, so}
+{7153}{}{they could try to reanimate it. God knows who}
+{7154}{}{needed that, but the idea is quite curious!}
+{7155}{}{}
+{7156}{}{March 20, 2086. Who would have thought?! Today was }
+{7157}{}{the grand ceremonial turning-on of president's}
+{7158}{}{head. And the first words that the head delivered}
+{7159}{}{when tumblers switched were: "Goddamn assholes! }
+{7160}{}{Where is my doll?!" It was found in president's }
+{7161}{}{office, then the head calmed down. I say, everyone }
+{7162}{}{expected a little different reaction.}
+{7163}{}{}
+{7164}{}{**END-PAR**}
+{7165}{}{April 1, 2087. The head is unbearable!}
+{7166}{}{It turns out, all this time it subdued computer}
+{7167}{}{systems of the vault. Now we have morbid jokes}
+{7168}{}{from loudspeakers, and our donut making machine}
+{7169}{}{bakes donuts shaped like hangman's noose.}
+{7170}{}{It's time to do something! We are too scared to}
+{7171}{}{leave our rooms!}
+{7172}{}{}
+{7173}{}{July 3, 2087. That's it! This hairless bodiless}
+{7174}{}{ugly freak annoyed even the overseer! Tomorrow we}
+{7175}{}{convene a council meeting to decide what to do}
+{7176}{}{with this ripped piece of head.}
+{7177}{}{}
+{7178}{}{July 4, 2087. Council... doesn't have a decision.}
+{7179}{}{It turns out, we can't just switch the head off.}
+{7180}{}{The head became so grown into the vault's network} 
+{7181}{}{that somehow manages to control even the power}
+{7182}{}{supply. Long story short, I don't know how long,} 
+{7183}{}{but the question remains opened.}
+{7184}{}{}
+{7185}{}{Jan. 10, 2090. For the last few years we sat in}
+{7186}{}{our rooms having almost no communications. Head's} 
+{7187}{}{stupid jokes had been replaced by direct threats}
+{7188}{}{It constantly complains about not being listened} 
+{7189}{}{to, not being groomed, not scratching its heels.}
+{7190}{}{The place became dangerous. The head has a mental} 
+{7191}{}{breakdown, like we all are. Some say that it even}
+{7192}{}{controls the security turrets a little.}
+{7193}{}{I wonder if it's true.}
+{7194}{}{}
+{7195}{}{**END-PAR**}
+{7196}{}{Jan 15, 2090. We are leaving.}
+{7197}{}{Farewell, donut making machine.}
+{7198}{}{Farewell, Nuka-Cola.}
+{7199}{}{I will never forget you.}
+{7200}{}{}
+{7201}{}{**END-DISK**}
 
 # Gov. vault: Presidential Medical Report
 # GVAR_HOLODISK_ENCLAV_MED (GVAR_HOLODISK_SIERRA_MED_LOG)
