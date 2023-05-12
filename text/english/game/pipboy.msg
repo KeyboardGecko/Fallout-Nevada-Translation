@@ -350,8 +350,8 @@
 # GVAR_HOLODISK_ENCLAV_DIARY (GVAR_HOLODISK_SIERRA_EXP_LOG)
 {7000}{}{Records from Mr. Stapleton's diary}
 {7001}{}{}
-{7002}{}{(Records were conducted with variable regularity}
-{7003}{}{for several years of residence in the vault. You}
+{7002}{}{(Records were written with variable regularity}
+{7003}{}{over several years of living in the vault. You}
 {7004}{}{copy the most interesting parts to your pipboy.)}
 {7005}{}{}
 {7006}{}{**END-PAR**}
@@ -420,21 +420,21 @@
 {7069}{}{He refused to pull out the cap. Poor cap... I mean,}
 {7070}{}{poor private.}
 {7071}{}{}
-{7072}{}{Sept. 27, 2077. Without private McKinley, it has}
-{7073}{}{become boring. Therefore, the overseer ordered}
-{7074}{}{to arrange parties in the dining room on Sundays.}
-{7075}{}{Cool. I hope they will give us some Nuka-Cola.}
+{7072}{}{Sept. 27, 2077. Without private McKinley, this}
+{7073}{}{vault is so boring. Therefore, the overseer ordered}
+{7074}{}{parties in the dining room every Sunday.}
+{7075}{}{Cool. I hope they give us some Nuka-Cola.}
 {7076}{}{}
-{7077}{}{Sept. 30, 2077. At the party sergeant had too much}
-{7078}{}{cola and beat the vice president. The reason was}
-{7079}{}{a dispute about whose burp was cooler - the vice}
+{7077}{}{Sept. 30, 2077. At the party the sergeant had too much}
+{7078}{}{cola and beat the vice president up. The two had a}
+{7079}{}{dispute about whose burp was cooler - the vice}
 {7080}{}{president said that his was more sonorous, and the}
 {7081}{}{sergeant claimed that his burp worked better.}
 {7082}{}{A fistfight broke out.}
 {7083}{}{}
 {7084}{}{Sept. 31, 2077. The sergeant and vice-president}
 {7085}{}{are sitting in the dining room, like old friends.}
-{7086}{}{Probably, that's how it is.}
+{7086}{}{That's probably how it actually is.}
 {7087}{}{**END-PAR**}
 {7088}{}{*********}
 {7089}{}{}
@@ -443,7 +443,7 @@
 {7092}{}{not allowed to know this, but... what if all this}
 {7093}{}{time we were here for nothing, while the world}
 {7094}{}{outside continued to live? We need to convene a}
-{7095}{}{council, so the overseer gave us an explanation.}
+{7095}{}{council, so the overseer can give us an explanation.}
 {7096}{}{}
 {7097}{}{Aug. 13, 2078. The overseer suddenly announced}
 {7098}{}{that the cola synthesizer has broken down. So,}
@@ -452,16 +452,16 @@
 {7101}{}{}
 {7102}{}{Aug. 15, 2078. People got tired of waiting, so}
 {7103}{}{they started writing a petition to the president}
-{7104}{}{so the cola machine would be quickly fixed.}
+{7104}{}{to get the cola machine fixed quickly.}
 {7105}{}{}
-{7106}{}{Aug. 20, 2078. Out of nothing to do, residents}
+{7106}{}{Aug. 20, 2078. With nothing else to do, residents}
 {7107}{}{began to write petitions to the president.}
-{7108}{}{I wrote that I want the walls painted in blue and}
+{7108}{}{I wrote that I want the walls painted blue and}
 {7109}{}{the neighbor asked for a rope and a piece of soap.}
-{7110}{}{I wonder, why he needs them.}
+{7110}{}{I wonder why he needs them.}
 {7111}{}{}
 {7112}{}{Aug. 27, 2078.}
-{7113}{}{God dammit! Why did my neighbor's request was }
+{7113}{}{God dammit! Why was my neighbor's request}
 {7114}{}{fulfilled, but not mine? I am so disappointed!}
 {7115}{}{What do these damn bureaucrats do in their goddamn}
 {7116}{}{office! Maybe I should write another petition?}
@@ -475,73 +475,73 @@
 {7124}{}{sergeant with his policy of "staying put," while}
 {7125}{}{others support the vice president, who calls for}
 {7126}{}{leaving the vault to help those in need after the}
-{7127}{}{war in the outside world. I do not think it's worth}
-{7128}{}{sharing our technology with all these radioactive}
-{7129}{}{zombies. So far, there are only the overseer and}
-{7130}{}{the president, who remained silent about their}
+{7127}{}{war in the outside world. I don't think it's worth}
+{7128}{}{sharing our technology with all those radioactive}
+{7129}{}{zombies. So far, only the overseer and}
+{7130}{}{the president remain silent about their}
 {7131}{}{thoughts on this matter.}
 {7132}{}{}
 {7133}{}{March 12, 2086. The fights became so intense that}
-{7134}{}{they will soon split the dining room in two!}
+{7134}{}{they threaten to split the dining room in two!}
 {7135}{}{}
 {7136}{}{March 13, 2086. It's over. This is the end. Today,}
 {7137}{}{after massive consumption of cola, a huge battle }
-{7138}{}{between factions broke out. They fought with bare}
-{7139}{}{hands, some with chairs. Why are people so mad?}
-{7140}{}{Maybe it has something to do with Nuka-Cola?}
+{7138}{}{broke out between factions. Some fought bare}
+{7139}{}{handed, some with chairs. Why are people so mad?}
+{7140}{}{Maybe it has something to do with the Nuka-Cola?}
 {7141}{}{}
 {7142}{}{March 14, 2086. Factions, my ass!}
 {7143}{}{They got drunk again! Got in a fight AGAIN!}
-{7144}{}{Sergeant hit the president himself! With chair,}
+{7144}{}{Sergeant hit the president himself! With a chair,}
 {7145}{}{right in the head! And it suddenly fell off!!}
 {7146}{}{So, what happens now?...}
 {7147}{}{}
-{7148}{}{March 15, 2086. Factions made a temporary truce to}
-{7149}{}{solve problem of not having the president around.}
-{7150}{}{To be precise, the problem is being solved only by}
-{7151}{}{the overseer and doctor Bayham. They decided to}
-{7152}{}{connect the ripped-off head to some cables, so}
+{7148}{}{March 15, 2086. The factions made a temporary truce}
+{7149}{}{to solve the problem of not having the president}
+{7150}{}{around. To be precise, the problem is being solved}
+{7151}{}{by the overseer and doctor Bayham alone. They decided}
+{7152}{}{to connect the ripped-off head to some cables, so}
 {7153}{}{they could try to reanimate it. God knows who}
-{7154}{}{needed that, but the idea is quite curious!}
+{7154}{}{thought of that, but the idea is quite curious!}
 {7155}{}{}
 {7156}{}{March 20, 2086. Who would have thought?! Today was }
-{7157}{}{the grand ceremonial turning-on of president's}
-{7158}{}{head. And the first words that the head delivered}
-{7159}{}{when tumblers switched were: "Goddamn assholes! }
-{7160}{}{Where is my doll?!" It was found in president's }
+{7157}{}{the grand ceremonial turning-on of president's head.}
+{7158}{}{And the first words the head delivered when the}
+{7159}{}{tumblers were switched on were: "Goddamn assholes! }
+{7160}{}{Where is my doll?!" It was found in the president's }
 {7161}{}{office, then the head calmed down. I say, everyone }
 {7162}{}{expected a little different reaction.}
 {7163}{}{}
 {7164}{}{**END-PAR**}
 {7165}{}{April 1, 2087. The head is unbearable!}
-{7166}{}{It turns out, all this time it subdued computer}
-{7167}{}{systems of the vault. Now we have morbid jokes}
-{7168}{}{from loudspeakers, and our donut making machine}
-{7169}{}{bakes donuts shaped like hangman's noose.}
-{7170}{}{It's time to do something! We are too scared to}
+{7166}{}{It turns out, all this time it controlled the}
+{7167}{}{computer systems of the vault. Now we have morbid }
+{7168}{}{jokes from the loudspeakers, and our donut making }
+{7169}{}{machine bakes donuts shaped like a hangman's noose.}
+{7170}{}{It's time to do something! But we're too scared to}
 {7171}{}{leave our rooms!}
 {7172}{}{}
 {7173}{}{July 3, 2087. That's it! This hairless bodiless}
 {7174}{}{ugly freak annoyed even the overseer! Tomorrow we}
 {7175}{}{convene a council meeting to decide what to do}
-{7176}{}{with this ripped piece of head.}
+{7176}{}{with this ripped off head.}
 {7177}{}{}
 {7178}{}{July 4, 2087. Council... doesn't have a decision.}
 {7179}{}{It turns out, we can't just switch the head off.}
-{7180}{}{The head became so grown into the vault's network} 
-{7181}{}{that somehow manages to control even the power}
+{7180}{}{The head has become so integrated into the vault's} 
+{7181}{}{network that it can even control the power}
 {7182}{}{supply. Long story short, I don't know how long,} 
-{7183}{}{but the question remains opened.}
+{7183}{}{but the council remains undecided.}
 {7184}{}{}
 {7185}{}{Jan. 10, 2090. For the last few years we sat in}
-{7186}{}{our rooms having almost no communications. Head's} 
-{7187}{}{stupid jokes had been replaced by direct threats}
+{7186}{}{our rooms with almost no communication. The head's} 
+{7187}{}{stupid jokes have been replaced by direct threats}
 {7188}{}{It constantly complains about not being listened} 
 {7189}{}{to, not being groomed, not scratching its heels.}
-{7190}{}{The place became dangerous. The head has a mental} 
-{7191}{}{breakdown, like we all are. Some say that it even}
-{7192}{}{controls the security turrets a little.}
-{7193}{}{I wonder if it's true.}
+{7190}{}{The place has become dangerous. The head is having} 
+{7191}{}{a mental breakdown, like we all are. Some say that}
+{7192}{}{it even controls the security turrets a little.}
+{7193}{}{I wonder if that's true.}
 {7194}{}{}
 {7195}{}{**END-PAR**}
 {7196}{}{Jan 15, 2090. We are leaving.}
