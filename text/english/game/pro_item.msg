@@ -783,7 +783,7 @@
 {40200}{}{Magneto-Laser Pistol}
 {40201}{}{This Wattz 1000 laser pistol has been upgraded with a magnetic field targeting system that tightens the laser emission, giving this pistol extra penetrating power. Min. ST: 3.}
 {40300}{}{Henry's Rifle}
-{40301}{}{Old, but still reliable carbine, designed in the era of the "gold rush." Being a popular sports weapon, an object of collectibles and show-off, was made up to the Great War for the civilian population. Min. ST: 4.}
+{40301}{}{An old, but still reliable carbine, designed in the "gold rush" era. Being a popular sports weapon, an object for collectors and show-offs, it was made for the civilian population until to the Great War. Min. ST: 4.}
 {40400}{}{Desert Eagle (Exp. Mag.)}
 {40401}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. This one has been equipped with an expanded magazine for longer fun and games! Min. ST: 5.}
 {40500}{}{Assault Rifle (Exp. Mag.)}
@@ -1200,10 +1200,10 @@
 {62501}{}{American submachine gun produced in the middle of last century. The police version is distinguished by the front handle, partially finned trunk and a fly without a nouvelle. Min. ST: 5.}
 {62600}{}{Rocket launcher}
 {62601}{}{Unclaimed Rockwell Hand grenade launcher. 40 mm caliber. Simple in handling, but requires considerable strength to use effectively. Min. ST: 5.}
-{62700}{}{Grenade launcher 40 mm}
-{62701}{}{Hand grenade Rockwell launcher, created in continuation of the ancient models of the Springfield arsenal. Designed for strong soldiers. Min. ST: 6.}
-{62800}{}{Grenade launcher 40 mm (ext. mag)}
-{62801}{}{Rockwell Hand grenade launcher, created in continuation of the ancient models of the Springfield arsenal. Equipped with a cylinder magazine for 6 shells. Min. ST: 7.}
+{62700}{}{Grenade launcher 40mm}
+{62701}{}{Rockwell Hand grenade launcher, created based on the ancient models from the Springfield arsenal. Designed for strong soldiers. Min. ST: 6.}
+{62800}{}{Grenade launcher 40mm (ext. mag)}
+{62801}{}{Rockwell Hand grenade launcher, created based on the ancient models from the Springfield arsenal. Equipped with a cylinder magazine for 6 shells. Min. ST: 7.}
 {62900}{}{Reinforced jacket}
 {62901}{}{Black strong leather jacket, reinforced with various armored plates.}
 {63000}{}{Hand made jacket}
