@@ -399,25 +399,25 @@
 {7048}{}{perfectly for the tenor.}
 {7049}{}{}
 {7050}{}{Sept. 18, 2077. Damn! Today a general warning was}
-{7051}{}{issued that the burpist concerts are henceforth}
-{7052}{}{forbidden, because at this rate of Nuka-Cola}
+{7051}{}{issued stating the burpist concerts are henceforth}
+{7052}{}{forbidden, because at their rate of Nuka-Cola}
 {7053}{}{consumption there won't be any left in the vault.}
 {7054}{}{Such a pity. After all, the first burp - singers}
 {7055}{}{concerts were so successful, how would we live now?}
 {7056}{}{Without their unforgettable compositions?...}
 {7057}{}{}
 {7058}{}{Sept. 20, 2077. Private McKinley came up with a}
-{7059}{}{new competition! Spitting from a long distance!}
-{7060}{}{Damn, it is such a great idea! I hope at least}
+{7059}{}{new competition! Long distance spitting!}
+{7060}{}{Damn, it's such a great idea! I hope at least}
 {7061}{}{this one won't be forbidden!}
 {7062}{}{}
 {7063}{}{Sept. 21, 2077.}
 {7064}{}{Private McKinley became a victim of his own idea.}
-{7065}{}{While he was trying to spit the cap of a pen, the}
-{7066}{}{cap fell into the trachea of the private and}
-{7067}{}{he choked to death. Doctor Bayham says that the}
-{7068}{}{case is unique and never occured in his practice.}
-{7069}{}{Refused to pull out the cap. Poor cap... I mean,}
+{7065}{}{While he was trying to spit the cap of a pen, he}
+{7066}{}{swallowed the cap, it got stuck in his trachea and}
+{7067}{}{he choked to death. Doctor Bayham says this case}
+{7068}{}{is unique and has never occured in his practice.}
+{7069}{}{He refused to pull out the cap. Poor cap... I mean,}
 {7070}{}{poor private.}
 {7071}{}{}
 {7072}{}{Sept. 27, 2077. Without private McKinley, it has}
