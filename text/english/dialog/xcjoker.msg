@@ -24,7 +24,7 @@
 {119}{}{She's not getting away this time. Men! Get in position!}
 
 #Dialogue between Reaper and MC
-{120}{}{Citizen, you have trespassed on governmental property. Walk out with your hands up or we'll open fire.}
+{120}{}{Citizen, you have trespassed on government property. Walk out with your hands up or we'll open fire.}
 {121}{}{Who the hell are you, anyway!?}
 {122}{}{I repeat. Resistance is futile. All exits have been cut off. We will let you live if you lay down your arms and come out with your hands up.}
 {123}{}{(Talk about bad luck...)}
@@ -37,26 +37,26 @@
 {128}{}{Hm. You're bluffing. I can hear it in your head.}
 {129}{}{Hear? Somehow, I doubt that...}
 
-{130}{}{Surrender peacefully. It'll be better for everyone. A bullet in your body won't prevent me from getting the information I need from you. Will just make it... Messier.}
-{131}{}{Surrender peacefully. It'll be better for everyone. A bullet in your body won't prevent me from getting the information I need from you. Will just make it... Messier.}
+{130}{}{Surrender peacefully. It'll be better for everyone. A bullet in your body won't prevent me from getting the information I need from you. It will just make it... Messier.}
+{131}{}{Surrender peacefully. It'll be better for everyone. A bullet in your body won't prevent me from getting the information I need from you. It will just make it... Messier.}
 {132}{}{First, I want answers... Reaper. That's your codename, isn't it?}
 {133}{}{Is that a threat? Looks like you're going to kill me anyway. Fine, I'll think about it...}
 
-{134}{}{[He snorts at your pathetic bad-assery] Ask.}
+{134}{}{[He snorts at your pathetic attempt at bad-assery] Ask.}
 {135}{}{Who are you?}
-{136}{}{What are you doing to so-called "pure bodies"?}
+{136}{}{What are you doing with our so-called "pure bodies"?}
 {137}{}{Why did you need the Overseer?}
-{138}{}{Why do you need the device for?}
+{138}{}{What do you need the device for?}
 
 {139}{}{My callsign is Reaper of Souls. My real name is Jason Bayham. As you can see, the answers gave you nothing.}
-{140}{}{I take the most valuable. The rest goes towards guard rations.}
+{140}{}{I take the most valuable. The rest go towards guard rations.}
 {141}{}{He knew how to use the device. Now I do. He did his job, and you're here. There's only one thing I need now, and you're going to give it to me.}
-{142}{}{I need the data to make bodies. This world is drowning in filth. The humanity needs to evolve.}
+{142}{}{I need the data to make bodies. This world is drowning in filth. Humanity needs to evolve.}
 {143}{}{So, you need a supply of pure bodies. For what? To keep experimenting? To "shape" humans as you see fit? You think it's for you to decide?}
-{144}{}{Look at me. I've lived far longer than anyone. I am beyond what you are able to comprehend. The future. The owners of this vault didn't understand... But their reasoning meant nothing to me. So as yours. Now stop wasting my time.}
+{144}{}{Look at me. I've lived far longer than anyone. I am beyond what you are able to comprehend. The future. The owners of this vault didn't understand... But their reasoning meant nothing to me. So does yours. Now stop wasting my time.}
 
 {165}{}{You're pathetic. Time to end this.}
-{166}{}{Hey, we've only just began!...}
+{166}{}{Hey, we've only just begun!...}
 {167}{}{You know what, I don't care. Just go fuck yourself.}
 {168}{}{Stop wasting my time.}
 
@@ -75,5 +75,5 @@
 
 #Female version:
 {1112}{}{I'll talk! I'll talk! She went towards that vault on the other side of the bridge! Just let me go!}
-{1120}{}{Citizen, you have trespassed on governmental property. Walk out with your hands up or we'll open fire.}
+{1120}{}{Citizen, you have trespassed on government property. Walk out with your hands up or we'll open fire.}
 {1126}{}{Oh no, you didn't say why I should surrender *alive*. I guess it has something to do with that shiny device from my vault. You want it, don't you? And you think I have it on me. What if I don't? If you kill me, you'll never find it.}
