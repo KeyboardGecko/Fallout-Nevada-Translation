@@ -581,12 +581,12 @@
 
 # Gov.vault: exodus
 # GVAR_HOLODISK_ENCLAV_ISHOD (GVAR_HOLODISK_SIERRA_EVACUATION)
-{9000}{}{This disk contains various information}
-{9001}{}{from main terminal of government vault,}
-{9002}{}{including records about last days before "exodus" -}
+{9000}{}{This disk contains various information from the}
+{9001}{}{main terminal of the government vault, including}
+{9002}{}{records about the last days before the "exodus" }
 {9003}{}{event, which led its habitants to leave the vault.}
 {9004}{}{ }
-{9005}{}{The main point is that vault was built for the}
+{9005}{}{The main point is that the vault was built for the}
 {9006}{}{government elite of United States, including the}
 {9007}{}{president his family and service staff. The vault}
 {9008}{}{has been equipped with the latest technologies,}
@@ -595,36 +595,36 @@
 {9011}{}{took place - his head was torn off. The head was}
 {9012}{}{then reanimated in the lab by a local doctor, in}
 {9013}{}{his words "to preserve all the innermost knowledge}
-{9014}{}{the president had", but, as time passed, it became}
+{9014}{}{the president had". But, as time passed, it became}
 {9015}{}{too egocentric when lacking attention for too long}
 {9016}{}{which also contributed to its increasingly abusive}
 {9017}{}{behavior. Banter and jokes about the inhabitants}
-{9018}{}{of the vault were replaced by threats to health}
-{9019}{}{and life. Recommendations to turn the head off was}
-{9020}{}{overly late; the head somehow managed to subjugate}
+{9018}{}{of the vault were replaced by threats to their }
+{9019}{}{lives. Recommendations to turn the head off were}
+{9020}{}{overly late, the head somehow managed to subjugate}
 {9021}{}{the vault's network and robotics, including its}
-{9022}{}{defense systems. Any further misstep could have}
-{9023}{}{been vital to the inhabitants of the vault. In the}
-{9024}{}{end, a decision to leave the place was made, with}
-{9025}{}{an intent to relocate to the governmental reserve}
+{9022}{}{defensive systems. Any further misstep would have}
+{9023}{}{been deadly to the inhabitants of the vault. In the}
+{9024}{}{end, a decision was made to leave the place, with}
+{9025}{}{the intent to relocate to the government reserve}
 {9026}{}{base on an oil rig, far out in the ocean. On the}
 {9027}{}{day of departure, however, the head tried to stop} 
 {9028}{}{the fugitives.}
 {9029}{}{}
 {9030}{}{A group of security guards decided to destroy the}
 {9031}{}{head's storage tank, but when they got into the}
-{9032}{}{laboratory, the battle with the head-controlled}
-{9033}{}{security turrets ensued, which led to all guards}
-{9034}{}{being killed. After that, the head tried to kill}
-{9035}{}{everyone turrets could get. Still, most of the}
-{9036}{}{dwellers made it to safety, including the current}
-{9037}{}{president. They managed to take the most valuable}
-{9038}{}{equipment and machinery, and get away.}
+{9032}{}{laboratory, a battle with the head-controlled}
+{9033}{}{security turrets ensued, which led to the death of}
+{9034}{}{all the guards. After that, the president tried to}
+{9035}{}{kill everyone the turrets could get to. Still, most}
+{9036}{}{of the dwellers made it to safety, including the}
+{9037}{}{current president. They managed to take the most}
+{9038}{}{valuable equipment and machinery, and get away.}
 {9039}{}{}
 {9040}{}{The vault has been abandoned.}
 {9041}{}{}
 {9042}{}{Strangely enough, the holodisk holds information}
-{9043}{}{about an extensive usage of the vault's remaining}
+{9043}{}{about the extensive usage of the vault's remaining}
 {9044}{}{systems after the exodus. The logs indicate that}
 {9045}{}{it was done under a single account - "Bayham J.".}
 {9046}{}{}
