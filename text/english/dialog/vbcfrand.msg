@@ -6,7 +6,7 @@
 {105}{}{I'm glad to see you!}
 {106}{}{I'm glad to see you!}
 
-#Первый диалог
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
 
 {110}{}{[You see a cute, quiet girl] Oh, it's you... It's so nice to see you. So many people are afraid to go outside, but not you, you're so...}
 {111}{}{What are you doing here?}
@@ -44,7 +44,7 @@
 {137}{}{I'm sorry, but... Do I know you?}
 {138}{}{Oh, yes... I remember how you were dragged here to Doctor Willmouth. He told me you forgot almost everything. I'm sorry.}
 
-#В'орой диалог
+#Г‚'Г®Г°Г®Г© Г¤ГЁГ Г«Г®ГЈ
 
 {150}{}{I'm glad to see you.}
 {151}{}{I recall you were impossible to pull out from the vault. Even by force.}
@@ -60,15 +60,15 @@
 {161}{}{Thank you for coming to talk to me!}
 {162}{}{Bye.}
 
-#Тре'ий диалог
-{200}{}{[You see Jesse. She has a knife in her chest and won't last long. As you get closer, you realize that she thrusted that knife into her chest herself.]}
+#Г’Г°ГҐ'ГЁГ© Г¤ГЁГ Г«Г®ГЈ
+{200}{}{[You see Jesse. She has a knife in her chest and won't last long. As you get closer, you realize that she had thrust the knife into her chest herself.]}
 {201}{}{Don't move! Keep your strength!}
 {202}{}{[Pushes you away] No! Now I know the truth... I'm just a... A doll, pretending to be human... Why?! I don't want to... Live... Like that... [wheezes one final time and goes limp]}
 {203}{}{[Leave]}
 
-#Вариан' реплик при игре женщиной (персонаж - мужчина)
+#Г‚Г Г°ГЁГ Г­' Г°ГҐГЇГ«ГЁГЄ ГЇГ°ГЁ ГЁГЈГ°ГҐ Г¦ГҐГ­Г№ГЁГ­Г®Г© (ГЇГҐГ°Г±Г®Г­Г Г¦ - Г¬ГіГ¦Г·ГЁГ­Г )
 
-#Первый диалог
+#ГЏГҐГ°ГўГ»Г© Г¤ГЁГ Г«Г®ГЈ
 
 {1110}{}{[The shy young man smiles at you] Hello, citizen! It's so good to see you. Not everyone is brave enough to leave the vault, but you, you're... Special...}
 {1117}{}{For you, it is simple. You're so strong and brave. And for people like me...  Oh, never mind, forget it.}
@@ -77,7 +77,7 @@
 {1129}{}{Oh... I'm sorry... Maybe I'm not a very interesting person to talk to. I will leave you alone. Forgive me, please.}
 {1131}{}{Yes, of course. You have a lot of important things to do. But I'm still happy to see you!}
 
-#В'орой диалог
+#Г‚'Г®Г°Г®Г© Г¤ГЁГ Г«Г®ГЈ
 
 {1150}{}{I'm glad to see you.}
 {1152}{}{Yes, thanks to you I'm not afraid to go outside anymore. Thank you so much for this!}
@@ -86,6 +86,6 @@
 {1159}{}{I don't know anything else, unfortunately.}
 {1161}{}{Thank you, for talking to me!}
 
-#Тре'ий диалог
+#Г’Г°ГҐ'ГЁГ© Г¤ГЁГ Г«Г®ГЈ
 {1200}{}{[You see Jeremy. He's bleeding from several bullet wounds. From the position of his injuries you can tell he let himself be shot on purpose.]}
 {1202}{}{[Pushes you away] Leave me... Now I know! I was just a set of... Spare organs... A backup... Heh. Well, they won't... Get anything from me now... [wheezes one final time and goes limp]}
