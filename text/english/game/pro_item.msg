@@ -964,7 +964,7 @@
 {49400}{}{Acid gecko pelt}
 {49401}{}{Torn from the corpse of an acid gecko, this skin is valued for its refractory and plasma-resistant qualities.}
 {49500}{}{Special pass}
-{49501}{}{An electronic access card from many government vault doors.}
+{49501}{}{An electronic access card used for many government vault doors.}
 {49600}{}{Bo's Pole}
 {49601}{}{Very strong and balanced pole with rounded ends, on which soft cushions are fastened. Training version from the company "Hattori Souvenirs". Min. ST: 3.}
 {49700}{}{kubotan}
