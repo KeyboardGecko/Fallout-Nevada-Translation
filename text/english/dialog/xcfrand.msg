@@ -5,8 +5,8 @@
 {103}{}{I'll be here if you need me.}
 {104}{}{Wait for me.}
 {105}{}{Oh, shit! You? What the hell?! What have you gotten me into?}
-{106}{}{Calm down. We don't time to sort things out. Let's get back to the train.}
-{107}{}{We'll deal with this later. For now just be here.}
+{106}{}{Calm down. We don't have time to sort things out. Let's get back to the train.}
+{107}{}{We'll deal with this later. For now just stay here.}
 
 {108}{}{If I ever do this again!...}
 
@@ -17,7 +17,7 @@
 {114}{}{Where is my partner?...}
 {115}{}{Hey! Anybody, save me!!}
 {116}{}{Am I here all alone?}
-{117}{}{Am I really going to be left in here?}
+{117}{}{Am I really going to be left here?}
 
-#Женские реплики
+#Г†ГҐГ­Г±ГЄГЁГҐ Г°ГҐГЇГ«ГЁГЄГЁ
 {1105}{}{Oh, shit! You? What the hell?! What have you gotten me into?}
