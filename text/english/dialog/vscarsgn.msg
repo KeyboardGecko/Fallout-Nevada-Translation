@@ -1,13 +1,13 @@
 {100}{}{You see a whiteboard.}
 {101}{}{It's just a board with old ads and price tags. You could add your own notes.}
-{102}{}{You are going to read during the fight?! Not very smart, you know...}
+{102}{}{You are going to read during a fight?! Not very smart, you know...}
 
 #Dialogue branches
-{103}{}{Where would you like to park you truck to next time?}
+{103}{}{Where would you like to park your truck next time?}
 {104}{}{Park the car in the garage.}
 {105}{}{Park the car next to the caravaneers.}
 {106}{}{Park the car at the Clean City entrance.}
-{107}{}{Leave as it is.}
+{107}{}{Leave it as is.}
 
 #Random remark after the change of the parking location
 {108}{}{Finished.}
@@ -20,7 +20,7 @@
 {115}{}{No question.}
 {116}{}{Will do.}
 {117}{}{Sure thing, boss.}
-{118}{}{You know better, boss.}
+{118}{}{You know best, boss.}
 {119}{}{So be it.}
 
 #After the change of the parking spot
@@ -31,7 +31,7 @@
 #Information about the location of the car
 {130}{}{Remember where I left the car.}
 {131}{}{.}
-{132}{}{Okay, now back to the question about parking.}
+{132}{}{Okay, now back to the question of parking.}
 {133}{}{Now I remember! It's time to go get the car.}
 
 {1130}{}{Remember where I left the car.}
