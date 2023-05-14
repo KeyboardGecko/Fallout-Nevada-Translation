@@ -1,12 +1,12 @@
 {100}{}{You see Super 8.}
-{101}{}{You see a monster with a frightening look. On his forehead is a scorched inscription "Super 8", and in his eyes you see the hatred for all mankind.}
-{102}{}{Deathclaw is embedded in your mind and you succumb to the intimidation.}
-{103}{}{ succumbs to the intimidation by the gaze.}
+{101}{}{You see a monster with a frightening look. On his forehead is a scorched inscription "Super 8", and in his eyes you see hatred for all mankind.}
+{102}{}{The Deathclaw's eyes bore into your mind and you succumb to its intimidation.}
+{103}{}{ succumbs to intimidation from the giant Deathclaw's gaze.}
 
 {110}{}{[Out of the darkness a terrible monster silently emerges; his black eyes pierce you, you immediately catch yourself thinking you're susceptible to hypnosis] F-freeze, hu-man! I t-took me so long to hunt you down to rip out your b-black heart!}
 {111}{}{Oh no, a talking animal! Be gone! Die!}
 {112}{}{Wait, what are you talking about? Why do you have to hunt down and kill me?}
-{113}{}{R-revenge! Revenge for my br-rothers and-sisters! They fell from your hand! You will die next!}
+{113}{}{R-revenge! Revenge for my br-rothers and-sisters! They fell by your hand! You will die next!}
 {114}{}{You mean those creatures in the vault? But they attacked me and other people!}
 
 {115}{}{Grrr! I can't feel the evil in you, but you will still die! I can't for-rgive!}
