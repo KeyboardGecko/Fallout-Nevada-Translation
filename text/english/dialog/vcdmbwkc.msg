@@ -31,7 +31,7 @@
 {130}{}{As you wish. After all, you suggested it yourself.}
 {131}{}{Bye.}
 
-{132}{}{[You bring the required quantity of Nuka-Cola from the warehouse to the cafe.] }
+{132}{}{[You bring the required quantity of Nuka-Cola from the warehouse to the quartermaster.] }
 
 {133}{}{Have you thought about my offer? It still stands.}
 {134}{}{Remind me, what did you want in exchange?}
