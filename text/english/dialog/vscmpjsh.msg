@@ -13,8 +13,8 @@
 {130}{}{The citizen regulations are long and boring, but Joshua has highlighted some points he deemed important: 1. Citizens must avoid direct physical contact. 2. Citizens are forbidden from leaving the City without authorization. 3. Discussion of the leadership's activities is only permitted during Council meetings. 4. Communication between subdivisions is only permitted through memorandum, unless in extreme circumstances. }
 {131}{}{You study the reports from patrols around Vault City. This will help you in your journey.}
 {132}{}{Outdoorsman skill is increased by 3%.}
-{133}{}{The report concerns an abandoned nuclear power plant north of Vault City. There is not much information, because the high radiation background of the station does not allow a detailed study. You copy the plant's coordinates to your Pip-Boy.}
-{134}{}{The report concerns an abandoned nuclear power plant north of Vault City. There is not much information, because the high radiation background of the station does not allow a detailed study.}
+{133}{}{The report concerns an abandoned nuclear power plant north of Vault City. There is not much information, because the high background radiation of the station prevents a detailed study. You copy the plant's coordinates to your Pip-Boy.}
+{134}{}{The report concerns an abandoned nuclear power plant north of Vault City. There is not much information, because the high background radiation of the station prevents a detailed study.}
 
 {135}{}{A memo from Joshua: "Requesting that five (5) servants be assigned to technical maintenance department for field work in conditions unsafe for citizens due to radiation."}
 {136}{}{Read security department's response.}
