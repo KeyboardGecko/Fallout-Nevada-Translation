@@ -9,7 +9,7 @@
 {500}{}{Club}
 {501}{}{Non-lethal melee weapon made out of steel and rubber, was commonly used by law enforcement units. Min. ST: 3.}
 {600}{}{Sledgehammer}
-{601}{}{A large hammer with big handle. Very popular with the muscular crowd. Min. ST: 6.}
+{601}{}{A large hammer with a big handle. Very popular with the muscular crowd. Min. ST: 6.}
 {700}{}{Spear}
 {701}{}{A hand-made razor-tipped polearm. The shaft is wooden, and the tip is worked steel. Min. ST: 4.}
 {800}{}{10mm Pistol}
