@@ -68,7 +68,7 @@
 
 #Empathetic Amplifier
 {180}{}{You mentioned making repairs for commission. Do you sell any tech as well?}
-{181}{}{Well, that's not very often. I usually just repair everything that is brought in, but some stuff gets left behind. Although... Looking at that Pip-Boy, I think I've got something for you.}
+{181}{}{Well, that's not very often. I usually just repair everything that's brought to me, but some stuff gets left behind. Although... Looking at that Pip-Boy, I think I've got something for you.}
 {182}{}{What is this something?}
 
 {183}{}{An Empathetic Amplifier! Technically, it can analyze the emotions of surrounding people, and relay them through an ocular sensor on your right eye. That is assuming it's installed correctly.}
