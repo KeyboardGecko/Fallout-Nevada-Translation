@@ -98,7 +98,7 @@
 {250}{}{Obviously, you're not the kind of person who spends a lot of time with drunks. People like Merck don't need a reason - they just find one. It doesn't matter what I do.}
 {251}{}{A typical guy with big balls. And he wants everyone to know it. He thinks he's a master and a big man. When in fact he can't even fix the closet door.}
 {252}{}{No, only when he's drunk. And that happens almost every day. When he's sober, it's even pleasant to talk to him. He can make jokes and say some kind words...}
-{253}{}{Who in this town will help a person in need? The Sheriff does not want to get involved into a family's affairs, and neighbors don't want to make enemies. Besides, what can they do? Come with a gun and shoot him in the head? That's extreme. And dangerous.}
+{253}{}{Who in this town will help a person in need? The Sheriff doesn't want to get involved in family affairs, and the neighbors don't want to make enemies. Besides, what can they do? Take a gun and shoot him in the head? That's extreme. And dangerous.}
 {254}{}{I'll help you then!}
 
 {255}{}{Why? Why do you want to get involved?}
@@ -111,7 +111,7 @@
 {262}{}{Hmm, you know... Okay.}
 {263}{}{Do you have any idea what to do?}
 {264}{}{Maybe, but I don't want to help you anymore. Bye.}
-{265}{}{How noble of you. I hope you have enough heart for it.}
+{265}{}{How noble of you. I hope you have the heart for it.}
 {266}{}{Don't worry! Do you have any idea what to do?}
 {267}{}{An idea? I was hoping you'd come up with one yourself. All right... I have a bottle of poisoned moonshine. But I can't do it. Besides, he might see through it, because I've never given him such a drink.}
 {268}{}{Give me that.}
