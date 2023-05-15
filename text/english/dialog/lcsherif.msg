@@ -156,10 +156,10 @@
 
 # About Merck and family problems
 {262}{}{I had suspicions about this for a long time, but I never found any direct evidence. His wife says nothing. Perhaps she is afraid. Still, I can't interfere - it's their private life.}
-{263}{}{Really? What if it'll be too late?}
-{264}{}{What could I do? If his wife had confessed and asked for help herself... Even so, I don't like to punish a person for someone else's words. It's a small city, there's a lot of gossip and family grudges. Better to stay away from it, believe me. I hope life teaches them to appreciate each other.}
+{263}{}{Really? What if it's too late?}
+{264}{}{What could I do? If his wife had confessed and asked for help herself... Even then I don't like to punish a person based on testimony alone. It's a small city, there's a lot of gossip and family grudges. Better to stay away from it, believe me. I hope life teaches them to appreciate each other.}
 {265}{}{Hmm. Well, if you're so sure about this...}
-{266}{}{What?! Damn it! I suspected that it would end badly. But if I had intervened, the problem wouldn't got resolved. You can't simply change people like Merck. Now we bust his ass. Hey guys! Get ready! You wait here until we get back.}
+{266}{}{What?! Damn it! I suspected it would end badly. But if I had intervened, the problem wouldn't have been resolved. You can't simply change people like Merck. Now...we bust his ass. Hey guys! Get ready! You wait here until we get back.}
 {267}{}{[Wait]}
 
 {268}{}{I got the bastard! He was so hysterical that he didn't even bother to resist and asked for the gallows himself. I suppose, when he sleeps it off, he'll talk differently. What do you think, what should we do with him?}
@@ -167,17 +167,17 @@
 {270}{}{Hang him, but not in public. Let this shameful case remain a secret. Nothing could be done about Merck, unfortunately.}
 {271}{}{He no longer has roots in the city, maybe it's better to exile him?}
 {272}{}{Sentence him to community service under a strict security regime. He needs discipline.}
-{273}{}{I do not know, it's up to you.}
+{273}{}{I don't know, it's up to you.}
 {274}{}{You're right. I'll think about the punishment.}
 {275}{}{Oh! Thank you for the money!}
-{276}{}{Yes, you're right. He lacks discipline. It is a pity that it has come down to this, because he was a promising man. His wounded pride is his doing.}
-{277}{}{Well, thank you for reporting it to me. Here's 200 bucks. I hope you will continue to abide order in Salt Lake. All the best.}
-{278}{}{Banish him? I already went through this once with the bastards who are now settled in the Provo area. Now they won't ever step a foot in here. I hope Merck will also understand this lesson. }
+{276}{}{Yes, you're right. He lacks discipline. It is a pity that it has come down to this, because he was a promising man. His wounded pride is his own doing.}
+{277}{}{Well, thank you for reporting it to me. Here's 200 bucks. I hope you will continue to promote order in Salt Lake. All the best.}
+{278}{}{Banish him? I already went through this once with the bastards in the Provo area. Now they won't ever step foot in here. I hope Merck will also understand this lesson. }
 {279}{}{I agree. This is his personal problem, let it go with him to the grave.}
 {280}{}{We have not had a public execution in a long time... Well, it may be worth it to shake up the public a little and to remind everyone how it all began...}
 
 {281}{}{Uh... Sheriff, I already took care of it. Merck is dead.}
-{282}{}{Oh, that's how it is! Maybe you also want the sheriff's badge?! Turn around and leave my offices. We don't need the likes of you in our city.}
+{282}{}{Oh, so that's how it is! Maybe you also want the sheriff's badge?! Turn around and leave my office. We don't need the likes of you in our city.}
 {283}{}{Uh...}
 
 # Answers about the city
@@ -194,8 +194,8 @@
 {355}{}{We all noticed the health matters in the city are getting better. We have way fewer diseases and there are no long lines to the toilets anymore. This makes me happy.}
 {356}{}{The health care situation in the city has become very bad. It's a real plague. I advise you to beware of direct contact with people and drink cola instead of water.}
 {357}{}{All in all, the city is booming. I've never seen such an influx of newcomers before. Apparently, word is already spreading in the wasteland that the city is on its feet - it's a place to make money and have a good time. I hope it stays that way.}
-{358}{}{The whole city has gone mad. I'm barely managing to hold the situation together. People can turn feral any moment and will tear up you, me or anyone else in their path. We must do something... I don't know what. I hope we figure something out...}
-{359}{}{The city lives its ordinary life. The population does not complain, everyone knows their place and somehow they get along.}
+{358}{}{The whole city has gone mad. I'm barely managing to hold the situation together. People can turn feral any moment and will tear up you, me or anyone else in their path. We must do something... but I don't know what. I hope we figure something out...}
+{359}{}{Just another ordinary day in the city. The population isn't complaining, everyone knows their place and somehow they all get along.}
 {360}{}{With the situation in Provo resolved, the city is calm again. Thanks to you, the citizens are no longer afraid to go out at night.}
 
 
@@ -204,7 +204,7 @@
 {371}{}{Well, let's look at them...}
 {372}{}{[Next]}
 {373}{}{What- are you trying to mock me?}
-{374}{}{Oh, come on! What's the big deal, head rolled on the floor...}
+{374}{}{Oh, come on! What's the big deal, that head rolled on the floor...}
 {375}{}{Another problem of the city solved. Thank you on behalf of all citizens. Here's your reward, }
 {376}{}{ dollars.}
 {377}{}{To think how much money one can get for an ordinary head...}
