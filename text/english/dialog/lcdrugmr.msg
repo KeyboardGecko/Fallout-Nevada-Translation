@@ -49,11 +49,11 @@
 
 #About radiation in the city
 {154}{}{How can you live in such a humid and smelly climate? Perhaps visitors have respiratory problems?}
-{155}{}{That's right. One does need to get used to to local conditions. But the body adapts over time. Most importantly, do not stick your nose where it doesn't belong.}
+{155}{}{That's right. One does need to get used to the local conditions, but the body adapts over time. More importantly, don't stick your nose where it doesn't belong.}
 {156}{}{And where doesn't it belong?}
 {157}{}{In the North there is a large radioactive area, a real cemetery. That was the part of the Salt Lake City metropolitan district on which nuclear bombs were dropped during the war. Rains periodically wash out the radioactive dirt into the Great Salt Lake. Fortunately, we are lucky with the climate.}
 {158}{}{How so?}
-{159}{}{Our landscape prevents most of the dangers. There are no harsh winds like in the deserts, and no fumes from heat. In addition, in local conditions, one plant has mutated. The water lily. It grows on the banks of the Great Salt Lake. In other cities it is just a plant, but this one gives you a special kind of nutritious nut.}
+{159}{}{Our landscape protects us from most of the dangers. There are no harsh winds like in the deserts, and no fumes from heat. In addition, one plant has mutated under local conditions. The water lily. It grows on the banks of the Great Salt Lake. In other cities it is just a plant, but this one gives you a special kind of nutritious nut.}
 {160}{}{Oh, that's why on the way here I saw people constantly chewing something...}
 {161}{}{These are Vocas nuts. They are very dense, you have to chew them hard, otherwise the effect will be small.}
 {162}{}{What is the effect, exactly?}
@@ -78,11 +78,11 @@
 {179}{}{Together with the pharmacist you have developed a drug for the prevention of radiation sickness. This will be very useful for the entire city.}
 
 #About the current sanitary conditions
-{180}{}{About the sanitary conditions in the city, can you tell me what they are now?}
+{180}{}{What are the sanitary conditions in the city, now?}
 {181}{}{Now it's calm. The pestilence seems to be over, but it is too early to draw final conclusions. People are less likely to get sick and suffer from intestinal infections. I hope it will continue like this.}
 {182}{}{Terrible. The pestilence is all over the city. People die from intestinal diseases and there is nothing to do to help them. My supplies are meager and not everyone can afford to buy them. I don't know for how long it's going to last.}
 {183}{}{Everything is just as it used to be. There are still pockets of intestinal diseases in the city, but so far there have been very few deaths.}
-{184}{}{What can I say... Every city in the Wasteland has problems with healthcare. But the people manage to deal with them somehow, so most of them survive. What's happening In Salt Lake is complicated: on the one hand, the nature has given us a lot of water and a wonderful Vocas plant, on the other - we are afraid to even approach the Great Salt Lake because of the danger of intoxication and irradiation. In addition, the Nuka-Cola factory obviously adds to the problem. A complicated case.}
+{184}{}{What can I say... Every city in the Wasteland has problems with healthcare. But the people manage to deal with them somehow, so most of them survive. What's happening In Salt Lake is complicated: on the one hand, nature has given us a lot of water and the wonderful Vocas plant, on the other - we are afraid to even approach the Great Salt Lake because of the danger of toxic fumes and radiation. The Nuka-Cola factory obviously adds to the problem. Its a complicated situation.}
 
 #Selling Niskigwan's backpack 
 {185}{}{I have a set of different medicaster's accessories. Interested?}
@@ -187,7 +187,7 @@
 
 #PLC
 {290}{}{I'm doing some work for the Nuka-Cola factory. And I was told not to discuss it with you. Why?}
-{291}{}{[Smiles sadly] I and various activists have had conflicts with the management of the factory. For example, because of the fact that the liquid waste from the plant makes the already ruined nature in the city even more ruinous. This problem affects everyone in Salt Lake..}
+{291}{}{[Smiles sadly] I and various activists have had conflicts with the factory management. For example, the liquid waste from the plant is polluting an already contaminated water supply. This problem affects everyone in Salt Lake.}
 {292}{}{So that's what happening...}
 {293}{}{So, what kind of work you do for the factory?}
 {294}{}{I got a contract to restore the controller that allows the Nuka Cola plant to use automated equipment.}
