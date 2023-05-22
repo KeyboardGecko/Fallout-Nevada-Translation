@@ -630,7 +630,7 @@
 {32000}{}{Sharpened Pole}
 {32001}{}{A wood pole sharpened at one end. Min. ST: 4.}
 {32100}{}{Torn head}
-{32101}{}{The human head in a sack. Previously belonged to a resident of Provo, now it is yours by right.}
+{32101}{}{A human head in a sack. Previously belonged to a resident of Provo, now it's yours by right.}
 {32200}{}{Mysterious device}
 {32201}{}{High-tech device of unknown purpose.}
 {32300}{}{Signal jammer}
