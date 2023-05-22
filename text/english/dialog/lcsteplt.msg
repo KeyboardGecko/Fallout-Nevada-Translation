@@ -47,14 +47,14 @@
 {160}{}{How's dog meat?}
 {161}{}{Well... Better than tough gecko meat or stinky molerats.}
 {162}{}{And their owners don't mind?}
-{163}{}{They don't have owners. It's a stray meat.}
+{163}{}{They don't have owners. It's stray meat.}
 {164}{}{You sure?}
-{165}{}{A dog wouldn't run away from a good master. Also, they don't have dog-tags and collars. In Salt Lake, every domestic dog gets one, to prevent accidents. Once upon a time, there was a big trouble with homeless dogs in the city.}
+{165}{}{A dog wouldn't run away from a good master. Also, they don't have dog-tags and collars. In Salt Lake, every domestic dog gets one, to prevent accidents. Once upon a time, there was a big problem with homeless dogs in the city.}
 {166}{}{How did it get resolved?}
 {167}{}{The sheriff arranged a raid on them. A large crowd gathered, and there was no problem with the supply of ammunition and traps. The dogs were then used as food. Everyone made a profit and also cleaned up the town.}
 {168}{}{...So, you're keeping the habit?}
 {169}{}{Alright, let's not continue on this.}
-{170}{}{Sheriff knows. He's glad I do. He even leaves me some ammo for shooting.}
+{170}{}{The Sheriff knows. He's glad I do. He even leaves me some ammo for shooting.}
 {171}{}{Well, if Sheriff himself encourages dog-eating, then the situation in city is really crappy. Bye.}
 {172}{}{Okay, I believe.}
 
