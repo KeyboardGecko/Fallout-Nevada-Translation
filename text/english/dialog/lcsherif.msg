@@ -63,21 +63,21 @@
 
 {154}{}{There is actually something I'm not capable of doing myself.}
 {155}{}{Interesting. Tell me.}
-{156}{}{First a bit of history, so you'd know what hole you're about to stick your nose in. Once there was a civil war in Salt Lake, and the criminal underworld thrived in it. It was a difficult time for the city. I decided not to stand it any longer and deal with the bastards.}
+{156}{}{First a bit of history, so you know what hole you're about to stick your nose into. Once there was a civil war in Salt Lake, and the criminal underworld thrived in it. It was a difficult time for the city. I decided not to tolerate it any longer, and deal with the bastards.}
 {157}{}{And?}
-{158}{}{I knew the approximate number of the perps. So, I took a squad of loyal boys with me and we raided all their hot spots. The captives cracked out and gave away their accomplices. As it turned out, sometimes it is useful to cross the line.}
+{158}{}{I knew the approximate number of perps, so I took a squad of loyal boys with me and we raided all their hot spots. The captives cracked and gave away their accomplices. It turns out sometimes it's useful to cross the line.}
 {159}{}{And?}
-{160}{}{We caught every member of the gang and put them on public display in the square. The city learned the lesson well. Most scumbags hung on the gallows for three days. Those who were involved, but did not deserve to die, were exiled from the city. We haven't heard from them in a long time... Until recently.}
+{160}{}{We caught every member of the gang and put them on public display in the square. The city learned their lesson well. Most scumbags hung on the gallows for three days. Those who were involved, but did not deserve to die, were exiled from the city. We haven't heard from them in a long time... Until recently.}
 {161}{}{So what did they do now?}
 {162}{}{We managed to nearly forget that they exist, not counting some occasional deaths on the road southwards. But in the last couple of years we've been hearing more and more about the Provo area - especially the attacks on caravans and travelers. Sometimes these attacks don't make any sense. I think they're trying to get back at us.}
 {163}{}{But they don't come to the city?}
 {164}{}{They are still too afraid, I think. But apparently they got bored with farming. The gang occasionally does small raids and robberies on the outskirts of the city. But there is a guy who holds the gang together.}
 {165}{}{Who?}
-{166}{}{Gary Gilmore. The "records" of this offender are so diverse it makes you wonder. For me it is obvious that he is clearly not right in the head. He deserves to die like no other, but - and this is important to me - our city folks must witness his death.}
-{167}{}{And what stops you?}
-{168}{}{A dozen thugs in the unfamiliar ruins of Provo, where there are traps everywhere. We would lose a lot of men trying to assault them in there. It is much easier to slip in alone. But I need my men here, so I've been looking for a mercenary brave and experienced enough to bring Gilmore back, if not alive, at least to deliver his head.}
-{169}{}{A serious job. Is there a serious payment involved?}
-{170}{}{For our city, a bounty of $3000 per head is pretty serious. For the living criminal I'll pay twice as much. I advise you to take your time and think carefully about it. Evaluate the situation first, then make a decision.}
+{166}{}{Gary Gilmore. His offense "records" are so diverse it makes you wonder. For me it's obvious he's not right in the head. He deserves to die like no other, but - and this is important to me - our city folks must witness his death.}
+{167}{}{And what's stopping you?}
+{168}{}{A dozen thugs in the unfamiliar ruins of Provo, where there are traps everywhere. We would lose a lot of men trying to assault them in there. It would be much easier to slip in alone, but I need my men here. So I've been looking for a mercenary brave and experienced enough to bring Gilmore back and, if not alive, to at least deliver his head.}
+{169}{}{That's a serious job. Is there serious payment involved?}
+{170}{}{For our city, a bounty of $3000 per head is pretty serious. For a living criminal I'll pay twice as much. I advise you to take your time and think about it carefully. Evaluate the situation first, then make a decision.}
 {171}{}{Okay, I will do this job.}
 {172}{}{I have to think about the offer.}
 {173}{}{Enough of this. I'm not actually a mercenary... [leave]}
