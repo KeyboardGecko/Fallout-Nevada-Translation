@@ -102,7 +102,7 @@
 {193}{}{Glad to help, Sheriff.}
 
 {197}{}{Sheriff, now that we've dealt with that maniac, do you have any more assignments for me?}
-{198}{}{So you think you are tough? Or you just like to take someone else's life for hard cash? Anyway, it's not my business. I am willing to pay a bounty for every head of the rest of the Provo gang. Do not even think to deceive me - we keep a dossier on each of them, with photos and detailed descriptions.}
+{198}{}{So you think you're tough? Or do you just like to take another's life for hard cash? Anyway, it's not my business. I am willing to pay a bounty for every head of the rest of the Provo gang. Don't even think about deceiving me - we keep a dossier on each of them, with photos and detailed descriptions.}
 {199}{}{Okay. I'll think about your offer. See you later.}
 
 #About the dog
