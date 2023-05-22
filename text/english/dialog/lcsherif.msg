@@ -205,9 +205,9 @@
 {372}{}{[Next]}
 {373}{}{What- are you trying to mock me?}
 {374}{}{Oh, come on! What's the big deal, that head rolled on the floor...}
-{375}{}{Another problem of the city solved. Thank you on behalf of all citizens. Here's your reward, }
+{375}{}{Another of the cities problems solved. Thank you on behalf of the citizenry. Here's your reward, }
 {376}{}{ dollars.}
-{377}{}{To think how much money one can get for an ordinary head...}
+{377}{}{Its a wonder how much money an ordinary head goes for these days...}
 
 #Reaction to the sheriff of Uranium City
 {380}{}{[Seeing your sheriff's badge, he skeptically raises eyebrow] Where did you get that?}
