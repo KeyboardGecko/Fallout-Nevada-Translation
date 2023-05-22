@@ -187,19 +187,19 @@
 
 #PLC
 {290}{}{I'm doing some work for the Nuka-Cola factory. And I was told not to discuss it with you. Why?}
-{291}{}{[Smiles sadly] I and various activists have had conflicts with the factory management. For example, the liquid waste from the plant is polluting an already contaminated water supply. This problem affects everyone in Salt Lake.}
-{292}{}{So that's what happening...}
-{293}{}{So, what kind of work you do for the factory?}
+{291}{}{[Smiles sadly] I, and various activists, have had conflicts with the factory management. For example, the liquid waste from the plant is polluting an already contaminated water supply. This problem affects everyone in Salt Lake.}
+{292}{}{So that's what's happening...}
+{293}{}{So, what kind of work do you do for the factory?}
 {294}{}{I got a contract to restore the controller that allows the Nuka Cola plant to use automated equipment.}
 {295}{}{I can't say. Goodbye.}
 {296}{}{Oh my God! I hope you're not going to carry out that contract?}
 {297}{}{Why?}
 {298}{}{If the factory restores its automation it will be bad for everyone, except a handful of the lead managers at the company! Right now there is a lot being done manually, but if the conveyors start working without human assistance, many of the workers will be kicked out on the street. On top of that, it would greatly increase the factory's production rate, which will cause it to pollute the city with its waste even more.}
 {299}{}{Hmm. What strange irony - losing the factory would be bad for the city, but keeping it wouldn't be good either. So, what are you proposing?}
-{300}{}{Give me that controller, and I'll destroy it. In return I'll pay 350 bucks, I can't offer more. But you'll be doing a good deed! And as for the factory, it won't make the situation WORSE for them.}
+{300}{}{Give me that controller, and I'll destroy it. In return I'll pay 350 bucks, I can't offer more. But you'll be doing a good deed! And as for the factory, it won't make the situation any WORSE for them.}
 {301}{}{Okay then, take this device. Even if it's less money, I will save on the associated costs and would feel better doing good.}
 {302}{}{Give me time to think about it.}
-{303}{}{Few will sacrifice potential earnings for the well-being of not their city. Thanks.}
+{303}{}{Few would sacrifice a paycheck for the well-being of their city. Thanks.}
 {304}{}{You're welcome.}
 
 #Women's replies:
