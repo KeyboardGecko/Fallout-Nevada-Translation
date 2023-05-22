@@ -62,8 +62,8 @@
 {3101}{}{A brick of ammunition, .44 magnum caliber, hollow-points.}
 {3200}{}{Flamethrower Fuel}
 {3201}{}{A cylinder containing an extremely flammable liquid fuel for flamethrowers.}
-{3300}{}{12 gauge Magnum}
-{3301}{}{Type of pre-war production ammunition for shotgun. Equipped with more powerful powder and increased amount of shot than classic cartridges of the same caliber.}
+{3300}{}{12 Gauge Magnum}
+{3301}{}{A type of pre-war production ammunition for the shotgun. Equipped with more powerful powder and an increased shot capacity compared to the classic cartridges of the same caliber.}
 {3400}{}{.223 FMJ}
 {3401}{}{A case of ammunition, .223 caliber, Full Metal Jacket.}
 {3500}{}{5mm JHP}
