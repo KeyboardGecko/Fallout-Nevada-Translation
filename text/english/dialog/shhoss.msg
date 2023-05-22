@@ -1,4 +1,4 @@
-﻿{100}{}{You see The Boss.}
+{100}{}{You see The Boss.}
 {101}{}{Before you stands the local boss, who's known simply as... The Boss.}
 {102}{}{Alarm! We got an intruder!}
 
@@ -8,8 +8,8 @@
 {110}{}{Stop right there and keep your hands in sight. Why the heck have you stormed in here?}
 {111}{}{Got any job for a stranger?}
 {112}{}{Heard the news? Factory ain't recovering from the troubles any time soon.}
-{113}{}{I'm executing Salt Lake Sheriff's will and hereby demand that you give up the criminal Gary Gilmore to justice right now!}
-{114}{}{Heard the news? Salt Lake Sheriff's dead!}
+{113}{}{I'm here on behalf of the Salt Lake Sheriff, and hereby demand that you give up the criminal known as Gary Gilmore to justice right now!}
+{114}{}{Heard the news? The Salt Lake Sheriff's dead!}
 {115}{}{Thought it'd be some kind of a motel. Apparently it's not.}
 
 #nuka plant sabotage
@@ -41,12 +41,12 @@
 {136}{}{[Squints at you] Not sure if I heard this name before...}
 {137}{}{So is he here or not?}
 {138}{}{Huh. Why the fuck should I give him away anyway?}
-{139}{}{So you admit it. Let's settle this matter the good way.}
+{139}{}{So you admit it. Let's settle this matter peacefully.}
 {140}{}{And what ya gonna do?! There's no mommy-sheriff here to stand up for ya, sucker...}
 {141}{}{I'll slaughter all of you and bring your heads as a gift to the sheriff!}
 {142}{}{Nevermind. I'll find him myself.}
 
-{143}{}{Just like I thought, the sheriff doesn't have the balls to visit us in person. Send him my words, he's just a sissy with a mustache!}
+{143}{}{Just like I thought, the sheriff doesn't have the balls to visit us in person. Tell him I said he's just a sissy with a mustache!}
 {144}{}{Hmm... If you dislike the sheriff so much, I could consider a counteroffer for an adequate sum.}
 {145}{}{How dare you slander the name of this saint! [attack]}
 {146}{}{I'll send him your message, and soon we'll be back with bloodthirsty friends and heavy fireworks.}
