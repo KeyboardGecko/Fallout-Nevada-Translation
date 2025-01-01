@@ -8,7 +8,7 @@ To use the latest version:
  - install Fallout Nevada extended edition using the link above
  - go to the mod folder inside fallout 2 folder (should be something like "c:\games\fallout 2\Nevada Mod (extended)\)
  - create a folder named "patch002.dat" (c:\games\fallout 2\Nevada Mod (extended)\patch002.dat\)
- - downoad everything from this repo into that created folder. 
+ - download everything from this repo into that created folder. 
  - launch and play.
 
 Any contribution is encouraged.
